@@ -1,19 +1,25 @@
 import { Redirect, Route } from 'react-router-dom';
 import {
   IonApp,
+  IonHeader,
   IonIcon,
+  IonImg,
   IonLabel,
   IonRouterOutlet,
   IonTabBar,
   IonTabButton,
   IonTabs,
+  IonTitle,
+  IonToolbar,
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { ellipse, square, triangle } from 'ionicons/icons';
+import { bookSharp, ellipse, heart, homeSharp, manSharp, peopleCircleSharp, peopleSharp, restaurantSharp, schoolSharp, search, searchCircleOutline, searchSharp, square, star, triangle } from 'ionicons/icons';
 import Tab1 from './pages/Tab1';
 import Tab2 from './pages/Tab2';
 import Tab3 from './pages/Tab3';
+import Tab4 from './pages/Tab4';
+import Tab5 from './pages/Tab5';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -45,10 +51,19 @@ import '@ionic/react/css/palettes/dark.system.css';
 /* Theme variables */
 import './theme/variables.css';
 
+function handleClickCuisineDeBase() {
+  alert("Click detected on Cuisine de base !");
+}
+
 setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
+    <IonHeader>
+      <IonToolbar>
+        <IonImg onClick={handleClickCuisineDeBase} src='resources/icon.png' alt='Cuisine de base'></IonImg>
+      </IonToolbar>
+    </IonHeader>
     <IonReactRouter>
       <IonTabs>
         <IonRouterOutlet>
@@ -58,25 +73,42 @@ const App: React.FC = () => (
           <Route exact path="/tab2">
             <Tab2 />
           </Route>
-          <Route path="/tab3">
+          <Route exact path="/tab3">
             <Tab3 />
           </Route>
+          <Route exact path="/tab4">
+            <Tab4 />
+          </Route>
+          <Route exact path="/tab5">
+            <Tab5 />
+          </Route>
           <Route exact path="/">
-            <Redirect to="/tab1" />
+            <Redirect to="/tab5" />
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
+        {
+          // changer bouton en bas et ajouter route
+        }
           <IonTabButton tab="tab1" href="/tab1">
-            <IonIcon aria-hidden="true" icon={triangle} />
-            <IonLabel>Tab 1</IonLabel>
+            <IonIcon aria-hidden="true" icon={homeSharp} />
+            <IonLabel>Accueil débutant</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab2" href="/tab2">
-            <IonIcon aria-hidden="true" icon={ellipse} />
-            <IonLabel>Tab 2</IonLabel>
+            <IonIcon aria-hidden="true" icon={bookSharp} />
+            <IonLabel>Ebook</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab3" href="/tab3">
-            <IonIcon aria-hidden="true" icon={square} />
-            <IonLabel>Tab 3</IonLabel>
+            <IonIcon aria-hidden="true" icon={searchSharp} />
+            <IonLabel>Explorer</IonLabel>
+          </IonTabButton>
+          <IonTabButton tab="tab4" href="/tab4">
+            <IonIcon aria-hidden="true" icon={schoolSharp} />
+            <IonLabel>Coaching CAP</IonLabel>
+          </IonTabButton>
+          <IonTabButton tab="tab5" href="/tab5">
+            <IonIcon aria-hidden="true" icon={restaurantSharp} />
+            <IonLabel>Kit candidat libre</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>
