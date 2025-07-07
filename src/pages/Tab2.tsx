@@ -1,6 +1,10 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import ExploreContainer from '../components/ExploreContainer';
+import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import './Tab.css';
 import './Tab2.css';
+
+{
+  // Page du ebook, appelé tab2 pour plus de simplicité à écrire le code.
+}
 
 const Tab2: React.FC = () => {
   return (
@@ -8,10 +12,10 @@ const Tab2: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 2</IonTitle>
+            <IonTitle size="large">Ebook</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 2 page" />
+        <IonText class='texte'>Ebook</IonText>
       </IonContent>
     </IonPage>
   );

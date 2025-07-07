@@ -1,6 +1,10 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import ExploreContainer from '../components/ExploreContainer';
+import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import './Tab.css';
 import './Tab4.css';
+
+{
+  // Page pour le coaching CAP, appelé tab4 pour plus de simplicité à écrire le code.
+}
 
 const Tab4: React.FC = () => {
   return (
@@ -8,10 +12,10 @@ const Tab4: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 4</IonTitle>
+            <IonTitle size="large">Coaching CAP</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 4 page" />
+        <IonText class='texte'>Coaching CAP</IonText>
       </IonContent>
     </IonPage>
   );

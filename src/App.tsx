@@ -9,6 +9,7 @@ import {
   IonTabBar,
   IonTabButton,
   IonTabs,
+  IonText,
   IonTitle,
   IonToolbar,
   setupIonicReact
@@ -20,6 +21,7 @@ import Tab2 from './pages/Tab2';
 import Tab3 from './pages/Tab3';
 import Tab4 from './pages/Tab4';
 import Tab5 from './pages/Tab5';
+import './style.css';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -61,7 +63,10 @@ const App: React.FC = () => (
   <IonApp>
     <IonHeader>
       <IonToolbar>
-        <IonImg onClick={handleClickCuisineDeBase} src='resources/icon.png' alt='Cuisine de base'></IonImg>
+      <div className='title' >
+        <IonImg onClick={handleClickCuisineDeBase} class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
+        <IonText onClick={handleClickCuisineDeBase} >Cuisine de base</IonText>
+      </div>
       </IonToolbar>
     </IonHeader>
     <IonReactRouter>

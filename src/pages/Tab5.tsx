@@ -1,6 +1,10 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import ExploreContainer from '../components/ExploreContainer';
+import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import './Tab.css';
 import './Tab5.css';
+
+{
+  // Page pour le kit candidat libre, appelé tab5 pour plus de simplicité à écrire le code.
+}
 
 const Tab5: React.FC = () => {
   return (
@@ -8,10 +12,10 @@ const Tab5: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 5</IonTitle>
+            <IonTitle size="large">Kit candidat libre</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 5 page" />
+        <IonText class='texte'>Kit candidat libre</IonText>
       </IonContent>
     </IonPage>
   );
