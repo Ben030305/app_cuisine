@@ -23,6 +23,3 @@ jobs:
 
       - name: Build project
         run: npm run build
-
-      - name: Start application
-        run: ionic serve
