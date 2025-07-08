@@ -10,11 +10,6 @@ const Tab4: React.FC = () => {
   return (
     <IonPage>
       <IonContent fullscreen>
-        <IonHeader collapse="condense">
-          <IonToolbar>
-            <IonTitle size="large">Coaching CAP</IonTitle>
-          </IonToolbar>
-        </IonHeader>
         <IonText class='texte'>Coaching CAP</IonText>
       </IonContent>
     </IonPage>

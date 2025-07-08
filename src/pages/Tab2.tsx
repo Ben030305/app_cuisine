@@ -10,11 +10,6 @@ const Tab2: React.FC = () => {
   return (
     <IonPage>
       <IonContent fullscreen>
-        <IonHeader collapse="condense">
-          <IonToolbar>
-            <IonTitle size="large">Ebook</IonTitle>
-          </IonToolbar>
-        </IonHeader>
         <IonText class='texte'>Ebook</IonText>
       </IonContent>
     </IonPage>

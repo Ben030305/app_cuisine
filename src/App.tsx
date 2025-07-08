@@ -72,46 +72,49 @@ const App: React.FC = () => (
     <IonReactRouter>
       <IonTabs>
         <IonRouterOutlet>
-          <Route exact path="/tab1">
+          <Route exact path="/debutant">
             <Tab1 />
           </Route>
-          <Route exact path="/tab2">
+          <Route exact path="/ebook">
             <Tab2 />
           </Route>
-          <Route exact path="/tab3">
+          <Route exact path="/explorer">
             <Tab3 />
           </Route>
-          <Route exact path="/tab4">
+          <Route exact path="/coaching">
             <Tab4 />
           </Route>
-          <Route exact path="/tab5">
+          <Route exact path="/kit">
             <Tab5 />
           </Route>
           <Route exact path="/">
-            <Redirect to="/tab5" />
+            <Redirect to="/debutant" />
+            {
+              //TODO : changer la redirection par défaut
+            }
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
         {
           // changer bouton en bas et ajouter route
         }
-          <IonTabButton tab="tab1" href="/tab1">
+          <IonTabButton tab="tab1" href="/debutant">
             <IonIcon aria-hidden="true" icon={homeSharp} />
             <IonLabel>Accueil débutant</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="tab2" href="/tab2">
+          <IonTabButton tab="tab2" href="/ebook">
             <IonIcon aria-hidden="true" icon={bookSharp} />
             <IonLabel>Ebook</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="tab3" href="/tab3">
+          <IonTabButton tab="tab3" href="/explorer">
             <IonIcon aria-hidden="true" icon={searchSharp} />
             <IonLabel>Explorer</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="tab4" href="/tab4">
+          <IonTabButton tab="tab4" href="/coaching">
             <IonIcon aria-hidden="true" icon={schoolSharp} />
             <IonLabel>Coaching CAP</IonLabel>
           </IonTabButton>
-          <IonTabButton tab="tab5" href="/tab5">
+          <IonTabButton tab="tab5" href="/kit">
             <IonIcon aria-hidden="true" icon={restaurantSharp} />
             <IonLabel>Kit candidat libre</IonLabel>
           </IonTabButton>
