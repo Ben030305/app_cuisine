@@ -19,11 +19,11 @@ import {
 import { IonReactRouter } from '@ionic/react-router';
 import { bookSharp, ellipse, heart, homeSharp, manSharp, peopleCircleSharp, peopleSharp, push, restaurantSharp, schoolSharp, search, searchCircleOutline, searchSharp, square, star, triangle } from 'ionicons/icons';
 
-import Tab1 from './pages/Debutant';
-import Tab2 from './pages/Ebook';
-import Tab3 from './pages/Explorer';
-import Tab4 from './pages/Coaching';
-import Tab5 from './pages/Kit';
+import Tab1 from './pages/tabs/Debutant';
+import Tab2 from './pages/tabs/Ebook';
+import Tab3 from './pages/tabs/Explorer';
+import Tab4 from './pages/tabs/Coaching';
+import Tab5 from './pages/tabs/Kit';
 import Accueil from './pages/Accueil';
 import APropos from './pages/APropos';
 import Article from './pages/Article';

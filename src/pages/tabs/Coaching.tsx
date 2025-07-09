@@ -1,5 +1,5 @@
 import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
-import './Page.css';
+import './../Page.css';
 import './Coaching.css';
 
 const Coaching: React.FC = () => {

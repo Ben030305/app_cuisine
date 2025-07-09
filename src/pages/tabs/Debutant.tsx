@@ -1,15 +1,15 @@
 import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
-import './Page.css';
-import './Explorer.css';
+import './../Page.css'
+import './Debutant.css';
 
-const Explorer: React.FC = () => {
+const Debutant: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
-        <IonText class='titre'>Explorer</IonText>
+        <IonText class='titre'>Accueil débutant</IonText>
       </IonContent>
     </IonPage>
   );
-};
+}
 
-export default Explorer;
+export default Debutant;
