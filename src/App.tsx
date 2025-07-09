@@ -1,4 +1,4 @@
-import { Redirect, Route } from 'react-router-dom';
+import { Link, Redirect, Route } from 'react-router-dom';
 import {
   IonApp,
   IonHeader,
@@ -6,6 +6,7 @@ import {
   IonImg,
   IonItem,
   IonLabel,
+  IonRouterLink,
   IonRouterOutlet,
   IonTabBar,
   IonTabButton,
@@ -67,12 +68,12 @@ const App: React.FC = () => (
   <IonApp>
     <IonHeader>
       <IonToolbar>
-      <div className='title'>
-        <IonItem routerLink='/accueil'>
-          <IonImg class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
-          <IonText>Cuisine de base</IonText>
-        </IonItem>
-      </div>
+        <IonRouterLink routerLink='/accueil' color="dark">
+          <div className='title'>
+            <IonImg class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
+            <IonText>Cuisine de base</IonText>
+          </div>
+        </IonRouterLink>
       </IonToolbar>
     </IonHeader>
     <IonReactRouter>
