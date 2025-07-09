@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar,IonItem,IonInput, IonList } from '@ionic/react';
+import { IonContent, IonPage, IonText, IonItem,IonInput, IonList } from '@ionic/react';
 import './Page.css';
 import './Login.css';
 
@@ -7,7 +7,7 @@ const Login: React.FC = () => {
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Login</IonText>
-          <IonList className='list'>
+          <IonList>
             <IonItem>
               <IonInput label="Nom d'utilisateur" labelPlacement="stacked" placeholder="Ecrivez votre nom d'utilisateur"></IonInput>
             </IonItem>

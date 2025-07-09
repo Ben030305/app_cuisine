@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonPage, IonText } from '@ionic/react';
 import './../Page.css';
 import './Explorer.css';
 

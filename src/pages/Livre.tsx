@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonImg, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonImg, IonPage, IonText } from '@ionic/react';
 import './Page.css';
 import './Livre.css';
 
@@ -7,9 +7,9 @@ const Livre: React.FC = () => {
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Titre livre<br></br></IonText>
-        <IonImg className="img" src="/resources/21889.jpg"></IonImg>
+        <IonImg className="img_livre" src="resources/21889.jpg"></IonImg>
         <IonText>
-        <div className='corps'>
+        <div className='corps_livre'>
           <h2>Infos sur le produit</h2>
           <p>Chef d'oeuvre</p>
           <h2>Livres similaires</h2>

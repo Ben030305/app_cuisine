@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonImg, IonItem, IonLabel, IonList, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
 import './Page.css';
 import './Article.css';
 
@@ -6,9 +6,9 @@ const Article: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
-        <IonText class='article_text'>
+        <IonText class='text_article'>
           <h1>Titre Article</h1>
-          <img className='article_image' src='resources/icon.png' alt='Titre Article'></img>
+          <img className='image_article' src='resources/icon.png' alt='Titre Article'></img>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -46,18 +46,18 @@ const Article: React.FC = () => {
           </p>
         </IonText>
 
-        <IonList class='article_list'>
+        <IonList>
           <IonItem routerLink='/article/1'>
-            <IonImg class='article_image' src='resources/icon.png' alt='Article Connexe 1'></IonImg>
-            <IonText slot='end' class='article_text'> Texte Article Connexe 1 </IonText>
+            <IonImg class='image_article' src='resources/icon.png' alt='Article Connexe 1'></IonImg>
+            <IonText slot='end' class='text_article'> Texte Article Connexe 1 </IonText>
           </IonItem>
           <IonItem routerLink='/article/2'>
-            <IonImg class='article_image' src='resources/icon.png' alt='Article Connexe 2'></IonImg>
-            <IonText slot='end' class='article_text'> Texte Article Connexe 2 </IonText>
+            <IonImg class='image_article' src='resources/icon.png' alt='Article Connexe 2'></IonImg>
+            <IonText slot='end' class='text_article'> Texte Article Connexe 2 </IonText>
           </IonItem>
           <IonItem routerLink='/article/3'>
-            <IonImg class='article_image' src='resources/icon.png' alt='Article Connexe 3'></IonImg>
-            <IonText slot='end' class='article_text'> Texte Article Connexe 3 </IonText>
+            <IonImg class='image_article' src='resources/icon.png' alt='Article Connexe 3'></IonImg>
+            <IonText slot='end' class='text_article'> Texte Article Connexe 3 </IonText>
           </IonItem>
         </IonList>
       </IonContent>

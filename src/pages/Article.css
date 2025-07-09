@@ -1,11 +1,11 @@
-.article_image {
+.image_article {
     display: block;
     margin: auto;
     width: 20%;
     height: auto;
 }
 
-h1 {
+.text_article .h1 {
     text-align: center;
     font-size: 24px;
     margin-top: 20px;

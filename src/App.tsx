@@ -1,10 +1,9 @@
-import { Link, Redirect, Route } from 'react-router-dom';
+import { Redirect, Route } from 'react-router-dom';
 import {
   IonApp,
   IonHeader,
   IonIcon,
   IonImg,
-  IonItem,
   IonLabel,
   IonRouterLink,
   IonRouterOutlet,
@@ -12,12 +11,11 @@ import {
   IonTabButton,
   IonTabs,
   IonText,
-  IonTitle,
   IonToolbar,
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { bookSharp, ellipse, heart, homeSharp, manSharp, peopleCircleSharp, peopleSharp, push, restaurantSharp, schoolSharp, search, searchCircleOutline, searchSharp, square, star, triangle } from 'ionicons/icons';
+import { bookSharp, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
 
 import Tab1 from './pages/tabs/Debutant';
 import Tab2 from './pages/tabs/Ebook';
