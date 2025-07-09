@@ -1,15 +1,15 @@
 import { IonContent, IonHeader, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
 import './Page.css';
-import './KItConnected.css';
+import './APropos.css';
 
-const KitConnected: React.FC = () => {
+const APropos: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
-        <IonText class='titre'>Kit disponible !</IonText>
+        <IonText class='titre'>À propos</IonText>
       </IonContent>
     </IonPage>
   );
 };
 
-export default KitConnected;
+export default APropos;

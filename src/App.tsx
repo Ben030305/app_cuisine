@@ -4,6 +4,7 @@ import {
   IonHeader,
   IonIcon,
   IonImg,
+  IonItem,
   IonLabel,
   IonRouterOutlet,
   IonTabBar,
@@ -15,12 +16,19 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { bookSharp, ellipse, heart, homeSharp, manSharp, peopleCircleSharp, peopleSharp, restaurantSharp, schoolSharp, search, searchCircleOutline, searchSharp, square, star, triangle } from 'ionicons/icons';
+import { bookSharp, ellipse, heart, homeSharp, manSharp, peopleCircleSharp, peopleSharp, push, restaurantSharp, schoolSharp, search, searchCircleOutline, searchSharp, square, star, triangle } from 'ionicons/icons';
+
 import Tab1 from './pages/Debutant';
 import Tab2 from './pages/Ebook';
 import Tab3 from './pages/Explorer';
 import Tab4 from './pages/Coaching';
 import Tab5 from './pages/Kit';
+import Accueil from './pages/Accueil';
+import APropos from './pages/APropos';
+import Article from './pages/Article';
+import KitDisponible from './pages/KitDisponible';
+import Livre from './pages/Livre';
+import Login from './pages/Login';
 import './style.css';
 
 /* Core CSS required for Ionic components to work properly */
@@ -53,19 +61,17 @@ import '@ionic/react/css/palettes/dark.system.css';
 /* Theme variables */
 import './theme/variables.css';
 
-function handleClickCuisineDeBase() {
-  alert("Click detected on Cuisine de base !");
-}
-
 setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
     <IonHeader>
       <IonToolbar>
-      <div className='title' >
-        <IonImg onClick={handleClickCuisineDeBase} class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
-        <IonText onClick={handleClickCuisineDeBase} >Cuisine de base</IonText>
+      <div className='title'>
+        <IonItem routerLink='/accueil'>
+          <IonImg class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
+          <IonText>Cuisine de base</IonText>
+        </IonItem>
       </div>
       </IonToolbar>
     </IonHeader>
@@ -87,11 +93,26 @@ const App: React.FC = () => (
           <Route exact path="/kit">
             <Tab5 />
           </Route>
+          <Route exact path="/accueil">
+            <Accueil />
+          </Route>
+          <Route exact path="/article">
+            <Article />
+          </Route>
+          <Route exact path="/kit/kit_disponible">
+            <KitDisponible />
+          </Route>
+          <Route exact path="/ebook/livre">
+            <Livre />
+          </Route>
+          <Route exact path="/login">
+            <Login />
+          </Route>
+          <Route exact path="/a_propos">
+            <APropos />
+          </Route>
           <Route exact path="/">
-            <Redirect to="/debutant" />
-            {
-              //TODO : changer la redirection par défaut
-            }
+            <Redirect to="/accueil" />
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
