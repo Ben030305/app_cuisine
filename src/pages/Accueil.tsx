@@ -10,6 +10,9 @@ const Accueil: React.FC = () => {
         <IonText class='titre'>Accueil</IonText>
       </IonHeader>
       <IonContent fullscreen>
+        {
+          // TODO A CHANGER
+        }
         <br/><br/><br></br>
         <IonItem routerLink='/article' className='item_accueil'>
           <IonImg class='item_image_accueil' src='resources/icon.png' alt='Article 1'></IonImg>
@@ -28,7 +31,7 @@ const Accueil: React.FC = () => {
         </IonItem>
         <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         {
-          // A CHANGER
+          // TODO A CHANGER
         }
         <IonButton expand='full' fill='solid' routerLink='/a_propos'>
           <IonText>À propos</IonText>
