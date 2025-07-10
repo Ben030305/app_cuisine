@@ -12,6 +12,9 @@
 /dist
 
 #Build output
+/android
+
+#Build output
 /android 
 
 # misc

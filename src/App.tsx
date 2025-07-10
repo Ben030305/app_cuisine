@@ -68,7 +68,7 @@ const App: React.FC = () => (
       <IonToolbar>
         <IonRouterLink routerLink='/accueil' color="dark">
           <div className='title'>
-            <IonImg class='title_image' src='resources/icon.png' alt='Cuisine de base'></IonImg> 
+            <IonImg class='title_image' src='assets/icon.png' alt='Cuisine de base'></IonImg> 
             <IonText>Cuisine de base</IonText>
           </div>
         </IonRouterLink>
