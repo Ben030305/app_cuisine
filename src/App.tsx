@@ -59,13 +59,15 @@ import '@ionic/react/css/palettes/dark.system.css';
 
 /* Theme variables */
 import './theme/variables.css';
+import { StatusBar } from '@capacitor/status-bar';
 
 setupIonicReact();
+StatusBar.setOverlaysWebView({ overlay: false });
 
 const App: React.FC = () => (
   <IonApp>
     <IonHeader>
-      <IonToolbar>
+      <IonToolbar class='toolbar_app'>
         <IonRouterLink routerLink='/accueil' color="dark">
           <div className='title'>
             <IonImg class='title_image' src='assets/icon.png' alt='Cuisine de base'></IonImg> 
@@ -115,12 +117,9 @@ const App: React.FC = () => (
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
-        {
-          // changer bouton en bas et ajouter route
-        }
           <IonTabButton tab="tab1" href="/debutant">
             <IonIcon aria-hidden="true" icon={homeSharp} />
-            <IonLabel>Accueil débutant</IonLabel>
+            <IonLabel>Débutant</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab2" href="/ebook">
             <IonIcon aria-hidden="true" icon={bookSharp} />
@@ -132,11 +131,11 @@ const App: React.FC = () => (
           </IonTabButton>
           <IonTabButton tab="tab4" href="/coaching">
             <IonIcon aria-hidden="true" icon={schoolSharp} />
-            <IonLabel>Coaching CAP</IonLabel>
+            <IonLabel>Coaching</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab5" href="/kit">
             <IonIcon aria-hidden="true" icon={restaurantSharp} />
-            <IonLabel>Kit candidat libre</IonLabel>
+            <IonLabel>Kit CAP</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>
