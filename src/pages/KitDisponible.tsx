@@ -7,12 +7,14 @@ const KitDisponible: React.FC = () => {
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Kit disponible !<br></br></IonText>
-        <IonText class='corps_kit_disponible'>
-          <br></br>
-          <h2>Texte</h2>
-          <p>Ouais tu peux avoir le kit etc</p>
+        <IonText>
+          <div className='corps_kit_disponible'>
+            <br></br>
+            <h2>Texte</h2>
+            <p>Ouais tu peux avoir le kit etc</p>
+          </div>
         </IonText>
-        <IonButton>Télécharger</IonButton>
+        <IonButton className='bouton_a_propos'>Télécharger</IonButton>
       </IonContent>
     </IonPage>
   );
