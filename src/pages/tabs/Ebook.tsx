@@ -23,19 +23,19 @@ const Ebook: React.FC = () => {
           <IonRow class="row_ebook">
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 1</IonText>
               </IonRouterLink>
             </IonCol>
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 2</IonText>
               </IonRouterLink>
             </IonCol>
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 3</IonText>
               </IonRouterLink>
             </IonCol>
@@ -43,19 +43,19 @@ const Ebook: React.FC = () => {
           <IonRow>
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 4</IonText>
               </IonRouterLink>
             </IonCol>
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 5</IonText>
               </IonRouterLink>
             </IonCol>
             <IonCol>
               <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                <IonImg className="img_ebook" src="resources/21889.jpg"></IonImg>
+                <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
                 <IonText class='text_ebook'>Livre 6</IonText>
               </IonRouterLink>
             </IonCol>

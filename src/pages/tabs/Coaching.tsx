@@ -12,7 +12,7 @@ const Coaching: React.FC = () => {
           <p>1er paragraphe</p>
           <h2>2ème titre</h2>
           <p>2ème paragraphe</p>
-          <img src='resources/icon.png'></img>
+          <img src='assets/icon.png' alt='Icon'></img>
           <br></br>
         </IonText>
         <IonButton className='button'>Réserver un appel</IonButton>
