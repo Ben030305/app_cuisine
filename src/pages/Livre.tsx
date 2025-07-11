@@ -10,7 +10,7 @@ const Livre: React.FC = () => {
         <div className='contenu'>
         <IonImg className="img_livre" src="assets/livre.jpg"></IonImg>
         <IonText>
-        <div className='corps_livre'>
+        <div>
           <h2>Infos sur le produit</h2>
           <p>Chef d'oeuvre</p>
           <h2>Livres similaires</h2>

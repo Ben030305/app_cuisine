@@ -11,17 +11,17 @@ const Accueil: React.FC = () => {
         <div className='contenu'>
           <IonList class='liste_accueil'>
             <IonItem routerLink='/article' className='item_accueil'>
-              <IonImg class='item_image_accueil' src='assets/icon.png' alt='Article 1'></IonImg>
+              <IonImg class='item_image' src='assets/icon.png' alt='Article 1'></IonImg>
               <IonText class='item_text_accueil'>Article 1</IonText>
               <IonButton fill='outline' slot='end' routerLink='/article/1'>Télécharger</IonButton>
             </IonItem>
             <IonItem routerLink='/article/2' className='item_accueil'>
-              <IonImg class='item_image_accueil' src='assets/icon.png' alt='Article 2'></IonImg>
+              <IonImg class='item_image' src='assets/icon.png' alt='Article 2'></IonImg>
               <IonText class='item_text_accueil'>Article 2</IonText>
               <IonButton fill='outline' slot='end' routerLink='/article/2'>Télécharger</IonButton>
             </IonItem>
             <IonItem routerLink='/article/3' className='item_accueil'>
-              <IonImg class='item_image_accueil' src='assets/icon.png' alt='Article 3'></IonImg>
+              <IonImg class='item_image' src='assets/icon.png' alt='Article 3'></IonImg>
               <IonText class='item_text_accueil'>Article 3</IonText>
               <IonButton fill='outline' slot='end' routerLink='/article/3'>Télécharger</IonButton>
             </IonItem>

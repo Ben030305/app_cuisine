@@ -9,7 +9,7 @@ const KitDisponible: React.FC = () => {
         <IonText class='titre'>Kit disponible !<br></br></IonText>
         <div className='contenu'>
           <IonText>
-            <div className='corps_kit_disponible'>
+            <div>
               <br></br>
               <h2>Texte</h2>
               <p>Ouais tu peux avoir le kit etc</p>

@@ -60,87 +60,104 @@ import '@ionic/react/css/palettes/dark.system.css';
 /* Theme variables */
 import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
+import { ScreenOrientation } from '@capacitor/screen-orientation';
+import { useEffect } from 'react';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
 
-const App: React.FC = () => (
-  <IonApp>
-    <IonHeader>
-      <IonToolbar class='toolbar_app'>
-        <IonRouterLink routerLink='/accueil' color="dark">
-          <div className='title'>
-            <IonImg class='title_image' src='assets/icon.png' alt='Cuisine de base'></IonImg> 
-            <IonText>Cuisine de base</IonText>
-          </div>
-        </IonRouterLink>
-      </IonToolbar>
-    </IonHeader>
-    <IonReactRouter>
-      <IonTabs>
-        <IonRouterOutlet>
-          <Route exact path="/debutant">
-            <Tab1 />
-          </Route>
-          <Route exact path="/ebook">
-            <Tab2 />
-          </Route>
-          <Route exact path="/explorer">
-            <Tab3 />
-          </Route>
-          <Route exact path="/coaching">
-            <Tab4 />
-          </Route>
-          <Route exact path="/kit">
-            <Tab5 />
-          </Route>
-          <Route exact path="/accueil">
-            <Accueil />
-          </Route>
-          <Route exact path="/article">
-            <Article />
-          </Route>
-          <Route exact path="/kit/kit_disponible">
-            <KitDisponible />
-          </Route>
-          <Route exact path="/ebook/livre">
-            <Livre />
-          </Route>
-          <Route exact path="/login">
-            <Login />
-          </Route>
-          <Route exact path="/a_propos">
-            <APropos />
-          </Route>
-          <Route exact path="/">
-            <Redirect to="/accueil" />
-          </Route>
-        </IonRouterOutlet>
-        <IonTabBar slot="bottom">
-          <IonTabButton tab="tab1" href="/debutant">
-            <IonIcon aria-hidden="true" icon={homeSharp} />
-            <IonLabel>Débutant</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab2" href="/ebook">
-            <IonIcon aria-hidden="true" icon={bookSharp} />
-            <IonLabel>Ebook</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab3" href="/explorer">
-            <IonIcon aria-hidden="true" icon={searchSharp} />
-            <IonLabel>Explorer</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab4" href="/coaching">
-            <IonIcon aria-hidden="true" icon={schoolSharp} />
-            <IonLabel>Coaching</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab5" href="/kit">
-            <IonIcon aria-hidden="true" icon={restaurantSharp} />
-            <IonLabel>Kit CAP</IonLabel>
-          </IonTabButton>
-        </IonTabBar>
-      </IonTabs>
-    </IonReactRouter>
-  </IonApp>
-);
+const App: React.FC = () => {
+  useEffect(() => {
+    const lockOrientation = async () => {
+      try {
+        await ScreenOrientation.lock({ orientation: 'portrait' });
+        console.log('Orientation locked to portrait');
+      } catch (err) {
+        console.error('Failed to lock orientation:', err);
+      }
+    };
+
+    lockOrientation();
+  }, []);
+
+  return (
+    <IonApp>
+      <IonHeader>
+        <IonToolbar class='toolbar_app'>
+          <IonRouterLink routerLink='/accueil' color="dark">
+            <div className='title'>
+              <IonImg class='title_image' src='assets/icon.png' alt='Cuisine de base'></IonImg> 
+              <IonText>Cuisine de base</IonText>
+            </div>
+          </IonRouterLink>
+        </IonToolbar>
+      </IonHeader>
+      <IonReactRouter>
+        <IonTabs>
+          <IonRouterOutlet>
+            <Route exact path="/debutant">
+              <Tab1 />
+            </Route>
+            <Route exact path="/ebook">
+              <Tab2 />
+            </Route>
+            <Route exact path="/explorer">
+              <Tab3 />
+            </Route>
+            <Route exact path="/coaching">
+              <Tab4 />
+            </Route>
+            <Route exact path="/kit">
+              <Tab5 />
+            </Route>
+            <Route exact path="/accueil">
+              <Accueil />
+            </Route>
+            <Route exact path="/article">
+              <Article />
+            </Route>
+            <Route exact path="/kit/kit_disponible">
+              <KitDisponible />
+            </Route>
+            <Route exact path="/ebook/livre">
+              <Livre />
+            </Route>
+            <Route exact path="/login">
+              <Login />
+            </Route>
+            <Route exact path="/a_propos">
+              <APropos />
+            </Route>
+            <Route exact path="/">
+              <Redirect to="/accueil" />
+            </Route>
+          </IonRouterOutlet>
+          <IonTabBar slot="bottom">
+            <IonTabButton tab="tab1" href="/debutant">
+              <IonIcon aria-hidden="true" icon={homeSharp} />
+              <IonLabel>Débutant</IonLabel>
+            </IonTabButton>
+            <IonTabButton tab="tab2" href="/ebook">
+              <IonIcon aria-hidden="true" icon={bookSharp} />
+              <IonLabel>Ebook</IonLabel>
+            </IonTabButton>
+            <IonTabButton tab="tab3" href="/explorer">
+              <IonIcon aria-hidden="true" icon={searchSharp} />
+              <IonLabel>Explorer</IonLabel>
+            </IonTabButton>
+            <IonTabButton tab="tab4" href="/coaching">
+              <IonIcon aria-hidden="true" icon={schoolSharp} />
+              <IonLabel>Coaching</IonLabel>
+            </IonTabButton>
+            <IonTabButton tab="tab5" href="/kit">
+              <IonIcon aria-hidden="true" icon={restaurantSharp} />
+              <IonLabel>Kit CAP</IonLabel>
+            </IonTabButton>
+          </IonTabBar>
+        </IonTabs>
+      </IonReactRouter>
+    </IonApp>
+  );
+};
 
 export default App;

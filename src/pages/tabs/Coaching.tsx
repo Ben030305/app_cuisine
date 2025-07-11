@@ -8,12 +8,12 @@ const Coaching: React.FC = () => {
       <IonContent fullscreen>
         <IonText class='titre'>Coaching CAP</IonText>
         <div className='contenu'>
-          <IonText class='contenu_coaching'>
+          <IonText class='corps_texte'>
             <h1>1er titre</h1>
             <p>1er paragraphe</p>
             <h2>2ème titre</h2>
             <p>2ème paragraphe</p>
-            <img src='assets/icon.png' alt='Icon'></img>
+            <img src='assets/icon.png' alt='Icon' className='coaching_img'></img>
             <br></br>
           </IonText>
           <IonButton className='button'>Réserver un appel</IonButton>

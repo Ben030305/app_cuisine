@@ -6,7 +6,7 @@ const Article: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
-        <IonText class='text_article'>
+        <IonText>
           <h1>Titre Article</h1>
           <img className='image_article' src='assets/icon.png' alt='Titre Article'></img>
           <p>
@@ -48,16 +48,16 @@ const Article: React.FC = () => {
 
         <IonList>
           <IonItem routerLink='/article/1'>
-            <IonImg class='image_article' src='assets/icon.png' alt='Article Connexe 1'></IonImg>
-            <IonText slot='end' class='text_article'> Texte Article Connexe 1 </IonText>
+            <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 1'></IonImg>
+            <IonText slot='end'> Texte Article Connexe 1 </IonText>
           </IonItem>
           <IonItem routerLink='/article/2'>
-            <IonImg class='image_article' src='assets/icon.png' alt='Article Connexe 2'></IonImg>
-            <IonText slot='end' class='text_article'> Texte Article Connexe 2 </IonText>
+            <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 2'></IonImg>
+            <IonText slot='end'> Texte Article Connexe 2 </IonText>
           </IonItem>
           <IonItem routerLink='/article/3'>
-            <IonImg class='image_article' src='assets/icon.png' alt='Article Connexe 3'></IonImg>
-            <IonText slot='end' class='text_article'> Texte Article Connexe 3 </IonText>
+            <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 3'></IonImg>
+            <IonText slot='end'> Texte Article Connexe 3 </IonText>
           </IonItem>
         </IonList>
       </IonContent>

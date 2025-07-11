@@ -1,4 +1,5 @@
-.contenu_coaching img {
+.coaching_img {
     width: 10%;
+    max-width: 100px;
     height: auto;
 }
