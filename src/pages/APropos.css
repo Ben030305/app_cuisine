@@ -1,23 +1,12 @@
-.titre_a_propos {
-    top: 25%;
-    text-align: center;
-    position: absolute;
-    left: 0;
-    right: 0;
-    font-size: 20px;
-    line-height: 26px;
-}
-
 .liste_a_propos {
-    top: 50px;
-    margin: 10px;
-    border-radius: 10px;
-    padding:10px;
+    margin-top: 2dvh;
+    border-radius: 2%;
+    padding: 2dvh;
 }
 
 .item_a_propos {
     --background: var(--ion-color-light);
     --color: var(--ion-color-dark);
-    margin: 5px;
-    border-radius: 10px;
+    margin: 2dvh;
+    border-radius: 5%;
 }

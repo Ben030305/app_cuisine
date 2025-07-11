@@ -1,22 +1,15 @@
-.item_accueil {
-    tab-size: 50px;
-    border-radius: 10px;
-}
-
 .liste_accueil {
-    margin: 20px;
-    margin-top: 40px;
+    margin-top: 5dvh;
 }
 
 .item_image_accueil {
-    width: 40px;
-    height: 40px;
+    width: 20%;
+    height: auto;
 }
 
 .item_text_accueil {
     font-size: 20px;
     font-weight: bold;
-    gap: 50px;
 }
 
 .bouton_a_propos {

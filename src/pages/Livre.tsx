@@ -7,6 +7,7 @@ const Livre: React.FC = () => {
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Titre livre<br></br></IonText>
+        <div className='contenu'>
         <IonImg className="img_livre" src="assets/livre.jpg"></IonImg>
         <IonText>
         <div className='corps_livre'>
@@ -15,6 +16,7 @@ const Livre: React.FC = () => {
           <h2>Livres similaires</h2>
         </div>
         </IonText>
+        </div>
       </IonContent>
     </IonPage>
   );

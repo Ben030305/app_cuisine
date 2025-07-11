@@ -7,12 +7,14 @@ const Kit: React.FC = () => {
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Kit candidat libre<br></br></IonText>
-        <IonText class='corps_kit'>
-          <br></br>
-          <h2>Texte</h2>
-          <p>non faut se connecter</p>
-        </IonText>
-        <IonButton href='/login'>Login</IonButton>
+        <div className='contenu'>
+          <IonText class='corps_kit'>
+            <br></br>
+            <h2>Texte</h2>
+            <p>non faut se connecter</p>
+          </IonText>
+          <IonButton href='/login'>Login</IonButton>
+        </div>
       </IonContent>
     </IonPage>
   );

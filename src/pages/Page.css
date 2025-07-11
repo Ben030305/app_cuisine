@@ -1,6 +1,6 @@
 .format {
-    margin: 20px;
-    padding-top: 5%;
+    margin: 2dvh;
+    padding-top: 7dvh;
 }
 
 .titre {
@@ -10,4 +10,9 @@
     right: 0;
     font-size: 20px;
     line-height: 26px;
+    padding-top: 1dvh;;
+}
+
+.contenu {
+    padding-top: 4dvh;
 }
