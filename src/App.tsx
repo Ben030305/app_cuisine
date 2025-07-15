@@ -62,23 +62,12 @@ import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
 import { ScreenOrientation } from '@capacitor/screen-orientation';
 import { useEffect } from 'react';
+import { banane, cocotte } from './articlesContent';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
 
 const App: React.FC = () => {
-  useEffect(() => {
-    const lockOrientation = async () => {
-      try {
-        await ScreenOrientation.lock({ orientation: 'portrait' });
-        console.log('Orientation locked to portrait');
-      } catch (err) {
-        console.error('Failed to lock orientation:', err);
-      }
-    };
-
-    lockOrientation();
-  }, []);
 
   return (
     <IonApp>
@@ -114,7 +103,7 @@ const App: React.FC = () => {
               <Accueil />
             </Route>
             <Route exact path="/article">
-              <Article />
+              <Article titre={banane} />
             </Route>
             <Route exact path="/kit/kit_disponible">
               <KitDisponible />
@@ -131,6 +120,7 @@ const App: React.FC = () => {
             <Route exact path="/">
               <Redirect to="/accueil" />
             </Route>
+
           </IonRouterOutlet>
           <IonTabBar slot="bottom">
             <IonTabButton tab="tab1" href="/debutant">

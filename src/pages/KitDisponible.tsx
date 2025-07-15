@@ -15,7 +15,7 @@ const KitDisponible: React.FC = () => {
               <p>Ouais tu peux avoir le kit etc</p>
             </div>
           </IonText>
-          <IonButton className='bouton_a_propos'>Télécharger</IonButton>
+          <IonButton className='bouton_a_propos' href='https://cuisinedebase.com/kit-candidat-libre-cap-cuisine-et-fiches-techniques-fcr/'>Télécharger</IonButton>
         </div>
       </IonContent>
     </IonPage>

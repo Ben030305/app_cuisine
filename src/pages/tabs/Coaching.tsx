@@ -16,7 +16,7 @@ const Coaching: React.FC = () => {
             <img src='assets/icon.png' alt='Icon' className='coaching_img'></img>
             <br></br>
           </IonText>
-          <IonButton className='button'>Réserver un appel</IonButton>
+          <IonButton className='button' href='https://calendly.com/professeurhyoussef/rdv-de-decouverte-cuisine-de-base'>Réserver un appel</IonButton>
         </div>
       </IonContent>
     </IonPage>
