@@ -62,7 +62,7 @@ import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
 import { ScreenOrientation } from '@capacitor/screen-orientation';
 import { useEffect } from 'react';
-import { banane, cocotte } from './articlesContent';
+import { banane, cocotte } from './ConstructeurArticle';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
@@ -103,7 +103,7 @@ const App: React.FC = () => {
               <Accueil />
             </Route>
             <Route exact path="/article">
-              <Article titre={banane} />
+              <Article props={banane} />
             </Route>
             <Route exact path="/kit/kit_disponible">
               <KitDisponible />

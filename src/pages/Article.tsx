@@ -1,46 +1,47 @@
-import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonRoute, IonRouterLink, IonText } from '@ionic/react';
+import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
+import { banane, cocotte, haricot } from '../ConstructeurArticle';
+import { useState } from 'react';
+import { Filesystem, Directory, Encoding } from "@capacitor/filesystem";
 import './Page.css';
 import './Article.css';
-import { banane, cocotte, haricot } from '../articlesContent';
-import { useState } from 'react';
-import { saveAs } from 'file-saver';
 
 
 interface ArticleProps {
-  titre: any;
+  props: any;
 }
 
-  const handleDownload = () => {
-    const element = document.querySelector('article');
-    console.log(element);
-    if (element) {
-      var blob = new Blob([element.innerHTML], { type: 'text/html' });
-      saveAs(blob, 'article.html');
-    }
-  };
 
-const Article: React.FC<ArticleProps> = ({ titre }) => {
+const writeSecretFile = async () => {
+  await Filesystem.writeFile({
+    path: "secrets/text.txt",
+    data: "This is a test",
+    directory: Directory.Documents,
+    encoding: Encoding.UTF8,
+  });
+};
 
-  const [article, setArticle] = useState(titre);
+const Article: React.FC<ArticleProps> = ({ props }) => {
 
-  function loadPage(titre: any){
+  const [article, setArticle] = useState(props);
+
+  function loadPage(titre: any) {
     return (
       <IonPage className='format'>
         <IonContent fullscreen>
-        <IonText>
-          {titre}
-        </IonText>
-        <IonButton onClick={handleDownload}>Télécharger l'article</IonButton>
-        <IonList>
-            <IonItem onClick={() => {setArticle(banane)}}>
+          <IonText>
+            {titre}
+          </IonText>
+          <IonButton onClick={handleDownload}>Télécharger l'article</IonButton>
+          <IonList>
+            <IonItem onClick={() => { setArticle(banane) }}>
               <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 1'></IonImg>
               <IonText slot='end'> Texte Article Connexe 1 </IonText>
             </IonItem>
-            <IonItem onClick={() => {setArticle(cocotte)}}>
+            <IonItem onClick={() => { setArticle(cocotte) }}>
               <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 2'></IonImg>
               <IonText slot='end'> Texte Article Connexe 2 </IonText>
             </IonItem>
-            <IonItem onClick={() => {setArticle(haricot)}}>
+            <IonItem onClick={() => { setArticle(haricot) }}>
               <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 3'></IonImg>
               <IonText slot='end'> Texte Article Connexe 3 </IonText>
             </IonItem>
@@ -50,9 +51,25 @@ const Article: React.FC<ArticleProps> = ({ titre }) => {
     );
   }
 
+  const handleDownload = async () => {
+    const element = document.querySelector('article');
+    if (element) {
+      var blob = new Blob([element.innerHTML], { type: 'text/html' });
+      await Filesystem.writeFile({
+        path: "Cuisine_de_base/" + article.titre,
+        data: blob,
+        directory: Directory.Documents,
+        encoding: Encoding.UTF8,
+      });
+    }
+  };
+
+
+  console.log(article.titre);
+
   return (
     <>
-      {loadPage(article)}
+      {loadPage(article.contenu)}
     </>
   );
 };
