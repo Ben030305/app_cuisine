@@ -1,7 +1,8 @@
 import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
 import { banane, cocotte, haricot } from '../ConstructeurArticle';
 import { useState } from 'react';
-import { Filesystem, Directory, Encoding } from "@capacitor/filesystem";
+import { Directory } from '@capacitor/filesystem';
+import write_blob from 'capacitor-blob-writer';
 import './Page.css';
 import './Article.css';
 
@@ -9,16 +10,6 @@ import './Article.css';
 interface ArticleProps {
   props: any;
 }
-
-
-const writeSecretFile = async () => {
-  await Filesystem.writeFile({
-    path: "secrets/text.txt",
-    data: "This is a test",
-    directory: Directory.Documents,
-    encoding: Encoding.UTF8,
-  });
-};
 
 const Article: React.FC<ArticleProps> = ({ props }) => {
 
@@ -55,15 +46,14 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
     const element = document.querySelector('article');
     if (element) {
       var blob = new Blob([element.innerHTML], { type: 'text/html' });
-      await Filesystem.writeFile({
-        path: "Cuisine_de_base/" + article.titre,
-        data: blob,
+      await write_blob({
+        blob: blob,
+        path: `${article.titre}.html`,
         directory: Directory.Documents,
-        encoding: Encoding.UTF8,
-      });
+        fast_mode: true,
+        });
     }
   };
-
 
   console.log(article.titre);
 
