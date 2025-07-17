@@ -55,8 +55,6 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
     }
   };
 
-  console.log(article.titre);
-
   return (
     <>
       {loadPage(article.contenu)}

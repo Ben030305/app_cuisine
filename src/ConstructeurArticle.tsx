@@ -30,9 +30,9 @@ export const cocotte = {
 
 	date: "",
 
-	categorie: "2",
+	categorie: "1",
 
-	sous_categorie: "-1",
+	sous_categorie: "1",
 
 	articlesConnexes: ""
 }
@@ -71,7 +71,7 @@ export const banane = {
 
 	categorie: "1",
 
-	sous_categorie: "1",
+	sous_categorie: "2",
 
 	articlesConnexes: ""
 }
@@ -107,9 +107,9 @@ export const haricot = {
 
 	date: "",
 
-	categorie: "1",
+	categorie: "3",
 
-	sous_categorie: "2",
+	sous_categorie: "1",
 
 	articlesConnexes: ""
 }
