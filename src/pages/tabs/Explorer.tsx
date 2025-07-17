@@ -4,10 +4,6 @@ import { listeArticles } from '../../ConstructeurArticle';
 import './../Page.css';
 import './Explorer.css';
 
-let categorie = "0";
-let sous_categorie = "0";
-let articles = listeArticles;
-
 {
   // Pour categorie -> 0 est l'état sans filtrage),
   // Pour sous_categorie -> -1 correspond à l'absence de sous-catégorie et 0 à l'état sans filtrage.
@@ -15,15 +11,19 @@ let articles = listeArticles;
 
 const Explorer: React.FC = () => {
 
-  const[display, setDisplay] = useState(false);
+  const [categorie, setCategorie] = useState("0");
+  const [sousCategorie, setSousCategorie] = useState("0");
+  const [articles, setArticles] = useState(listeArticles);
+  const [display, setDisplay] = useState(false);
 
-  function triCategorie() {
+
+  function triCategorie(newCategorie: string) {
     let articlesFiltres = listeArticles;
-    if(categorie != "0") {
+    if(newCategorie != "0") {
       articlesFiltres = articlesFiltres.filter((element) => {
-        return element.categorie == categorie;
+        return element.categorie == newCategorie;
       });
-      if(articlesFiltres[0].sous_categorie == "-1") {
+      if(articlesFiltres.length > 0 && articlesFiltres[0].sous_categorie == "-1") {
         setDisplay(false);
         // hide button
       } else {
@@ -37,11 +37,11 @@ const Explorer: React.FC = () => {
     return articlesFiltres;
   }
 
-  function triSousCategorie() {
-    let articlesFiltres = triCategorie();
-    if(sous_categorie != "0") {
+  function triSousCategorie(categorie: string, newSousCategorie: string) {
+    let articlesFiltres = triCategorie(categorie);
+    if(newSousCategorie != "0") {
       articlesFiltres = articlesFiltres.filter((element) => {
-        return element.sous_categorie == sous_categorie;
+        return element.sous_categorie == newSousCategorie;
       });
     }
     return articlesFiltres;
@@ -52,19 +52,18 @@ const Explorer: React.FC = () => {
   }
 
   function loadButton() {
-    if(display) {
-      console.log(categorie);
-      
+    if(display) {      
       switch(categorie) {
         case "1":
           return (
             <IonList>
               <IonItem>
-              <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={0} onIonChange={(e) => {
+              <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={"0"} onIonChange={(e) => {
                 if(display) {
-                  sous_categorie = e.detail.value;
-                  articles = triSousCategorie();
-                  console.log(("Après triSousCategorie: " + articles));
+                  const sous_categorie = e.detail.value;
+                  setSousCategorie(sous_categorie);
+                  const res = triSousCategorie(categorie, sous_categorie);
+                  setArticles(res);
                 }
               }}>
                 {
@@ -83,19 +82,20 @@ const Explorer: React.FC = () => {
           return (
             <IonList>
             <IonItem>
-            <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={0} onIonChange={(e) => {
+            <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={"0"} onIonChange={(e) => {
               if(display) {
-                sous_categorie = e.detail.value;
-                articles = triSousCategorie();
-                console.log(("Après triSousCategorie: " + articles));
+                  const sous_categorie = e.detail.value;
+                  setSousCategorie(sous_categorie);
+                  const articles = triSousCategorie(categorie, sous_categorie);
+                  setArticles(articles);
               }
             }}>
               {
                 // SOUS-CATEGORIE DE "Vivre autrement"
               }
               <IonSelectOption value="0">Aucune sous-catégorie</IonSelectOption>
-              <IonSelectOption value="1">Etat d'esprit</IonSelectOption>
-              <IonSelectOption value="2">Reconversion professionnel</IonSelectOption>
+              <IonSelectOption value="5">Etat d'esprit</IonSelectOption>
+              <IonSelectOption value="6">Reconversion professionnel</IonSelectOption>
             </IonSelect>
             </IonItem>
             </IonList>
@@ -115,11 +115,10 @@ const Explorer: React.FC = () => {
               <IonList>
                 <IonItem>
                   <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par catégorie" onIonChange={(e) => {
-                    categorie = e.detail.value;
-                    articles = triCategorie();
-                    console.log("Après triCategorie: " + articles);
-                    console.log("display: " + display);
-                    
+                    const newCategorie = e.detail.value;
+                    setCategorie(newCategorie);
+                    const articles = triSousCategorie(newCategorie, "0");
+                    setArticles(articles);
                   }}>
                     <IonSelectOption value="0">Aucune catégorie</IonSelectOption>
                     <IonSelectOption value="1">Formation CAP cuisine</IonSelectOption>
@@ -135,21 +134,13 @@ const Explorer: React.FC = () => {
                   </>
             </IonToolbar>
             <IonList class='article_explorer'>
-              <IonItem routerLink='/article' className='item_explorer'>
-                <IonImg class='item_image' src='assets/icon.png' alt='Article 1'></IonImg>
-                <IonText class='item_text_explorer'>Article 1</IonText>
-                <IonButton fill='outline' slot='end' routerLink='/article/1'>Télécharger</IonButton>
-              </IonItem>
-              <IonItem routerLink='/article/2' className='item_explorer'>
-                <IonImg class='item_image' src='assets/icon.png' alt='Article 2'></IonImg>
-                <IonText class='item_text_explorer'>Article 2</IonText>
-                <IonButton fill='outline' slot='end' routerLink='/article/2'>Télécharger</IonButton>
-              </IonItem>
-              <IonItem routerLink='/article/3' className='item_explorer'>
-                <IonImg class='item_image' src='assets/icon.png' alt='Article 3'></IonImg>
-                <IonText class='item_text_explorer'>Article 3</IonText>
-                <IonButton fill='outline' slot='end' routerLink='/article/3'>Télécharger</IonButton>
-              </IonItem>
+              {articles.map((article, index) => (
+                <IonItem key={index} routerLink='/article' className='item_explorer'>
+                  <IonImg class='item_image' src='assets/icon.png' alt={article.titre}></IonImg>
+                  <IonText class='item_text_explorer'>{article.titre}</IonText>
+                  <IonButton fill='outline' slot='end' routerLink='/article'>Télécharger</IonButton>
+                </IonItem>
+              ))}
             </IonList>
           </div>
         </IonContent>

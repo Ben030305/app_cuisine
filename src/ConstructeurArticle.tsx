@@ -109,7 +109,7 @@ export const haricot = {
 
 	categorie: "3",
 
-	sous_categorie: "1",
+	sous_categorie: "5",
 
 	articlesConnexes: ""
 }
