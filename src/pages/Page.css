@@ -20,7 +20,7 @@
 }
 
 .item_image {
-    width: 10%;
-    height: 80px;
+    width: 8dvh;
+    height: 8dvh;
     object-fit: cover;
 }
