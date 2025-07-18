@@ -2,30 +2,32 @@ import { IonButton, IonContent, IonHeader, IonImg, IonItem, IonList, IonPage, Io
 import './Page.css';
 
 import './Accueil.css';
+import { listeArticles } from '../ConstructeurArticle';
 
+const tailleListe = 10;
+const articles = listeArticles;
+articles.length = tailleListe;
+
+function buildAccueil() {
+  return (
+      <IonList className='liste_accueil'>
+        {articles.map(article => (
+          <IonItem routerLink={article.route} key={article.titre}>
+            <IonImg class='item_image' src={article.image} alt={article.titre}></IonImg>
+            <IonText class='item_text_accueil'>{article.titre}</IonText>
+            <IonButton fill='outline' slot='end' routerLink={article.route}>Télécharger</IonButton>
+          </IonItem>
+        ))}
+      </IonList>
+    );
+}
 const Accueil: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
         <IonText class='titre'>Accueil</IonText>
         <div className='contenu'>
-          <IonList class='liste_accueil'>
-            <IonItem routerLink='/article' className='item_accueil'>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article 1'></IonImg>
-              <IonText class='item_text_accueil'>Article 1</IonText>
-              <IonButton fill='outline' slot='end' routerLink='/article/1'>Télécharger</IonButton>
-            </IonItem>
-            <IonItem routerLink='/article/2' className='item_accueil'>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article 2'></IonImg>
-              <IonText class='item_text_accueil'>Article 2</IonText>
-              <IonButton fill='outline' slot='end' routerLink='/article/2'>Télécharger</IonButton>
-            </IonItem>
-            <IonItem routerLink='/article/3' className='item_accueil'>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article 3'></IonImg>
-              <IonText class='item_text_accueil'>Article 3</IonText>
-              <IonButton fill='outline' slot='end' routerLink='/article/3'>Télécharger</IonButton>
-            </IonItem>
-          </IonList>
+          {buildAccueil()}
           <IonButton expand='full' fill='solid' routerLink='/a_propos'>
             <IonText>À propos</IonText>
           </IonButton>

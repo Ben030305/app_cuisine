@@ -15,7 +15,7 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { bookSharp, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
+import { bookSharp, build, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
 
 import Tab1 from './pages/tabs/Debutant';
 import Tab2 from './pages/tabs/Ebook';
@@ -60,9 +60,7 @@ import '@ionic/react/css/palettes/dark.system.css';
 /* Theme variables */
 import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
-import { ScreenOrientation } from '@capacitor/screen-orientation';
-import { useEffect } from 'react';
-import { banane, cocotte } from './ConstructeurArticle';
+import { buildRoute, listeArticles } from './ConstructeurArticle';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
@@ -102,9 +100,7 @@ const App: React.FC = () => {
             <Route exact path="/accueil">
               <Accueil />
             </Route>
-            <Route exact path="/article">
-              <Article props={banane} />
-            </Route>
+            {buildRoute()}
             <Route exact path="/kit/kit_disponible">
               <KitDisponible />
             </Route>

@@ -1,5 +1,5 @@
 import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
-import { banane, cocotte, haricot } from '../ConstructeurArticle';
+import {listeArticles } from '../ConstructeurArticle';
 import { useState } from 'react';
 import { Directory } from '@capacitor/filesystem';
 import write_blob from 'capacitor-blob-writer';
@@ -13,7 +13,18 @@ interface ArticleProps {
 
 const Article: React.FC<ArticleProps> = ({ props }) => {
 
-  const [article, setArticle] = useState(props);
+  function buildItem() {
+    return (
+        <IonList className='liste_article'>
+          {props.articlesConnexes.map((indice: number) => (
+            <IonItem routerLink={listeArticles[indice].route}>
+              <IonImg class='item_image' src={listeArticles[indice].image} alt={listeArticles[indice].titre}></IonImg>
+              <IonText slot='end'> {listeArticles[indice].titre} </IonText>
+            </IonItem>
+          ))}
+        </IonList>
+      );
+  }
 
   function loadPage(titre: any) {
     return (
@@ -23,20 +34,7 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
             {titre}
           </IonText>
           <IonButton onClick={handleDownload}>Télécharger l'article</IonButton>
-          <IonList>
-            <IonItem onClick={() => { setArticle(banane) }}>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 1'></IonImg>
-              <IonText slot='end'> Texte Article Connexe 1 </IonText>
-            </IonItem>
-            <IonItem onClick={() => { setArticle(cocotte) }}>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 2'></IonImg>
-              <IonText slot='end'> Texte Article Connexe 2 </IonText>
-            </IonItem>
-            <IonItem onClick={() => { setArticle(haricot) }}>
-              <IonImg class='item_image' src='assets/icon.png' alt='Article Connexe 3'></IonImg>
-              <IonText slot='end'> Texte Article Connexe 3 </IonText>
-            </IonItem>
-          </IonList>
+          {buildItem()}
         </IonContent>
       </IonPage>
     );
@@ -48,7 +46,7 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
       var blob = new Blob([element.innerHTML], { type: 'text/html' });
       await write_blob({
         blob: blob,
-        path: `${article.titre}.html`,
+        path: `${props.titre}.html`,
         directory: Directory.Documents,
         fast_mode: true,
         });
@@ -57,7 +55,7 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
 
   return (
     <>
-      {loadPage(article.contenu)}
+      {loadPage(props.contenu)}
     </>
   );
 };

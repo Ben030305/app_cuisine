@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { listeArticles } from '../../ConstructeurArticle';
 import './../Page.css';
 import './Explorer.css';
+import { closeCircle, closeCircleOutline } from 'ionicons/icons';
 
 {
   // Pour categorie -> 0 est l'état sans filtrage),
@@ -15,9 +16,34 @@ const Explorer: React.FC = () => {
   const [sousCategorie, setSousCategorie] = useState("0");
   const [articles, setArticles] = useState(listeArticles);
   const [display, setDisplay] = useState(false);
+  const [isSearching, setIsSearching] = useState(false);
+  const [searchResults, setSearchResults] = useState('');
 
+  let [results, setResults] = useState([...listeArticles]);
+
+  const handleInput = (event: Event) => {
+    if (!isSearching) {
+      setIsSearching(true);
+      setCategorie("0");
+      setSousCategorie("0");
+    }
+    let query = '';
+    const target = event.target as HTMLIonSearchbarElement;
+    setSearchResults(target.value!);
+    if (target.value === '') {
+      setResults([...listeArticles]);
+    }
+    if (target) query = target.value!.toLowerCase();
+
+    setResults(listeArticles.filter((d) => d.titre.toLowerCase().indexOf(query) > -1));
+  };
 
   function triCategorie(newCategorie: string) {
+    if (isSearching) {
+      setIsSearching(false);
+      setSearchResults('');
+      setResults([...listeArticles]);
+    }
     let articlesFiltres = listeArticles;
     if(newCategorie != "0") {
       articlesFiltres = articlesFiltres.filter((element) => {
@@ -47,6 +73,35 @@ const Explorer: React.FC = () => {
     return articlesFiltres;
   }
 
+  function displayArticles() {
+    if (!isSearching) {
+      return (
+        <IonList class='article_explorer'>
+          {articles.map((article, index) => (
+            <IonItem key={index} routerLink={article.route} className='item_explorer'>
+              <IonImg class='item_image' src={article.image} alt={article.titre}></IonImg>
+              <IonText class='item_text_explorer'>{article.titre}</IonText>
+              <IonButton fill='outline' slot='end' routerLink={article.route}>Télécharger</IonButton>
+            </IonItem>
+          ))}
+        </IonList>
+      );
+    } else {
+      return (
+        console.log(categorie, sousCategorie),
+        <IonList>
+          {results.map((result) => (
+            <IonItem key={result.titre} routerLink={result.route} className='item_explorer'>
+              <IonImg class='item_image' src={result.image} alt={result.titre}></IonImg>
+              <IonText class='item_text_explorer'>{result.titre}</IonText>
+              <IonButton fill='outline' slot='end' routerLink={result.route}>Télécharger</IonButton>
+            </IonItem>
+          ))}
+        </IonList>
+      )
+    }
+  }
+
   {
     // Ne pas oublier d'actualiser la valeur d'articles !!
   }
@@ -58,7 +113,7 @@ const Explorer: React.FC = () => {
           return (
             <IonList>
               <IonItem>
-              <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={"0"} onIonChange={(e) => {
+              <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" value={sousCategorie} onIonChange={(e) => {
                 if(display) {
                   const sous_categorie = e.detail.value;
                   setSousCategorie(sous_categorie);
@@ -82,7 +137,7 @@ const Explorer: React.FC = () => {
           return (
             <IonList>
             <IonItem>
-            <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" defaultValue={"0"} onIonChange={(e) => {
+            <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par sous-catégorie" value={sousCategorie} onIonChange={(e) => {
               if(display) {
                   const sous_categorie = e.detail.value;
                   setSousCategorie(sous_categorie);
@@ -111,12 +166,13 @@ const Explorer: React.FC = () => {
           <IonText class='titre'>Explorer</IonText>
           <div className='contenu'>
             <IonToolbar class='toolbar_explorer'>
-              <IonSearchbar></IonSearchbar>
+              <IonSearchbar showClearButton='focus' placeholder="Rechercher" clearIcon={closeCircle} value={searchResults} onIonInput={(event) => handleInput(event)}></IonSearchbar>
               <IonList>
                 <IonItem>
-                  <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par catégorie" onIonChange={(e) => {
+                  <IonSelect aria-label="Filtre" interface="popover" placeholder="Filtrer par catégorie" value={categorie} onIonChange={(e) => {
                     const newCategorie = e.detail.value;
                     setCategorie(newCategorie);
+                    setSousCategorie("0");
                     const articles = triSousCategorie(newCategorie, "0");
                     setArticles(articles);
                   }}>
@@ -133,15 +189,7 @@ const Explorer: React.FC = () => {
                     {loadButton()}
                   </>
             </IonToolbar>
-            <IonList class='article_explorer'>
-              {articles.map((article, index) => (
-                <IonItem key={index} routerLink='/article' className='item_explorer'>
-                  <IonImg class='item_image' src='assets/icon.png' alt={article.titre}></IonImg>
-                  <IonText class='item_text_explorer'>{article.titre}</IonText>
-                  <IonButton fill='outline' slot='end' routerLink='/article'>Télécharger</IonButton>
-                </IonItem>
-              ))}
-            </IonList>
+            {displayArticles()}
           </div>
         </IonContent>
       </IonPage>
