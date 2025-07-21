@@ -15,7 +15,7 @@ import {
   setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { bookSharp, build, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
+import { bookSharp, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
 
 import Tab1 from './pages/tabs/Debutant';
 import Tab2 from './pages/tabs/Ebook';
@@ -24,8 +24,6 @@ import Tab4 from './pages/tabs/Coaching';
 import Tab5 from './pages/tabs/Kit';
 import Accueil from './pages/Accueil';
 import APropos from './pages/APropos';
-import Article from './pages/Article';
-import KitDisponible from './pages/KitDisponible';
 import Livre from './pages/Livre';
 import Login from './pages/Login';
 import './style.css';
@@ -101,9 +99,6 @@ const App: React.FC = () => {
               <Accueil />
             </Route>
             {buildRoute()}
-            <Route exact path="/kit/kit_disponible">
-              <KitDisponible />
-            </Route>
             <Route exact path="/ebook/livre">
               <Livre />
             </Route>

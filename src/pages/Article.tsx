@@ -1,6 +1,5 @@
 import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
 import {listeArticles } from '../ConstructeurArticle';
-import { useState } from 'react';
 import { Directory } from '@capacitor/filesystem';
 import write_blob from 'capacitor-blob-writer';
 import './Page.css';
