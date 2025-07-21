@@ -1,8 +1,85 @@
 import { IonCol, IonContent, IonGrid, IonImg, IonItem, IonList, IonPage, IonRouterLink, IonRow, IonSelect, IonSelectOption, IonText } from '@ionic/react';
 import './../Page.css';
 import './Ebook.css';
+import { listeLivres } from '../../ConstructeurLivre';
+import { useState } from 'react';
+
 
 const Ebook: React.FC = () => {
+
+  const nbColumns = 3;
+
+  const [tri, setTri] = useState("0");
+  const [livres, setLivres] = useState(listeLivres)
+
+  function createMatrix(liste: Array<any>, n: number){
+    const nbLignes = Math.ceil(n/nbColumns);
+    const matLivres = [];
+    let index = 0;
+    for (let i = 0; i < nbLignes; i++){
+      const liste_temp = [];
+      for (let j = 0; j < nbColumns && index < n; j++){
+        liste_temp.push(liste[index]);
+        index++;
+      }
+      matLivres.push(liste_temp);
+    }
+    return matLivres;
+  }
+
+  function sortLivres(triValue: String, liste: Array<any>){
+
+    switch(triValue){
+      case "0":
+        console.log("Défaut");
+        return [...liste].sort((a, b) => {
+          const nameA = a.titre.toUpperCase(); 
+          const nameB = b.titre.toUpperCase();
+          if (nameA < nameB) {
+            return -1;
+          }
+          if (nameA > nameB) {
+            return 1;
+          }
+          return 0;
+        })
+        break;
+      case "1":
+        console.log("Croissant")
+        return [...liste].sort((a, b) => a.tarif - b.tarif);
+        break;
+      case "2":
+        console.log("Decroissant")
+        return [...liste].sort((a, b) => b.tarif - a.tarif);
+        break;
+      default:
+        console.log("Il se passe rien")
+        return [...liste];
+    }
+  }
+
+
+  function loadBooks(){
+    const matLivres = createMatrix(livres,listeLivres.length);
+    return(
+      <IonGrid fixed={true} class='marge_ebook'>
+        {matLivres.map((listeLivre,index) => (
+        <IonRow class="row_ebook" key={index}>
+          {listeLivre.map((livre) => (
+            <IonCol key={livre.titre}>
+              <IonRouterLink routerLink={livre.route} color={'dark'}>
+                <IonImg className="img_ebook" src={livre.image}></IonImg>
+                <IonText class='text_ebook'>{livre.titre}</IonText>
+              </IonRouterLink>
+            </IonCol>
+          ) 
+          )}
+        </IonRow>    
+        ))}
+      </IonGrid>
+    )
+
+  }
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
@@ -10,58 +87,19 @@ const Ebook: React.FC = () => {
         <div className='contenu'>
           <IonList class='marge_ebook'>
             <IonItem>
-              <IonSelect aria-label="Filtre" interface="popover" placeholder="Tri" defaultValue={0}>
-                <IonSelectOption value="defaut">Par défaut</IonSelectOption>
-                <IonSelectOption value="popularite">Par popularité</IonSelectOption>
-                <IonSelectOption value="note">Par note moyenne</IonSelectOption>
-                <IonSelectOption value="date">Par date</IonSelectOption>
-                <IonSelectOption value="prix_croissant">Par prix croissant</IonSelectOption>
-                <IonSelectOption value="prix_decroissant">Par prix décroissant</IonSelectOption>
+              <IonSelect aria-label="Filtre" interface="popover" placeholder="Tri" value={tri} onIonChange={(e) => {
+                setTri(e.detail.value);
+                const sortedLivres = sortLivres(e.detail.value,listeLivres);
+                setLivres(sortedLivres);
+                console.log(sortedLivres);
+              }}>
+                <IonSelectOption value="0">Par défaut</IonSelectOption>
+                <IonSelectOption value="1">Par prix croissant</IonSelectOption>
+                <IonSelectOption value="2">Par prix décroissant</IonSelectOption>
               </IonSelect>
             </IonItem>
           </IonList>
-          <IonGrid fixed={true} class='marge_ebook'>
-            <IonRow class="row_ebook">
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 1</IonText>
-                </IonRouterLink>
-              </IonCol>
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 2</IonText>
-                </IonRouterLink>
-              </IonCol>
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 3</IonText>
-                </IonRouterLink>
-              </IonCol>
-            </IonRow>
-            <IonRow>
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 4</IonText>
-                </IonRouterLink>
-              </IonCol>
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 5</IonText>
-                </IonRouterLink>
-              </IonCol>
-              <IonCol>
-                <IonRouterLink routerLink='ebook/livre' color={'dark'}>
-                  <IonImg className="img_ebook" src="assets/livre.jpg"></IonImg>
-                  <IonText class='text_ebook'>Livre 6</IonText>
-                </IonRouterLink>
-              </IonCol>
-            </IonRow>
-          </IonGrid>
+          {loadBooks()}
         </div>
       </IonContent>
     </IonPage>

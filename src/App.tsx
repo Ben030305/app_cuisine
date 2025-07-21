@@ -59,6 +59,7 @@ import '@ionic/react/css/palettes/dark.system.css';
 import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
 import { buildRoute, listeArticles } from './ConstructeurArticle';
+import { buildRouteLivre } from './ConstructeurLivre';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
@@ -99,9 +100,7 @@ const App: React.FC = () => {
               <Accueil />
             </Route>
             {buildRoute()}
-            <Route exact path="/ebook/livre">
-              <Livre />
-            </Route>
+            {buildRouteLivre()}
             <Route exact path="/login">
               <Login />
             </Route>

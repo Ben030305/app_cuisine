@@ -88,7 +88,6 @@ const Explorer: React.FC = () => {
       );
     } else {
       return (
-        console.log(categorie, sousCategorie),
         <IonList>
           {results.map((result) => (
             <IonItem key={result.titre} routerLink={result.route} className='item_explorer'>
