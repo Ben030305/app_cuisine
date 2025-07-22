@@ -99,8 +99,7 @@ const App: React.FC = () => {
             <Route exact path="/accueil">
               <Accueil />
             </Route>
-            {buildRoute()}
-            {buildRouteLivre()}
+            {[buildRoute(), buildRouteLivre()]}
             <Route exact path="/login">
               <Login />
             </Route>

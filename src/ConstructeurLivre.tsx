@@ -3,13 +3,11 @@ import Livre from "./pages/Livre";
 
 export function buildRouteLivre() {
 	return (
-		<>
-			{listeLivres.map(livre => (
-				<Route key={livre.route} path={livre.route}>
-					<Livre props={livre} />
-				</Route>
-			))}
-		</>
+		listeLivres.map(livre => (
+			<Route key={livre.titre} path={livre.route}>
+				<Livre props={livre} />
+			</Route>
+		))
 	);
 }
 

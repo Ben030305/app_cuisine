@@ -3,13 +3,11 @@ import Article from "./pages/Article";
 
 export function buildRoute() {
 	return (
-		<>
-			{listeArticles.map(article => (
-				<Route key={article.route} path={article.route}>
-					<Article props={article} />
-				</Route>
-			))}
-		</>
+		listeArticles.map(article => (
+			<Route key={article.titre} path={article.route}>
+				<Article props={article} />
+			</Route>
+		))
 	);
 }
 
@@ -54,7 +52,9 @@ export const cocotte = {
 
 	articlesConnexes: [1, 2],
 
-	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=1024%2C765&amp;ssl=1"
+	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=1024%2C765&amp;ssl=1",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
 }
 
 
@@ -97,7 +97,10 @@ export const banane = {
 
 	articlesConnexes: [0, 2],
 
-	image: "assets/banane.jpg"
+	image: "assets/banane.jpg",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const haricot = {
@@ -106,7 +109,7 @@ export const haricot = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="assets/haricot.png" alt="Cocotte en fonte" decoding="async" />			
+			<img width="300" height="auto" src="assets/haricot.png" alt="Cocotte en fonte" decoding="async" />
 		</div>
 
 
@@ -139,7 +142,10 @@ export const haricot = {
 
 	articlesConnexes: [0, 1],
 
-	image: "assets/haricot.png"
+	image: "assets/haricot.png",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const chien = {
@@ -182,7 +188,10 @@ export const chien = {
 
 	articlesConnexes: [1, 2],
 
-	image: "https://cdn.futura-sciences.com/sources/images/actu/esperance-vie-chiens-chiot-golden-retriever.jpg"
+	image: "https://cdn.futura-sciences.com/sources/images/actu/esperance-vie-chiens-chiot-golden-retriever.jpg",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const chat = {
@@ -225,7 +234,10 @@ export const chat = {
 
 	articlesConnexes: [5, 6],
 
-	image: "https://images.ctfassets.net/denf86kkcx7r/57uYN7JlyDtQ91KvRldrm9/0a0656983993f5e09c4daa0a4fd8f5e6/comment-punir-son-chat-91"
+	image: "https://images.ctfassets.net/denf86kkcx7r/57uYN7JlyDtQ91KvRldrm9/0a0656983993f5e09c4daa0a4fd8f5e6/comment-punir-son-chat-91",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const perroquet = {
@@ -268,7 +280,10 @@ export const perroquet = {
 
 	articlesConnexes: [1, 7],
 
-	image: "https://www.tropical-parc.com/usermedia/photo-634214380368437500-1.jpg?dummy=0&h=800"
+	image: "https://www.tropical-parc.com/usermedia/photo-634214380368437500-1.jpg?dummy=0&h=800",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const canard = {
@@ -311,7 +326,10 @@ export const canard = {
 
 	articlesConnexes: [3, 9],
 
-	image: "https://www.la-coccinelle.fr/wp-content/uploads/2020/06/canard-explication-tte-modeler-du-mot-canard.jpeg"
+	image: "https://www.la-coccinelle.fr/wp-content/uploads/2020/06/canard-explication-tte-modeler-du-mot-canard.jpeg",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const koala = {
@@ -354,7 +372,10 @@ export const koala = {
 
 	articlesConnexes: [1, 5],
 
-	image: "https://www.pandaclub.ch/wp-content/uploads/2019/06/Medium_WW236934.jpg"
+	image: "https://www.pandaclub.ch/wp-content/uploads/2019/06/Medium_WW236934.jpg",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const panda = {
@@ -397,7 +418,10 @@ export const panda = {
 
 	articlesConnexes: [4, 2],
 
-	image: "https://www.europe1.fr/lmnr/var/europe1/storage/media/image/2025/02/15/11/le-panda-geant-n-est-plus-en-danger-mais-reste-menace.jpg?VersionId=wbkAx2q8tla7ApuRokVdH0djhK3eyqqb"
+	image: "https://www.europe1.fr/lmnr/var/europe1/storage/media/image/2025/02/15/11/le-panda-geant-n-est-plus-en-danger-mais-reste-menace.jpg?VersionId=wbkAx2q8tla7ApuRokVdH0djhK3eyqqb",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const raccoon = {
@@ -440,7 +464,10 @@ export const raccoon = {
 
 	articlesConnexes: [7, 8],
 
-	image: "https://content.imageresizer.com/images/memes/Evil-Plotting-Raccoon-meme-1l3qc.jpg"
+	image: "https://content.imageresizer.com/images/memes/Evil-Plotting-Raccoon-meme-1l3qc.jpg",
+
+	lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+
 }
 
 export const listeArticles = [cocotte, banane, haricot, chien, chat, perroquet, canard, koala, panda, raccoon];
