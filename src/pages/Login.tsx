@@ -20,7 +20,7 @@ const Login: React.FC = () => {
   return (
     <IonPage className='format'>
       <IonContent fullscreen>
-        <IonText class='titre'>Login</IonText>
+        <IonText class='titre'>Accéder au kit</IonText>
         <div className='contenu'>
           <IonList class='liste_login'>
             <IonItem>
@@ -30,7 +30,9 @@ const Login: React.FC = () => {
               <IonInput label="Email" labelPlacement="stacked" placeholder="Saisissez votre email" value={data.email} onIonChange={(e) => setData({...data, email: (e.target as HTMLIonInputElement).value as string})}></IonInput>
             </IonItem>
           </IonList>
-          <IonButton onClick={handleConnect}>Se connecter</IonButton>
+          <div className='bouton_centre'>
+            <IonButton onClick={handleConnect}>Se connecter au site</IonButton>
+          </div>
         </div>
       </IonContent>
     </IonPage>

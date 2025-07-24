@@ -1,13 +1,5 @@
 .liste_accueil {
     margin-top: 5dvh;
-}
-
-.item_text_accueil {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.bouton_a_propos {
-    position: relative;
-    text-align: center;
+    border-radius: 2%;
+    padding-bottom: 2dvh;
 }

@@ -76,24 +76,22 @@ const Explorer: React.FC = () => {
   function displayArticles() {
     if (!isSearching) {
       return (
-        <IonList class='article_explorer'>
+        <IonList class='liste_explorer'>
           {articles.map((article, index) => (
-            <IonItem key={index} routerLink={article.route} className='item_explorer'>
+            <IonItem key={index} routerLink={article.route} className='item_liste'>
               <IonImg class='item_image' src={article.image} alt={article.titre}></IonImg>
-              <IonText class='item_text_explorer'>{article.titre}</IonText>
-              <IonButton fill='outline' slot='end' routerLink={article.route}>Télécharger</IonButton>
+              <IonText class='item_texte_liste'>{article.titre}</IonText>
             </IonItem>
           ))}
         </IonList>
       );
     } else {
       return (
-        <IonList>
+        <IonList class='liste_explorer'>
           {results.map((result) => (
-            <IonItem key={result.titre} routerLink={result.route} className='item_explorer'>
+            <IonItem key={result.titre} routerLink={result.route} className='item_liste'>
               <IonImg class='item_image' src={result.image} alt={result.titre}></IonImg>
               <IonText class='item_text_explorer'>{result.titre}</IonText>
-              <IonButton fill='outline' slot='end' routerLink={result.route}>Télécharger</IonButton>
             </IonItem>
           ))}
         </IonList>

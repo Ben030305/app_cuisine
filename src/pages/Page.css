@@ -8,9 +8,15 @@
     position: absolute;
     left: 0;
     right: 0;
-    font-size: 20px;
+    font-size: 1.2em;
     line-height: 26px;
-    padding-top: 1dvh;;
+    padding-top: 1.5dvh;
+    padding-bottom: 1dvh;
+}
+
+.sous_titre {
+    font-size: 1.2em;
+    padding-top: 1dvh;
 }
 
 .contenu {
@@ -22,5 +28,35 @@
 .item_image {
     width: 8dvh;
     height: 8dvh;
+    min-width: 8dvh;
     object-fit: cover;
+}
+
+p {
+    padding-top: 2dvh;
+}
+
+ion-router-link:hover {
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.bouton_centre {
+    text-align: center;
+    padding-top: 2dvh;
+    border-radius: 2%;
+}
+
+.item_texte_liste {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 2dvh;
+}
+
+.item_liste {
+    margin: 20px auto;
+}
+
+span.prix_livre {
+    color: aqua;
 }

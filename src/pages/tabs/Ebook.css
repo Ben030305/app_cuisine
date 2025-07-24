@@ -1,9 +1,21 @@
-.img_ebook {
-    width: 60%;
-    height: auto;
-    max-width: 150px;
+.image_ebook {
+    width: 15dvh;
+    height: 15dvh;
+    min-width: 15dvh;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
 }
 
 .marge_ebook {
-    margin-top: 5dvh;
+    margin-top: 4dvh;
+}
+
+ion-col {
+  color: #fff;
+  text-align: center;
+}
+
+ion-grid {
+  --ion-grid-columns: 2;
 }

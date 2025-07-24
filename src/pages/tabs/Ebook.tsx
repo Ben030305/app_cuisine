@@ -7,7 +7,7 @@ import { useState } from 'react';
 
 const Ebook: React.FC = () => {
 
-  const nbColumns = 3;
+  const nbColumns = 2;
 
   const [tri, setTri] = useState("0");
   const [livres, setLivres] = useState(listeLivres)
@@ -62,21 +62,24 @@ const Ebook: React.FC = () => {
   function loadBooks(){
     const matLivres = createMatrix(livres,listeLivres.length);
     return(
-      <IonGrid fixed={true} class='marge_ebook'>
-        {matLivres.map((listeLivre,index) => (
-        <IonRow class="row_ebook" key={index}>
-          {listeLivre.map((livre) => (
-            <IonCol key={livre.titre}>
-              <IonRouterLink routerLink={livre.route} color={'dark'}>
-                <IonImg className="img_ebook" src={livre.image}></IonImg>
-                <IonText class='text_ebook'>{livre.titre}</IonText>
-              </IonRouterLink>
-            </IonCol>
-          ) 
-          )}
-        </IonRow>    
-        ))}
-      </IonGrid>
+      <IonList>
+        <IonGrid fixed={true} class='marge_ebook'>
+          {matLivres.map((listeLivre,index) => (
+          <IonRow class="ion-justify-content-around" key={index}>
+            {listeLivre.map((livre) => (
+              <IonCol size="1" key={livre.titre}>
+                <IonRouterLink routerLink={livre.route} color={'dark'}>
+                  <IonImg className="image_ebook" src={livre.image}></IonImg>
+                  <IonText class='text_ebook'>{livre.titre} - <span className='prix_livre'>{livre.tarif}€</span></IonText>
+                </IonRouterLink>
+              </IonCol>
+            ) 
+            )}
+          </IonRow>    
+          ))}
+        </IonGrid>
+      </IonList>
+      
     )
 
   }

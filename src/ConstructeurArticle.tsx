@@ -40,7 +40,7 @@ export const cocotte = {
 
 	</article>,
 
-	titre: "cocotte",
+	titre: "Réussir un diplôme en candidat libre malgré un emploi du temps chargé : les secrets de ceux qui ont réussi",
 
 	route: "/article/cocotte",
 

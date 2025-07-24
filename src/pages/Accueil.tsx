@@ -4,18 +4,17 @@ import './Page.css';
 import './Accueil.css';
 import { listeArticles } from '../ConstructeurArticle';
 
-const tailleListe = 10;
-const articles = listeArticles;
+const tailleListe = 6;
+const articles = [...listeArticles];
 articles.length = tailleListe;
 
 function buildAccueil() {
   return (
       <IonList className='liste_accueil'>
         {articles.map(article => (
-          <IonItem routerLink={article.route} key={article.titre}>
+          <IonItem className='item_liste' routerLink={article.route} key={article.titre}>
             <IonImg class='item_image' src={article.image} alt={article.titre}></IonImg>
-            <IonText class='item_text_accueil'>{article.titre}</IonText>
-            <IonButton fill='outline' slot='end' routerLink={article.route}>Télécharger</IonButton>
+            <IonText class='item_texte_liste'>{article.titre}</IonText>
           </IonItem>
         ))}
       </IonList>
@@ -28,9 +27,9 @@ const Accueil: React.FC = () => {
         <IonText class='titre'>Accueil</IonText>
         <div className='contenu'>
           {buildAccueil()}
-          <IonButton expand='full' fill='solid' routerLink='/a_propos'>
-            <IonText>À propos</IonText>
-          </IonButton>
+          <div className='bouton_centre'>
+            <IonButton expand='block' fill='solid' routerLink='/a_propos'>À propos</IonButton>
+          </div>
         </div>
       </IonContent>
     </IonPage>
