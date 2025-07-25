@@ -1,6 +1,10 @@
-.image_article {
-    display: block;
-    width: 20vw;
-    max-width: 200px;
+.post-image {
+    max-width: 45dvh;
     height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 2dvh;
+}
+.liste_article {
+    margin-top: 5dvh;
 }

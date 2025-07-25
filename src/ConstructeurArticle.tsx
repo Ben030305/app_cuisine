@@ -18,7 +18,7 @@ export const cocotte = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=1024%2C765&amp;ssl=1" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
+			<img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=1024%2C765&amp;ssl=1" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -64,7 +64,7 @@ export const banane = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="assets/banane.jpg" alt="Banane" decoding="async" />
+			<img src="https://i.pinimg.com/736x/dc/1f/2f/dc1f2f178687d19ad2c4970ac6d24a20.jpg" alt="Banane" decoding="async" />
 		</div>
 
 
@@ -109,7 +109,7 @@ export const haricot = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="assets/haricot.png" alt="Cocotte en fonte" decoding="async" />
+			<img src="https://media02.stockfood.com/largepreviews/NDQ2NDUyNw==/00144017-A-Single-Green-Bean.jpg" alt="Cocotte en fonte" decoding="async" />
 		</div>
 
 
@@ -154,7 +154,7 @@ export const chien = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://cdn.futura-sciences.com/sources/images/actu/esperance-vie-chiens-chiot-golden-retriever.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Chien" decoding="async" />			</div>
+			<img src="https://cdn.futura-sciences.com/sources/images/actu/esperance-vie-chiens-chiot-golden-retriever.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Chien" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -200,7 +200,7 @@ export const chat = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://images.ctfassets.net/denf86kkcx7r/57uYN7JlyDtQ91KvRldrm9/0a0656983993f5e09c4daa0a4fd8f5e6/comment-punir-son-chat-91" alt="Chat" decoding="async" />			</div>
+			<img src="https://images.ctfassets.net/denf86kkcx7r/57uYN7JlyDtQ91KvRldrm9/0a0656983993f5e09c4daa0a4fd8f5e6/comment-punir-son-chat-91" alt="Chat" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -246,7 +246,7 @@ export const perroquet = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://www.tropical-parc.com/usermedia/photo-634214380368437500-1.jpg?dummy=0&h=800" alt="Perroquet" decoding="async" />			</div>
+			<img src="https://www.tropical-parc.com/usermedia/photo-634214380368437500-1.jpg?dummy=0&h=800" alt="Perroquet" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -292,7 +292,7 @@ export const canard = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://www.la-coccinelle.fr/wp-content/uploads/2020/06/canard-explication-tte-modeler-du-mot-canard.jpeg" alt="Canard" decoding="async" />			</div>
+			<img src="https://www.la-coccinelle.fr/wp-content/uploads/2020/06/canard-explication-tte-modeler-du-mot-canard.jpeg" alt="Canard" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -338,7 +338,7 @@ export const koala = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://www.pandaclub.ch/wp-content/uploads/2019/06/Medium_WW236934.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Koala" decoding="async" />			</div>
+			<img src="https://www.pandaclub.ch/wp-content/uploads/2019/06/Medium_WW236934.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Koala" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -384,7 +384,7 @@ export const panda = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://www.europe1.fr/lmnr/var/europe1/storage/media/image/2025/02/15/11/le-panda-geant-n-est-plus-en-danger-mais-reste-menace.jpg?VersionId=wbkAx2q8tla7ApuRokVdH0djhK3eyqqb" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
+			<img src="https://www.europe1.fr/lmnr/var/europe1/storage/media/image/2025/02/15/11/le-panda-geant-n-est-plus-en-danger-mais-reste-menace.jpg?VersionId=wbkAx2q8tla7ApuRokVdH0djhK3eyqqb" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
 
 
 		<div className="post-content">
@@ -430,7 +430,7 @@ export const raccoon = {
 
 
 		<div className="post-image">
-			<img width="300" height="auto" src="https://content.imageresizer.com/images/memes/Evil-Plotting-Raccoon-meme-1l3qc.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
+			<img src="https://content.imageresizer.com/images/memes/Evil-Plotting-Raccoon-meme-1l3qc.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Cocotte en fonte" decoding="async" />			</div>
 
 
 		<div className="post-content">

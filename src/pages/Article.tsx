@@ -17,9 +17,9 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
     return (
       <IonList className='liste_article'>
         {props.articlesConnexes.map((indice: number) => (
-          <IonItem routerLink={listeArticles[indice].route} key={listeArticles[indice].titre}>
+          <IonItem className='item_liste' routerLink={listeArticles[indice].route} key={listeArticles[indice].titre}>
             <IonImg class='item_image' src={listeArticles[indice].image} alt={listeArticles[indice].titre}></IonImg>
-            <IonText slot='end'> {listeArticles[indice].titre} </IonText>
+            <IonText class='item_texte_liste'> {listeArticles[indice].titre} </IonText>
           </IonItem>
         ))}
       </IonList>
@@ -33,11 +33,13 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
           <IonText>
             {contenu}
           </IonText>
-          <IonButton id='download' onClick={handleDownload}>Télécharger l'article</IonButton>
-          <IonButton id='share' onClick={() => shareArticle(props.lien)}>Partager l'article</IonButton>
+          <div className='bouton_centre'>
+            <IonButton id={'download_' + props.titre} onClick={handleDownload}>Télécharger l'article</IonButton>
+            <IonButton id={'share' + props.titre} onClick={() => shareArticle(props.lien)}>Partager l'article</IonButton>
+          </div>
           {buildItem()}
-          <IonToast trigger='download' message={`Article ${props.titre} téléchargé dans Documents`} duration={5000}></IonToast>
-          <IonToast trigger='share' message={`Lien de l'article copié dans le presse papier`} duration={5000}></IonToast>
+          <IonToast trigger={'download_' + props.titre} message={`Article ${props.titre} téléchargé dans Documents`} duration={3000}></IonToast>
+          <IonToast trigger={'share' + props.titre} message={`Lien de l'article copié dans le presse papier`} duration={3000}></IonToast>
         </IonContent>
       </IonPage>
     );

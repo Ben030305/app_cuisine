@@ -1,4 +1,4 @@
-import { IonCol, IonContent, IonGrid, IonImg, IonItem, IonList, IonPage, IonRouterLink, IonRow, IonSelect, IonSelectOption, IonText } from '@ionic/react';
+import { IonCol, IonContent, IonGrid, IonImg, IonItem, IonList, IonPage, IonRouterLink, IonRow, IonSelect, IonSelectOption, IonText, IonToolbar } from '@ionic/react';
 import './../Page.css';
 import './Ebook.css';
 import { listeLivres } from '../../ConstructeurLivre';
@@ -63,7 +63,7 @@ const Ebook: React.FC = () => {
     const matLivres = createMatrix(livres,listeLivres.length);
     return(
       <IonList>
-        <IonGrid fixed={true} class='marge_ebook'>
+        <IonGrid fixed={true}>
           {matLivres.map((listeLivre,index) => (
           <IonRow class="ion-justify-content-around" key={index}>
             {listeLivre.map((livre) => (
@@ -89,7 +89,8 @@ const Ebook: React.FC = () => {
         <IonText class='titre'>Ebook</IonText>
         <div className='contenu'>
           <IonList class='marge_ebook'>
-            <IonItem>
+            <IonToolbar class='toolbar'>
+              <IonItem>
               <IonSelect aria-label="Filtre" interface="popover" placeholder="Tri" value={tri} onIonChange={(e) => {
                 setTri(e.detail.value);
                 const sortedLivres = sortLivres(e.detail.value,listeLivres);
@@ -100,7 +101,8 @@ const Ebook: React.FC = () => {
                 <IonSelectOption value="1">Par prix croissant</IonSelectOption>
                 <IonSelectOption value="2">Par prix décroissant</IonSelectOption>
               </IonSelect>
-            </IonItem>
+              </IonItem>
+            </IonToolbar>
           </IonList>
           {loadBooks()}
         </div>

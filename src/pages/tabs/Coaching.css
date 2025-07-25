@@ -3,3 +3,8 @@
     max-width: 100px;
     height: auto;
 }
+
+.souligner_texte {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}

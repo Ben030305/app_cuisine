@@ -11,7 +11,6 @@
     font-size: 1.2em;
     line-height: 26px;
     padding-top: 1.5dvh;
-    padding-bottom: 1dvh;
 }
 
 .sous_titre {
@@ -20,7 +19,7 @@
 }
 
 .contenu {
-    padding-top: 4dvh;
+    padding-top: 6dvh;
     font-size: 16px;
     line-height: 24px;
 }
@@ -59,4 +58,8 @@ ion-router-link:hover {
 
 span.prix_livre {
     color: aqua;
+}
+
+.texte_centre {
+    text-align: center;
 }
