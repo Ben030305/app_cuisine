@@ -61,13 +61,14 @@ import { StatusBar } from '@capacitor/status-bar';
 import { buildRoute, listeArticles } from './ConstructeurArticle';
 import { buildRouteLivre } from './ConstructeurLivre';
 import { Preferences } from '@capacitor/preferences';
+import { useState } from 'react';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
 
 const App: React.FC = () => {
 
-  let firstScreen = "/accueil";
+  const [firstScreen, setFirstScreen] = useState("");
 
   const setHasSeenTutorial = async () => {
     await Preferences.set({
@@ -78,14 +79,23 @@ const App: React.FC = () => {
   
   const checkTutorial = async () => {
     const { value } = await Preferences.get({ key: 'tutorial' });
-
+    console.log("On check le tuto" + firstScreen);
     if(value != 'true') {
-      firstScreen = "/tutoriel"
-      setHasSeenTutorial;
+      setFirstScreen("/tutoriel");
+      setHasSeenTutorial();
+      console.log(value);
+    } else {
+      setFirstScreen("/accueil");
     }
+    console.log(value);
   };
 
-  checkTutorial;
+  function checkDefaultRoute() {
+    checkTutorial();
+    return (
+      <Redirect to={firstScreen} />
+    );
+  }
 
   return (
     <IonApp>
@@ -131,7 +141,7 @@ const App: React.FC = () => {
               <Tutoriel />
             </Route>
             <Route exact path="/">
-              <Redirect to={firstScreen}/>
+              {checkDefaultRoute()}            
             </Route>
 
           </IonRouterOutlet>
