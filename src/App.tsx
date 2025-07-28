@@ -25,7 +25,11 @@ import Tab5 from './pages/tabs/Kit';
 import Accueil from './pages/Accueil';
 import APropos from './pages/APropos';
 import Login from './pages/Login';
-import Tutoriel from './pages/Tutoriel'
+import Tutoriel from './pages/Tutoriel';
+import QuiSuisJe from './pages/QuiSuisJe';
+import Pourquoi from './pages/Pourquoi';
+import MentionsLegales from './pages/MentionsLegales';
+import ConditionsVente from './pages/ConditionsVente';
 import './style.css';
 
 /* Core CSS required for Ionic components to work properly */
@@ -142,6 +146,18 @@ const App: React.FC = () => {
             </Route>
             <Route exact path="/">
               {checkDefaultRoute()}            
+            </Route>
+            <Route exact path="/qui_suis_je">
+              <QuiSuisJe />
+            </Route>
+            <Route exact path="/pourquoi_cuisine_de_base">
+              <Pourquoi />
+            </Route>
+            <Route exact path="/mentions_legales">
+              <MentionsLegales />
+            </Route>
+            <Route exact path="/conditions_generales_de_vente">
+              <ConditionsVente />
             </Route>
 
           </IonRouterOutlet>
