@@ -11,9 +11,7 @@ const Pourquoi: React.FC = () => {
             <div className="post-content">
 
 		<div className="entry-content clearfix">
-
-			<p>
-</p><ul>
+<ul>
 <li>
 <div><span>La «&nbsp;malbouffe&nbsp;» est partout et elle est très facile à consommer.</span></div>
 </li>
