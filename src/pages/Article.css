@@ -8,3 +8,9 @@
 .liste_article {
     margin-top: 5dvh;
 }
+
+.post-content {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+}

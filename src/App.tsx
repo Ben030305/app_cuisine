@@ -24,8 +24,8 @@ import Tab4 from './pages/tabs/Coaching';
 import Tab5 from './pages/tabs/Kit';
 import Accueil from './pages/Accueil';
 import APropos from './pages/APropos';
-import Livre from './pages/Livre';
 import Login from './pages/Login';
+import Tutoriel from './pages/Tutoriel'
 import './style.css';
 
 /* Core CSS required for Ionic components to work properly */
@@ -60,11 +60,32 @@ import './theme/variables.css';
 import { StatusBar } from '@capacitor/status-bar';
 import { buildRoute, listeArticles } from './ConstructeurArticle';
 import { buildRouteLivre } from './ConstructeurLivre';
+import { Preferences } from '@capacitor/preferences';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });
 
 const App: React.FC = () => {
+
+  let firstScreen = "/accueil";
+
+  const setHasSeenTutorial = async () => {
+    await Preferences.set({
+      key: 'tutorial',
+      value: 'true',
+    });
+  };
+  
+  const checkTutorial = async () => {
+    const { value } = await Preferences.get({ key: 'tutorial' });
+
+    if(value != 'true') {
+      firstScreen = "/tutoriel"
+      setHasSeenTutorial;
+    }
+  };
+
+  checkTutorial;
 
   return (
     <IonApp>
@@ -106,8 +127,11 @@ const App: React.FC = () => {
             <Route exact path="/a_propos">
               <APropos />
             </Route>
+            <Route exact path="/tutoriel">
+              <Tutoriel />
+            </Route>
             <Route exact path="/">
-              <Redirect to="/accueil" />
+              <Redirect to={firstScreen}/>
             </Route>
 
           </IonRouterOutlet>

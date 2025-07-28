@@ -8,7 +8,9 @@
     position: absolute;
     left: 0;
     right: 0;
-    font-size: 1.2em;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     line-height: 26px;
     padding-top: 1.5dvh;
 }
@@ -19,9 +21,10 @@
 }
 
 .contenu {
-    padding-top: 6dvh;
+    padding-top: 7dvh;
     font-size: 16px;
     line-height: 24px;
+    text-align: justify;
 }
 
 .item_image {

@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonItem, IonList, IonPage, IonText, IonToolbar } from '@ionic/react';
+import { IonContent, IonItem, IonList, IonPage, IonText } from '@ionic/react';
 import './Page.css';
 import './APropos.css';
 
@@ -20,6 +20,9 @@ const APropos: React.FC = () => {
             </IonItem>
             <IonItem routerLink='/article/conditions_generales_de_vente' className='item_a_propos'>
               <IonText>Conditions générales de vente</IonText>
+            </IonItem>
+            <IonItem routerLink='/tutoriel' className='item_a_propos'>
+              <IonText>Tutoriel de l'application</IonText>
             </IonItem>
           </IonList>
         </div>

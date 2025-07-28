@@ -26,6 +26,12 @@ const Accueil: React.FC = () => {
       <IonContent fullscreen>
         <IonText class='titre'>Accueil</IonText>
         <div className='contenu'>
+          <IonText>
+            <div className='texte_accueil'>
+            Bienvenue sur l'application Cuisine de base ! Vous trouverez sur cette page les derniers articles parus. <br></br>
+            Si vous êtes novice en cuisine et que vous souhaitez apprendre les bases, rendez-vous dans le menu <b>Débutant</b> !
+            </div>
+          </IonText>
           {buildAccueil()}
           <div className='bouton_centre'>
             <IonButton expand='block' fill='solid' routerLink='/a_propos'>À propos</IonButton>
