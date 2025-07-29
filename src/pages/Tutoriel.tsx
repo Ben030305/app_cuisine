@@ -18,7 +18,7 @@ const Tutoriel: React.FC = () => {
               <li>dans <b>Coaching</b>, vous aurez la possibilité d'obtenir un appel avec moi pour que je vous aide à obtenir votre CAP cuisine,</li>
               <li>dans <b>Kit</b>, vous serez en mesure de télécharger <b>gratuitement</b> mon kit candidat libre pour le CAP cuisine !</li>
             </ul>
-            <p>Si vous souhaitez en apprendre plus sur moi ou consulter à nouveau le tutoriel, rendez-vous dans la page d'accueil (disponible en cliquant sur le titre en haut de l'écran), puis dans <b>À Propos</b> !</p> 
+            <p>Si vous souhaitez en apprendre plus sur moi ou consulter à nouveau le tutoriel, rendez-vous sur la page d'accueil (disponible en cliquant sur le titre en haut de l'écran), puis dans <b>À Propos</b> !</p> 
             <p>Bon travail !</p>
           </IonText>
         </div>

@@ -1,4 +1,4 @@
-import { IonButton, IonContent, IonPage, IonRouterLink, IonText } from '@ionic/react';
+import { IonButton, IonContent, IonImg, IonPage, IonRouterLink, IonText } from '@ionic/react';
 import './../Page.css'
 import './Debutant.css';
 
@@ -8,6 +8,7 @@ const Debutant: React.FC = () => {
       <IonContent fullscreen>
         <IonText class='titre'>Débutant, commencez ici</IonText>
         <div className='contenu'>
+          <IonImg class='post-image' src='https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/Cuisine2.jpg?w=1024&ssl=1' alt='icônes de cuisine'></IonImg>
           <IonText class='corps_debutant'>
             <p>
               Si vous êtes <b>débutant en cuisine</b>, que vous ayez déjà suivi des cours ou non, bienvenue !
