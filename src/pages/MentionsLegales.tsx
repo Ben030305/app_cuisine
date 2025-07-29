@@ -2,7 +2,7 @@ import { IonContent, IonPage, IonText } from '@ionic/react';
 import './Page.css';
 
 const Texte = <div><p><strong>Responsable du site</strong></p>
-<p>Hicham YOUSSEF<br></br>Adresse : 8 Rue Louis Beaunie 77000 Melun<br></br>Tél : 07 83 53 41 00<br></br>Mail : contact@cuisinedebase.com</p>
+<p>Hicham YOUSSEF<br></br>Adresse : 8 Rue Louis Beaunier 77000 Melun<br></br>Tél : 07 83 53 41 00<br></br>Mail : contact@cuisinedebase.com</p>
   <p><strong>Hébergement du site</strong></p>
   <p>OVH&nbsp; – 2 rue Kellermann – 59100 Roubaix – France</p>
   <p><strong>Protection de la vie privée</strong></p>

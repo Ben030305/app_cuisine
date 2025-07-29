@@ -37,7 +37,7 @@ const quiSuisJe = <div className="post-content">
 
 
 
-        <p>Grâce au boom que connaît les nouveaux médias et système d’information, le savoir est maintenant à la portée de tout le monde. Il suffit d’être autodidacte&nbsp; et motivé pour apprendre grâce à des formations numériques, qu’elles soient gratuites ou payantes. les amateurs de la cuisine empruntent de plus en plus cette voie pour se perfectionner dans l’art culinaire.</p>
+        <p>Grâce au boom que connaît les nouveaux médias et système d’information, le savoir est maintenant à la portée de tout le monde. Il suffit d’être autodidacte et motivé pour apprendre grâce à des formations numériques, qu’elles soient gratuites ou payantes. les amateurs de la cuisine empruntent de plus en plus cette voie pour se perfectionner dans l’art culinaire.</p>
 
 
 
