@@ -11,7 +11,6 @@ export function buildRoute() {
 	);
 }
 
-
 export const cocotte = {
 
 	contenu: <article id="post-3219" className="cocotte">
@@ -471,3 +470,5 @@ export const raccoon = {
 }
 
 export const listeArticles = [cocotte, banane, haricot, chien, chat, perroquet, canard, koala, panda, raccoon];
+
+
