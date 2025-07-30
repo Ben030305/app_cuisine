@@ -9392,4 +9392,2325 @@ const B52 = {
     lien: 'https://cuisinedebase.com/les-principales-phases-de-la-cuisson-du-sucre/'
 }
 
-export const listeArticles = [B31, B32, B33, B34, B35, B36, B37, B38, B39, B40, B41, B42, B43, B44, B45, B46, B47, B48, B49, B50, B51, B52];
+const R1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment améliorer ses opportunités professionnelles grâce à la MC cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<h2 className="sous_titre">Connaitre les métiers accessibles après la MC cuisine&nbsp;pour <strong>améliorer ses opportunités professionnelles</strong>:</h2>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg" alt="Chef cuisinier diplômé d'une MC cuisine" className="wp-image-2840" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Chef cuisinier</figcaption></figure></div>
+
+
+<p>La <strong>mention complémentaire cuisine</strong> permet aux diplômés d’acquérir des compétences approfondies dans le domaine de la cuisine. Ce qui leur ouvre de nombreuses portes dans l’industrie de la restauration. Voici quelques exemples de métiers auxquels un diplômé peut prétendre pour <strong>améliorer ses opportunités professionnelles</strong>:</p>
+
+
+
+<h2 className="sous_titre">Chef de partie : </h2>
+
+
+
+<p>Le poste de chef de partie correspond à un poste intermédiaire en cuisine. Avec des responsabilités spécifiques, telles que la préparation d’un type de plat ou la <strong>gestion d’une section de la cuisine</strong>.</p>
+
+
+
+<h2 className="sous_titre">Chef de cuisine : </h2>
+
+
+
+<p>Puis le poste de chef de cuisine. Celui-ci est responsable de la gestion globale de la cuisine, de la création des menus et de la supervision du personnel.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" width="200" height="300" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1" alt="améliorer ses opportunités professionnelles" className="wp-image-2843" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption"><strong>améliorer ses opportunités professionnelles</strong></figcaption></figure></div>
+
+
+<h2 className="sous_titre">Second de cuisine : </h2>
+
+
+
+<p>Ce poste est un poste de supervision intermédiaire en cuisine. Effectivement, le second de cuisine est responsable de la gestion du personnel et de la coordination des activités de la cuisine.</p>
+
+
+
+<h2 className="sous_titre">Chef pâtissier :</h2>
+
+
+
+<p>Ce poste est responsable de la création et de la préparation de desserts et de pâtisseries, ainsi que de la gestion du personnel travaillant dans la section pâtisserie.</p>
+
+
+
+<h2 className="sous_titre">Traiteur : </h2>
+
+
+
+<p>Ce poste est responsable de la planification, de la préparation et de la présentation de repas pour des événements, tels que des mariages ou des conférences.</p>
+
+
+
+<h2 className="sous_titre">Les établissements pouvant recruter des diplômés de la mention complémentaire cuisine :&nbsp;</h2>
+
+
+
+<p>Les <strong><a href="https://cuisinedebase.com/mention-complementaire-cuisine-formation/">diplômés de la mention complémentaire cuisine</a></strong> peuvent trouver un emploi dans <strong>différents types d’établissements de restauration</strong>, tels que :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Restaurants gastronomiques et étoilés</li>
+
+
+
+<li>Brasseries et bistrots</li>
+
+
+
+<li>Traiteurs</li>
+
+
+
+<li>Hôtels</li>
+
+
+
+<li>Croisières</li>
+
+
+
+<li>Compagnies aériennes</li>
+
+
+
+<li>Établissements de restauration collective (écoles, hôpitaux, entreprises)</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Les opportunités de formation après la mention complémentaire cuisine&nbsp;:</h2>
+
+
+
+<p>Aussi, il est possible d’<strong>améliorer ses opportunités professionnelles</strong> avec une formation. En effet, la <strong>mention complémentaire cuisine</strong> peut également servir de base pour des <strong>formations complémentaires</strong> et des <strong>opportunités de formation continue</strong>, telles que :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Formations spécialisées dans des <strong>techniques culinaires particulières</strong>, telles que la pâtisserie, la boulangerie ou la cuisine moléculaire.</li>
+
+
+
+<li><strong>Formations en management et en gestion</strong> pour les professionnels souhaitant évoluer vers des postes de management en cuisine.</li>
+
+
+
+<li>Ensuite, des <strong>formations sur des produits spécifiques</strong>, tels que le fromage ou le vin, pour les professionnels souhaitant acquérir une expertise dans des domaines spécifiques.</li>
+
+
+
+<li><strong>Formations sur des techniques de vente et de marketing</strong> pour les professionnels souhaitant créer leur propre entreprise de restauration.</li>
+</ul>
+
+
+
+<p>En somme, la<strong> mention complémentaire cuisine</strong> ouvre de nombreuses portes pour les diplômés qui souhaitent <strong>améliorer leurs opportunités professionnelles</strong> et travailler dans <strong>l’industrie de la restauration</strong>. Et offre également des possibilités de <strong>développement professionnel</strong> et de formation continue.</p>
+
+
+
+<h2 className="sous_titre">Les compétences techniques liées à la cuisine :&nbsp;</h2>
+
+
+
+<p>La <strong>mention complémentaire cuisine </strong>permet aux diplômés d’acquérir des <strong>compétences techniques approfondies en matière de cuisine</strong>. Les diplômés sont en mesure de préparer des plats sophistiqués et de maîtriser des techniques culinaires avancées. Ils apprennent également à gérer les différentes étapes de la préparation des plats, à travailler sous pression et à <strong>respecter les normes d’hygiène et de sécurité alimentaire</strong>.</p>
+
+
+
+<h2 className="sous_titre">Les compétences transversales acquises pendant la formation :&nbsp;</h2>
+
+
+
+<p>Outre les <strong>compétences techniques liées à la cuisine</strong>, la mention complémentaire cuisine permet également aux diplômés d’acquérir des compétences transversales. En effet, celles-ci sont essentielles pour travailler dans l’industrie de la restauration. Les diplômés apprennent à <strong>travailler en équipe</strong>, à communiquer efficacement avec les clients et les membres du personnel, à gérer leur temps et à résoudre des problèmes. Ils acquièrent également des compétences en matière de leadership et de gestion. Ce qui leur permet d’évoluer vers des postes de management en cuisine.</p>
+
+
+
+<h2 className="sous_titre">L’importance des compétences acquises pour les employeurs potentiels :&nbsp;</h2>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg" alt="améliorer ses opportunités professionnelles" className="wp-image-2841" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-1-1.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption"><strong>améliorer ses opportunités professionnelles</strong></figcaption></figure></div>
+
+
+<p>Les <strong>compétences acquises pendant la formation en mention complémentaire cuisine</strong> sont très importantes pour les employeurs potentiels. Les diplômés de cette formation sont très recherchés par les employeurs dans l’industrie de la restauration en raison de leur expertise technique et de leurs compétences transversales. Les diplômés sont en mesure de travailler de manière autonome, de gérer leur temps et de prendre des décisions critiques en matière de cuisine. Ils sont également en mesure de travailler efficacement en équipe et de communiquer efficacement avec les clients, ce qui est essentiel dans l’industrie de la restauration.</p>
+
+
+
+<p>En somme, la mention complémentaire cuisine permet aux diplômés d’acquérir des compétences techniques avancées en matière de cuisine, ainsi que des compétences transversales qui sont essentielles pour travailler dans l’industrie de la restauration. Les compétences acquises pendant la formation sont très importantes pour les employeurs potentiels, car elles permettent aux diplômés de travailler efficacement en cuisine et de s’adapter aux différents environnements de travail.</p>
+
+
+
+<h2 className="sous_titre">L’impact positif sur la carrière professionnelle&nbsp;:</h2>
+
+
+
+<p>La mention complémentaire cuisine offre de nombreux avantages en termes de carrière professionnelle. Les diplômés de cette formation sont très recherchés par les employeurs dans l’industrie de la restauration en raison de leur expertise technique et de leurs compétences transversales. Les diplômés ont également la possibilité de progresser dans leur carrière et d’évoluer vers des postes de management en cuisine. En outre, la mention complémentaire cuisine peut également ouvrir des portes à l’étranger, offrant ainsi des opportunités de carrière à l’international.</p>
+
+
+
+<h2 className="sous_titre">La possibilité d’ouvrir son propre restaurant ou d’être consultant en cuisine&nbsp;:</h2>
+
+
+
+<p>La mention complémentaire cuisine offre également la possibilité d’ouvrir son propre restaurant ou de devenir consultant en cuisine. Les diplômés sont en mesure de concevoir et de créer des menus sophistiqués et de gérer efficacement leur restaurant. La formation leur permet également de se spécialiser dans un domaine particulier de la cuisine, tels que la cuisine moléculaire ou la cuisine végétarienne, ce qui peut ouvrir des portes vers des opportunités de consultation.</p>
+
+
+
+<h2 className="sous_titre">Les avantages d’avoir un diplôme de cuisine reconnu dans le secteur de la restauration&nbsp;:</h2>
+
+
+
+<p>La mention complémentaire cuisine est un diplôme reconnu dans le secteur de la restauration, ce qui peut offrir de nombreux avantages aux diplômés. Les employeurs sont souvent plus enclins à recruter des diplômés de la mention complémentaire cuisine en raison de leur expertise technique et de leurs compétences transversales. Les diplômés sont également en mesure de négocier des salaires plus élevés et de bénéficier de meilleures conditions de travail. En outre, les diplômés peuvent également accéder à des opportunités de formation continue pour se perfectionner dans leur domaine.</p>
+
+
+
+<p>En somme, la mention complémentaire cuisine offre de nombreux avantages aux diplômés en termes de carrière professionnelle, en leur offrant des opportunités de progression et la possibilité d’ouvrir leur propre restaurant ou de devenir consultant en cuisine. Les diplômés bénéficient également de la reconnaissance du secteur de la restauration et sont en mesure de négocier des salaires plus élevés et de meilleures conditions de travail.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg" alt="Chef cuisinier diplômé d'une MC cuisine" className="wp-image-2842" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?w=1152&amp;ssl=1 1152w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Eva-Mendes-deguised-as-chef-holding-a-French-cooki.jpg?resize=135%2C90&amp;ssl=1 135w"></img><figcaption className="wp-element-caption"><strong>améliorer ses opportunités professionnelles</strong></figcaption></figure></div>
+
+
+<h2 className="sous_titre">Comment <strong>améliorer ses opportunités professionnelles</strong> avec une MC cuisine</h2>
+
+
+
+<p>En conclusion, la mention complémentaire cuisine est une formation reconnue dans l’industrie de la restauration qui offre de nombreux avantages aux diplômés. Les compétences techniques et transversales acquises pendant la formation sont très recherchées par les employeurs, offrant ainsi de nombreuses opportunités de carrière et de progression professionnelle. De plus, les diplômés ont la possibilité d’ouvrir leur propre restaurant ou de devenir consultant en cuisine, offrant ainsi une flexibilité et une indépendance professionnelle. Enfin, la reconnaissance du secteur de la restauration de la mention complémentaire cuisine permet aux diplômés de négocier des salaires plus élevés et de bénéficier de meilleures conditions de travail. En somme, la mention complémentaire cuisine est une formation de choix pour ceux qui cherchent à se spécialiser dans le domaine culinaire et à construire une carrière solide dans l’industrie de la restauration.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment améliorer ses opportunités professionnelles grâce à la MC cuisine",
+
+    route: "/article/ameliorer-opportunites-professionnelles-mc-cuisine",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg",
+
+    lien: 'https://cuisinedebase.com/ameliorer-opportunites-professionnelles-mc-cuisine/'
+}
+
+const R2 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Reconversion professionnelle. Evaluation de compétence  pour ouvrir son propre restaurant</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg" alt="Reconversion professionnelle en restauration. Evaluation de compétence" className="wp-image-2833" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Reconversion professionnelle en restauration. Evaluation de compétence</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Les compétences nécessaires pour ouvrir un restaurant</h2>
+
+
+
+<p>Tout d’abord, il est important de comprendre que le succès d’un restaurant ne repose pas seulement sur la qualité de la cuisine. Il faut également être capable de gérer les aspects financiers, juridiques et administratifs de l’entreprise. Alors, la première étape est de dresser une<a href="https://cuisinedebase.com/les-competences-indispensables-pour-ouvrir-un-restaurant/"> liste des compétences nécessaires pour ouvrir et gérer un restaurant</a>. Cela inclut des compétences culinaires de base telles que la préparation de plats et la connaissance des ingrédients. Mais aussi des compétences en gestion, telles que la comptabilité, la gestion des stocks et la gestion des employés. Ainsi, si vous n’avez jamais géré une entreprise auparavant, il est important de vous former ou de vous entourer de professionnels compétents pour vous accompagner dans cette étape.</p>
+
+
+
+<p>Ensuite, vous devez évaluer vos compétences en cuisine. Avez-vous une expérience suffisante en cuisine ? Avez-vous des compétences en gestion des stocks et des coûts&nbsp;? Avez-vous une connaissance approfondie des normes sanitaires et de sécurité&nbsp;? Ce sont des compétences essentielles pour la réussite de votre restaurant.</p>
+
+
+
+<h2 className="sous_titre">Faire un bilan et une <strong>évaluation de compétence</strong></h2>
+
+
+
+<p>Il est donc important de passer en revue ses propres compétences et de déterminer les domaines où il est nécessaire de s’améliorer. Si vous êtes déjà un cuisinier expérimenté, vous pourriez avoir besoin de développer des compétences en gestion. Si vous avez travaillé dans un secteur non lié à la restauration, vous devrez peut-être envisager une formation pour acquérir des compétences culinaires de base&nbsp;: pourquoi pas&nbsp;<strong>passer un CAP cuisine en candidat libre</strong>.</p>
+
+
+
+<p>Il est utile de réaliser un&nbsp;<strong>bilan de compétences</strong>&nbsp;pour évaluer vos compétences actuelles et identifier les domaines où vous devez vous améliorer. Ainsi vous pouvez vous faire aider par un conseiller en orientation professionnelle ou un mentor de la restauration.</p>
+
+
+
+<p>Une fois que vous avez évalué vos compétences, vous pouvez prendre des mesures pour les développer. Cela peut inclure une formation formelle en cuisine ou en gestion, ou une expérience pratique dans un restaurant pour acquérir des compétences pratiques.</p>
+
+
+
+<h2 className="sous_titre">Faire une étude de marché</h2>
+
+
+
+<p>De plus, il est important de connaître votre marché cible et d’adapter votre offre en conséquence. Avez-vous une expérience en marketing ou en gestion de la relation client ? Savez-vous comment faire une étude de marché ? Ces compétences vous permettront de mieux comprendre votre marché et de proposer une offre qui répond aux besoins de vos clients.</p>
+
+
+
+<h2 className="sous_titre"><strong>Evaluation de compétence</strong> en financement et gestion de budget</h2>
+
+
+
+<p>Enfin, il est important de souligner que la création d’un restaurant nécessite un investissement financier important. Avez-vous les compétences en gestion financière pour établir un budget, évaluer les coûts et les profits, et trouver des financements ? Il est important d’être réaliste quant à la viabilité de votre projet avant de vous lancer.</p>
+
+
+
+<p>En somme, la reconversion professionnelle peut être une opportunité passionnante pour ouvrir votre propre restaurant. Mais cela nécessite une évaluation honnête de vos compétences. Prenez le temps de faire un bilan de vos compétences et de vous former ou de vous entourer de professionnels compétents pour vous accompagner dans cette étape. Avec de la patience, de la persévérance et des compétences appropriées, vous pourrez réaliser votre rêve d’ouvrir votre propre restaurant.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les principales phases de la cuisson du sucre",
+
+    route: "/article/reconversion-professionnelle-evaluation-de-competence-pour-ouvrir-son-propre-restaurant",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg",
+
+    lien: 'https://cuisinedebase.com/reconversion-professionnelle-evaluation-de-competence-pour-ouvrir-son-propre-restaurant/'
+}
+
+const R3 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les compétences indispensables pour ouvrir un restaurant</h1>
+
+		<div className="entry-content clearfix">
+
+<h2 className="sous_titre">Les compétences indispensables en cuisine professionnelle&nbsp;</h2>
+
+
+
+<p>Avoir des compétences en cuisine professionnelle est bien sûr essentielle pour ouvrir un restaurant. Il est important de savoir cuisiner et préparer différents types de plats, maîtriser les techniques de cuisson, connaître les ingrédients et les saveurs.</p>
+
+
+
+<p>Pour acquérir ces compétences, il est essentiel de <a href="https://cuisinedebase.com/cinq-astuces-pour-reussir-une-formation-acceleree-de-cap-cuisine/">suivre une&nbsp;<strong>formation de CAP cuisine</strong></a>.&nbsp;Il s’agit d’un diplôme de niveau V qui permet d’apprendre les bases de la cuisine française. La durée de la formation en initial est de deux ans. Mais il est possible de l’effectuer en candidat libre. En effet, le CAP Cuisine est le choix idéal si vous cherchez à apprendre les bases de la cuisine française. Aussi à acquérir des compétences pratiques rapidement.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg" alt="Les compétences indispensables pour un restaurateur" className="wp-image-2828" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=300%2C247&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=1024%2C843&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=768%2C632&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=600%2C494&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=73%2C60&amp;ssl=1 73w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?resize=109%2C90&amp;ssl=1 109w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg?w=1088&amp;ssl=1 1088w"></img><figcaption className="wp-element-caption">Les compétences indispensables pour un restaurateur</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Compétence en gestion d’entreprise et en marketing</h2>
+
+
+
+<p>Ensuite, ouvrir un restaurant, c’est avant tout gérer une entreprise. Ainsi, il est essentiel de posséder des compétences en gestion pour assurer la réussite de son projet. Il faut savoir gérer les finances, établir un budget et élaborer une stratégie commerciale. Puis il est essentiel de savoir optimiser le temps de travail et gérer les stocks, les fournisseurs ainsi que les employés. Pour cela, il est possible de suivre une formation en gestion d’entreprise. Ou bien de se faire accompagner par un expert-comptable ou un consultant en management. En acquérant ces compétences, vous serez en mesure de mieux comprendre les rouages de votre entreprise. Et de prendre les bonnes décisions pour en assurer le succès.</p>
+
+
+
+<h2 className="sous_titre">Les compétences indispensables en service</h2>
+
+
+
+<p>En outre,&nbsp;les compétences en service sont également essentielles pour ouvrir un restaurant. Les clients sont exigeants et attendent un service de qualité pour apprécier leur expérience culinaire. Ainsi, il est important de savoir accueillir les clients avec le sourire, de les conseiller sur les plats et les vins, de dresser les tables avec soin, de servir les plats avec élégance et de répondre aux demandes des clients de manière professionnelle. Les compétences en service peuvent être acquises grâce à des formations spécialisées, à des stages en entreprise ou à une expérience professionnelle dans le domaine de la restauration. En maîtrisant ces compétences, vous pourrez offrir à vos clients une expérience de qualité, ce qui vous permettra de fidéliser votre clientèle et de développer votre chiffre d’affaires.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=200%2C300&amp;ssl=1" alt="Les compétences indispensables pour un restaurateur" className="wp-image-2829" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-waitress-who-looks-like-angelina-jolie-and-does-.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Les compétences indispensables pour un restaurateur</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Les compétences indispensables en gestion des plaintes&nbsp;</h2>
+
+
+
+<p>Effectivement, les compétences en gestion des plaintes sont également essentielles. Pour savoir résoudre les problèmes et les plaintes des clients de manière efficace et professionnelle.</p>
+
+
+
+<h2 className="sous_titre">Compétence en leadership</h2>
+
+
+
+<p>Il est également important d’avoir des compétences en leadership pour diriger votre équipe et donner des instructions claires, motiver les employés, etc. Les compétences en planification sont également essentielles pour planifier les menus, les événements et les horaires de travail.</p>
+
+
+
+<p>Enfin, les compétences en adaptabilité sont également essentielles pour s’adapter aux changements et aux imprévus, être flexible et réactif face aux demandes des clients.</p>
+
+
+
+<p>Il est important de noter que ces compétences ne sont pas exhaustives et que certaines compétences peuvent être plus importantes en fonction du type de restaurant et de la clientèle visée. C’est pourquoi il est essentiel de faire un bilan de compétences personnalisé pour évaluer vos points forts et vos points faibles et vous concentrer sur les domaines qui nécessitent le plus de développement pour atteindre vos objectifs professionnels.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les compétences indispensables pour ouvrir un restaurant",
+
+    route: "/article/les-competences-indispensables-pour-ouvrir-un-restaurant",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg",
+
+    lien: 'https://cuisinedebase.com/les-competences-indispensables-pour-ouvrir-un-restaurant/'
+}
+
+const R4 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment ouvrir un restaurant et le remplir de clients</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png" alt="formation accélérée de CAP cuisine." className="wp-image-2781" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png?w=512&amp;ssl=1 512w"></img><figcaption className="wp-element-caption">formation accélérée de CAP cuisine.</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Se reconvertir dans la restauration</h2>
+
+<ul className="wp-block-list">
+<li> <span >Quelles sont les </span><strong >démarches à effectuer</strong><span >?</span> </li>
+
+
+
+<li> <span >Comment réussir la </span><strong >préparation mon projet</strong><span > ?</span> </li>
+
+
+
+<li> <span >quelles sont les </span><strong >contraintes et obligations</strong><span > à prendre en considération?</span> </li>
+
+
+
+<li> <strong >Combien</strong><span > va me </span><strong >coûter</strong><span > un tel projet?</span> </li>
+
+
+
+<li> <span>…</span> </li>
+</ul>
+
+
+
+<p>Vous trouverez dans cet article les <strong>clés</strong> pour vous <strong>aider</strong> à <strong>mener à bien votre aventure</strong>.</p>
+
+
+
+<p>Alors, dans cet article je traiterai seulement le <strong>projet de restaurant</strong> en dure, donc un bâtiment avec des tables et des chaises <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-smile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/10/wlEmoticon-smile.png?w=910&amp;ssl=1" alt="Sourire"></img> . l’activité de <strong>traiteur</strong> ou de <strong>chef à domicile</strong> n’en fait pas partie. Et si cette activité vous intéresse, j’ai écrit un petit livre sur le sujet que vous pouvez vous le procurer <a href="https://www.amazon.fr/gp/product/1072964635/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=yhiicham-21&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=1072964635&amp;linkId=26049ae0fb7b8548098a4a85e1ac47a6">ici</a></p>
+
+
+
+<h2 className="sous_titre">Le métier du restaurateur</h2>
+
+
+
+<p>Alors, on va commencer par planter le décor, il faut savoir que le <strong>métier de restaurateur</strong> est un métier difficile, <strong>passionnant</strong> mais difficile, <strong>tout plaquer pour ouvrir un restaurant</strong> n’est pas une décision qui se prend à la légère, il faut murement y penser, d’abord tout seul et ensuite en <strong>famille</strong>, et oui, la famille sera obligatoirement <strong>impactée</strong>, fini les diners et soirées en famille, fini les weekends entre amis, …<img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-sadsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/10/wlEmoticon-sadsmile.png?w=910&amp;ssl=1" alt="Triste"></img></p>
+
+
+
+<p>Il y a bien sûr d’autres choses plus <strong>passionnantes</strong> et plus intéressantes mais il faut juste être <strong>conscient</strong> des impacts que cela pourrait engendrer sur votre quotidien.</p>
+
+
+
+<h2 className="sous_titre">Ou se renseigner pour <strong>ouvrir un restaurant</strong></h2>
+
+
+
+<p>Alors une fois que vous avez <strong>bien pensé</strong> et bien pesé le <strong>pour et le contre</strong>, et vous vous êtes décidé de vous <strong>lancer dans l’aventure</strong>, vous devez commencer par penser au <strong>concept</strong> de votre future <strong>restaurant</strong>, quel <strong>type de cuisine</strong> vous comptez faire, quelles expériences vous aimeriez <strong>offrir à vos clients</strong>… et pour cela il faudra commencer par faire une <strong>étude de marché</strong>. Cette étude ne doit pas être prise à la légère, mais ne vous vous compliquez pas la vie non plus, servez vous de la <strong>technologie</strong> pour aller plus vite et pour avoir des <strong>résultats plus pertinents</strong>, servez vous par exemple de l’outil <a href="https://www.insee.fr/fr/accueil" target="_blank" rel="noopener noreferrer">Odil</a>, mis en place gratuitement par <strong>l’INSEE</strong>, et qui pourra vous donner des <strong>statistiques sur l’activité</strong> que vous envisagez <strong>d’exercer</strong> ainsi que sur l’endroit et les <strong>habitudes</strong> des habitants…</p>
+
+
+
+<p>à la fin de cette <strong>étude de marché</strong>, vous devrez :</p>
+
+
+
+<ul className="wp-block-list">
+<li> <span >être capable de dresser un portrait robot de votre </span><strong >client</strong><span > type: âge, sexe, situation socio professionnel,… Ceci est important pour bien connaitre votre </span><strong >clientèle</strong><span >.</span> </li>
+
+
+
+<li> <span >Connaitre vos </span><strong >concurrents</strong><span > avec les </span><strong >points forts</strong><span > et les </span><strong >points faibles</strong><span > de chacun</span> </li>
+
+
+
+<li> <span >Connaitre vos éventuels </span><strong >fournisseurs</strong><span >, et les classer dans un tableau selon certains critères, comme </span><strong >réactivité, prix, qualité, distance, facilité de paiement</strong><span >, …</span> </li>
+
+
+
+<li> <span >Et enfin </span><strong >construire une offre</strong><span > de </span><strong >produit</strong><span > et/ou de </span><strong >concept</strong><span >, différents de ceux de la </span><strong >concurrence</strong><span >. Cette offre doit être </span><strong >IRRESISTIBLE</strong><span >, en jouant sur la </span><strong >qualité</strong><span > le </span><strong >prix</strong><span > et les </span><strong >garanties d’insatisfaction</strong> </li>
+</ul>
+
+
+
+<h2 className="sous_titre">Projet d’ouverture de restaurant</h2>
+
+
+
+<p>à ce stade du projet, vous devrez juger si votre <strong>idée est originale</strong> ou non, et donc de la <strong>valider</strong> et de passer à l’étape suivante du <strong>projet</strong>, ou bien de la <strong>réajuster</strong> ou de la <strong>changer</strong> complètement.</p>
+
+
+
+<p>Ce n’est qu’à partir du moment que <strong>l’idée est validée</strong> que l’on peut passer aux étapes suivantes, à savoir:</p>
+
+
+
+<ul className="wp-block-list">
+<li> <span >La </span><strong >construction d’une équipe</strong><span > qui croit dans votre projet et qui pourra vous soutenir pour le concrétiser.</span> </li>
+
+
+
+<li>Recherche d’un <strong>emplacement</strong></li>
+
+
+
+<li> <span >Recherche de </span><strong >financement</strong> </li>
+
+
+
+<li> <span >Effectuer les </span><strong >démarches administratives</strong> </li>
+
+
+
+<li><span>etc. …</span> </li>
+</ul>
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment ouvrir un restaurant et le remplir de clients",
+
+    route: "/article/comment-ouvrir-un-restaurant-et-le-remplir-de-clients",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png",
+
+    lien: 'https://cuisinedebase.com/comment-ouvrir-un-restaurant-et-le-remplir-de-clients/'
+}
+
+const R5 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment je suis devenu traiteur – chef à domicile</h1>
+
+		<div className="entry-content clearfix">
+
+
+<div className="post-image"><figure className="aligncenter size-full is-resized"><a href="https://amzn.to/2ZC5CDK"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png" alt="fourneau cuisine" className="wp-image-1757" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png?w=479&amp;ssl=1 479w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png?resize=195%2C300&amp;ssl=1 195w"></img></a><figcaption>https://amzn.to/2ZC5CDK</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Diplôme pour de venir chef à domicile</h2>
+
+
+
+<p>Une fois dans<strong> l’atelier de fabrication</strong>, la concentration est à son maximum, le stress aussi d’ailleurs. Je me souviens qu’il nous a été demandé de confectionner <strong>une tarte provençale</strong> pour l’entrée. Et un <strong>ragout au bœuf</strong> pour le plat principal. Les profs surveillants passent dans les différents postes de travail avec un bloc note à la main pour noter leurs remarques sur chaque candidat. C’est une épreuve où il faut <strong>savoir gérer son stress</strong> et être <strong>bien organisé</strong>, certains candidats n’ont pas pu aller jusqu’au bout de l’épreuve, ils ont malheureusement <strong>abandonné en plein milieu</strong> <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-sadsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/wlEmoticon-sadsmile.png?w=910&amp;ssl=1" alt="Triste"></img>.</p>
+
+
+
+<p>A la fin de l’épreuve, et après avoir <strong>dressé et envoyé les plats</strong> aux membre de jury. La tension commence à baisser, mais ce n’est pas fini! <strong>il faut tous ranger et nettoyer</strong> pour laisser l’atelier de fabrication au même état dans lequel nous l’avions trouvé.</p>
+
+
+
+<h2 className="sous_titre">Reconversion professionnelle Chef à domicile</h2>
+
+
+
+<p>Comme dirait Jacques prévert : “<strong>Il ne faut jamais faire les choses à moitié…</strong>”</p>
+
+
+
+<p>Quand j’ai reçu mes relevés de notes et j’ai vu que j’étais <strong>admis</strong>, j’étais tellement fier et content. Mais en même temps j’avais un sentiment comme si je n’ai fait <strong>les choses qu’à moitié</strong>. Comme dit plus haut, mon <strong>inscription au CAP</strong> c’était juste une question de passion. Et pour tester mes capacités à apprendre <strong>les bonnes bases de cuisine</strong> et puis à les restituer. Je n’avais aucunement l’idée de <span>changer de métier dans le domaine de la restauration</span>. Ou de <strong>devenir traiteur ou chef à domicile</strong>. Mais une fois le diplôme en poche, la question de <strong>faire quelques choses</strong> commençait à germer dans ma tête. Et comme j’avais un travail qui me prenais quelques quarante heures par semaine. Je ne me voyais pas travailler chez quelqu’un comme <strong>commis de cuisine</strong>. Et c’est comme cela que l’idée de <strong>devenir chef à domicile</strong> s’est installée dans ma tête et ne l’a plus quittée.</p>
+
+
+
+<h2 className="sous_titre">Business plan traiteur chef à domicile</h2>
+
+
+
+<p>Pour bien faire les choses, j’ai commencé par rédiger un <strong>business plan</strong> de mon <strong>projet de reconversion professionnelle</strong> en traiteur <span>chef à domicile</span>. Dans le but d’étudier <strong>l’aspect financier</strong>, <strong>l’étude de marché, la faisabilité du projet</strong>, …</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://amzn.to/2ZC5CDK"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/couverture-business-plan-2.jpg" alt="couverture-business-plan" title="couverture-business-plan"></img></a><figcaption><a href="https://amzn.to/2ZC5CDK" target="_blank" rel="noopener noreferrer">Business plan traiteur chef à domicile</a></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Comme devenir chef à domicile</h2>
+
+
+
+<p><strong>Le business plan</strong> est un document qui permet de décrire les étapes qui montrent <strong>comment devenir chef à domicile</strong>. IL sert aussi comme une <strong>référence et un support</strong> de discussion quand on <strong>recherche des investisseurs ou du financement</strong>. Il est donc très important de <strong>rédiger un business plan</strong> avant de démarrer n’importe quel projet.</p>
+
+
+
+<p>Le document que j’ai rédigé pour mon <strong>projet de traiteur – chef à domicile</strong> est composé de 7 parties:</p>
+
+
+
+<h2 className="sous_titre">Les étapes de l’étude de marché</h2>
+
+
+
+<ul className="wp-block-list"><li>partie 1: tout d’abord la première partie une <strong>description détaillée</strong> de mon <strong>parcours</strong>, mes <strong>compétences</strong> et les raisons qui m’ont poussé à faire ce projet.</li><li>Partie 2: <strong>étude de marché</strong>. Cette partie consiste à décrire le marché ainsi que les acteurs qui participent à sa création, j’ai détaillé tous les <strong>concurrents</strong> présents dans mon secteur, les <strong>clients</strong>, les <strong>fournisseurs</strong> ainsi que tout ceux qui sont en relation de près ou de loin avec cette activité. Pour effectuer mon étude de marché, je me suis basé sur les études <strong>statistiques</strong> de <a href="https://www.insee.fr/fr/accueil" target="_blank" rel="noopener noreferrer">l’insee</a>, ainsi que des informations données par les mairies des secteurs où je comptais m’implanter</li><li>Partie 3: <strong>analyse de la concurrence</strong>. Cette étape est très importante dans la création du <strong>modèle économique</strong>, elle consiste à identifier les concurrents directs et indirects, d’analyser leurs offres et de trouver une méthode pour créer une <strong>offre irrésistible</strong> et <strong>différente de la concurrence</strong>.</li></ul>
+
+
+
+<h2 className="sous_titre">Définition de l’offre du chef à domicile</h2>
+
+
+
+<ul className="wp-block-list"><li>Partie 4 : définition de mon offre et comment je compte me différencier avec mes concurrents dans le but de <strong>gagner une petite part de marché</strong>. J’ai étudié un type de clientèle non exploité par la concurrence, ensuite j’ai défini mon <strong>client type</strong>, ses caractéristiques son âge, son sexe, situation socio-professionnel, … afin <strong>d’adapter au mieux le produit à ses attentes</strong>. Ensuite j’ai défini les prix de mes produits et offres promotionnelles, …&nbsp;</li></ul>
+
+
+
+<h2 className="sous_titre">Commercialisation de l’offre du traiteur chef à domicile</h2>
+
+
+
+<ul className="wp-block-list"><li>Partie 5: <strong>marketing et commercialisation</strong>, dans cette partie j’ai détaillé mon plan pour <strong>me faire connaitre</strong>, les affiches, flyers, réseaux sociaux</li><li>Ensuite la Partie 6 : Les démarches pour créer l’entreprise, le <strong>choix du statut le plus adapté</strong>, j’ai dû faire une comparaison entre les avantages et les inconvénients du statut <strong>micro entreprise</strong> (auto-entrepreneur) ou d’autres statuts plus conventionnels</li><li>Et enfin la Partie 7: <strong>Gestion et planification financière</strong>. C’est la partie qui traite du capital, de combien j’ai besoin pour commencer, et <strong>comment je dois gérer l’argent</strong> de manière à ne jamais tomber dans le rouge et devoir demander de l’aide à des banques ou des investisseurs.</li></ul>
+
+
+
+<h2 className="sous_titre">Avantage de faire un business plan</h2>
+
+
+
+<p>La rédaction de ce document m’a permis de comprendre beaucoup de choses sur le métier du <strong>chef à domicile</strong>. Et avec un peu de recul, je me dis heureusement que j’avais pris le temps pour le faire. Car sans ce document, je serais passé à côté de beaucoup de choses. Maintenant mon activité de chef à domicile est lancée cela fait maintenant trois mois, mes premiers <strong>clients sont très satisfaits</strong> de mes prestations, ce qui m’a permis de gagner en confiance et de <strong>faire marcher le bouche à oreille</strong>. J’ai d’ailleurs une commande pour <strong>150 personnes</strong> pour le weekend prochain, c’est mon plus gros chalenge en tant que chef à domicile, même si je ne vais m’occuper que des amuse-bouches.</p>
+
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment je suis devenu traiteur – chef à domicile",
+
+    route: "/article/comment-je-suis-devenu-traiteur-chef-domicile",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png",
+
+    lien: 'https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/'
+}
+
+const R6 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="entry-title">Comment réussir une organisation de mariage même si on est débutant</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20160723_153329.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20160723_153329_thumb.jpg" alt="20160723_153329" title="20160723_153329"></img></a><figcaption>Lieu organisation de mariage</figcaption></figure></div>
+
+
+
+<p>1er avril 1948, dans un village au nord d’Orléans, monsieur et madame Michaud s’apprêtent à marier leur fille Marine. Les Michaud ont convié le village à la cérémonie, ils seront une centaine ce soir sous un chapiteau pour déguster le <strong>repas de mariage</strong>. </p>
+
+
+
+<p>Malgré le fait que ce jour est son grand jour, Marine n’arrive pas à maîtriser son stress. C’est la première fois qu’un tel évènement arrive dans sa famille et elle ne peut pas s’empêcher d’être inquiète. Et d’éprouver quelques inquiétudes par rapport au déroulement de la journée. Notamment par rapport au <strong>repas</strong> qu’elle compte offrir à ses invités. Les parents de Marine, quant à eux,&nbsp; n’étaient pas du tout inquiets, au contraire; ils étaient très sereins. Car même si c’était la première fois qu’ils mariaient l’un de leurs enfants, ils savaient exactement comment ça allait se passer. </p>
+
+
+
+<p>Grâce à l’aide précieuse de leurs voisins, les Michaud ont pu faire une <strong>robe de mariée</strong> pour leur fille. Monter le <strong>chapiteau de mariage</strong>. Préparer les cocktails et boissons. Et enfin préparer un<strong> repas très festif</strong>. Biensur le repas se compose d’une entrée un plat et un dessert et même une <strong>pièce montée</strong>. 🙂</p>
+
+
+
+<p><span>Est ce que aujourd’hui on peut toujours <strong>compter sur ses voisins pour organiser son mariage</strong>?</span></p>
+
+
+
+<p><span >Avant de continuer, si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span >les 25 recettes à maitriser</span></a><span > pour passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a><span > et le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span >planning détaillé</span></a><span > pour les travailler.</span></p>
+
+
+
+<h2 className="sous_titre">Wedding planner (Organisation de mariage)</h2>
+
+
+
+<p>Avant les choses étaient beaucoup plus simple que maintenant. aujourd’hui si l’on veut organiser un tel mariage, il vaut mieux être bien <strong>organisé et prévoyant</strong>. Les personnes qui ont les moyens font souvent appel à un <strong>wedding planner</strong> (ou <strong>organisateur de mariage</strong> en bon français). Ce métier a connu un grand succès ces dernières années. Le wedding planner est comme un <strong>chef d’orchestre</strong>, il doit coordonner entre les différents acteurs qui interviennent pour que la journée du mariage se passe à merveille. Mais les <strong>honoraires</strong> d’un wedding planner n’est pas à la portée de tout le monde, et du coup beaucoup de gens organisent eux même leur <strong>mariage</strong> et contactent les différents prestataires dont ils ont besoin. Le <strong>traiteur</strong> est probablement le plus <strong>important</strong> de tous les <strong>prestataires</strong>.</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/DSC02903.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/DSC02903_thumb.jpg" alt="DSC02903" title="DSC02903"></img></a></figure></div>
+
+
+
+<h2 className="sous_titre">En quoi consiste le métier d’un traiteur</h2>
+
+
+
+<p>Le traiteur est un professionnel qui prépare des <strong>plats à emporter</strong> ou en <strong>livraison</strong>. De nos jours, la plupart des traiteurs proposent des services qui vont au-delà de la <strong>simple cuisine</strong>, comme <strong>location de salle</strong>, prise en <strong>charge des boissons, buffet, cuisine, décoration </strong>et plus encore…</p>
+
+
+
+<p>Le législateur n’a pas réglementé l’activité de traiteur. Ainsi, vous n’avez pas besoin de <strong>diplôme</strong> pour pouvoir exercer ce métier. En revanche, pour devenir traiteur, vous devez avoir <strong>certaines qualités</strong>. Comme par exemple, être organisé, leadership et être capable de <strong>prendre des initiatives</strong>.</p>
+
+
+
+<p>Le métier de traiteur est différent de celui de <strong>chef à domicile</strong>, je consacrerai un prochain article sur le métier du chef à domicile.</p>
+
+
+
+<h2 className="sous_titre">Conseils et astuces pour organiser un évènement</h2>
+
+
+
+<p>La meilleure façon <strong>d’organiser un évènement</strong> (<span>organisation de mariage</span> ou autre) à moindre coût est de se mettre dans la peau d’un <strong>wedding planner</strong></p>
+
+
+
+<h2 className="sous_titre">Organisation de mariage à moindre coût</h2>
+
+
+
+<ul className="wp-block-list"><li>tout d’abord il faut se fixer un <strong>budget</strong> et définir le <strong>type de mariage</strong> que l’on souhaite faire (à thème, ethnique, …)</li><li>Pensez à <strong>louer</strong> un maximum de choses plutôt que d’acheter (on peut même louer une<strong> robe de mariée</strong>!)</li><li>préférez les <strong>prestataires polyvalents</strong> qui peuvent effectuer plusieurs services à la fois, cela revient en général moins cher que si vous preniez des <strong>prestations à la carte</strong></li><li>n’hésitez surtout pas à demander des <strong>remises et à négocier les prix</strong>!</li></ul>
+
+
+
+<h2 className="sous_titre">Astuces pour réussir une organisation de mariage</h2>
+
+
+
+<p>Voici quelques astuces de professionnels du métier qui peuvent vous aider à réussir votre <strong>organisation de mariage.</strong></p>
+
+
+
+<ul className="wp-block-list"><li>faites une “<strong>to do list</strong>” des <strong>tâches</strong> à faire. Et séparez celles que vus êtes seul à pouvoir les faire et celles que vous pouvez <strong>déléguer</strong>.</li><li>entourez vous d’un maximum de personnes pouvant vous <strong>donner un coup de main</strong>, appelez <strong>famille et amis</strong></li><li><strong>dispatchez</strong> les taches à déléguer aux <strong>personnes volontaires</strong> pour vous aider</li><li>cherchez des <strong>prestataires</strong> pour effectuer le reste des taches à déléguer et demandez leur des <strong>devis détaillés</strong></li><li>faites une liste des <strong>professionnels</strong> qui peuvent vous aider (comme les <strong>cuisiniers</strong>, <strong>coiffeurs</strong>, <strong>serveurs, décorateur, chauffeur</strong>, …)</li><li>il faut estimer le <strong>nombre d’invités</strong></li><li>ensuite, il faut lister l’ensemble des <strong>services</strong> que l’on peut <strong>effectuer soi même</strong>, et l’ensemble des services que l’on doit <strong>sous-traiter</strong> (<strong>cuisine, maquillage, coiffure, habilles, vaisselles, courses, faire-part</strong>, …)</li></ul>
+
+
+
+<p>J’espère que ces quelques conseils vous aideront à aller de l’avant, et si vous avez des remarques ou des suggestions n’hésitez pas à les partager dans la rubrique des commentaires.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment réussir une organisation de mariage même si on est débutant",
+
+    route: "/article/comment-reussir-une-organisation-de-mariage-meme-si-on-est-debutant",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20160723_153329_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-reussir-une-organisation-de-mariage-meme-si-on-est-debutant/'
+}
+
+const R7 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Reconversion cuisinier par un CAP cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<p><span>Voici quelques conseils pour les personnes souhaitant <strong>changer de vie</strong> par une <span><span><span><strong>reconversion cuisinier</strong></span></span></span> dans la restauration. </span></p>
+
+
+
+<p><span>si vous n’avez pas de travail et vous aimez la cuisine la question de reconversion peut vous concerner.</span></p>
+
+
+
+<p><span>Si vous avez un métier dans un domaine dont les recrutements sont difficiles. Se reconvertir dans la restauration peut être un moyen pour sortir du chômage, à condition, bien sûr, que vous aimez faire la cuisine, soit en travaillant dans un restaurant, car les restaurants peinent à trouver de la main d’œuvre qualifiée, soit en créant son propre emploi grâce au statut de la micro-entreprise (auto entrepreneur).</span></p>
+
+
+<div className="post-image">
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/bullshit-job-good-job.png?resize=300%2C245&amp;ssl=1" alt="" className="wp-image-334" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/bullshit-job-good-job.png?resize=300%2C245&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/bullshit-job-good-job.png?w=368&amp;ssl=1 368w"></img><figcaption>reconversion cuisinier</figcaption></figure></div>
+
+
+<p><span>En revanche, si vous avez un travail mais vous ne vous voyez pas faire ce travail jusqu’à la retraite, pour des raisons d’épanouissement, de stress, burn out de l’ambiance moisie ou pour n’importe quelle autre raison … il est donc probable que vous fassiez partie des personnes qui aimeraient tout abandonner pour un job épanouissant et dont les résultats sont concrets et immédiats, comme la cuisine par exemple. </span></p>
+
+
+
+<h2 className="sous_titre">Changer de vie avec une reconversion cuisinier</h2>
+
+
+
+<p><span>un cuisinier doit avoir un état d’esprit à la hauteur de ce qu’on attend de lui, il doit donner le meilleur de lui même pour satisfaire ses convives. Il est évident que manger est un besoin fondamental, mais si on s’accorde à dire que par rapport à notre environnement propre et notre civilisation nous pouvons le considérer comme un plaisir. De ce fait, le cuisinier étant la personne qui fabrique le manger, il fourni par conséquent du plaisir aux gens qui consomment sa cuisine. </span></p>
+
+
+
+<p><span>Si vous souhaitez savoir un peu plus sur le quotidien d’un cuisinier, cliquez ici pour découvrir </span><a href="https://cuisinedebase.com/la-lettre-que-tout-amateur-ou-professionnel-de-cuisine-aurait-aime-recevoir-avant-de-se-lancer/"><span>quelques raisons qui peuvent vous aider à vous lancer dans la cuisine</span></a>.</p>
+
+
+
+<p><span>Mais attention, une <strong>reconversion professionnelle</strong> et plus particulièrement une <span><span><span><strong>reconversion cuisinier</strong></span></span></span></span>, <span>ne doit pas se faire à la légère. Il faut qu’elle soit bien préparée en pesant le pour et le contre. Ceci peut se faire simplement en se posant deux questions simples mais fondamentales:</span></p>
+
+
+
+<h2 className="sous_titre">Comment faire une reconversion professionnelle</h2>
+
+
+
+<p><span>– qu’est ce que je perd si je le fais. </span></p>
+
+
+
+<p><span>– qu’est ce que je gagne si je le fais.</span></p>
+
+
+
+<p><span>Pour répondre à ces questions, notez tout ce qu’il vous traverse l’esprit, que cela soit dans la sphère personnelle ou professionnelle, faites le point de votre vie et réfléchissez aux objectifs que vous aimeriez atteindre et empreintes que voudriez laisser derrière vous..</span></p>
+
+
+
+<p><span>Le mieux est de se faire accompagner par des spécialistes du sujet. Sachez qu’il existe des formations financées par votre employeur ou par pôle emploi qui permettent de faire un bilan de carrière.</span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Reconversion cuisinier par un CAP cuisine",
+
+    route: "/article/reconversion-cuisinier-cap-cuisine-changer-vie",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/bullshit-job-good-job.png",
+
+    lien: 'https://cuisinedebase.com/reconversion-cuisinier-cap-cuisine-changer-vie/'
+}
+
+const R8 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment Faire L’inscription CAP Cuisine Candidat Libre</h1>
+
+
+		<div className="entry-content clearfix">
+
+<div className="post-image size-full wp-image-255">
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb.jpg?resize=244%2C164&amp;ssl=1" alt="examen CAP cuisine" className="wp-image-255"></img><figcaption className="wp-element-caption">examen CAP cuisine</figcaption></figure></div>
+
+
+<h2 className="sous_titre">La procédure d’inscription CAP cuisine candidat libre</h2>
+
+
+
+<p>La procédure d’inscription au CAP cuisine candidat libre est très simple à faire. Je vous la détaille en Trois étapes suivantes&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>D’abord, rendez-vous sur&nbsp;<strong>le site de l’académie</strong>de votre lieu de résidence pour effectuer une&nbsp;<strong>pré-inscription</strong>. Il faut être attentif aux&nbsp;<strong>dates limites</strong>&nbsp;de dépôt des&nbsp;<strong>dossiers d’inscription</strong>. Les&nbsp;<strong>inscriptions CAP cuisine candidat libre</strong>&nbsp;ouvrent en général entre&nbsp;<strong>octobre et novembre</strong>&nbsp;de l’année précédant&nbsp;<strong>l’examen</strong>. Et les épreuves se déroulent généralement durant le mois de&nbsp;<strong>juin</strong>.&nbsp;</li>
+
+
+
+<li>Ensuite, quelques temps plus tard vous recevrez une&nbsp;<strong>confirmation&nbsp;</strong>de cette pré-inscription. Vous devez la&nbsp;<strong>signer</strong>&nbsp;et la&nbsp;<strong>retourner</strong>&nbsp;accompagnée des&nbsp;<strong>pièces justificatives</strong>. Encore une fois, soyez attentifs aux&nbsp;<strong>dates</strong>&nbsp;<strong>limites</strong> !&nbsp;</li>
+
+
+
+<li>Enfin, prenez soin de bien communiquer votre&nbsp;<strong>niveau d’étude,&nbsp;</strong>car on peut vous accorder une dispense <strong>de certaines épreuves.&nbsp;</strong>Avec un&nbsp;<strong>niveau bac&nbsp;</strong>par&nbsp;exemple vous pouvez vous faire dispenser des<strong> épreuves des matières générales&nbsp;</strong>comme<strong> les&nbsp;maths, français, sport, …</strong></li>
+</ul>
+
+
+
+<h2 className="sous_titre"><strong><a href="https://cuisinedebase.com/cap-cuisine-les-defis-du-candidat-libre/" target="_blank" rel="noopener noreferrer">Les défis du candidat libre au CAP cuisine</a></strong></h2>
+
+
+
+<p>La <strong>préparation du CAP cuisine en tant que candidat libre</strong> est un défi qui demande de l’autodiscipline, de la recherche de ressources et de la motivation.</p>
+
+
+
+<p>Les candidats libres doivent se <strong>fixer leurs propres horaires d’étude</strong> et de pratique, ce qui peut être difficile à concilier avec d’autres engagements. Ils doivent également trouver <strong>leurs propres ressources</strong>, telles que des <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">livres de cuisine</a>, des vidéos pédagogiques et des forums en ligne. Enfin, ils doivent trouver la motivation et le soutien nécessaires pour réussir, ce qui peut être difficile sans l’encadrement d’un établissement éducatif.</p>
+
+
+
+<p>Malgré ces défis, il est possible de <strong>réussir le CAP cuisine en tant que candidat libre</strong>. Pour cela, il est important de se préparer en amont, de <strong>trouver des ressources adaptées</strong> à ses besoins et de s’entourer de personnes qui peuvent fournir soutien et motivation.</p>
+
+
+
+<h2 className="sous_titre">Les épreuves du CAP cuisine</h2>
+
+
+
+<p>Les <strong>candidats libres au CAP cuisine</strong> doivent passer deux sortes d’épreuves, des&nbsp;<a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/">épreuves écrites</a>&nbsp;et des&nbsp;<a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a>.</p>
+
+
+
+<p>Les <strong>épreuves pratiques</strong> sont composées de deux examens:&nbsp;<strong>productions culinaires et&nbsp;Compte-rendu d’activité</strong>.</p>
+
+
+
+<h2 className="sous_titre">Productions culinaires</h2>
+
+
+
+<p>La <strong>production culinaire</strong> est <strong>l’épreuve pratique du CAP cuisine</strong> la plus longue et la plus importante. Elle&nbsp;<strong>dure 4h30</strong>&nbsp;et voici comment se déroule cette épreuve :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Au début de l’épreuve, on demande aux candidats de&nbsp;<strong>rejoindre une salle de cours&nbsp;</strong>où on vérifie leurs identités.&nbsp;</li>
+
+
+
+<li>Ensuite on leur demande de se mettre en&nbsp;<strong>tenue professionnelle.</strong>&nbsp;Des vestiaires sont prévues à cet effet, il est nécessaire de prévoir des&nbsp;<strong>cadenas&nbsp;</strong>au cas où les casiers ne sont pas équipés de&nbsp;<strong>système de verrouillage</strong>.&nbsp;</li>
+
+
+
+<li>Puis, les candidats se dirigent vers une&nbsp;salle où ils découvriront le<strong> sujet de l’épreuve pratique CAP cuisine,&nbsp;</strong>et donc ce qu’ils doivent produire. Généralement on demande aux <strong>candidats libres</strong> de produire une&nbsp;<strong>entrée et un plat </strong>ou bien <strong>un plat et un dessert</strong>.&nbsp;</li>
+
+
+
+<li>Les candidats libres resteront dans cette salle pendant une demi-heure à peu près. Ils doivent&nbsp;<strong>réfléchir&nbsp;</strong>à&nbsp;<strong>l’organisation</strong>&nbsp;de la production culinaire et à la&nbsp;<strong>gestion</strong>&nbsp;du&nbsp;<strong>temps. A</strong>ussi il doivent compléter les informations manquantes dans les&nbsp;<strong>fiches techniques</strong>.&nbsp;</li>
+
+
+
+<li>Les fiches techniques distribuées lors de&nbsp;<strong>l’épreuve pratique&nbsp;</strong>ne sont pas aussi complètes que celles utilisées dans les<strong>&nbsp;cours ou dans les livres de préparation.</strong>&nbsp;Il faut connaître généralement&nbsp;<strong>les sauces de base</strong>, les&nbsp;<strong>températures</strong>&nbsp;et les&nbsp;<strong>temps</strong>&nbsp;de cuisson ainsi qu’un maximum de&nbsp;<strong>termes techniques</strong>. Les surveillants distribuent&nbsp;<strong>des feuilles d’organisation</strong> pour que les candidats libres puissent&nbsp;<strong>noter</strong>&nbsp;leurs idées.&nbsp;</li>
+
+
+
+<li>Les candidats entrent après dans un&nbsp;<strong>atelier professionnel&nbsp;</strong>de <strong>production culinaire</strong>, ils peuvent y trouver tout ce dont ils ont besoin en termes de&nbsp;<strong>denrées alimentaires</strong>. Et ça y est l’étape de la&nbsp;<strong>production</strong>&nbsp;commence, maintenant &nbsp;il faut mettre le plan en exécution dans afin de&nbsp;<strong>présenter</strong>&nbsp;à la fin de l’épreuve&nbsp;<strong>les plats demandés</strong>.&nbsp;</li>
+</ul>
+
+
+
+<h2 className="sous_titre"><strong>Gérer le stress et rester concentré</strong></h2>
+
+
+
+<p>S’il faut retenir que deux&nbsp;<strong>conseils&nbsp;</strong>pendant&nbsp;<strong>l’épreuve de production</strong>&nbsp;culinaire, ça serait&nbsp;<strong>concentration</strong>&nbsp;et&nbsp;<strong>&nbsp;</strong>Pendant cette épreuve, les examinateurs passent dans les différents postes pour voir les méthodes de travail de chaque candidat libre. Ils notent le degré de maîtrise des&nbsp;<strong>techniques de base</strong> et parfois même, ils posent des questions techniques aux candidats. Il faut donc&nbsp;<strong>gérer son stress et rester concentré</strong>!</p>
+
+
+
+<h2 className="sous_titre">Compte-rendu d’activité</h2>
+
+
+
+<p>Cette épreuve est une&nbsp;<strong>épreuve orale</strong>, il est demandé au candidat de&nbsp;<strong>présenter un plat de son choix</strong>, le but de cette épreuve est de tester si les candidats sont capables de bien&nbsp;<strong>vendre oralement leur production</strong>. Il faut donc au préalable préparer une&nbsp;<strong>fiche technique</strong>&nbsp;du plat avec&nbsp;<strong>les prix des matières premières</strong>&nbsp;et puis du produit fini. Cette épreuve ne dure qu’une dizaine de minutes, le candidat doit&nbsp;<strong>vendre son plat et répondre aux questions des examinateurs</strong>, les questions peuvent porter sur le respect de&nbsp;<strong>la chaine de froid</strong>, les&nbsp;<strong>DLC</strong>, les&nbsp;<strong>procédures de conservation</strong>&nbsp;et de&nbsp;<strong>transport</strong>, …</p>
+
+
+
+<p>A partir de&nbsp;<strong>la session 2018</strong>, un changement a eu lieu sur les&nbsp;<strong>modalités de délivrance</strong>. Consultez le&nbsp;<a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014">bulletin officiel</a>&nbsp;relatif à ce sujet.</p>
+
+
+
+<h2 className="sous_titre">Épreuves écrites</h2>
+
+
+
+<p>En fonction de leur niveau d’étude, les&nbsp;<strong>candidats au CAP</strong>&nbsp;peuvent être&nbsp;<strong>dispensés de certaines matières</strong>. Pour la majorité des candidats, avec un&nbsp;<strong>niveau lycée</strong>&nbsp;par exemple, n’auront à passer que&nbsp;<strong>deux épreuves théoriques</strong> :&nbsp;L’épreuve de p<strong>révention Santé Environnement (PSE)</strong>. La durée de cette <strong>épreuve écrite</strong> est de&nbsp;une heure.&nbsp;Et l’<strong>épreuve écrite</strong>&nbsp;<strong>Approvisionnement et Organisation</strong>&nbsp;qui&nbsp;dure 2h30.</p>
+
+
+
+<p>Les épreuves sont sous forme d’exercices de cas pratiques, les candidats libres au CAP cuisine peuvent répondre à une bonne partie des questions en comptant sur leur bon sens. Mais il est&nbsp;<strong>fortement conseillé de les préparer convenablement</strong>&nbsp;avec des&nbsp;<a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/"><strong>livres pour préparer le CAP cuisine</strong>&nbsp;</a>ou des cours. Et de faire au moins&nbsp;<strong>deux ou trois annales</strong>&nbsp;des années précédentes. Vous pouvez travailler les épreuves écrites avec la&nbsp;<a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">correction EP1 sessions 2019</a> et de la <a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">correction EP1 session 2020</a>.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment Faire L’inscription CAP Cuisine Candidat Libre",
+
+    route: "/article/comment-passer-son-cap-cuisine-en-candidat-libre",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/'
+}
+
+const R9 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+
+			<div className="post-image">
+				<img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg?resize=300%2C200&amp;ssl=1 300w"></img>			</div>
+
+			
+	<div className="post-content">
+
+			<h1 className="titre_article">Pourquoi le métier de cuisinier est passionnant et attractif</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<div className="post-image"><figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/order_img0_thumb.jpg?resize=216%2C132&amp;ssl=1" alt="" className="wp-image-675"></img><figcaption><span><strong>métier de cuisinier</strong></span></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Le partage est la 1ère des qualités d’<span>un bon cuisinier ?</span></h2>
+
+
+
+<p>D’abord le partage, <strong>partage</strong> de moments agréables lors des <strong>dégustations</strong>, mais aussi le partage des <strong>techniques et astuces</strong> entre collègues ou avec des gens curieux qui viennent compléter les <strong>bases</strong> avec des anecdotes, des exemples concrets, du vécu etc….</p>
+
+
+
+<p><span>Un bon cuisinier est d’ailleurs un cuisinier qui aime <strong>partager ses techniques et astuces</strong>, et plus il acquière de l’expérience plus il partage avec les jeunes arrivant dans le domaine afin de <strong>préparer la relève</strong> et de passer le flambeau aux <strong>générations futures</strong>. Et d’ailleurs le fait de créer ce blog est ma manière à moi de partager tout ce que j’ai appris, et d’ajouter une pierre à l’édifice.</span></p>
+
+
+
+<h2 className="sous_titre">Apprendre le métier de cuisinier</h2>
+
+
+
+<p><span>Ensuite la soif d’apprendre, un cuisinier est un <strong>perpétuel apprenti</strong>, en effet, si les techniques de base restent les mêmes durant plusieurs décennies, les habitudes des gens et <strong>les produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer <a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">d’apprendre le métier de cuisinier</a> et de <strong>se former</strong> est le seul moyen de continuer de vivre avec son époque et pourquoi pas être acteur de <strong>la gastronomie de demain</strong>.</span></p>
+
+
+
+<h2 className="sous_titre">L’innovation dans le métier de cuisinier</h2>
+
+
+
+<p><span>Puis <strong>l’innovation</strong>, cet élément est probablement le plus personnel de tous, d’une part parce que si on demande à deux cuisinier de fabriquer un même <strong>plat de référence</strong>, une quiche lorraine par exemple, ils vont probablement suivre les mêmes étapes et choisir <strong>les mêmes ingrédients</strong> mais le résultat final sera rarement le même, cela est dû au fait de la <strong>touche personnel</strong> de chacun. Et d’autre part, une cuisine est un immense laboratoire où on peut <strong>expérimenter</strong> des idées, <strong>innover</strong> des recettes ou bien sûr d’en <strong>inventer</strong> des nouvelles, il suffit <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">d’apprendre les bases</a> et de se laisser entraîner par son imagination.</span></p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330_thumb.jpg?w=910&amp;ssl=1" alt="20181110_225330" title="20181110_225330"></img></a><figcaption><span><strong><span><strong>métier de cuisinier</strong></span></strong> serveur</span></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">L’impact du métier de cuisinier</h2>
+
+
+
+<p><span>Et enfin, <strong>l’impact</strong> qui peut être mesuré par le nombre de personne qu’on a réussi à convaincre par sa cuisine, en d’autres termes la <strong>dimension éthique et sociale</strong> que nous souhaitons faire savoir ou transmettre à travers notre cuisine. Pour ma part il est de la responsabilité de tout le monde d’apprendre à cuisiner, et <strong>d’initier ses enfants</strong> à la cuisine, d’une part pour <strong>mieux s’alimenter</strong> et d’autre part pour une <strong>meilleure santé</strong>. J’ai d’ailleurs rédigé deux articles sur ces sujets, les voici:</span></p>
+
+
+
+<p><span><a href="https://cuisinedebase.com/apprenez-cuisiner-pour-mieux-vous-alimenter/">Apprendre la cuisine pour une meilleure alimentation</a></span></p>
+
+
+
+<p><span><a href="https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sante/">Apprendre la cuisine pour rester en bonne santé</a></span></p>
+
+
+
+<h2 className="sous_titre"><span><strong>Cuisiner c’est, en même temps, prendre et fournir du plaisir.</strong></span></h2>
+
+
+
+<p><span>En effet, il est évident que manger est un <strong>besoin fondamental</strong>, mais si on s’accorde à dire que par rapport à notre environnement propre et notre civilisation nous pouvons le considérer <strong>comme un plaisir</strong>. De ce fait, le cuisinier étant la personne qui fabrique le manger, <strong>il fourni par conséquent du plaisir aux gens</strong> qui consomment sa cuisine. C’est l’une des raisons qui poussent les gens à se <a href="https://cuisinedebase.com/se-reconvertir-dans-la-restauration-pour-changer-de-vie/">reconvertir dans la restauration</a>.</span></p>
+
+
+
+<h2 className="sous_titre">Fichier métier de cuisinier</h2>
+
+
+
+<p>Le cuisinier a pour mission de : </p>
+
+
+
+<ul className="wp-block-list"><li>Réaliser des plats en sachant équilibrer la prestation d’un point de vue économique</li><li>Choisir les produits qui serviront à leur élaboration</li><li>Contribuer à l’évolution de la carte du restaurant</li><li>Appliquer et faire appliquer les règles d’hygiène et de sécurité alimentaire</li></ul>
+
+
+
+<p> Et le bon cuisinier doit connaître les techniques suivante:</p>
+
+
+
+<ul className="wp-block-list"><li>Production culinaire</li><li>Organisation du travail</li><li>Communication</li></ul>
+
+
+
+<h2 className="sous_titre"><span>Traits de caractères et qualités d’un bon cuisinier</span></h2>
+
+
+
+<p><span>Cependant, il y a certains <strong>traits de caractères</strong> qu’un cuisinier, qu’il soit professionnel ou amateur, doit avoir ou développer pour réussir à s’épanouir dans sa cuisine.</span></p>
+
+
+
+<p><span><strong>L’apparence</strong> est le premier reflet de la personnalité d’un cuisinier, il faut donc utiliser cet atout pour montrer son <strong>sérieux et professionnalisme</strong>. Et par apparence on entend aussi bien le <strong>physique et le vestimentaire</strong> que <strong>l’esprit organisationnel</strong>, la discipline et le respect des autres en acceptant <strong>leurs différences</strong> sociales, intellectuelles ou culturelles.</span></p>
+
+
+
+<h2 className="sous_titre">Le bon cuisinier est respectueux</h2>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/image_thumb.png?w=910&amp;ssl=1" alt="image" title="image"></img></a></figure></div>
+
+
+
+<p><span>Un bon cuisinier c’est un cuisinier qui se respecte !</span></p>
+
+
+
+<p>Le respect commence d’abord par l’aspect visuel, la tenue vestimentaire mais aussi l’aspect physique. <span>Voici une liste des principales règles à suivre scrupuleusement :</span></p>
+
+
+
+<h2 className="sous_titre">Tenue vestimentaire du bon cuisinier</h2>
+
+
+
+<p>Un cuisinier qui a bien appris son métier doit a<span>voir une</span><strong> tenue professionnelle</strong><span> complète et propre. Et il doit la porter exclusivement en cuisine. </span> Voici la composition de la tenue professionnelle du cuisinier:</p>
+
+
+
+<ul className="wp-block-list"><li><span><strong>Toque</strong> maintenant l’intégralité de la coiffure. </span></li><li><span><strong>Veste</strong> blanche croisée. </span></li><li><span><strong>Tour de cou</strong> absorbant. </span></li><li><span><strong>Tablier</strong> recouvrant les genoux. </span></li><li><span><strong>Torchon</strong> propre et sec déplié, accroché au cordon du tablier. </span></li><li><span><strong>Pantalon</strong> pied de poule bleu sans revers. </span></li><li><span><strong>Chaussures</strong> de sécurité couvrantes, antidérapantes et confortables réservées uniquement au travail. </span> </li></ul>
+
+
+
+<h2 className="sous_titre">La propreté dans le métier de cuisinier </h2>
+
+
+
+<p>Dans une formation de métier de cuisinier, on forme avant tout des professionnels qui sont conscients de l’importance de la propreté en cuisine. Ainsi, les trois points suivants constituent un minimum à respecter: </p>
+
+
+
+<ul className="wp-block-list"><li><span>Se <strong>laver les mains</strong> avant de commencer et aussi souvent que nécessaire </span></li><li><span>Se soigner les <strong>ongles</strong> </span></li><li><span>Maintenir le poste de travail propre et débarrassé de toute <strong>chose inutile</strong> </span></li></ul>
+
+
+
+<p><span><strong>L’hygiène</strong> et la <strong>sécurité</strong> sont certainement des sujets à maîtriser si l’on veut perfectionner dans le domaine. En effet, la <strong>qualité d’un produit culinaire</strong> ne s’arrête évidemment pas à son <strong>visuel</strong>, <strong>gout et odeur</strong>, mais il faut ajouter à ces qualités sensorielles, <strong>la qualité nutritionnelle et la qualité sanitaire</strong>, d’ailleurs la réputation d’un établissement de restauration en <strong>dépend fortement</strong>. Le respect des règlementations en général, et celles relatives à la <strong>sécurité sanitaire</strong> en particulier doit créer chez le cuisinier des automatismes et réflexes <strong>hygiéniques spontanés</strong>. </span></p>
+
+
+
+<h2 className="sous_titre">L’hygiène et sécurité dans le métier de cuisinier</h2>
+
+
+
+<p>Voici une liste des principales règles et comportement à acquérir pour une bonne hygiène en cuisine et travailler en toute sécurité.</p>
+
+
+
+<ul className="wp-block-list"><li><span>N’utiliser que des denrées de<strong> bonne qualité sanitaire</strong>, vérifier étiquettes, dates limites, températures, … </span></li><li><span>respecter <strong>la chaîne de froid</strong> </span></li><li><span>Réaliser les épluchages loin de <strong>la zone de cuisson</strong>. </span></li><li><span><strong>Laver</strong> soigneusement tous les fruits et les légumes avant utilisation. </span></li><li><span>Ne jamais éplucher les <strong>légumes</strong> sur la planche à découper. </span></li><li><span>Laver et désinfecter soigneusement le <strong>poste de travail</strong> après tous les épluchages et particulièrement après l’éviscération des volailles et l’habillage des poissons </span></li><li><span>Débarrasser immédiatement les <strong>épluchures</strong>, parures et déchets dans des récipients étanches, munis de couvercles. </span></li></ul>
+
+
+
+<h4 className="sous_titre">Réception de marchandise</h4>
+
+
+
+<ul className="wp-block-list"><li><span><strong>Refuser</strong> systématiquement tout ce qui paraît douteux (boîtes bombées, produits décongelés, etc.). </span></li><li><span>Nettoyer les couteaux après chaque utilisation. </span></li><li><span>Ne jamais déposer les denrées à <strong>même le sol</strong>, les débarrasser dans des récipients de stockage appropriés. </span></li><li><span>Éliminer systématiquement tous les <strong>emballages</strong>. </span></li><li><span>Réserver les préparations dans des récipients de <strong>débarrassage</strong>, </span></li><li><span>Respecter la règle concernant le <strong>stockage</strong> : premier entré, premier sorti. </span></li><li><span>Couvrir toutes les denrées entreposées en chambre froide. </span></li><li><span>Sortir de la chambre froide les denrées de la mise en place pour le service, au <strong>dernier moment</strong>. </span></li><li><span>Respecter toutes les précautions relatives au hachage des viandes. </span></li><li><span>Ne pas <strong>décongeler les produits à la température ambiante</strong> de la cuisine, mais en enceinte réfrigérée. </span></li><li><span>Vérifier la température et la qualité des bains de friture, et filtrer l’huile régulièrement. </span></li><li><span>Nettoyer et désinfecter <strong>périodiquement</strong> les filtres des gaines d’aspiration et d’aération. </span></li><li><span>Laver, désinfecter et rincer <strong>régulièrement</strong> les éponges, les lavettes et les serpillères. </span></li><li><span>Laver, <strong>désinfecter</strong> et rincer <strong>soigneusement</strong> tous les accessoires du matériel mécanique (hachoir, cutteur, mixeur, fouet, trancheur universel, etc.). </span></li><li><span>Consulter et appliquer les <strong>fiches de procédures ou protocoles de nettoyage</strong>. </span></li><li><span>Collecter tous les <strong>déchets et détritus</strong> dans des sacs étanches à usage unique, ou dans des récipients étanches munis de couvercles affectés au seul local cuisine. Ces récipients seront nettoyés, désinfectés avant leur réintroduction en cuisine. </span></li><li><span>Ne pas <strong>fumer</strong> pas en cuisine. </span></li><li><span>Lutter énergiquement contre les <strong>insectes et les rongeurs</strong>. </span></li><li><span>Ne pas laisser entrer <strong>d’animaux</strong> en cuisine. </span> </li></ul>
+
+
+
+<p><span>Cette liste est à compléter avec les <strong>règlementations et les normes d’hygiène</strong> et de sécurité en vigueur.</span></p>
+
+
+
+<h2 className="sous_titre">Le matériel du bon cuisinier</h2>
+
+
+
+<p><span>Le matériel du cuisinier est d’une grande importance, il ne faut donc pas prendre à la légère le choix de sa <strong>coutellerie, batterie de cuisine</strong> et autres. En effet, l’utilisation de bons matériels contribue en grande partie à la <strong>réussite des recettes</strong>.</span></p>
+
+
+
+<h2 className="sous_titre"><span>Le bon cuisinier a un état d’esprit d’acier !</span></h2>
+
+
+
+<p><span>Il est donc important qu’un cuisiner ait un <strong>état d’esprit</strong> à la hauteur de ce qu’on attend de lui, il doit donner le meilleur de lui même pour <strong>satisfaire ses convives</strong> et sans pour autant d’entrer dans une angoisse ou de peur de ne pas être au <strong>niveau des attentes</strong>. Personne n’est parfait, il est donc inutile de vouloir atteindre l’inatteignable, la perfection est une question de relativité, il y aura toujours des personnes qui trouveront un produit excellent et d’autres qui lui trouveront des reproches, il est important d’accueillir de bras ouverts les critiques constructives et de faire la sourde oreille sur les remarques dont l’objectif est de minimiser la personne. </span></p>
+
+
+
+<p><span>Le meilleur moyen de savoir si le produit qu’on vient de fabriquer est parfait c’est de se mettre à la place des personnes qu’on s’apprête à servir. D’une manière générale, il suffit de faire preuve de bon sens, et de ne pas faire aux autres ce qu’on n’aimerait pas qu’on nous fasse. La cuisine permet <strong>d’explorer des facettes</strong> de soi, que parfois on ne soupçonne même pas leur existence.</span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
+
+    route: "/article/qualites-metier-cuisinier-passion-comportement",
+
+    categorie: "3",
+
+    sous_categorie: "6",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg",
+
+    lien: 'https://cuisinedebase.com/qualites-metier-cuisinier-passion-comportement/'
+}
+
+
+const V1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+
+			<div className="post-image">
+				<img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=600%2C338&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=107%2C60&amp;ssl=1 107w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png?resize=160%2C90&amp;ssl=1 160w"></img>			</div>
+
+			
+	<div className="post-content">
+
+			<h1 className="titre_article">Epreuve de mathématique physique chimie CAP session 2023</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Suivez le lien pour télécharger le corrigé en format pdf.</p>
+
+
+
+<p>bon visionnage !</p>
+
+
+
+<figure className="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div className="wp-block-embed__wrapper">
+<iframe title="CAP cuisine candidat libre. Comment préparer, cours, épreuves corrigées." src="https://www.youtube.com/embed/TnUbXV2ZtOY?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+</div><figcaption className="wp-element-caption">Vidéo du corrigé de l’épreuve de mathématique physique chimie CAP groupement 2.</figcaption></figure>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
+
+    route: "/article/epreuve-de-mathematique-physique-chimie-cap-session-2023",
+
+    categorie: "4",
+
+    sous_categorie: "-1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png",
+
+    lien: 'https://cuisinedebase.com/epreuve-de-mathematique-physique-chimie-cap-session-2023/'
+}
+
+const V2 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales</h1>
+
+
+		<div className="entry-content clearfix">
+
+<h2 className="sous_titre">Vidéo sur les examens CAP cuisine</h2>
+
+
+
+<figure className="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div className="wp-block-embed__wrapper">
+<iframe title="CAP cuisine examen pratique, écrit et oral" src="https://www.youtube.com/embed/ttL9rD0nJIo?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</div><figcaption>Epreuves CAP cuisine</figcaption></figure>
+
+
+
+<p>Dans cette vidéo je vais vous développer les épreuves de CAP cuisine. N’hésitez pas à poser vos questions en commentaire de la vidéo. Dans cette vidéo, je vais traiter les questions suivantes&nbsp;:</p>
+
+
+
+<ul className="wp-block-list"><li>Combien d’épreuves Y’A T il pour passer le CAP cuisine.&nbsp;</li><li>Quelles sont les différentes formes des épreuves,&nbsp;</li><li>les durées, les coefficients ?&nbsp;</li><li>Quelles sont les épreuves auxquelles on peut demander une dispense et comment faire pour demander cette dispense&nbsp;</li></ul>
+
+
+
+<p>Et à la fin de cette vidéo, je vous montrerai un exemple de relevé de notes d’un candidat de CAP cuisine.&nbsp;</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image.png" alt="" className="wp-image-1051" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image.png?w=447&amp;ssl=1 447w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image.png?resize=300%2C213&amp;ssl=1 300w"></img><figcaption>Examen CAP cuisine</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Annales et corrections examen CAP cuisine</h2>
+
+
+
+<p>Vous pouvez consultez l’analyse des épreuves pratiques de la session 2021 en suivant le lien suivant: les <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">sujets EP2 2021</a>.</p>
+
+
+
+<p>Aussi, vous pouvez consulte ou télécharger la <strong>correction de l’épreuve EP1</strong> de la session 2021 en suivant le lien: <strong><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction épreuve EP1 session 2021</a></strong></p>
+
+
+
+<h2 className="sous_titre">Nombre des épreuves aux examens CAP cuisine</h2>
+
+
+
+<p>Dans cette partie je vais citer toutes les épreuves de CAP cuisine afin de répondre à la question combien Y’A t-il d’épreuves aux&nbsp;<strong>examens CAP cuisine</strong></p>
+
+
+
+<p>Donc alors la première des épreuves, c’est l’épreuve que l’on appelle EP1, qui est une&nbsp;<strong>épreuve professionnelle</strong>&nbsp;et qui s’appelle&nbsp;<strong>l’organisation de la production de cuisine</strong>. Donc ça c’est la première épreuve.</p>
+
+
+
+<p>la 2e épreuve, elle s’appelle EP 2. C’est une&nbsp;<strong>épreuve</strong>&nbsp;également&nbsp;<strong>professionnelle</strong>&nbsp;et elle s’appelle donc c’est la&nbsp;<strong>réalisation de la production de cuisine</strong>. Ensuite, il y a la PSE&nbsp;<strong>prévention santé environnement</strong>. Je vous détaillerai chacune de ces épreuves. Mais là, on va juste les citer. Et puis les compter pour savoir combien d’épreuves au total nous sommes amenés à passer pour avoir le CAP cuisine.&nbsp;</p>
+
+
+
+<p>Donc ensuite on a des&nbsp;<strong>épreuves générales</strong>, alors dans les épreuves générales, on a le&nbsp;<strong>français histoire géo</strong>et&nbsp;<strong>enseignement moral et civique</strong>. Puis on a une&nbsp;<strong>épreuve de mathématiques, physique-chimie</strong>. Ensuite,&nbsp;<strong>l’éducation physique et sportive</strong>. Et enfin&nbsp;<strong>l’épreuve de langue étrangère</strong>,&nbsp;<strong>langue vivante étrangère</strong>. Il y a une dernière épreuve qui est une&nbsp;<strong>épreuve facultative</strong>. Et aussi, c’est une épreuve de langue vivante. En fait, c’est une épreuve de langue vivante qui est facultative.</p>
+
+
+
+<p>Donc, au total, ça fait 7 épreuves au total, plus&nbsp;<strong>une dernière épreuve qui est facultative</strong>.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Dispense des épreuves de matières générales</h2>
+
+
+
+<p>Alors pour les 4&nbsp;<strong>épreuves de de matières générales</strong>, il est possible de&nbsp;<strong>demander une dispense de ces épreuves</strong>. Alors quelles sont les conditions ? En fait, c’est tout simple, si vous avez un niveau bac, première ou donc si vous avez obtenu votre 2nde, vous pouvez faire la demande de dispense de ces épreuves générales. D’accord ? Et si vous avez un niveau d’étude supérieur, BTS, master que sais-je, licence ou autres, donc là ça va de soi. Vous êtes dispensé.</p>
+
+
+
+<p>Mais par contre il faut faire la demande donc à un moment donné quand vous faites l’inscription au CAP cuisine, un moment donné, on va vous demander votre niveau d’étude, vous allez le renseigner, vous allez cocher la case qui permet de faire la&nbsp;<strong>dispense de ces épreuves</strong>&nbsp;et ensuite on va attendre que vous envoyiez les preuves comme quoi vous avez ce niveau d’étude. Soit le relevé de notes, soit le diplôme. Donc vous serez dispensé de ces épreuves et vous n’aurez à passer que les 3 épreuves professionnelles qui sont. EP1, EP2 et PSE.</p>
+
+
+
+<h2 className="sous_titre">Durée et coefficients des épreuves de l’examen CAP cuisine</h2>
+
+
+
+<p>Ensuite, quelles sont les durées de chacune de ces épreuves et quelles sont leurs coefficients. C’est ce que nous allons voir par la suite.</p>
+
+
+
+<h2 className="sous_titre">L’épreuve EP1 CAP cuisine</h2>
+
+
+
+<p>Donc vous avez l’épreuve EP1, qui est&nbsp;<strong>l’organisation de la production de cuisine</strong>. C’est une&nbsp;<strong>épreuve écrite</strong>, une épreuve écrite qui dure 2h et qui a un coefficient 4.</p>
+
+
+
+<h2 className="sous_titre">L’épreuve EP2 CAP cuisine</h2>
+
+
+
+<p>Ensuite, l’épreuve EP2 qui est la réalisation de la production de cuisine. En revanche, c’est une épreuve pratique, une épreuve pratique qui va durer 5h et son coefficient est 13 d’accord 13. Et si on compte la PSE qui fait partie de l’EP2 C’est une épreuve écrite qui va durer 1h et son coefficient est un.</p>
+
+
+
+<p>Alors Autant dire que l’épreuve EP2 est l’épreuve la plus importante. Autant dire que pour avoir le CAP cuisine, il faut travailler cette épreuve et c’est pour ça qu’on insiste en fait sur la préparation de l’épreuve pratiqué. Donc elle va durer 5h et son coefficient est 13.</p>
+
+
+
+<p>Je vous détaillerai le déroulement de cette épreuve dans une prochaine vidéo, pour prendre le temps en fait de. Bien comprendre cette épreuve, quelles sont les attentes des jurys ? Et les attentes derrière chacune de ces épreuves d’ailleurs, hein, on va, on va détailler chacune de ces épreuves, mais principalement l’épreuve EP2. Je vous donnerai aussi un exemple d’épreuves pratiques et vous verrez pour qu’on puisse en fait cerner cette épreuve et comprendre les attentes derrière cette épreuve.</p>
+
+
+
+<h2 className="sous_titre">Épreuves générales</h2>
+
+
+
+<p>Ensuite, donc j’ai dit que y a les&nbsp;<strong>épreuves de matières générales</strong>&nbsp;qui sont les maths. C’est une&nbsp;<strong>épreuve écrite qui va durer 2h</strong>&nbsp;et son coefficient est 2. L’épreuve de français histoire géo EMC. Enseignement moral et civique, c’est une épreuve, donc là pour le coup, c’est une épreuve qui est écrite, une partie écrite, donc, français principalement une partie écrite qui va durer 2h et une partie orale qui va durer 15 Min. </p>
+
+
+
+<p>D’accord, la partie écrite de 2h00 donc. Elle portera principalement sur du Français. Comprendre un texte puis répondre aux questions relatives à ce texte, puis produire une rédaction, une rédaction selon un processus, donc entre 15 et 20 lignes, je pense. Donc cette épreuve elle va durer 2h. C’est une épreuve écrite et l’autre partie, c’est une épreuve orale. Chacune de ces 2 épreuves est sur 10 points. Le total est sur 20 points et chacune de ces 2 épreuves a un coefficient de 1,5. D’accord.</p>
+
+
+
+<p>Ensuite, on a&nbsp;<strong>l’épreuve EPS</strong>,&nbsp;<strong>éducation physique et sportive</strong>, qui a un coefficient un et l’épreuve de langue vivante, c’est l’anglais généralement c’est l’anglais qui est un oral de 20 Min. Et qui a un coefficient un.&nbsp;</p>
+
+
+
+<p>Voilà donc comme vous pouvez le voir sur cette. Cette présentation en fait il y a 7 épreuves. Et comme vous pouvez le voir, l’épreuve la plus importante est la réalisation de la production de cuisine.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Relevé de note examen CAP cuisine</h2>
+
+
+
+<p>OK, ensuite. Donc là je vais vous donner un exemple de relevés de notes pour savoir à quoi ressemble un relevé de Note. chacun a son propre relevé de note. Et pour l’avoir en fait, vous allez avoir sur votre convocation le lien où vous allez le retrouver. On va vous demander des informations personnelles comme votre numéro de candidat par exemple et mon prénom. Enfin, date de naissance. </p>
+
+
+
+<p>Et ensuite, vous allez arriver sur une page qui va ressembler à ça. Gestion des examens et concours avec votre académie et le&nbsp;<strong>certificat d’aptitude professionnelle</strong>, donc le CAP. Et puis les notes qui seront affichées ici. Et puis la moyenne générale et ensuite la décision est ce que vous êtes admis ou pas. Donc là pour ce relevé bien sur la&nbsp;<strong>personne est admise</strong>&nbsp;donc comme vous pouvez le voir, il y a les&nbsp;<strong>épreuves professionnelles</strong>,&nbsp;<strong>organisation de la&nbsp;</strong>production de la cuisine et&nbsp;<strong>réalisation de la production depuis cuisine</strong>. </p>
+
+
+
+<h2 className="sous_titre">Organisation du relevé de note</h2>
+
+
+
+<p>Ensuite, vous avez toutes les épreuves de&nbsp;<strong>matière générale</strong>&nbsp;qui sont le&nbsp;<strong>français, histoire, géo, enseignement moral et civique, donc partie écrite et partie orale, mathématiques, éducation physique et sportive, langue vivante étrangère</strong>. La partie écrite est partie orale. Et puis là.&nbsp;<strong>Prévention santé environnement</strong>. À savoir que si vous êtes dispensé de ces épreuves là, Eh Ben vous aurez pas de notes de notes pour pour ces ces épreuves. Donc il y aura écrit, dispense voilà.&nbsp;</p>
+
+
+
+<p>Donc j’espère que vous avez compris en fait le nombre d’épreuves que vous allez passer pour obtenir le CAP cuisine le nombre des épreuves, le coefficient de chacune des épreuves et la durée de chacune des épreuves. Et là et là&nbsp;<strong>modalité de d’évaluation</strong>. </p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales",
+
+    route: "/article/examen-cap-cuisine-lepreuve-pratique-et-matieres-professionnelles-et-generales",
+
+    categorie: "4",
+
+    sous_categorie: "-1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image.png",
+
+    lien: 'https://cuisinedebase.com/examen-cap-cuisine-lepreuve-pratique-et-matieres-professionnelles-et-generales/'
+}
+
+const V3 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="entry-title">Foire aux questions CAP cuisine en candidat libre – Le stage</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<h2 className="sous_titre">La <strong>foire aux questions CAP cuisine</strong>. Réponse en vidéo</h2>
+
+
+
+<figure className="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div className="wp-block-embed__wrapper">
+<iframe title="Je répond à vos questions sur le CAP cuisine candidat libre. : Le stage" src="https://www.youtube.com/embed/7Qs0CrV6Rn8?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+</div><figcaption className="wp-element-caption">Le stage CAP cuisine</figcaption></figure>
+
+
+
+<p>J’ai décidé de répondre en vidéos, pour que cela soit plus pratique et conviviale. Si vous aussi vous avez des questions, vous pouvez les poser en commentaire en dessous de cet article, et je vous tiendrez au courant dès que je publie les réponses à vos <strong>questions sur le CAP cuisine</strong> candidat libre.</p>
+
+
+
+<p>Dans cette première vidéo, j’ai traité la question du stage. </p>
+
+
+
+<p>Voici le contenu de la vidéo (en transcription texte) :</p>
+
+
+
+<p>Bonjour c’est Hicham de cuisine de base&nbsp;</p>
+
+
+
+<p>J’espère que vous allez bien. Bienvenue sur cette nouvelle vidéo cette nouvelle série de vidéos je vais la consacrer aux réponses à des questions qui me sont posées soit en dessous des articles du blog soit par mail que vous m’envoyez. Où, via le formulaire de sondage que j’avais fait il y a un moment déjà.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">La page <strong>foire aux questions CAP cuisine</strong></h2>
+
+
+
+<p>Donc j’ai décidé en fait de répondre à vos questions parce que y a certaines questions qui reviennent régulièrement. Donc je vais essayer de faire une vidéo pour que ça soit profitable à tout le monde.&nbsp;</p>
+
+
+
+<p>Voilà et en même temps, je vais mettre une page qui sera dédiée à toutes les questions. Donc si vous avez une question, vous pouvez la poser directement dans cette page, vous trouverez le lien en dessous de la vidéo.</p>
+
+
+
+<p>Dans cette première vidéo, je vais répondre à une question qui revient assez souvent. Cette première question, elle concerne le stage. Le stage de.&nbsp;</p>
+
+
+
+<p>Alors quand on fait un CAP de cuisine en tant que candidat libre, est ce qu’on est obligé de faire un stage ?&nbsp;</p>
+
+
+
+<p>Donc là voilà certaines questions qui m’ont été posées par bah peut-être vous allez vous reconnaître&nbsp;:</p>
+
+
+
+<p>quel type de stage est-il plus judicieux d’entreprendre en première expérience&nbsp;</p>
+
+
+
+<p>est-ce que je suis obligé de faire des stages en entreprise s’il vous plaît ? Pierre-Noël,&nbsp;</p>
+
+
+
+<p>…et le stage pratique donc il y avait un début de questions que c’était pas utile de le mettre ici. Le stage pratique est-il obligatoire ? Quelle est la durée du stage ? Donc c’est une question posée par Marie,&nbsp;</p>
+
+
+
+<p>comment gérer les stages pratiques avec une vie de famille ? Question posée par Sacha.&nbsp;</p>
+
+
+
+<p>Ensuite, est-ce gérable en 4 mois, sachant que je sais cuisiner de façon basique à la maison, je fais 3 mois de stage dans différents établissements. J’ai peur de ne pas avoir le temps de tout voir.&nbsp;</p>
+
+
+
+<p>Donc là je vais essayer de les traiter l’une derrière l’autre.</p>
+
+
+
+<h2 className="sous_titre">Le stage est-il obligatoire?</h2>
+
+
+
+<p>Déjà, avant de répondre à ces questions, sachez que si vous êtes en candidat libre, si vous passez le cap cuisine en candidat libre. Avant 2023 Le stage n’était pas obligatoire, mais <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-stage-obligatoire-ou-facultatif/">le stage CAP cuisine candidat libre</a> est devenu obligatoire à partir de la réforme de 2023. En revanche, il est très conseillé de le faire, donc je le conseille fortement. Ça vous permet de côtoyer des vrais cuisiniers et d’avoir leur conseil. Et bien sûr, ils peuvent. Corriger si jamais vous faites des erreurs.&nbsp;</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Foire aux questions CAP cuisine en candidat libre – Le stage",
+
+    route: "/article/questions-cap-cuisine-candidat-libre",
+
+    categorie: "4",
+
+    sous_categorie: "-1",
+
+    articlesConnexes: [],
+
+    image: "https://i1.ytimg.com/vi/7Qs0CrV6Rn8/hqdefault.jpg",
+
+    lien: 'https://cuisinedebase.com/questions-cap-cuisine-candidat-libre/'
+}
+
+const VA1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">La cuisine pour quitter la “Rat Race”</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Connaissez votre destin.</p>
+<p>Dans l’abondance de l’eau.</p>
+<p>L’insensé a soif… »</p>
+<p>Ces mots proviennent d’une traduction de la célèbre chanson de Bob Marley « Rat race ».</p>
+<div className="post-image">
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="rat-race-2395779_1920" alt="rat-race-2395779_1920" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg"></img></a>  </p>
+</div>
+<p>Certains traduiront cela par « race de rat » qui peut être utilisé comme une injure. Et d’autre traduiront cela par « course de rat » à l’image des rats qui courent dans des roues ignorant qu’ils sont prisonniers d’une course sans fin. D’ailleurs dans la chanson on joue avec les deux significations.  </p>
+<p>Pourquoi je vous raconte cela, cette chanson m’a beaucoup marqué, malgré le fait qu’elle soit écrite dans une autre époque, probablement les années 70, elle reflète encore la société dans laquelle nous vivons aujourd’hui. En effet, la vie de nombreuses personnes est dédiée à leur travail, elle se résume en général à « métro-boulot-dodo ».  </p>
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="oleg-sergeichik-500326-unsplash" alt="oleg-sergeichik-500326-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash_thumb.jpg"></img></a>  </p>
+<p>Une course qui ressemble étrangement à celle des rats, à une différence près : que nous, qui appartenons à la race humaine « intelligente », notre course peut s’arrêter et au moins de 2 manières différentes :  </p>
+<ol>
+<li>
+<h2>Elle prendra fin bien sûr à l’âge de la retraite, mais à condition, qu’on ait suffisamment cotisé pour toucher une indemnité descente et qu’on ait fini de rembourser les différents crédits, de la maison, de la voiture, de consommation, … </h2>
+</li><li>
+<h2>Le deuxième scénario est celui que je préfère et que je préconise, il consiste à prendre son destin en main et de quitter la course des rats vers une course de bien être et de bonheur. Et ce n’est pas les nombreux salariés qui tentent chaque année une <u><a href="https://cuisinedebase.com/se-reconvertir-dans-la-restauration-pour-changer-de-vie/">reconversion professionnelle</a></u> vers un travail manuel, et en rapport avec une de leurs passions, qui diront le contraire.</h2>
+</li>
+</ol>
+<p>Quitter son train train quotidien n’est pas une chose facile, il faut avoir des objectifs précis, et tenir à <u><a href="https://cuisinedebase.com/une-mthode-simple-pour-tenir-ses-engagements-et-appliquer-ses-bonnes-rsolutions/">respecter ses bonne résolutions</a></u>. Une reconversion professionnelle ne doit pas se faire à la légère, il faut qu’elle soit bien préparée en pesant le pour et le contre.  </p>
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash.jpg?ssl=1"><img data-recalc-dims="1" loading="lazy" decoding="async" title="dylan-nolte-576808-unsplash" alt="dylan-nolte-576808-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash_thumb.jpg"></img></a>&nbsp;L’image décrit des personnes en train de travailler dans un bâtiment de bureaux. La question qu’on peut se poser est quelle est la différence entre eux et les frères Dalton lorsque ces derniers sont derrière les barreaux…?  </p>
+<h2 className="post-image">Un cuisinier professionnel peut exercer plusieurs métiers</h2>
+<p>Un des métiers que j’aurais aimé exercer est celui d’un chef dans un restaurant, pour moi <u><a href="https://cuisinedebase.com/la-lettre-que-tout-amateur-ou-professionnel-de-cuisine-aurait-aime-recevoir-avant-de-se-lancer/">les chefs cuisiniers ont tellement de qualités</a></u> que je les considère comme des personnes qui vendent du plaisir tout en se faisant plaisir. En apprenant la cuisine, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux …. C’est une des raisons pour laquelle les centres de formations voient arriver des personnes passionnées souhaitant se former en cuisine, et pour pouvoir vivre de leur passion, il y a <a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/">plusieurs activités ou métiers</a> qu’ils peuvent faire, j’en ai détaillé huit dans un précédent article comme par exemple: chef à domicile, traiteur, formateur, …  </p>
+<p>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">quelques recettes</a></u>, qu’on peut facilement apprendre en suivant <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">les conseilles que j’ai réunis dans cet article</a><u></u>, on peut passer un CAP cuisine en tant que candidat libre. Et pour vous aider dans ce projet, je vous ai fait un <u><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">programme d’entraînement</a> </u>qui peut vous aider à préparer ce diplôme en 6 mois.  </p>
+<p>Il est temps d’arrêter de travailler pour le travail et de toujours courir pour acheter toutes les choses qu’on a envie de posséder, mais sans forcément en avoir besoin. Faire de sa passion son propre travail pour quitter la rat race pour une véritable course vers le bonheur.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "La cuisine pour quitter la “Rat Race”",
+
+    route: "/article/la-cuisine-pour-quitter-la-rat-race",
+
+    categorie: "3",
+
+    sous_categorie: "0",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/'
+}
+
+const E1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment appliquer les bonnes résolutions en 2021. La meilleure astuce</h1>
+
+
+		<div className="entry-content clearfix">
+
+<div className="post-image">
+<figure className="post-image size-large"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg" alt="pexels-photo-5408689.jpeg" className="wp-image-1705" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1880&amp;ssl=1 1880w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=600%2C401&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1820&amp;ssl=1 1820w"></img><figcaption>Photo par Olya Kobruseva</figcaption></figure>
+</div>
+
+
+<p>Et heureusement qu’il y a une partie de gens beaucoup plus responsable et consciente, ces gens-là font la fête s’amusent rigolent, font des réunions et rencontres entre familles et amis, bref profitent pleinement de la vie, mais en même temps, ils sont soucieux de leurs <strong>bien être physique et moral</strong>, ils ne laissent donc pas passer cette occasion de <strong>fin d’année</strong> sans <strong>faire le point</strong> sur leur situation et comment faire pour l’améliorer en prenant en compte les enseignements appris durant l’année qui vient de s’écouler.</p>
+
+
+
+<h2 className="sous_titre">Astuce pour appliquer les résolutions de fin d’année</h2>
+
+
+
+<p>Comme la grande majorité des personnes de cette époque, je suis abonné à un certain nombre de <strong>newsletter de bolgs</strong>, marques, personnalités connues, etc… et la liste est longue. Et comme tout le monde donc, je reçois des <strong>conseils</strong>, <strong>feedback</strong> et des <strong>astuces</strong> pour appliquer les <strong>bonnes résolutions de fin d’année</strong>.</p>
+
+
+
+<p>Parmi toutes les astuces que j’ai eues, il y en a une qui a attiré toute mon attention. Et elle est <strong>facilement applicable</strong> dans n’importe quel domaine, notamment pour <strong>préparer le CAP cuisine en candidat libre</strong>.</p>
+
+
+
+<h2 className="sous_titre">Objectifs de fin d’année</h2>
+
+
+
+<p>Il s’agit en fait d’une chose à ne pas faire. Ne pas faire des <strong>objectifs très vagues</strong> et qui durent sur toute une année. En effet, le fait de découper un <strong>grand objectif</strong> en plusieurs petits objectifs est très efficace. Cela permet de <strong>mesurer l’efficacité</strong> de la démarche entreprise et de rectifier le tir en cas de besoin.&nbsp;</p>
+
+
+
+<p>Imaginons une personne qui attend la fin de l’année pour <strong>faire le bilan</strong>, si cette personne a commis une erreur qui a empêché l’aboutissement de son <strong>projet</strong>, elle ne se rendra compte qu’à la fin de l’année, au moment où elle fera son <strong>bilan</strong>. A contrario, imaginons une deuxième personne qui a découpé son grand projet en <strong>plusieurs mini-projets</strong>, en cas d’erreur, cette personne a largement le temps de se rattraper et de rectifier son erreur à l’<strong>étape suivante de son projet</strong>, et éviter à la même occasion une <strong>perte de temps</strong> qui pourrait lui coûter trop cher.</p>
+
+
+
+<h2 className="sous_titre">Objectif: CAP cuisine à distance</h2>
+
+
+
+<p>Cet article participe à l’évènement “Votre meilleure astuce pour&nbsp;appliquer&nbsp;vos bonnes résolutions” du blog&nbsp;<a href="https://devenez-meilleur.co/" target="_blank" rel="noopener noreferrer">Devenez meilleur</a>. Mon article préféré est&nbsp;<a href="https://devenez-meilleur.co/quest-ce-que-le-respect/" target="_blank" rel="noopener noreferrer">celui-ci</a>.</p>
+
+
+
+<p><strong>Cuisinedebase</strong> est un blog qui aide les personnes qui souhaitent <strong>passer le CAP cuisine en candidat libre</strong> à <strong>bien s’organiser et préparer les épreuves pratiques</strong>. Personnellement, je pense que c’est suffisant de bien préparer le <strong>CAP cuisine à distance</strong> en seulement <strong>6 mois</strong>. Si vous envisagez <strong><a href="https://cuisinedebase.com/programme-de-coaching-pour-vous-aider-obtenir-le-cap-cuisine/" title="Cuisiner comme un PRO! Le programme qui vous aide à réussir le CAP cuisine">de préparer le CAP cuisine à distance et en solo</a></strong>. voici une application concrète de l’astuce précédente, au lieu de faire des résolutions à l’année (comme : <strong>Préparer les épreuves écrites et pratiques pour réussir le CAP cuisine</strong>), faites des résolutions pour les 60 prochains jours (comme: <strong>Faire 6 recettes qui permettent de préparer les épreuves pratiques et 2 examen blanc</strong>). Ne pensez même pas au reste de l’année. Et quand la résolution n’est plus excitante en Février, devinez quoi… vous avez déjà fait un tiers ! Vous n’allez pas abandonner maintenant !</p>
+
+
+
+<p>Un dernier effort – et vous avez terminé la moitié des entrainements en beauté.</p>
+
+
+
+<p>Et le top du top, c’est que, dès le mois de mars, la deuxième partie commence – et vous avez le droit à un&nbsp;tout <strong>nouveau départ</strong>.</p>
+
+
+
+<p>Et encore un dernier nouveau départ en mai.</p>
+
+
+
+<p>3 nouveaux départs pour <strong>réaliser les résolutions de début d’année</strong>. Quel bonheur.</p>
+
+
+
+<p>Ça vous aidera à <strong>créer des plans</strong> que vous allez tenir, à <strong>rester motivé</strong> et à <strong>éliminer les distractions</strong>.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment appliquer les bonnes résolutions en 2021. La meilleure astuce",
+
+    route: "/article/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg",
+
+    lien: 'https://cuisinedebase.com/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021/'
+}
+
+const E2 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres</h1>
+
+		<div className="entry-content clearfix">
+
+<div className="post-image">
+    <figure className="aligncenter"><img decoding="async" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&amp;usqp=CAU" alt="Livre, Coffee And Glasses | Photo gratuite | LibreShot"></img><figcaption>Reconversion professionnelle</figcaption></figure>
+</div>
+<p>Vendredi 15 février, le réveil est trop dur ce matin là, et je n’ai aucune envie d’aller au travail. La journée commence très mal, je n’ai plus de dosettes de café. Les chauffeurs de bus font grève. Et par conséquent, je dois marcher une vingtaine de minutes sous une pluie menaçante avant d’arriver à mon bureau. Ajouter à cela, et par dessus tout, mon rendez vous avec Arnaud à 8h30 <strong>va propulser cette matinée dans le top 3</strong> des pires matinées de mon existence. Et c’est aussi grâce à cette mauvaise journée que j’ai commencé à réfléchir sérieusement à ma <strong>reconversion professionnelle</strong>.</p>
+
+
+
+<h2 className="sous_titre">Le début de ma reconversion professionnelle</h2>
+
+
+
+<p>En fait Arnaud est l’un de mes clients de la liste noire, le genre arrogant prétentieux je sais tout… son gros problème est le fait qu’il se croit vraiment roi parce que pour lui “<strong>le client est roi</strong>”. </p>
+
+
+
+<p>En arrivant au bureau, j’ai juste le temps de faire ma tasse de café matinale. Passage obligatoire avant de me rendre en salle de réunion. Rêvons un peu! Si tout va bien. Dans exactement 10 minutes, la présentation powerpoint sera accueillie favorablement par Arnaud. Cette présentation que j’ai mis une journée à mettre en place. Et pour une fois, la réunion durera moins que d’habitude. Je serai débarrassé d’Arnaud et de ses remarques nauséabondes et ma journée prendra une autre tournure. Et à la fin de la réunion je ne penserai pas comme d’habitude à <strong>vouloir changer de métier</strong>. Et à chercher comment faire une <strong>reconversion professionnelle</strong></p>
+
+
+
+<p><strong>… Il n’est pas interdit de rêver</strong>! Réellement, cela ne se passe jamais comme ça. La réunion qui doit durer une heure ou 2 grand max, donnera naissance à une dizaine d’autres réunions. Qui elles aussi dureront en moyenne entre 2 et 3 heures chacune, quel gâchis! à croire que le temps n’a aucune valeur.</p>
+
+
+
+<h2 className="sous_titre">Le livre à l’origine de ma <strong>reconversion professionnelle</strong></h2>
+
+
+
+<p>J’ai vécu ce scénario pendant très longtemps, tellement longtemps que j’ai commencé à croire que pour qu’une <strong>décision soit valide</strong>, elle doit obligatoirement être le sujet d’une dizaine de réunions. Jusqu’au jour où j’ai fait une découverte qui m’a vraiment <strong>ouvert les yeux</strong>, cette découverte s’appelle “<strong><a href="https://amzn.to/3kIPaON" target="_blank" rel="noopener noreferrer">la semaine de 4 heures</a></strong>” le <strong>livre</strong> best seller de <strong>Tim Ferriss</strong>. Dans ce livre, l’auteur explique comment il a réussi de sortir d’une boucle interminable, une course derrière un bonheur fictif et imposée par la société “moderne”. En faisant une analyse objective de son quotidien, Tim Ferriss se rend compte que son <strong>véritable bonheur</strong> dépend de la bonne <strong>utilisation de son temps</strong>, et il déduit que son <strong>temps est son principal patrimoine</strong> et qu’il se doit de mieux le préserver.</p>
+
+
+
+<h2 className="sous_titre">Le bonheur au travail</h2>
+
+
+
+<p>Et la solution qu’il a avancé est très simple, elle est inspiré d’une loi statistique qui est <strong>la loi de Pareto</strong>, ou la loi <strong>20/80 (vingt quatre vingt)</strong>. Et en appliquant cette loi à lui même, il s’est rendu compte par exemple que:</p>
+
+
+
+<blockquote className="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>seulement 20% de son portefeuille client représente 80% de ses recettes, il décide donc de concentrer ses efforts de fidélisation sur ces 20% de clients plutôt que de perdre son temps avec la totalité de ses clients.</p><p>il utilise seulement 20% de son temps effectivement pour réaliser 80% de son travail, il a mis en place une stratégie intelligente basée sur du télétravail et de l’automatisation de tâches répétitives</p></blockquote>
+
+
+
+<p>Il a réussi à mettre un soupçon de <strong>bonheur dans son travail</strong> au quotidien juste en donnant de la <strong>valeur à son temps</strong>.</p>
+
+
+
+<h2 className="sous_titre">Pourquoi faire une <strong>reconversion professionnelle</strong></h2>
+
+
+
+<p>Selon ce livre, le <strong>schéma conventionnel</strong> et en quoi beaucoup de personnes croient <strong>est tout simplement un leurre</strong>.&nbsp; Ce schéma peut être résumé de la manière suivante:</p>
+
+
+
+<ul className="wp-block-list"><li>Faire des <strong>grandes études</strong></li><li>Trouver un <strong>travail</strong> dans une <strong>grande entreprise</strong></li><li>Grimper les échelons pour avoir un <strong>meilleur salaire</strong> et une <strong>bonne retraite</strong></li><li>Profiter du temps de la <strong>retraite</strong> pour passer des <strong>bons moments</strong></li></ul>
+
+
+
+<p>Si ce schéma était parfait, pourquoi donc il y a de plus en plus de gens à penser à faire une <strong>réorientation professionnelle</strong>. La réponse est toute simple…</p>
+
+
+
+<p>Seulement arrivé à l’âge de la retraite, beaucoup de gens n’ont plus suffisamment de forces pour faire des activités insolites.<strong>Tim Ferris</strong> propose un <strong>schéma alternatif</strong> qui consiste à créer ce qu’il appelle une “<strong>muse</strong>”, c’est une sorte de machine automatique à <strong>revenus passifs</strong> qui rend son créateur <strong>indépendant financièrement</strong>. Et de cette manière il peut passer de bons moment et <strong>profiter de sa jeunesse</strong> et de <strong>sa bonne santé</strong> pour faire ce qu’il l’amuse le plus. Plutôt que de rester enfermé dans un bureau et supporter des clients qui se prennent vraiment pour des rois.</p>
+
+
+
+<h2 className="sous_titre"><strong>Reconversion professionnelle</strong> en cuisine</h2>
+
+
+
+<p>Je participe avec le présent article à un évènement interblogueur. Il est organisé par <strong>Olivier Roland </strong>du blog <a href="https://des-livres-pour-changer-de-vie.com/">Des Livres pour changer de vie</a>. J’apprécie beaucoup ce blog, et en fait mon article préféré est <a href="https://des-livres-pour-changer-de-vie.com/la-semaine-de-4-heures/">celui-ci</a>.</p>
+
+
+
+<p>Le <strong>deuxième livre</strong> qui m’a beaucoup marqué, et qu’il n’a rien avoir avec le premier est “<strong><a href="https://www.amazon.fr/gp/product/2857089260/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=2857089260&amp;linkId=6a6e2ae8bc55b8dc2de04def579f442e" target="_blank" rel="noopener noreferrer">La cuisine de référence</a></strong>” de <strong>Michel Maincent-Morel</strong>. Ce livre m’a permis tout simplement de découvrir <strong>le cuisinier amateur</strong> qui se cache en moi, c’est grâce à ce livre que j’ai pu apprendre les <strong>bases de la cuisine</strong>, <u>gastronomique et traditionnelle</u>. Il m’a aussi été d’une grande utilité. Quand j’ai décidé de passer le <strong>CAP cuisine en tant que candidat libre</strong> en 2015.</p>
+
+
+
+<h2 className="sous_titre">Je change de métier</h2>
+
+
+
+<p>Et c’est grâce à cette <strong>formation à distance</strong> que j’ai pu découvrir le <strong>métier de cuisinier</strong>. J’ai suivi à la lettre les recommandations et <strong>enseignements de ce livre</strong>. Et je me suis entrainé tout seul dans ma petite cuisine à apprendre<strong> les bases de la cuisine</strong>, ainsi que les astuces de <strong>cuisiniers professionnels</strong>. Bref tout ce qui orbite autour de la cuisine et la <strong>restauration professionnelle</strong>. C’est grâce à cette formation et ce livre que j’ai pu dire un jour à mes proches «&nbsp;<strong>je change de métier</strong>«&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Un livre inspirant</h2>
+
+
+
+<p>Et le <strong>troisième livre inspirant</strong> qui m’a marqué est “<strong><a href="https://www.amazon.fr/gp/product/210076196X/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=210076196X&amp;linkId=7d37d72e78f60a72a261d9566fc987ff" target="_blank" rel="noopener noreferrer">Partie de rien</a></strong>” de <strong>Hapsatou Sy</strong>. C’est un livre très facile à lire, il raconte l’histoire de son auteur. Un ouvrage qui démontre que <strong>tout est possible</strong>, même quand on a l’impression de <strong>partir</strong> <strong>de</strong> <strong>zéro</strong>, à condition de <strong>travailler sans relâche</strong> et de croire en sa bonne étoile.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres",
+
+    route: "/article/reconversion-professionnelle-livres-changer-metier",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&usqp=CAU",
+
+    lien: 'https://cuisinedebase.com/reconversion-professionnelle-livres-changer-metier/'
+}
+
+const E3 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens</h1>
+
+		<div className="entry-content clearfix">
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg" alt="cle_solution" title="cle_solution"></img></a><figcaption>préparation des examens</figcaption></figure></div>
+
+
+
+<p>Il est donc tout à fait normal de vouloir respirer un peu mais attention, il ne faut pas que cela soit en dépend de vos projets personnels ou professionnels. Je pense aux personnes qui ont des des épreuves ou examens à passer, et en particulier, à toutes celles et ceux qui sont sur leurs&nbsp;<strong>dernières ligne droite de préparation</strong>&nbsp;<strong>des épreuves de CAP cuisine</strong>, je vous souhaite bon courage de tout cœur!&nbsp;</p>
+
+
+
+<p>Je sais que cette période est très difficile, et beaucoup d’entre vous commencent à douter dans leurs capacités à aller jusqu’au bout et à baisser un peu le rythme en remettant de plus en plus ce que nous devons faire aujourd’hui à demain.&nbsp;<strong>La procrastination entraîne généralement un douloureux regret. Remettre nos actions du jour au lendemain nous donne une double charge. La meilleure façon de procéder est de les faire au moment approprié</strong>. Cette citation est attribuée à “Ida Scott Taylor”.</p>
+
+
+
+<p>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple&nbsp;<a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a>&nbsp;pour passer le&nbsp;<a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a>&nbsp;et le&nbsp;<a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a>&nbsp;pour les travailler.</p>
+
+
+
+<h2 className="sous_titre" id="7-etapes-pour-vous-aider-dans-la-preparation-des-examens">7 étapes pour vous aider dans la préparation des examens</h2>
+
+
+
+<p>Voici une méthode,&nbsp;<strong>en sept points,</strong>&nbsp;qui permet&nbsp;<strong>d’atteindre plus facilement</strong>&nbsp;les objectifs:</p>
+
+
+
+<h2 className="sous_titre" id="definir-un-objectif-principal">Définir un objectif principal</h2>
+
+
+
+<p>Un objectif ne peut être réalisé que s’il est bien défini et&nbsp;<strong>avec précision</strong>, s’il est&nbsp;<strong>raisonnable</strong>&nbsp;et s’il est&nbsp;<strong>atteignable</strong></p>
+
+
+
+<p>Voici un exemple d’objectif :&nbsp;<strong>Obtenir le diplôme de CAP cuisine</strong>.</p>
+
+
+
+<h2 className="sous_titre" id="determiner-des-objectifs-intermediaires">Déterminer des objectifs intermédiaires</h2>
+
+
+
+<p>Ces objectifs intermédiaires doivent tous&nbsp;<strong>mener à la réalisation</strong>&nbsp;de l’objectif principal. Ils doivent être Fixés sur des&nbsp;<strong>courtes périodes</strong>, car c’est plus&nbsp;<strong>facile à contrôler et à atteindre</strong>.</p>
+
+
+
+<p>Pour l’objectif fixé ci-dessus, les objectifs intermédiaires peuvent se traduire comme :</p>
+
+
+
+<ul className="wp-block-list"><li>Faire les 25 recettes de base</li><li>Apprendre les techniques de base</li><li>Apprendre les cours théoriques</li><li>Faire des examens blancs</li><li>…</li></ul>
+
+
+
+<p>Traduire ensuite les objectifs en&nbsp;<strong>grandeurs faciles à quantifier et à mesurer</strong>.</p>
+
+
+
+<ul className="wp-block-list"><li>Faire 2 recettes par semaine</li><li>apprendre 5 techniques par semaine</li><li>1 examen blanc par mois</li><li>…</li></ul>
+
+
+
+<h2 className="sous_titre" id="plan-d-action-pour-atteindre-ses-objectifs-de-preparation-des-examens">Plan d’action pour atteindre ses objectifs de préparation des examens</h2>
+
+
+
+<ul className="wp-block-list"><li>Mettre un&nbsp;<strong>plan d’action</strong>&nbsp;pour atteindre ses objectifs. Une sorte de&nbsp;<strong>planning</strong>&nbsp;qui détaille concrètement comment faire.</li><li>Faire une sorte de fiche de tâches journalière</li><li>Seulement&nbsp;<strong>deux à trois actions par jour</strong>&nbsp;suffisent pour avoir le sentiment d’aller de l’avant.</li><li>Se donner les&nbsp;<strong>moyens nécessaires</strong>&nbsp;pour rendre les&nbsp;<strong>objectifs facilement atteignables</strong>.</li><li>installer une sorte de&nbsp;<strong>rituel quotidien</strong>&nbsp;peut aider à éviter de remettre au lendemain les actions faisable aujourd’hui&nbsp;</li><li>toujours se rappeler des&nbsp;<strong>bénéfices à obtenir</strong>&nbsp;en réalisant l’objectif principal</li><li>Faire des&nbsp;<strong>points réguliers</strong>&nbsp;pour constater l’état d’avancement vers l’objectif principal&nbsp;</li><li>Ceci permet de faire une&nbsp;<strong>auto-évaluation</strong>, pour voir si on avance comme prévu vers l’objectif, ou le cas échéant, pour se rattraper et de revoir sa stratégie&nbsp;<strong>tant que ce n’est pas encore trop tard</strong>.</li><li>Une fois les objectifs de la première période sont atteints, il faut marquer convenablement la date et&nbsp;<strong>fixer les objectifs de la période suivante</strong>&nbsp;et ainsi de suite jusqu’à la réalisation de l’objectif principal.</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens",
+
+    route: "/article/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens/'
+}
+
+const E4 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Apprendre à cuisiner pour manger équilibré et mieux s’alimenter</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Malheureusement beaucoup de gens ne mangent que ce que les autres font pour eux. Soit en <strong>sandwich, en plat pré-cuisiné</strong> à réchauffer en microonde ou dans les meilleurs des cas dans un <strong>restaurant “traditionnel”</strong>. Hélas, beaucoup de restaurants qui se revendiquent être traditionnel, ne le sont pas réellement. Alors, <strong>manger dans un restaurant traditionnel </strong>n’est plus une manière sûr pour <strong>manger équilibré</strong>, ni de <strong>consommer des produits de qualité</strong>. Beaucoup de restaurants ne servent que des plats réchauffés.</p>
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png" alt="image" title="image"></img></a><figcaption><strong>apprendre à cuisiner</strong></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">A<strong>pprendre à cuisiner</strong> pour diversifier ses repas</h2>
+
+
+
+<p>Avez vous déjà consommé un <strong>dessert dans un restaurant</strong>, à coup sure la réponse et oui. Mais attendez la suite, est ce que quelques jours plus tard vous êtes partis dans un autre restaurant et vous avez commandé le même dessert. Et à peine commencé à le déguster vous remarquez que les deux desserts se ressemblent tellement qu’on dirait qu’ils sont faits par une même personne. </p>
+
+
+
+<p>J’ai pris l’exemple d’un dessert mais cela peut aussi marcher avec une entrée ou un plat. Si vous avez une anecdote de ce genre, racontez la nous dans les commentaires. Et si vous ne vous souvenez pas, je vous invite à faire l’expérience et de nous la partager dans les commentaires de cet article.</p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour échapper à la consommation standard</h2>
+
+
+
+<p>L’explication de ceci est liée à notre <strong>mode de consommation alimentaire</strong>, celui-ci est basé de plus en plus sur des <strong>produits riches en matière grasse, en sucre, sel et toute sorte d’additifs.</strong> Ces derniers permettent de prolonger la durée de conservation des aliments et aussi de rendre leur aspect visuel plus attirant. En effet, le marché mondial de la <strong>consommation agro-alimentaire</strong> tend de plus en plus vers une <strong>standardisation des produits alimentaires</strong>, c’est la raison pour laquelle les <strong>humburger, pizzas, tacos, grec</strong>, … sont devenus des <strong>produits de grande consommation</strong> dans le monde entier. </p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour éviter la consommation à «&nbsp;l’américaine&nbsp;»</h2>
+
+
+
+<p>Le style de <strong>consommation à l’américain</strong> est souvent pris comme modèle, ainsi, les produits peuvent alors être diffusés sur la plupart des marchés. Ce qui permet aux multinationales de <strong>réduire leurs coûts fixes</strong> et donc de faire des économies d’échelle. <strong>La restauration rapide</strong> ou « <span>fast food </span>» s’est développée d’une manière phénoménale, la même chose pour les <strong>plats cuisinés</strong> que l’on trouve partout dans les magasins spécialisés ou dans les grandes surfaces. Et c’est pour ces raisons qu’on commence à trouver des <strong>plats quasiment similaires</strong> chez une grande partie des <strong>professionnelles de la restauration</strong>.</p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner est bon pour la santé</strong></h2>
+
+
+
+<p>Pour <strong>apprendre à cuisiner</strong> on commence par <strong>apprendre les produits alimentaires</strong> comme les fruits, légumes, viandes, produits gras, … Et la connaissance des produits alimentaires permet de mieux les <strong>choisir et les marier et bien sur les cuisiner</strong>.</p>
+
+
+
+<p>Aussi, on apprend à chercher la <strong>provenance des fruits, légumes, viandes</strong>, … comment les choisir selon leur fraicheur, où et quand les acheter, …</p>
+
+
+
+<p>Parce que les fruits et légumes sont meilleurs quand ils sont consommés pendant leur saison, il est donc important de <strong>connaitre la saisonnalité des fruits et légumes</strong>.</p>
+
+
+
+<p><strong>L’hygiène et la sécurité</strong> sont des sujets très importants, la qualité d’un produit culinaire ne s’arrête évidemment pas à ses<strong> propriétés sensorielles</strong> (son aspect visuel, son goût et son odeur), mais il faut ajouter à cela la <strong>qualité nutritionnelle et la qualité sanitaire</strong>.</p>
+
+
+
+<p>En <strong>apprenant la cuisine</strong>, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux ….</p>
+
+
+
+<p>Et en apprenant la cuisine, on développe des <strong>automatismes et réflexes hygiéniques spontanés</strong>. Comme par exemple: </p>
+
+
+
+<ul className="wp-block-list"><li><strong>Se laver les mains</strong> avant de commencer et aussi souvent que nécessaire</li><li><strong>Se soigner les ongles</strong></li><li>N’utiliser que des denrées de bonne qualité sanitaire, <strong>vérifier étiquettes, dates limites, températures</strong>, …</li><li><strong>Respecter la chaîne de froid</strong></li><li><strong>Laver soigneusement tous les fruits et les légumes</strong> avant utilisation.</li><li><span>Ne jamais</span> <strong>éplucher les légumes sur la planche à découper</strong>.</li><li><strong>Laver et désinfecter</strong> soigneusement l’endroit de travail</li><li><strong>Nettoyer les couteaux</strong> après chaque utilisation.</li><li>… </li></ul>
+
+
+
+<h2 className="sous_titre">Apprenez la cuisine pour manger équilibré</h2>
+
+
+
+<p>Une cuisine est un immense laboratoire où on peut expérimenter des idées, <strong>innover des recettes</strong> ou bien sûr d’en inventer des nouvelles, il suffit <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">d’apprendre les bases</a> et de se laisser entraîner par son imagination. Si les <strong>techniques de base</strong> restent les mêmes durant plusieurs décennies, les habitudes des gens et les <strong>produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">d’apprendre</a> et de se <strong>former en cuisine</strong> est le seul moyen de continuer de vivre avec son époque. Et pourquoi pas être acteur de la <strong>gastronomie de demain</strong></p>
+
+
+
+<p>Il y a une célèbre citation qui dit : « <em>dis moi ce que tu manges je te dirai qui tu es</em> ». Le <strong>style d’alimentation </strong>est un élément essentiel et constructeur de la personnalité de chacun. Et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’<a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">apprendre à cuisiner</a> ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes.</p>
+
+
+
+<p>Comme on dit “<strong>aux grands maux, grands remèdes</strong>”, Pour notre bien être moral et physique il faut prendre des décisions courageuses et énergiques contre toute tentation qui nous entraine dans un mode de consommation irresponsable, il est plus que jamais important de nous réconcilier avec la nourriture et la cuisine. Et pour ce faire, il suffit de savoir comment cuisiner et de connaitre les produits alimentaires.</p>
+
+
+
+<h2 className="sous_titre">Comment apprendre à cuisiner concrètement</h2>
+
+
+
+<p>Maintenant que nous sommes un peu éclairés sur nos <a href="https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sant/">habitudes alimentaire</a>, il faut passer à l’action. Voici mes <strong>conseils pour vous aider à apprendre à cuisiner</strong> même si vous êtes <strong>complètement débutant</strong>.</p>
+
+
+
+<h2 className="sous_titre">Apprendre à cuisiner avec un CAP cuisine à distance</h2>
+
+
+
+<p>Tout d’abord il faut comprendre <strong>pourquoi vous voulez apprendre à cuisiner</strong>. Et si vous êtes un parfait <strong>débutant</strong>, pourquoi ne pas songer à passer un <strong>CAP cuisine en candidat libre</strong>. (sachez que vous pouvez trouver sur ce site <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">un programme d’apprentissage</a> ainsi que <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">quelques recettes</a> et <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">techniques de base</a> destinés aux <strong>apprentis cuisinier</strong>)</p>
+
+
+
+<h2 className="sous_titre">Pour les débutants en Cuisine</h2>
+
+
+
+<p>Quand on est <strong>débutant</strong>, les premiers résultats sont importants pour <strong>garder la motivation</strong>, c’est pour cela que je vous conseille de commencer par des <strong>recettes très simples</strong> comme par exemple: </p>
+
+
+
+<ul className="wp-block-list"><li><a href="https://cuisinedebase.com/fiche-technique-omelette-roule-aux-champignons/">une omelette aux champignons</a></li><li>La <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-macdoine-de-lgumes-mayonnaise/">macédoine de légumes</a> (Des légumes taillés en dés et cuits&nbsp; l’eau salée puis liés à la <strong>sauce mayonnaise</strong>. Et pour la rendre moins calorique, on peut remplacer la mayonnaise par de <strong>l’huile d’olive </strong>et quelques fines herbes)</li><li>Cuire une <strong>tranche de saumon à l’unilatéral</strong>. Dans un premier temps vous pouvez acheter des tranches pré-découpées. Ou demander à votre poissonnier de le faire pour vous, étant donné que <a href="https://cuisinedebase.com/habillage-poisson/">l’habillage de poisson</a> est un travail un peu technique. </li></ul>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb-1.png" alt="image" title="image"></img></a><figcaption><strong>Apprendre à cuisiner</strong> pour diversifier ses repas</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Les techniques de base</h2>
+
+
+
+<p>En apprenant à<strong> faire ces recettes faciles</strong> vous apprenez <strong>les techniques de base</strong> ci-dessous. Ceci vous placera au-dessus de la moyenne d’une grande majorité des gens qui ne font que consommer ce que les autres font. </p>
+
+
+
+<ul className="wp-block-list"><li>casser et <strong>cuire un oeuf</strong> en omelette</li><li><strong>Escaloper des champignons</strong></li><li><strong>laver et éplucher des légumes</strong></li><li>couper des <strong>légumes en bâtonnets</strong> puis en dés</li><li>cuire des légumes à l’eau salée (<strong>cuisson à l’anglaise</strong>)</li><li>faire une <strong>sauce mayonnaise</strong></li><li>cuire une tranche de <strong>poisson à l’unilatéral</strong> </li></ul>
+
+
+
+<p>Ces <strong>techniques sont la base de beaucoup d’autres recettes</strong>, vous pouvez les utiliser pour faire d’autres recettes dérivées ou bien créer vos propres recettes.</p>
+
+
+
+<p><strong>Cuisiner c’est, en même temps, prendre et fournir du plaisir. </strong>En effet, il est évident que l’alimentation est un besoin fondamental, mais si on se rapporte à notre environnement propre et notre civilisation, nous pouvons considérer que nous mangeons pour nous alimenter mais aussi pour nous faire plaisir. De ce fait, le cuisinier étant la personne qui fabrique le manger, il fourni par conséquent du plaisir aux gens qui consomment sa cuisine. Si je peux me permettre un dernier conseil, soyez passionné quand vous cuisinez et vous serez surpris de l’impact de cela sur vos plats.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
+
+    route: "/article/apprendre-cuisiner-manger-equilibre-technique-cap",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png",
+
+    lien: 'https://cuisinedebase.com/apprendre-cuisiner-manger-equilibre-technique-cap/'
+}
+
+const E5 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<p>Notre santé est un patrimoine sacré, il est de notre devoir de la préserver de façon avisée et réfléchie. Beaucoup d’études scientifiques montrent que pour <strong>rester en bonne santé</strong>, il faut faire deux choses essentielles: d’abord il faut <strong>manger équilibré</strong> et varier les aliments. Puis, il faut <strong>pratiquer régulièrement une activité physique</strong>.</p>
+
+
+
+<h2 className="sous_titre">Rester En Bonne Santé avec une alimentation saine et équilibrée</h2>
+
+
+
+<p>Une <strong>alimentation saine</strong>, est une alimentation adaptée aux besoins nutritionnels pour le fonctionnement de l’organisme. (protéines, lipides, glucides, vitamines, minéraux, oligoéléments, fibres…). Si en plus d’une <strong>alimentation saine et équilibrée</strong>, on pratique une <strong>activité physique quotidienne</strong>, cela aide à protéger contre certaines maladies. Des maladies comme le diabète, les <strong>maladies cardiovasculaires</strong>, les cancers, etc.. Cela aide aussi à limiter les <strong>problèmes de fatigue</strong>, et même à renforcer le système immunitaire pour <strong>défendre contre les infections</strong>. </p>
+
+
+
+<p>Voici quelques <strong>conseils, astuces</strong> et repères de consommation pour <strong>apprendre à rester en bonne santé</strong> tous les jours.</p>
+
+
+
+<h1 className="sous_titre">Faire du sport pour rester en bonne forme</h1>
+
+
+
+<p>Tout le monde est conscient de <strong>l’utilité du sport</strong> dans notre quotidien. On n’ qu’à ouvrir les yeux pour remarquer qu’il y a énormément de possibilités pour intégrer du sport dans son agenda. Je citerai ci-dessous deux exemples qui m’ont particulièrement interpelé:</p>
+
+
+
+<ul className="wp-block-list"><li>Les <strong>salles de sport</strong> poussent comme des champignons partout dans nos villes, et la plupart du temps avec du matériel sophistiqué et des prix défiant toute concurrence.</li><li>Les responsables des aménagement des ville prennent sont de plus en plus conscience sur <strong>l’intérêt du sport dans le quotidien</strong> des citoyens, et cette prise de conscience les pousse à prévoir systématiquement des <strong>pistes cyclables en ville</strong>, et d’équiper les espaces verts de <strong>matériel de sport en libre service</strong>.&nbsp;</li></ul>
+
+
+
+<h2 className="sous_titre">Applications pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Je pourrais continuer à illustrer cette remarque par le nombre impressionnant d’<strong>applications mobiles</strong> et de <strong>site internet</strong> qui aident à <strong>pratiquer du sport de manière régulière</strong> et organisée, et puis le métier du <strong>coach sportif </strong>qui devient un métier très prisé par les jeunes. Il existe énormément d’exemples qui prouve que le sport doit être omniprésent dans le quotidien de chacun de nous.</p>
+
+
+
+<p><strong>Pratiquer une activité sportive</strong> est alors devenue une <strong>chose facile à faire</strong>, et avec un peu de volonté même les plus paresseux d’entre nous arriveront à <strong>mettre un peu de sport dans leur programme.</strong></p>
+
+
+
+<p>On convient donc à dire que <strong>pratiquer une activité sportive</strong> relève de la volonté de chacun. Puisque tous les moyens nécessaires sont à portée de main, et qu’il suffit de passer à l’action. </p>
+
+
+
+<p>Qu’en est il du deuxième pilier qui est “<strong>manger équilibré et varié</strong>”?</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air_thumb.jpg" alt="appareil-fitness-plein-air" title="appareil-fitness-plein-air"></img></a><figcaption>Salle de sport en plein air</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Changer les habitudes alimentaires pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Est ce qu’il vous est déjà arrivé de chercher un <strong>Mcdo, Quick, Subway, BurgerKing, Domino’s</strong>, ou autre enseigne du genre. Il y a de grande chance que la réponse soit oui. Mais est ce que ça vous arrive alors que vous êtes en plein voyage touristique dans un pays étranger. Et que vous êtes sensé <strong>profiter et découvrir la nourriture et la tradition locales</strong>. Ne vous inquiétez pas vous n’êtes pas seul… 🙁 </p>
+
+
+
+<h2 className="sous_titre">Habitudes alimentaires standards</h2>
+
+
+
+<p>Beaucoup de personnes n’aiment pas <strong>changer leurs habitudes alimentaires</strong> pendant leurs voyages. Et préfèrent manger quelques choses de familier. Ceci est dû à notre <strong>mode consommation au quotidien</strong>. En effet, de nos jours, on commence à voire une certaine <strong>forme d’alimentation différente</strong> de ce que nos parents et nos grand parent ont connu. </p>
+
+
+
+<ul className="wp-block-list"><li>Nous prenons de moins en moins le temps pour déjeuner; </li><li>nous grignotons davantage;</li><li>et consommons beaucoup de produits de restauration rapides;</li><li>et des plats pré-cuisinés. </li></ul>
+
+
+
+<h2 className="sous_titre"><strong>Rester en bonne santé</strong> avec une consommation responsable</h2>
+
+
+
+<p>Nos <strong>habitudes alimentaires deviennent de plus en plus standards</strong>. Nous sommes conditionnés par une société de consommation qui pousse à <strong>consommer toujours plus</strong>. Et sans trop regarder la provenance, les étapes de fabrication ni même la composition des produits que nous consommons. Et les industriels font tout pour que cela continue ainsi. Il créent toujours des nouveaux <strong>produits, généralement pas chers et de médiocre qualité</strong>. Cette manière de consommer que beaucoup qualifient de « <strong>irresponsable</strong> » a grandement contribué à la <strong>propagation de l’obésité</strong>, de <span>cancer et de maladie cardio-vasculaires</span>. En partie à cause des <strong>additifs alimentaires</strong> utilisés dans les plats cuisinés pour <strong>allonger leur durée de conservation</strong>.</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire_thumb.jpg" alt="obesité-maladies-cardiovasculaire" title="obesité-maladies-cardiovasculaire"></img></a><figcaption><strong>rester en bonne santé</strong></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Apprendre à cuisiner pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Selon une étude effectuée par le site mangerbouger.fr (1), la France pourrait compter près de 30 % d’adultes obèses en 2020. Ceci résulte d’un déséquilibre entre l’<strong>apport alimentaire et la dépense énergétique</strong>. Ce déséquilibre s’est installé à cause du recul spectaculaire de l’<strong>activité physique </strong>et de la <strong>modification des habitudes alimentaires.</strong> Avec une absorption accrue de <strong>boissons sucrées et d’aliments à haute densité énergétique et pauvres en nutriments</strong>, associée à une <strong>consommation insuffisante de fruits et de légumes</strong>.</p>
+
+
+
+<p>Beaucoup de gens se contentent de <strong>consommer et de manger ce que les autres ont fabriqué</strong>. Et ne se pose jamais la question sur l’origine, provenance ou circuit de distribution des produits qu’ils consomment. Cette manière de consommation irresponsable, pousse les <strong>professionnels de restauration</strong> et les <strong>industriels de l’agroalimentaire</strong> à produire toujours en grande quantité. Et la plupart du temps sans se soucier de la <strong>qualité nutritionnel de leurs produits</strong>. Leur seul objectif est de <strong>réduire les coûts de production</strong> parfois même au détriment des <strong>obligation sanitaires</strong> de leurs produits. souvenez vous de la <strong>viande de cheval </strong>qui a été retrouvée dans des <strong>lasagnes pré-cuisinées</strong> et plus récemment du lait pour enfant…</p>
+
+
+
+<h2 className="sous_titre">Comment préserver concrètement sa santé</h2>
+
+
+
+<p>Maintenant que nous sommes un peu éclairés sur la relation entre la <strong>santé et le bien être</strong> et puis l’alimentation et les <strong>activités physiques</strong>, il faut passer à l’action. Voici mes conseils pour vous aider à franchir le pas:</p>
+
+
+
+<ul className="wp-block-list"><li><strong>Marcher le plus souvent </strong>que possible (pour aller chercher le pain, le journal, emmener les enfants à l’école, faire une balade, …)</li><li>Privilégier <strong>vélo, trottinette, rollers</strong>, … aux transport en commun et à la voiture (si possible bien sûr)</li><li>Mettre un programme régulier pour <strong>pratiquer une activité physique</strong>,</li><li>Il y a un proverbe Marocain qui dit “<strong>peu et régulier est mieux que beaucoup et interrompu</strong>” si vous êtes fâché avec le sport depuis un moment, il vaut mieux commencer doucement mais de façon régulière.</li><li>Si vous n’avez pas le temps, <strong>7 minutes par jour suffisent</strong>, utilisez pour cela la méthode de “<a href="https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9_de_haute_intensit%C3%A9" target="_blank" rel="noopener noreferrer">l’entrainement fractionné de haute intensité</a>”. qui consiste à faire 12 exercices pendant 30 secondes chacun à une intensité maximale et de prendre 10 secondes de poses en fin de chaque exercice.</li></ul>
+
+
+
+<h2 className="sous_titre">Adopter une alimentation saine variée et équilibrée</h2>
+
+
+
+<ul className="wp-block-list"><li><strong>Manger des fruits et légumes</strong> le plus souvent possible</li><li><strong>Manger varié et équilibré</strong></li><li>Réduire la consommation de produits contenant des <strong>additifs alimentaire ou améliorant</strong> ou autre composant du même genre</li><li>Je ne peux m’empêcher de vous conseiller d’<strong>apprendre à cuisiner</strong> vos propres plats. Car ce n’est que de cette manière que vous pouvez savoir exactement ce que vous mettez dans votre assiette. Vous pouvez commencer par exemple à <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">apprendre ces recettes</a> et ces <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">techniques de base</a>.</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
+
+    route: "/article/apprendre-cuisiner-pour-rester-en-bonne-sante",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sante/'
+}
+
+const E6 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Méthode simple et efficace pour atteindre ses objectifs</h1>
+
+		<div className="entry-content clearfix">
+
+
+<h2 className="sous_titre">Les bonnes résolutions pour <strong>atteindre ses objectifs</strong></h2>
+
+
+
+<p><span>Dès janvier prochain, je commencerai à faire une <strong>activité physique régulièrement</strong>, je mangerai moins de gras et moins de fast-food, <strong>je cuisinerai davantage</strong> et je mettrai plus de <strong>légumes</strong> dans mes assiettes. Ces belles paroles raisonnent dans mes oreilles chaque fin d’année.&nbsp; J’ai pris au moins une dizaine de fois ces <strong>résolutions</strong>, mais au jour où j’écris ces lignes, je ne pratique aucune <strong>activité physique</strong> et je suis un adepte des <strong>gros sandwich américains</strong>. Rien à faire, les premiers jours qui suivent ma décision de prendre des nouvelles et <strong>bonnes résolutions</strong>, j’arrive à tenir à peu près mes engagements, mais au fil du temps, après quelques jours ou au mieux quelques semaines, tout part aux oubliettes <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-sadsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-sadsmile.png?w=910&amp;ssl=1" alt="Triste"></img>. </span></p>
+
+
+
+<p><span>Heureusement que maintenant j’ai une méthode fiable qui me permet de <strong>tenir tous mes engagements</strong> et <strong>atteindre mes objectifs</strong>.</span></p>
+
+
+
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un <strong>contenu gratuit</strong> et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+
+
+
+<h2 className="sous_titre">Se faire aider pour tenir ses engagements</h2>
+
+
+
+<p><span>Cette année c’est la bonne <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img> !</span></p>
+
+
+
+<p><span>C’est bien de <strong>prendre des bonnes résolutions</strong> pour bien commencer l’année, mais c’est encore mieux de les appliquer réellement. Cette année sera la première année où<strong> je mettrai en pratique mes résolutions</strong>, et pour ce faire, je me suis fait aider par quelques livres et conférences sur le <strong>développement personnel</strong>. J’ai compris enfin qu’il existe des méthodes, <strong>prouvées scientifiquement ou par l’expérience</strong>, qui permettent de résoudre le <strong>problème des engagements non tenus</strong> et des <strong>résolutions non appliquées</strong>. Dans cet article je vais vous révéler la méthode que je vais suivre pour que cette année soit l’année où tous mes engagements seront respectés et mes résolutions seront appliquées.</span></p>
+
+
+
+<p><span>Mais avant de commencer, sachez que je participe avec cet article à l’évènement “Votre meilleure astuce pour <u>appliquer</u> vos bonnes résolutions” du blog </span><a href="https://devenez-meilleur.co/"><span>Devenez meilleur</span></a><span>. C’est un blog qui parle du développement personnel, et je conseille </span><a href="https://devenez-meilleur.co/comment-se-lever-immediatement-quand-votre-reveil-sonne/"><span>cet article</span></a><span> aux gens qui n’arrivent pas à se lever le matin immédiatement quand le réveil sonne.</span></p>
+
+
+<div className="post-image">
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg" alt="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois" title="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois"></img></a><figcaption>Manger des légumes</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Sept idées pratiques pour <strong>atteindre ses objectifs</strong><span></span></h2>
+
+
+
+<p><span>Comme à chaque fin d’année, nous sommes nombreux à <strong>prendre des bonnes résolutions</strong> soit pour améliorer notre qualité de vie, ou bien pour <strong>progresser dans nos projets</strong> professionnels ou personnels. </span></p>
+
+
+
+<p><span>Voici une méthode, en sept points, qui permet de <strong>mettre en application les résolutions</strong>:</span></p>
+
+
+
+<ol className="wp-block-list"><li><span>Définir des <strong>objectifs précis, raisonnables et atteignables</strong>. </span> </li><li><span><strong>Fixer les objectifs dans des périodes courtes</strong>. Les objectifs définis sur un mois ou deux sont plus faciles à contrôler et à atteindre que des objectifs définis sur une année par exemple. </span> </li><li><span>Traduire ensuite ses <strong>objectifs en grandeurs faciles à quantifier et à mesurer</strong>. (“perdre du poids” peut se traduire par “perdre 2kg” par exemple. “Faire du sport” peut se traduire par “faire 4 heures de sport par semaine”, …)</span> </li><li><span>Mettre un<strong> plan d’action pour atteindre ses objectifs</strong>. Une sorte de planning qui détaille concrètement comment faire.</span> </li><li><span><strong>Se donner les moyens</strong> nécessaires pour rendre les <strong>objectifs facilement atteignables</strong>.</span> </li><li><span><strong>Faire des points régulier</strong> pour constater l’état d’avancement vers les objectifs </span> </li><li><span>Une fois les objectifs de la première période sont atteints, il faut <strong>fêter convenablement l’évènement</strong> avant de fixer les objectifs de la période suivante et ainsi de suite jusqu’à la fin de l’année.</span>  </li></ol>
+
+
+<div className="post-image">
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand_thumb.jpg" alt="za3za3-jus-fruits-gourmand" title="za3za3-jus-fruits-gourmand"></img></a><figcaption>fêter l’évènement quand l’objectif est atteint</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Exemple de situation pour atteindre ses objectifs<span></span></h2>
+
+
+
+<p><span>Prenons comme exemple une de mes résolutions qui consiste à <u>arrêter de consommer de la malbouffe</u>. C’est un objectif précis mais il n’est pas raisonnable, je ne pourrai pas arrêter du jour au lendemain d’aller à ma sandwicherie préférée, je pourrais le faire pendant quelques jours voire quelques semaines, mais je ne pourrais pas garantir que je tiendrais une année. Alors pour rendre mon objectif raisonnable et donc atteignable, je le ré-exprimerais de la manière suivante: pendant <u>un mois</u>, je ne mangerai que, au maximum, <u>4 fois</u> dans un établissement de restauration rapide. <u>C’est raisonnable, atteignable, quantifié et facile à mesurer</u>!</span></p>
+
+
+
+<h2 className="sous_titre">Plan d’action pour atteindre ses objectifs</h2>
+
+
+
+<p><span>Maintenant il faut mettre en place un <strong>plan d’action pour atteindre cet objectif</strong>. En identifiant les moments de la journée où on est le plus susceptibles de <strong>ne pas respecter nos engagements</strong>, on pourrait trouver des solutions pratiques pour faire en sorte de <strong>résoudre le problème</strong>. Dans mon cas c’est pendant ma pose du midi que je suis le plus tenté de consommer un hamburger ou un kebab ou autre produit similaire, alors pour éviter cela je dois</span> :</p>
+
+
+
+<ul className="wp-block-list"><li><span>ramener mon panier repas au travail, </span> </li><li><span>me faire livrer un plateau repas équilibré. </span>  </li></ul>
+
+
+
+<p><span>Le fait de se poser la question de comment peut-on appliquer concrètement le <u>plan d’action</u> pousse à réfléchir sur les <u>moyens</u> à déployer pour réussir sa mise en <u>application</u>. Et les moyens peuvent être sous forme de matériels, du temps, de l’argent, … Dans le cas de mon exemple, il faudra </span></p>
+
+
+
+<ul className="wp-block-list"><li><span>faire des courses en quantité suffisante pour couvrir les repas du midi, </span> </li><li><span>pouvoir conserver et réchauffer la nourriture, </span> </li><li><span>avoir des Tupperware pour le transport,</span> </li><li><span>chercher des entreprises de livraison de plateau repas équilibré</span> </li><li><span>…</span>  </li></ul>
+
+
+
+<h2 className="sous_titre">Appliquer les bonnes résolutions</h2>
+
+
+
+<p><span>Une fois tous les ingrédients sont réunis, la question d’appliquer les résolutions <u>reste du sort de la volonté et de la motivation</u> de chacun. Et justement le fait de réussir à <strong>tenir ses engagements sur une petite période</strong> permet de rester motivé et de commencer la période suivante avec enthousiasme, d’où l’intérêt de se fixer des <u>objectifs raisonnables et à court terme</u>.</span></p>
+
+
+
+<p><span>J’espère que cette méthode vous aidera à accomplir vos ambitions pour l’année qui vient, et j’en profite aussi pour vous souhaiter mes <strong>meilleurs vœux de bonheur et de réussite</strong> dans vos projets personnels et professionnels.</span></p>
+
+
+
+<p><span>Si vous aussi vous avez une méthode pour appliquer les bonnes résolutions et que vous souhaitez la partager avec nous, utilisez la rubrique des commentaires pour nous en faire part.</span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Méthode simple et efficace pour atteindre ses objectifs",
+
+    route: "/article/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions/'
+}
+export const listeArticles = [B31, B32, B33, B34, B35, B36, B37, B38, B39, B40, B41, B42, B43, B44, B45, B46, B47, B48, B49, B50, B51, B52, R1, R2, R3, R4, R5, R6, R7, R8, R9, V1, V2, V3, VA1, E1, E2, E3, E4, E5, E6];
