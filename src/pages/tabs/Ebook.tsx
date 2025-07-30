@@ -31,7 +31,6 @@ const Ebook: React.FC = () => {
 
     switch(triValue){
       case "0":
-        console.log("Défaut");
         return [...liste].sort((a, b) => {
           const nameA = a.titre.toUpperCase(); 
           const nameB = b.titre.toUpperCase();
@@ -45,15 +44,12 @@ const Ebook: React.FC = () => {
         })
         break;
       case "1":
-        console.log("Croissant")
         return [...liste].sort((a, b) => a.tarif - b.tarif);
         break;
       case "2":
-        console.log("Decroissant")
         return [...liste].sort((a, b) => b.tarif - a.tarif);
         break;
       default:
-        console.log("Il se passe rien")
         return [...liste];
     }
   }
@@ -95,7 +91,6 @@ const Ebook: React.FC = () => {
                 setTri(e.detail.value);
                 const sortedLivres = sortLivres(e.detail.value,listeLivres);
                 setLivres(sortedLivres);
-                console.log(sortedLivres);
               }}>
                 <IonSelectOption value="0">Par défaut</IonSelectOption>
                 <IonSelectOption value="1">Par prix croissant</IonSelectOption>

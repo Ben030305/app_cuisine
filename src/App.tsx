@@ -83,15 +83,12 @@ const App: React.FC = () => {
   
   const checkTutorial = async () => {
     const { value } = await Preferences.get({ key: 'tutorial' });
-    console.log("On check le tuto" + firstScreen);
     if(value != 'true') {
       setFirstScreen("/tutoriel");
       setHasSeenTutorial();
-      console.log(value);
     } else {
       setFirstScreen("/accueil");
     }
-    console.log(value);
   };
 
   function checkDefaultRoute() {
