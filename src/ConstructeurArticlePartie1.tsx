@@ -1005,11 +1005,11 @@ const B5 = {
 
 
 <div className="post-image">
-<figure className="wp-block-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1_thumb.png" alt="Programme-6-mois-1" title="Programme-6-mois-1"></img></a><figcaption className="wp-element-caption">Planning d’entrainement 3 premiers mois</figcaption></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1_thumb.png" alt="Programme-6-mois-1" title="Programme-6-mois-1"></img></a><figcaption className="wp-element-caption">Planning d’entrainement 3 premiers mois</figcaption></figure>
 </div>
 
 <div className="post-image">
-<figure className="wp-block-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2_thumb.png" alt="Programme-6-mois-2" title="Programme-6-mois-2"></img></a><figcaption className="wp-element-caption">Programme entrainement 3 mois suivants</figcaption></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2_thumb.png" alt="Programme-6-mois-2" title="Programme-6-mois-2"></img></a><figcaption className="wp-element-caption">Programme entrainement 3 mois suivants</figcaption></figure>
 </div>
 
 <h2 className="sous_titre">Matières générales pour préparer le CAP cuisine en candidat libre</h2>
@@ -4178,7 +4178,7 @@ const B23 = {
 
 
 <div className="post-image">
-<figure className="wp-block-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7_thumb.png" alt="citation7" title="citation7"></img></a></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7_thumb.png" alt="citation7" title="citation7"></img></a></figure>
 </div>
 
 
@@ -4303,7 +4303,7 @@ const B23 = {
 
 
 <div className="post-image">
-<figure className="wp-block-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2_thumb.jpg" alt="Cuisine2" title="Cuisine2"></img></a></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2_thumb.jpg" alt="Cuisine2" title="Cuisine2"></img></a></figure>
 </div>
 
 
@@ -5591,4 +5591,3805 @@ const B30 = {
     lien: 'https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/'
 }
 
-export const listeArticles = [B25, B26, B27, B28, B29, B30];
+const B31 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+
+			<h1 className="titre_article">6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine</h1>
+
+		<div className="entry-content clearfix">
+
+<p>Vous cherchez des <strong>livres pour préparer le CAP cuisine</strong> ou un ouvrage<strong> passionnant pour apprendre la cuisine</strong>? Ne vous perdez pas dans <strong>la jungle des librairies et bibliothèques</strong> ! J’ai sélectionné pour vous les meilleurs livres pour <strong>réussir le CAP cuisine</strong> et maîtriser les bases culinaires. Trouvez celui qui répondra parfaitement à vos attentes.”</p>
+
+
+
+<p>N’hésitez pas si vous avez besoin d’autres informations ! 😊</p>
+
+
+
+<h2 className="sous_titre">Les livres pour préparer le CAP cuisine</h2>
+
+
+
+<p>Voici la liste des livres pour apprendre la <strong>cuisine de base</strong>, les chroniques et mes notes sont plus bas dans la page :</p>
+
+
+
+<h2 className="sous_titre">La cuisine de référence. Le meilleur des livres pour préparer le CAP cuisine</h2>
+
+
+
+<p>1 – <a href="https://amzn.to/2Jwd4f5" target="_blank" rel="noopener noreferrer">Cuisine de référence de Michel Maincent</a></p>
+
+
+
+<p>Si vous ne devez acheter qu’un seul <strong>livre pour préparer le CAP cuisine</strong>, ça serait celui là. </p>
+
+
+
+<h2 className="sous_titre">La cuisine de base expliquée pas à pas</h2>
+
+
+
+<p>2 – <a href="https://amzn.to/2VsIHgt" target="_blank" rel="noopener noreferrer">Le grand cours de cuisine de FERRANDI</a></p>
+
+
+
+<h2 className="sous_titre">Pour préparer l’épreuve théorique du CAP cuisine</h2>
+
+
+
+<p>3 – <a href="https://amzn.to/3u7LSZS">Technologie culinaire</a></p>
+
+
+
+<h2 className="sous_titre">Sciences appliquées</h2>
+
+
+
+<p>Ce livre est nécessaire pour apprendre les connaissances scientifiques nécessaires au cuisinier.</p>
+
+
+
+<p>(Prenez le livre du professeur pour avoir les réponses aux questions).</p>
+
+
+
+<h2 className="sous_titre"><a href="https://amzn.to/3XpDhSu">Annales corrigés de l’épreuve EP1</a></h2>
+
+
+
+<p>Pour préparer l’épreuve EP1 de CAP cuisine, je recommande de faire des annales des années passées. Dans le livre ci-dessous, vous trouverez les annales avec leurs corrections des années 2021, 2022 et 2023.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3XpDhSu"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png" alt="EP2021-2022-2023" className="wp-image-3169" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=724%2C1024&amp;ssl=1 724w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=212%2C300&amp;ssl=1 212w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=768%2C1086&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=1086%2C1536&amp;ssl=1 1086w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=600%2C849&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=42%2C60&amp;ssl=1 42w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?resize=64%2C90&amp;ssl=1 64w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png?w=1414&amp;ssl=1 1414w"></img></a></figure></div>
+
+
+<p>4 – <a href="https://amzn.to/3u0hZef">Sciences appliquées, CAP Cuisine et Restaurant</a></p>
+
+
+
+<h2 className="sous_titre">Pour préparer l’épreuve PSE Prévention Santé et Environnement</h2>
+
+
+
+<p>5 – <a href="https://amzn.to/3iiBJqZ">Prévention santé environnement</a></p>
+
+
+
+<h2 className="sous_titre">Un dictionnaire de cuisine</h2>
+
+
+
+<p>6 – <a href="https://amzn.to/2VtG0vi" target="_blank" rel="noopener noreferrer">Lexique culinaire de Ferrandi</a></p>
+
+
+
+<h2 className="sous_titre"><a href="https://amzn.to/31oQ9st">Comment devenir traiteur – chef à domicile</a></h2>
+
+
+
+<p>En bonus je rajouterai un 7ème livre, sous forme d’un document technique qui revient sur les étapes de création d’une activité de traiteur – chef à domicile. Cela pourrait aider les personnes qui veulent se lancer dans l’aventure de l’entrepreneuriat, et particulièrement une activité qui ne nécessite pas beaucoup d’investissements.</p>
+
+
+
+<p>6+1 – <a href="https://amzn.to/31oQ9st" target="_blank" rel="noopener noreferrer">Business plan. Traiteur – Chef à domicile</a></p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full"><a href="https://amzn.to/31oQ9st"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/couverture-business-plan-traiteur-chef-a-domicile.jpg" alt="Business plan" className="wp-image-956"></img></a></figure></div>
+
+
+<h2 className="sous_titre">6+2 – <a href="https://amzn.to/3ZjIKI8" target="_blank" rel="noopener noreferrer">Le carnet personnel des techniques professionnelles</a></h2>
+
+
+
+<p>En fait, il ne s’agit pas d’un livre. Comme son nom l’indique c’est un carnet. Ce <a href="https://amzn.to/3ZjIKI8" target="_blank" rel="noopener noreferrer">carnet personnel de technique professionnelles</a> est tout simplement un petit cahier où vous pouvez mettre toutes les informations sur les fiches techniques, recettes, astuces, techniques de base, …Bref, tout ce que vous pensez être utile pour apprendre les bases de la cuisine. Le carnet personnel est accepté lors de l’épreuve écrite EP2 du CAP cuisine.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3ZjIKI8"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1" alt="carnet techniques" className="wp-image-2613" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?w=800&amp;ssl=1 800w"></img></a></figure></div>
+
+
+<p>D’ailleurs vous pouvez utiliser n’importe quel cahier pour écrire que vous pouvez trouver dans les commerces pour le faire. Mais si vous voulez un carnet pré-rempli ou vous pouvez trouver des fiches techniques vierges et des pages vides. Ces pages sont conçues de manière à ce que vous pourrez mettre vos notes personnelles. Celui-ci peut vous intéresser.</p>
+
+
+
+<p>Les liens dans cette page sont des liens affiliés, si vous achetez vos livres via ces liens je toucherai une commission sans que cela n’augmente le prix des livres <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/wlEmoticon-winkingsmile.png" alt="Clignement d'œil"></img>&nbsp;</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature.jpg" alt="fiche technique" className="wp-image-1734" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1536%2C1491&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=2048%2C1988&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=600%2C582&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></a><figcaption className="wp-element-caption"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer">25 Fiches techniques pour préparer le CAP cuisine</a></figcaption></figure></div>
+
+
+<h2 className="sous_titre">Le livre indispensable pour les candidats libres</h2>
+
+
+
+<p><a href="https://amzn.to/2Jwd4f5" target="_blank" rel="noopener noreferrer">Cuisine de référence de Michel Maincent</a></p>
+
+
+
+<p>S’il ne faut acheter qu’un seul livre, ça serait celui là, on y trouve tout ce qu’on doit savoir sur la profession du cuisinier, de la tenue vestimentaire aux comportements et qualités d’un cuisinier, sans oublier le matériel (bien illustré!), les fiches techniques des commentaires conseils,… tout y est.</p>
+
+
+
+<p>Ce n’est pas un livre de recettes classique avec des belles images et des recettes contemporaines et modèrnes. Ce livre est très complet et est destiné aux professionnels et aux apprentis cuisinier, c’est un concentré de techniques et préparations de base.</p>
+
+
+
+<h2 className="sous_titre">Livre pour apprendre à cuisiner</h2>
+
+
+
+<p><a href="https://amzn.to/2VsIHgt" target="_blank" rel="noopener noreferrer">Le grand cours de cuisine de FERRANDI</a></p>
+
+
+
+<p>Un livre pédagogique, bien illustré avec des explications pas à pas. Il est destiné aux amateur de la cuisine ainsi qu’aux apprentis cuisiniers.</p>
+
+
+
+<p>C’est un bel ouvrage, avec de belles photos pour apprendre les bases de la cuisine, il peut être substitué au livre précédent, et personnellement je ne pense qu’il est utile d’avoir les deux dans sa cuisine.</p>
+
+
+
+<h2 className="sous_titre">Livres pour préparer les épreuves écrites de CAP cuisine </h2>
+
+
+
+<p><a href="https://amzn.to/3gKMEJg">Technologie culinaire</a></p>
+
+
+
+<p>Ce livre contient des enseignements de base relatifs au CAP. Il est très interactifs avec de belles illustrations. on peut y trouver l’essentiel qu’un apprenti cuisinier doit connaître pour exceller dans son métier. Il ressemble au début du livre “la cuisine de référence” mais avec un peu plus de détails et d’illustrations.</p>
+
+
+
+<p>(prenez le livre du professeur pour avoir les réponses aux questions)</p>
+
+
+
+<p><a href="https://amzn.to/3u0hZef">Sciences appliquées, CAP Cuisine et Restaurant</a></p>
+
+
+
+<p>Ce livre propose une approche pour découvrir les connaissances scientifiques nécessaires au future professionnel de la cuisine, comme par exemple la contamination des aliments, la multiplication des bactéries, l’hygienne du personnel, des locaux, les risques liés à la chaleur, … Ce livre comporte d’importants exercices interactifs et bien illustrés pour mieux comprendre les sujets abordés.</p>
+
+
+
+<p><a href="https://amzn.to/3iiBJqZ">Prévention santé environnement</a></p>
+
+
+
+<p>Pratique pour préparer les épreuves théoriques, avec des exercices de préparation à l’examen et leurs corrigés</p>
+
+
+
+<p><a href="https://amzn.to/2VtG0vi" target="_blank" rel="noopener noreferrer">Lexique culinaire de Ferrandi</a></p>
+
+
+
+<p>Un dictionnaire de cuisine est nécessaire pour mieux comprendre certaines préparations</p>
+
+
+
+<p>Voila, ma sélection des livres est terminée. </p>
+
+
+
+<p>Pour préparer l’épreuve pratique EP2, vous devez absolument faire les <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">25 recettes de base</a> qui regroupent l’ensemble des techniques à apprendre. Vous pouvez retrouver l’ensemble des fiches techniques, assemblées dans un seul document, au format pdf en suivant le lien suivant : <a href="https://cuisinedebase.com/25-fiches-techniques-pour-apprendre-a-cuisiner/">Fiches techniques au format pdf</a>.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine",
+
+    route: "/article/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png",
+
+    lien: 'https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/'
+}
+
+const B32 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Annales et examens des années passées pour CAP cuisine</h1>
+
+		<div className="entry-content clearfix">
+
+<div className="post-image"><p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg" alt="examen"></img></p></div>
+<p>A l’approche de la période des <strong>examens</strong>, les élèves ont l’habitude de suivre un <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">planning de révision pour bien préparer</a> les épreuves. En plus des révisions habituelles, il est important de s’exercer avec des <strong>annales</strong> et <strong>épreuves des années passées du CAP cuisine</strong>. Ceci permet aux élèves de s’entrainer en conditions réelles et de respecter les règles de l’examen.</p>
+<p>Dans cet article, vous trouverez des liens pour télécharger les <strong>corrections des épreuves écrites</strong> en pdf.</p>
+<h2 className="sous_titre">Gérer le stress et la concentration</h2>
+<p>La <strong>concentration</strong> et l’<strong>organisation,&nbsp;</strong>sont les deux qualités que les candidats au passage de <strong>l’épreuve pratique du CAP</strong> <strong>cuisine,</strong> doivent développer le plus<strong>. </strong>Pendant cette épreuve, les <strong>examinateurs</strong> passent dans les différents postes pour voir les <strong>méthodes de travail</strong> de chacun, ainsi que le degré de maîtrise des <a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">techniques de base</a>.</p>
+<p>Ils peuvent même poser des questions techniques aux candidats! il faut donc gérer son stress et <strong>rester concentré</strong>!</p>
+<h2 className="sous_titre">Annales en téléchargement gratuit</h2>
+<p>Les <strong>annales</strong>&nbsp;du CAP cuisine sont offerts en <strong>téléchargement gratuit. </strong>Il sont intégrés&nbsp;comme bonus que vous pouvez obtenir en commandant un produit de la <a href="https://cuisinedebase.com/categorie-produit/livres-ebook-pdf/">boutique.</a>&nbsp;Voici la liste des produits les plus demandés:</p>
+<ul>
+<li>l’ebook des&nbsp;<a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">25 fiches techniques</a> pour <strong>préparer le CAP cuisine;</strong></li>
+<li>ou encore l’ebook les <a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">bases de la cuisine</a>&nbsp;professionnelle;</li>
+<li><a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/">correction de l’épreuve de 2006</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2006;</strong></li>
+<li><a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">Correction de l’épreuve EP1 2019</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2019;</strong></li>
+<li>ou bien&nbsp;<a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Correction annale EP1 2020</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2020.</strong></li>
+</ul>
+<p>Aux annales&nbsp;des années <strong>2011, 2012, 2013 et 2014,&nbsp;</strong>je viens d’ajouter à cette collection les sujets de <strong>2015, 2016, 2017 et 2018</strong>.</p>
+<h2 className="sous_titre">Annales avec corrections et en format pdf</h2>
+<p>Les épreuves du CAP cuisine se composent de deux sortes d’épreuves, des <a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/">épreuves écrites</a> et des <a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a>.</p>
+<p>Les épreuves écrites sont sous forme <strong>d’exercices de cas pratiques</strong>, les candidats peuvent répondre à une bonne partie des questions en comptant sur leur <strong>bon sens</strong>, mais il est fortement conseillé de les préparer convenablement avec <strong>des livres</strong> ou des cours et de faire au moins deux ou trois <strong>annales</strong>&nbsp;du CAP cuisine des années précédentes.</p>
+<p>Il est vrai que les épreuves écrites ne sont pas très complexes, surtout qu’en fonction du niveau d’étude, <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-preparer-avec-une-ecole-de-formation-des-groupes-de-discussion-ou-seul/">les candidats au CAP</a> peuvent être <strong>dispensés de certaines matières</strong>. Pour la majorité des candidats, avec un niveau lycée par exemple, n’auront à passer que deux épreuves théoriques : <strong>Organisation de la production de cuisine (EP1) et Prévention Santé Environnement (PSE).</strong></p>
+<p>La meilleure manière de préparer ces épreuves est de travailler des <strong>épreuves des années précédentes</strong>.</p>
+<p>Je vous ai préparé une <a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/">correction de l’épreuve de 2006</a>. <a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">Correction de l’épreuve EP1 2019</a> et <a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Correction annale EP1 2020</a>. Vous pouvez essayer de les faire et comparer vos résultats avec les corrections que vous pouvez <strong>télécharger en pdf</strong>.</p>
+<p>Vous pouvez aussi vous faire aider des <strong>conseils</strong> donnés dans ces deux <strong>livres:</strong> <a href="https://amzn.to/2LgaAE1">Science appliquée</a> et <a href="https://amzn.to/2LjsZQm">Technologie culinaire</a>. Pour être transparent avec vous, les liens vers ces deux <strong>livres</strong> sont des liens affiliés, cela veut dire que je toucherai une commission si vous passez par ces liens pour acheter ces livres et sans que cela n’augmente leurs prix <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Annales et examens des années passées pour CAP cuisine",
+
+    route: "/article/annales-et-examens-des-annes-passes-pour-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg",
+
+    lien: 'https://cuisinedebase.com/annales-et-examens-des-annes-passes-pour-cap-cuisine/'
+}
+
+const B33 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre</h1>
+
+		<div className="entry-content clearfix">
+
+<p><span>Le <strong>CAP cuisine</strong> se fait en formation initiale dans un <strong>lycée professionnel</strong>. Et le CAP cuisine se fait généralement en 2 ans. Mais pendant cette dernière décennie, les <strong>centres de formation</strong> voient arriver massivement des candidats d’une autre sorte. Des femmes et des hommes qui souhaitent passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en tant que candidat libre</span></a><span >!</span> Dans cet article je vais lister certaines <strong>erreurs à éviter pour préparer le CAP</strong> cuisine en candidat libre.</p>
+
+
+
+<h2 className="sous_titre">Le diplôme CAP cuisine</h2>
+
+
+
+<p><span >Le <strong>cap cuisine</strong> est un diplôme qui permet d’<strong>acquérir les bases de la cuisine</strong>. Les <strong>débutants en cuisine</strong> souhaitant entrer dans la vie active le préparent souvent dans un <strong>centre de formation</strong>. Ainsi, après obtention de leurs diplômes, ils peuvent se faire embauchés comme des <strong>commis de cuisine</strong> dans un établissement de <strong>restauration collective</strong> ou privé, puis grimper les échelons petit à petit pour finir <strong>chef cuisinier ou gérant de restaurant.</strong></span></p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error_thumb.png" alt="error" title="error"></img></a><figcaption>Erreur à éviter</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Les 5 <strong>erreurs à éviter pour préparer le CAP</strong></h2>
+
+
+
+<p><span >Voici les cinq erreurs et demi à éviter pour être zen le jour de <strong>l’examen de CAP cuisine</strong> <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-smile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/wlEmoticon-smile.png" alt="Sourire"></img></span></p>
+
+
+
+<h2 className="sous_titre">Première des erreurs à éviter pour réussir le CAP cuisine</h2>
+
+
+
+<p><span >La première des <strong>erreurs à éviter</strong> est de se préparer en aveugle, travailler sans suivre un <strong>programme</strong> bien établi. Et surtout tenir à bien le respecter, (vous pouvez vous <strong>faire aider par les conseils</strong> de </span><a href="https://cuisinedebase.com/une-mthode-simple-pour-tenir-ses-engagements-et-appliquer-ses-bonnes-rsolutions/" rel="sponsored nofollow"><span >cet article qui peuvent vous être utiles pour respecter vos engagements</span></a><span >. </span></p>
+
+
+
+<p><span >Un <strong>planning étalé sur 10 mois</strong> me parait correcte pour apprendre doucement les différentes <strong>techniques et fabrications de base</strong>, cela n’empêche pas les personnes qui se sentent capables à accélérer le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span >rythme d’apprentissage à 5 ou 6 mois</span></a><span >.</span></p>
+
+
+
+<h2 className="sous_titre">L’épreuve théorique est la deuxième l’erreur à éviter</h2>
+
+
+
+<p><span >Beaucoup de candidats libres travaillent d’arrache pieds pour maîtriser la <strong>partie pratique</strong>. Et malheureusement ne consacrent pas beaucoup temps à l’<strong>épreuve théorique</strong>. Négliger la partie théorique relative à toutes les <strong>généralités sur la cuisine et le métier de cuisinier</strong>, comme les noms et propriétés des <strong>fruits et légumes</strong>, le <strong>matériel du cuisinier</strong>, la <strong>tenue vestimentaire</strong> les bons comportements que les cuisiniers doivent avoir, tout ce qui est relatif à <strong>l’hygiène et à la sécurité et l’environnement</strong>, bref tout l’univers qui orbite autour de la cuisine et <a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/">des métiers du cuisinier</a> en dehors <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">des recettes</a>, techniques et préparations de bases.</span></p>
+
+
+
+<p>pour réviser cette partie des épreuves, vous pouvez <strong>travailler les annales</strong> suivants:</p>
+
+<h2 className="sous_titre">Troisième des erreurs à éviter. Avoir les bons réflexes </h2>
+
+
+
+<p><span >Avoir des reflexes et des méthodes qui sont différentes (voir contraires) aux </span><a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/"><span >techniques de base à maîtriser</span></a><span >. Maintenant grâce à internet et particulièrement Youtube, on peut accéder aux techniques des meilleurs <strong>formateurs et chefs de cuisines</strong>. Je conseille particulièrement les différentes vidéos mises gratuitement sur le web par </span><a href="http://webtv.ac-versailles.fr/restauration/Formation-CAP-cuisine"><span >l’académie de Versailles</span></a><span >, on peut aussi y trouver entre autres, des <strong>fiches techniques de fabrication</strong> et des conseils pour les <strong>jeunes apprentis</strong>, …</span></p>
+
+
+
+<h2 className="sous_titre">Quatrième erreur à éviter</h2>
+
+
+
+<p>Rester seul dans ce coin à s’entrainer tout seul. Pour rester motiver, il est conseiller de se trouver un ami ou une amie qui fait la même chose. Le mieux c’est d’<span >adhérer à des <strong>groupes de discussion sur Facebook</strong> ou un autre réseau social. Il existe beaucoup de groupes où on peut poster ses réalisations et demander avis et conseils aux membres, en général les membres sont très réactifs et leurs temps de réponse est courts. Grâce à ces groupes, on peut aussi suivre un programme collectifs ce qui permet de se sentir moins seul, se motiver mutuellement et de garder une bonne assiduité pour accomplir le programme.</span></p>
+
+
+
+<h2 className="sous_titre">Cinquième erreur à éviter</h2>
+
+
+
+<p><span >Ne pas faire d’<strong>examens blancs</strong> périodiquement. au moins 4 étalés sur toute la période de préparation. Ceci permet de travailler l’<strong>organisation du temps</strong> et la <strong>gestion du stress</strong>.</span></p>
+
+
+
+<p>Voici une liste d’examen que vous pouvez utiliser pour vous entrainer:</p>
+
+
+<p><span >5.5 Et l’erreur que je considère comme une demi erreur car elle ne concerne pas tout le monde, c’est le fait de ne pas avoir un <strong>objectif après l’obtention du diplôme</strong>. En effet, le fait de se préparer en ayant un objectif, professionnel ou personnel, permet de fournir de la motivation supplémentaire et une bonne dose d’énergie pour accomplir et concrétiser les projets.</span></p>
+
+
+
+<p><span >Comme on peut le constater ce ne sont que des <strong>erreurs d’organisation</strong> en gros, pour les problèmes techniques il suffit de refaire la recette une deuxième ou une troisième fois jusqu’à bien la maîtriser et puis de compléter avec les conseils que l’on peut trouver ici ou là, et notamment sur Youtube.</span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre",
+
+    route: "/article/les-5-5-erreurs-eviter-pour-reussir-en-cap-cuisine-en-candidat-libre",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error_thumb.png",
+
+    lien: 'https://cuisinedebase.com/les-5-5-erreurs-eviter-pour-reussir-en-cap-cuisine-en-candidat-libre/'
+}
+
+const B34 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="entry-title">Examens CAP cuisine candidat libre. Comment se déroulent les épreuves</h1>
+
+		<div className="entry-content clearfix">
+
+<p>Les<strong> examens de CAP cuisine candidat libre</strong> se composent de deux catégories d’épreuves :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Les <strong>épreuves des matières professionnelles</strong></li>
+
+
+
+<li>Et les <strong>épreuves des matières générales</strong>&nbsp;</li>
+</ul>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp" alt="Un chef cuisinier assis dans sa cuisine et écris sur une feuille" className="wp-image-2775" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp?w=512&amp;ssl=1 512w"></img></figure></div>
+
+
+<h2 className="sous_titre">Les épreuves des matières générales</h2>
+
+
+
+<ul className="wp-block-list">
+<li>L’épreuve de français (EG1), histoire géographie et enseignement moral et civique. C’est une épreuve écrite et oral, elle dure 2 heures et 15 minutes. Et elle a un coefficient 3.</li>
+
+
+
+<li>Ensuite, l’épreuve de mathématiques et sciences physiques et chimiques (EG2). C’est une épreuve écrite qui dure 2 heures. Et elle a un coefficient 2.</li>
+
+
+
+<li>Puis, il y’a l’épreuve d’éducation physique et sportive (EG3), qui est une épreuve ponctuelle et qui a un coefficient 1.</li>
+
+
+
+<li>Enfin (EG4), l’épreuve de langue vivante (anglais), c’est une épreuve orale de 20 minutes et son coefficient est 1.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Dispense des épreuves des matières générales</h2>
+
+
+
+<p><span>En fonction de leur <strong>niveau d’étude</strong>, les candidats libres au CAP cuisine peuvent être <strong>dispensés de certaines matières</strong> générales. Pour la majorité des candidats, avec un <strong>niveau lycée</strong> par exemple, ils n’auront à passer que les épreuves des matières professionnelles. </span></p>
+
+
+
+<p><span>En revanche, il est très important de bien spécifier lors de l’inscription que vous êtes éligible à une <strong>dispense des épreuves des matières générales</strong> et de fournir les <strong>pièces justificatives</strong> demandées. </span></p>
+
+
+
+<h2 className="sous_titre">Examens de cap cuisine. Epreuves des matières professionnelles</h2>
+
+
+
+<p>Les candidats libres qui sont dispensés des matières générales ne passeront que ces épreuves professionnelles:</p>
+
+
+
+<ul className="wp-block-list">
+<li>L’épreuve EP1 : <strong><a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">ORGANISATION DE LA PRODUCTION DE CUISINE</a></strong>. C’est une épreuve écrite de 2 heures et son coefficient est 4. Vous pouvez <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">cliquer sur le lien</a> pour avoir plus de détails sur cette épreuve.</li>
+
+
+
+<li>Puis l’épreuve EP2 : <strong>RÉALISATION DE LA PRODUCTION DE CUISINE</strong>. C’est une épreuve pratique avec une petite partie oral. Cette épreuve dure 5 heures et son coefficient est&nbsp;13.</li>
+
+
+
+<li>Et enfin, l’épreuve de <strong>PRÉVENTION SANTÉ ENVIRONNEMENT</strong> qui est une épreuve écrite et qui dure 1 heure. Son coefficient est&nbsp;1.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Sujets et annales de l’épreuve pratique EP2. </h2>
+
+
+
+<p>Pour vous aider à comprendre les attentes des examinateurs de l’épreuve pratique <strong>RÉALISATION DE LA PRODUCTION DE CUISINE</strong>, j’ai effectué des analyses plus ou moins détaillées des sujets des années 2019, 2020 et 2021. Vous pouvez les consulter en suivant les liens ci-dessous:</p>
+
+
+
+<ul className="wp-block-list">
+<li><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/" target="_blank" rel="noopener noreferrer">CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/" target="_blank" rel="noopener noreferrer">Les épreuves pratiques de CAP cuisine session 2020</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li>
+</ul>
+
+
+
+<h2 className="sous_titre"><span>Organisation de la production de cuisine (EP1)</span></h2>
+
+
+
+<p><span>La <strong>durée</strong> de cette épreuve est 2 heures, et son <strong>coefficient</strong> est 4.</span></p>
+
+
+
+<p><span>Les candidats sont contrôlés sur deux types de <strong>compétences</strong> :</span></p>
+
+
+
+<ul className="wp-block-list">
+<li> <strong>Réceptionner, contrôler et stocker</strong><span > les marchandises dans le respect de la </span><strong>réglementation</strong><span > en vigueur et en appliquant les techniques de </span><strong>prévention des risques</strong><span > liées à l’activité</span> </li>
+
+
+
+<li> <strong>Collecter</strong><span > l’ensemble des informations et </span><strong>organiser sa production</strong><span > culinaire dans le respect des </span><strong>consignes</strong><span > et du </span><strong>temps imparti</strong><span >.</span> </li>
+</ul>
+
+
+
+<h2 className="sous_titre">Sujets et corrigés d’examens CAP cuisine. Epreuve EP1</h2>
+
+
+
+<p>Si vous êtes <strong>candidat libre cap cuisine</strong>, ou vous projetez de l’être, je vous conseille de <strong>préparer cette épreuve</strong> en vous aidant des <strong>annales corrigés des années passées</strong>. Je vous propose des corrections et éléments de correction des sujets des années 2006, 2019, 2020 et 2021. Vous pouvez les consulter en suivant les liens ci-dessous:</p>
+
+
+
+<ul className="wp-block-list">
+<li><a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/" target="_blank" rel="noopener noreferrer">Correction EP1 Organisation de la production de cuisine <strong>session 2019</strong></a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Epreuve CAP cuisine. Sujet et Correction de l’épreuve <strong>EP1 2020</strong>.</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction de l’épreuve <strong>EP1 2021</strong>. Examen CAP cuisine</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/" target="_blank" rel="noopener noreferrer">Corrigé de l’épreuve <strong>EP1 Session 2006 </strong>CAP cuisine</a></li>
+</ul>
+
+
+
+<h2 className="sous_titre">Examens CAP cuisine. Déroulement de l’épreuve EP1</h2>
+
+
+
+<p><span>Le candidat doit, à partir d’un contexte <strong>professionnel</strong> identifié, organiser une production de cuisine. À partir de <strong>situations professionnelles</strong> pluridisciplinaires (cuisine, gestion et sciences appliquées), intégrant les bonnes pratiques <strong>d’hygiène</strong>, de <strong>sécurité</strong>, de <strong>santé</strong> et de <strong>développement durable</strong>, le candidat peut être amené à : </span></p>
+
+
+
+<ul className="wp-block-list">
+<li> <strong>réceptionner</strong><span > les marchandises et </span><strong>contrôler</strong><span > les livraisons ; </span> </li>
+
+
+
+<li> <strong>stocker</strong><span > les marchandises ; </span> </li>
+
+
+
+<li> <strong>mettre en place</strong><span > les marchandises nécessaires à sa production ; </span> </li>
+
+
+
+<li> <span >participer aux opérations </span><strong>d’inventaire</strong><span > ; </span> </li>
+
+
+
+<li> <span>Collecter les informations et dresser une liste prévisionnelle des </span><strong>produits nécessaires</strong><span> à sa production ; </span> </li>
+
+
+
+<li> <span>identifier et sélectionner les </span><strong>matériels</strong><span> nécessaires à sa production ; </span> </li>
+
+
+
+<li> <strong>planifier</strong><span > son travail.</span> </li>
+</ul>
+
+
+
+<h2 className="sous_titre"><span>Prévention Santé Environnement (EP2)</span></h2>
+
+
+
+<p><span>La durée de cette épreuve est <strong>d’une heure</strong>, et son <strong>coefficient est 1.</strong> Pour réussir cette épreuve, il suffit de savoir lire et comprendre un texte de <strong>situation pratique</strong>, les questions sont très simples et en relation avec</span></p>
+
+
+
+<p><span>– Les connaissances dans le cadre de la <strong>prévention</strong>, de la <strong>santé</strong> et de <strong>l’environnement</strong> ; </span></p>
+
+
+
+<p><span>– Le <strong>comportement responsable</strong> vis à vis de sa santé et de son environnement ;</span></p>
+
+
+
+<p><span>– Les <strong>compétences sociales et civiques</strong> permettant de réussir sa vie en société dans le respect de soi et des autres ;</span></p>
+
+
+
+<p><span>– La <strong>culture scientifique</strong> et <strong>technologique</strong> visant à développer l’esprit critique ;</span></p>
+
+
+
+<p><span>– La méthodologie intégrant une démarche <strong>d’analyse et de résolution de problèmes</strong></span></p>
+
+
+
+<h2 className="sous_titre">Exemple de situation d’épreuve de PSE</h2>
+
+
+
+<p><span>Voici un <strong>exemple</strong> de<strong> texte de situation</strong> avec quelques-unes des questions. Année 2012.</span></p>
+
+<p><strong>Situation 1 :</strong></p>
+
+
+
+<div className="wp-block-group"><div className="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<p>Alban vient d’obtenir le CAP Maintenance et Hygiène des Locaux. Il veut poursuivre en Baccalauréat Hygiène et&nbsp;Environnement en lycée professionnel. Au mois de juillet, il souhaite travailler au tour de sa passion : le vélo. Le Pôle&nbsp;Emploi lui propose un contrat de travail saisonnier d’un mois au sein de la caravane du Tour de France. Il fera partie de l’équipe «&nbsp;Environnement » dont la mission est de collecter et trier tous les déchets à chaque étape de la course.</p>
+
+
+
+<p>Au cours de l’entretien d’embauche, les organisateurs du tour lui expliquent que son travail sera intense, des journées&nbsp;longues (coucher tard, lever tôt), des repas pris rapidement et souvent froids. Grand sportif, Alban signe son contrat malgré les conditions.</p>
+
+
+
+<p>Alban ayant gardé tous les articles de presse de l’année 2011, il a pu lire que le dopage est en nette régression dans le cyclisme et que le Tour de France n’a plus à rougir de son maillot jaune…</p>
+</div></div>
+
+
+
+<p>1.1. Identifiez le problème posé en soulignant la bonne réponse : </p>
+
+
+
+<p>– Alban veut faire du vélo cet été.<br></br>– Il aime la lecture de journaux sportifs.<br></br>– Alban travaillera dans des conditions contraignantes.</p>
+<cite>PSE 2012</cite>
+
+
+<p>A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le <a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014" target="_blank" rel="noopener noreferrer">bulletin officiel</a> relatif à ce sujet.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves",
+
+    route: "/article/decryptage-des-epreuves-ecrites-du-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp",
+
+    lien: 'https://cuisinedebase.com/decryptage-des-epreuves-ecrites-du-cap-cuisine/'
+}
+
+const B35 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Décryptage de l’épreuve pratique du CAP cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+<p><span >La <strong>concentration</strong> et l’<strong>organisation </strong>sont les deux qualités que les candidats au passage de l’<strong>épreuve pratique du CAP cuisine</strong> doivent développer le plus<strong>. </strong>Pendant cette épreuve, les examinateurs passent dans les différents <strong>postes</strong> pour voir les méthodes de travail de chacun et le degré de maîtrise des <strong>techniques de base</strong>. Ils peuvent même poser des questions techniques aux candidats! il faut donc gérer son <strong>stress</strong> et rester <strong>concentré</strong>!</span></p>
+
+
+
+<p><span >En plus de la maîtrise des techniques de base, les candidats doivent savoir préparer et <strong>maintenir en état</strong> leurs <strong>postes de travail</strong>, ainsi que communiquer, dresser, analyser et contrôler la qualité des <strong>produits</strong>.</span></p>
+
+
+<div className="post-image">
+<figure className="aligncenter is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg" alt="examen" title="examen"></img></figure></div>
+
+
+<p><span >A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le </span><a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014" target="_blank" rel="noopener noreferrer"><span >bulletin officiel</span></a><span > relatif à ce sujet. </span></p>
+
+
+
+<h2 className="sous_titre">Réalisation de la production de cuisine</h2>
+
+
+
+<p><span >Réalisation de la production de cuisine est une <span ><strong>épreuve pratique</strong>, elle </span>se déroule de la manière suivante:</span></p>
+
+
+
+<h2 className="sous_titre">Production culinaire</h2>
+
+
+
+<ul className="wp-block-list">
+<li> <span >Au début de l’épreuve, il est demandé aux candidats de </span><strong >rejoindre une salle</strong><span > de cours où on vérifie leurs identités. </span> </li>
+
+
+
+<li> <span >Ensuite on leur demande de se mettre en </span><strong >tenue professionnelle</strong>. Les candidats peuvent utiliser <span >des vestiaires</span>. Ceux-ci <span >sont prévues à cet effet</span>.<span > U</span>n conseil: prévoyez <span >des cadenas au cas où les casiers ne sont pas équipés de système de verrouillage. </span> </li>
+
+
+
+<li> <span >Puis, les candidats se dirig</span>ent<span > vers une salle </span><strong >où ils découvriront le sujet</strong><span > et donc ce qu’ils doivent produire. Généralement </span><strong >entrée plus plat</strong><span > ou </span><strong >plat plus dessert</strong><span >. Une des deux recettes comporte la réalisation d’une </span><strong >pâte de base</strong><span >.</span> </li>
+
+
+
+<li> <span >Les candidats resteront dans cette salle pendant une </span><strong >vingtaine de minutes</strong><span > à peu près, ils doivent réfléchir à l’organisation et à la </span><strong >gestion du temps</strong><span > et aussi à compléter les informations manquantes dans les </span><strong >fiches techniques</strong><span >. Parce que les fiches techniques distribuées lors de l’épreuve pratique </span>sont incomplètes. Elles<span > ne sont pas aussi d</span>étaillées<span > que celles utilisées </span><strong >dans les cours</strong><span > ou dans les </span><strong >livres</strong><span > de préparation</span>. I<span >l faut connaître généralement les </span><strong >sauces de base</strong><span >, les </span><strong >températures et les temps de cuisson</strong><span > ainsi qu’un maximum de </span><strong >termes techniques</strong><span >. Les surveillants distribuent deux fiches techniques de production et un </span><strong >tableau</strong><span > </span><strong >d’ordonnancement vierge</strong><span > à compléter (modèle simplifié) pour que les candidats puissent noter leurs idées et planifier le travail dans le temps imparti. </span> </li>
+
+
+
+<li> <span >Les candidats entrent après dans un </span><strong >atelier professionnel</strong><span > de production culinaire, ils peuvent y trouver tout ce dont ils ont besoin en terme de </span><strong >denrées alimentaires</strong><span >. ils préparent leurs postes de travail et contrôle leurs produits. Et ça y est l’étape de la </span><strong >production</strong><span > commence, ici, il faut mettre le plan en exécution dans le but de présenter à la fin de l’épreuve les </span><strong >plats demandés</strong><span >. </span> </li>
+
+
+
+<li> <span >Le jury évalue successivement la </span><strong >production, la présentation et la dégustation</strong><span >.</span> </li>
+</ul>
+
+
+
+<h2 className="sous_titre">Compte-rendu d’activité</h2>
+
+
+
+<p><span >Cette phase a lieu <strong>pendant l’épreuve pratique</strong></span>.<span > </span>L<span >e j</span>ury invite le <span >candidat à réaliser un bilan de son travail lors d’un court <strong>entretien</strong>: </span></p>
+
+
+
+<ol className="wp-block-list">
+<li> <span >Le candidat présente au jury, sans être interrompu, le </span><strong >bilan de sa production</strong><span > (son organisation, ses choix techniques, les matériels utilisés, sa prestation, etc.) ; </span> </li>
+
+
+
+<li><div><span >Le jury <strong>échange avec le candidat</strong> sur sa production ;</span></div></li>
+
+
+
+<li><div><span >Le candidat est invité à <strong>s’exprimer sur son projet professionnel</strong>. </span></div></li>
+</ol>
+
+
+
+<h2 className="sous_titre">Sujets et annales de l’épreuve pratique du CAP cuisine EP2. </h2>
+
+
+
+<p>Pour vous aider à comprendre les attentes des examinateurs de l’épreuve pratique <strong>RÉALISATION DE LA PRODUCTION DE CUISINE</strong>, j’ai effectué des analyses plus ou moins détaillées des sujets des années 2019, 2020 et 2021. Vous pouvez les consulter en suivant les liens ci-dessous:</p>
+
+
+
+<ul className="wp-block-list">
+<li><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/" target="_blank" rel="noopener noreferrer">CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/" target="_blank" rel="noopener noreferrer">Les épreuves pratiques de CAP cuisine session 2020</a></li>
+
+
+
+<li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li>
+</ul>
+            </div>
+        </div>
+    </article>,
+
+    titre: "Décryptage de l’épreuve pratique du CAP cuisine",
+
+    route: "/article/decryptage-de-epreuve-pratique-du-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg",
+
+    lien: 'https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/'
+}
+
+const B36 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+
+			<div className="post-image">
+				<img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/apprentis_cuisinier.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="apprentis cuisiner dans atelier de cuisine professionnelle" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/apprentis_cuisinier.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/apprentis_cuisinier.jpg?resize=300%2C175&amp;ssl=1 300w"></img>			</div>
+
+			
+	<div className="post-content">
+
+			<h1 className="titre_article">Les 25 recettes à faire absolument pour préparer le CAP cuisine</h1>
+
+		<div className="entry-content clearfix">
+
+
+<p><span>Le<strong > Certificat d’Aptitude Professionnel</strong> (CAP) permet d’avoir un premier niveau de qualification dans un métier donné. Dans le domaine de l’<strong>hôtellerie restauration</strong>, il y a </span>certaines préparations qui sont <strong>plus importantes</strong> à faire que d’autres. L’objectif de cet article est de vous faire découvrir <strong>les 25 recettes CAP cuisine</strong>. Ces recettes sont à travailler absolument surtout si vous <strong>préparez le CAP cuisine en candidat libre</strong>.</p>
+
+
+
+<h2 className="sous_titre"><span >Comment préparer le CAP cuisine</span></h2>
+
+
+
+<p><span >Il y a deux manières pour préparer le CAP cuisine. </span></p>
+
+
+
+<h2 className="sous_titre">CAP par la formation initiale</h2>
+
+
+
+<p>La première manière pour préparer le CAP cuisine est <span ><strong>p</strong></span><span ><strong>ar la formation initiale</strong></span><span >. </span></p>
+
+
+
+<ul className="wp-block-list">
+<li>Soit sous statut de lycéen ou d’apprenti.</li>
+
+
+
+<li>Ou bien <span >en deux ans après la classe de troisième</span></li>
+
+
+
+<li>Il est aussi possible de le faire en un an après un premier C.A.P.<span > </span></li>
+
+
+
+<li>Ou encore après une <strong>seconde professionnelle</strong> du <strong>bac professionnel</strong>, en accédant à la deuxième année du CAP. </li>
+</ul>
+
+
+
+<h2 className="sous_titre" id="block-037f0809-adac-4afe-8eab-d68e61fc2621">CAP par la formation professionnelle continue</h2>
+
+
+
+<p>Le&nbsp;<strong>CAP</strong>&nbsp;s’obtient également par la&nbsp;<strong>formation professionnelle continue</strong>, par la&nbsp;<strong>validation des acquis</strong>&nbsp;de l’expérience ou en se présentant directement à l’examen si on est majeur. C’est le cas des&nbsp;<strong>candidats libres</strong>.</p>
+
+
+
+<h2 className="sous_titre">CAP cuisine en candidat libre</h2>
+
+
+
+<p><span >Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la <strong>cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">les différentes manières</a> qui existent aujourd’hui pour passer le <strong>CAP cuisine en candidat libre</strong>.</span></p>
+
+
+
+<p><span >Dans le cas de la <strong>spécialité cuisine</strong>, les candidats doivent passer une <strong>épreuve écrite</strong> et une <strong>épreuve pratique</strong>, celle-ci s’appelle <u>“<strong>production culinaire</strong></u>”, c’est l’épreuve la plus importante, elle dure 4h30 et consiste à mettre les candidats dans un <strong>cas réel de production culinaire</strong>, des <strong><a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">fiches des plats à préparer</a></strong> sont distribuées aux candidats, en général, <strong>entrée + plat</strong> ou <strong>plat + dessert</strong>. Bien entendu, les fiches ne comportent pas tous les détails pour <strong>réaliser les recettes</strong>, en plus des <strong>techniques de fabrication</strong>, les candidats doivent connaître <strong>le dosage</strong> et les <strong>ingrédients des recettes</strong>.</span></p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="fiches techniques amazon" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine</figcaption></figure></div>
+
+
+<h2 className="sous_titre"><span>Recettes dans l’histoire de la cuisine</span></h2>
+
+
+
+<p><span >Il y a énormément de <strong>recettes</strong> qui ont marqué <strong>l’histoire de la cuisine</strong> en général. Et plus particulièrement la <strong>gastronomie française</strong>. En effet, et les <strong>recettes de CAP cuisine</strong> ont toutes des histoires. Et pour réussir <strong>l’épreuve pratique</strong> du <strong>CAP cuisine</strong> il faut apprendre certaines de ces recettes. </span></p>
+
+
+
+<p><span ><strong>Voici les 25 recettes CAP cuisine</strong> à maîtriser pour bien préparer l’épreuve la plus redoutée du <strong>CAP cuisine</strong> qui est <strong>l’épreuve pratique</strong>! Il n’existe bien sûr pas de liste officielle donnée par le ministère de l’éducation nationale. Mais nous avons fait l’effort de sélectionner un <strong>ensemble de recettes</strong> qui regroupent l’essentiel des <strong>techniques et préparations de base</strong>.</span></p>
+
+
+
+<h2 className="sous_titre">25 recettes CAP cuisine en téléchargement en pdf<span > </span></h2>
+
+
+
+<p>Plus bas dans cet article vous pouvez découvrir l’ensemble des 25 recettes cap cuisine. vous pouvez ensuite cliquer sur le titre de la recette pour afficher sa fiche technique. Et tout cela et bien sûre gratuit. </p>
+
+
+
+<p>En revanche, beaucoup de personnes préfèrent avoir l’ensemble des fiches techniques réuni dans un seul document. et idéalement, le <strong>document doit être téléchargeable en pdf</strong>. </p>
+
+
+
+<p>Si vous faites partie de ces gens là voici une nouvelle qui devrait vous faire plaisir. Sachez que j’ai rédigé un e-book que vous pouvez <strong>télécharger au format pdf</strong>. Ce petit livret regroupe l’ensemble des fiches techniques des <strong>25 recettes CAP cuisine</strong>. </p>
+
+
+
+<p>Commandez le document au <strong>format pdf</strong> en suivant le lien suivant : <a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer">Fiches techniques au format papier ou pdf</a>.</p>
+
+
+
+<h2 className="sous_titre">Fiches techniques à télécharger gratuitement au format Excel</h2>
+
+
+
+<p>Et ce n’est pas tout, avec le pdf des <strong>25 recettes CAP cuisine</strong>, je vous offre en bonus les deux précieux cadeaux suivants:</p>
+
+
+
+<ul className="wp-block-list">
+<li>BONUS1&nbsp;: Je vous offre en bonus les&nbsp;<strong>annales des années passées</strong>!</li>
+
+
+
+<li>BONUS2&nbsp;: Je vous offre en bonus les&nbsp;<strong>Fiches techniques en format Excel</strong>!</li>
+</ul>
+
+
+
+<p>Commandez le document <a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/"><strong>25 recettes CAP cuisine</strong> au <strong>format pdf</strong></a> et recevez en bonus supplémentaire les&nbsp;<strong>Fiches techniques en format Excel</strong>! ainsi que les&nbsp;<strong>annales des années passées</strong>!</p>
+
+
+
+<h2 className="sous_titre">25 recettes CAP cuisine</h2>
+
+
+
+<p>Sans plus attendre voici les <strong>25 recettes CAP cuisine</strong> à travailler pour <strong>préparer le CAP cuisine</strong></p>
+
+
+
+<h2 className="sous_titre">1. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-potage-parmentier/">Potage Parmentier</a></h2>
+
+
+
+<p><span >Potage composé de blancs de poireaux sués au beurre et de pommes de terre en purée, liée à la crème. </span></p>
+
+
+
+<h2 className="sous_titre">2. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-sole-meunire/">Soles meunière</a></h2>
+
+
+
+<p><span >Soles farinées et sautées à la poêle avec une coloration dorée, arrosées de jus de citron, nappées de beurre «noisette», et agrémentées de rondelles de citrons pelés à vif et de persil haché. </span></p>
+
+
+
+<h2 className="sous_titre">3. <a href="https://cuisinedebase.com/fiche-technique-quiche-au-poulet/">Quiche au poulet</a></h2>
+
+
+
+<p><span >Tarte chaude dorée salée garnie de blancs de poulet, de gruyère râpé et d’un appareil à crème prise salé. </span></p>
+
+
+
+<h2 className="sous_titre">4. <a href="https://cuisinedebase.com/fiche-technique-omelette-roule-aux-champignons/">Omelette roulée</a> est parmi les 25 recettes CAP cuisine</h2>
+
+
+
+<p><span >Œufs mélangés, agrémentés d’une garniture déterminant l’appellation, cuits à la poêle et roulés. </span></p>
+
+
+
+<h2 className="sous_titre">5. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-velout-dubarry/">Crème Dubarry / velouté Dubarry</a></h2>
+
+
+
+<p><span >Potage onctueux où les choux-fleurs sont cuits dans un velouté de veau. Selon la liaison utilisée le potage prend l’appellation de crème ou de velouté Dubarry. </span></p>
+
+
+
+<p><span >La liaison de la crème Dubarry est à base de crème uniquement, tandis que la liaison du velouté Dubarry est à base de jaunes d’œufs et de crème. </span></p>
+
+
+
+<h2 className="sous_titre">6. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-macdoine-de-lgumes-mayonnaise/">Macédoine de légumes</a></h2>
+
+
+
+<p><span >Légumes taillés «&nbsp;en macédoine&nbsp;», cuits à l’anglaise et assaisonnés avec de la sauce mayonnaise </span></p>
+
+
+
+<h2 className="sous_titre">7. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-crpes-farcies-gratines/">Crêpe farcie</a> fait partie des 25 recettes CAP cuisine</h2>
+
+
+
+<p><span >Des crêpes garnies de jambon, de champignons, d’échalotes ciselées et de crème fraîche, et gratinées au four grâce au gruyère </span></p>
+
+
+
+<h2 className="sous_titre">8. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-du-navarin-aux-pommes/">Navarin</a></h2>
+
+
+
+<p><span >Morceaux d’épaule, de collier et de poitrine d’agneau cuits lentement dans une sauce assaisonnés à l’ail et à la tomate. Accompagnés de pommes de terre cuites également dans la sauce et de petits oignions glacés à brun </span></p>
+
+
+
+<h2 className="sous_titre">9. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-des-ufs-farcis-chimay/">Œufs farcis Chimay</a></h2>
+
+
+
+<p><span >Blancs d’œufs durs </span><span >garnis de jaunes durs hachés, de duxelles de champignons et de persil, le tout est nappé de sauce Mornay (béchamel+jaunes d’œufs+gruyère) et gratiné </span></p>
+
+
+
+<h2 className="sous_titre">10. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-riz-pilaf/">Riz pilaf</a></h2>
+
+
+
+<p>La recette du <strong>riz pilaf </strong>est très facile à réaliser. Le riz est sauté au beurre avec des oignions. A l’obtention d’une couleur nacrée, on le mouille à l’eau ou au bouillon et on le cuit au four. CLiquez sur le titre de la recette pour visualiser la fiche technique.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte-1.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg" alt="riz-pilaf-boeuf-carotte" title="riz-pilaf-boeuf-carotte"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine. Riz pilaf</figcaption></figure></div>
+
+
+<h2 className="sous_titre">11. <a href="https://cuisinedebase.com/darnes-de-poisson-poches/">Darne de poisson pochée</a></h2>
+
+
+
+<p><span >Darnes de poisson cuits par immersion dans de l’eau salée et citronnée </span></p>
+
+
+
+<h2 className="sous_titre">12. <a href="https://cuisinedebase.com/goujonnettes-de-sole/">Goujonnettes de poisson frit</a></h2>
+
+
+
+<p><span >Chaire de poisson détaillée en lanières (2 x 10 cm), panées à l’anglaise et plongées par petites quantités dans un bain de friture à 180 °C.</span></p>
+
+
+
+<h2 className="sous_titre">13. <a href="https://cuisinedebase.com/blanquette-de-veau/">Blanquette de veau</a></h2>
+
+
+
+<p><span >Morceaux d’épaule de veau pochés dans du fond blanc, servis dans une sauce réalisée avec le liquide de cuisson lié avec de la crème et des jaunes d’œufs. </span></p>
+
+
+
+<p><span >La garniture se compose de petits oignions glacés à blanc et de petits champignons cuits à blanc </span></p>
+
+
+
+<h2 className="sous_titre">14. <a href="https://cuisinedebase.com/steak-sauts-avec-sauce-poivre/">Steaks au poivre</a></h2>
+
+
+
+<p><span >Morceaux épais de rumsteak ou de contre-filet enrobés de poivre concassé et sautés </span></p>
+
+
+
+<h2 className="sous_titre">15. <a href="https://cuisinedebase.com/escalopes-de-volaille-sautes/">Escalope de volaille viennoise</a></h2>
+
+
+
+<p><span >Escalopes de volaille très aplaties, panées à l’anglaise et sautées </span></p>
+
+
+
+<h2 className="sous_titre">16. <a href="https://cuisinedebase.com/fricasse-de-volaille-lancienne/">Fricassée de volaille à l’ancienne</a></h2>
+
+
+
+<p><span >Morceaux de poulet cuits dans une sauce crémée à base de fond blanc de volaille. </span></p>
+
+
+
+<p><span >Accompagnés d’une garniture composée de petits oignons glacés à blanc et de petits champignons cuits à blancs. </span></p>
+
+
+
+<h2 className="sous_titre">17. <a href="https://cuisinedebase.com/poulets-rtis/">Poulet Rôti</a></h2>
+
+
+
+<p><span >Poulets cuits au four, servis avec le jus de rôti obtenu en déglaçant les sucs de cuisson </span></p>
+
+
+
+<h2 className="sous_titre">18. <a href="https://cuisinedebase.com/crme-renverse-au-caramel/">Crème renversée au caramel</a></h2>
+
+
+
+<p><span >Crème prise sucrée et cuite dans un moule caramélisé au bain-marie et au four </span></p>
+
+
+
+<h2 className="sous_titre">19. <a href="https://cuisinedebase.com/ufs-la-neige/">Œufs à la neige</a></h2>
+
+
+
+<p><span >Blancs d’œufs fouettés en neige, sucrés, puis pochés dans de l’eau ou du lait, servis avec de la crème anglaise parfumée à la vanille. </span></p>
+
+
+
+<h2 className="sous_titre">20. <a href="https://cuisinedebase.com/tartes-feuilletes-aux-fruits-rouges/">Tartes aux fruits sur pâte feuilletée</a></h2>
+
+
+
+<p><span >Tartes de forme longue, réalisées en pâte feuilletée au beurre, garnies de fruits frais (ou au sirop), de crème pâtissière et lustrées au nappage blond </span></p>
+
+
+
+<h2 className="sous_titre">21. <a href="https://cuisinedebase.com/tarte-aux-pommes/">Tarte aux pommes</a></h2>
+
+
+
+<p><span >Tarte en pâte brisée, garnie de marmelade de pommes et de pommes émincées, cuite au four. </span></p>
+
+
+
+<h2 className="sous_titre">22. <a href="https://cuisinedebase.com/choux-la-crme-ptissire/">Choux à la crème pâtissière</a></h2>
+
+
+
+<p><span >Choux et éclairs en pâte à choux, garnis de crème pâtissière aromatisée à la vanille, au café ou au chocolat, et glacés au fondant. </span></p>
+
+
+
+<h2 className="sous_titre">23. <a href="https://cuisinedebase.com/entremets-faon-tiramisu/">Tiramisu</a></h2>
+
+
+
+<p><span >Entremets d’origine italienne à base de fromage (mascarpone), d’appareil à bombe et de crème fouettée. Le Tiramisu est servi avec une crème anglaise parfumée au café. </span></p>
+
+
+
+<h2 className="sous_titre">24. <a href="https://cuisinedebase.com/creme-brulee/">Crème brûlée</a></h2>
+
+
+
+<p><span >Appareil à base de lait, crème liquide, jaune d’œufs et sucre, parfumé selon utilisation (vanille, cannelle gingembre, citron, …) </span></p>
+
+
+
+<h2 className="sous_titre">25. <a href="https://cuisinedebase.com/tarte-au-chocolat/">Tarte au chocolat</a></h2>
+
+
+
+<p><span >Tartelettes réalisées en pâte sucrée et cuites à blanc et garnies d’une ganache au chocolat </span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les 25 recettes à faire absolument pour préparer le CAP cuisine",
+
+    route: "/article/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "1",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/apprentis_cuisinier.jpg",
+
+    lien: 'https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/'
+}
+
+const B37 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Pourquoi la Cocotte en Fonte Est Indispensable dans Votre Cuisine</h1>
+
+		<div className="entry-content clearfix">
+
+<p>La cuisine est un art, et comme tout artiste, il vous faut les bons outils. Parmi les indispensables, la&nbsp;<strong>cocotte en fonte</strong>&nbsp;se démarque par sa polyvalence, sa robustesse et sa capacité à sublimer les saveurs. Si vous hésitez encore à&nbsp;<strong>investir dans une cocotte</strong>, voici pourquoi elle pourrait révolutionner votre façon de cuisiner.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/4awXqKP" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg" alt="Cocotte en fonte" className="wp-image-3220" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=90%2C90&amp;ssl=1 90w"></img></a></figure></div>
+
+
+<h2 className="sous_titre">La Cocotte en Fonte : Un Héritage Culinaire</h2>
+
+
+
+<p>Saviez-vous que la&nbsp;<strong>cocotte en fonte</strong>&nbsp;est utilisée depuis des siècles dans de nombreuses cuisines du monde ? Sa réputation repose sur ses qualités uniques :</p>
+
+
+
+<ul className="wp-block-list">
+<li><strong>Une cuisson homogène</strong>&nbsp;: Grâce à sa répartition uniforme de la chaleur, vos plats mijotés, rôtis ou pains maison cuisent à la perfection.</li>
+
+
+
+<li><strong>Une conservation de la chaleur</strong>&nbsp;: Idéale pour garder vos préparations chaudes longtemps, même une fois servies à table.</li>
+
+
+
+<li><strong>Une durabilité exceptionnelle</strong>&nbsp;: Avec un bon entretien, une cocotte en fonte peut durer toute une vie, voire se transmettre de génération en génération.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Pour Quels Types de Recettes ?</h2>
+
+
+
+<p>La cocotte en fonte est incroyablement polyvalente. Voici quelques idées de plats que vous pouvez réaliser :</p>
+
+
+
+<ul className="wp-block-list">
+<li><strong>Bœuf bourguignon</strong>&nbsp;: Une cuisson lente qui magnifie la tendreté de la viande.</li>
+
+
+
+<li><strong>Pain maison</strong>&nbsp;: Obtenez une croûte dorée et croustillante, comme chez le boulanger.</li>
+
+
+
+<li><strong>Rôtis de viandes ou volailles</strong>&nbsp;: Avec une caramélisation parfaite et une chair juteuse.</li>
+
+
+
+<li><strong>Soupes et potages</strong>&nbsp;: Préparez des soupes riches en saveurs, grâce à la diffusion douce de la chaleur.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Comment Bien Choisir sa Cocotte en Fonte ?</h2>
+
+
+
+<p>Le choix d’une cocotte dépend de plusieurs critères :</p>
+
+
+
+<ul className="wp-block-list">
+<li><strong>La taille</strong>&nbsp;: Optez pour une capacité adaptée à vos besoins. Une cocotte de 4 à 6 litres convient généralement pour une famille de 4 à 6 personnes.</li>
+
+
+
+<li><strong>La compatibilité</strong>&nbsp;: Assurez-vous qu’elle fonctionne sur tous les types de feux, y compris l’induction.</li>
+
+
+
+<li><strong>La qualité de l’émail</strong>&nbsp;: Préférez un émail intérieur clair pour mieux surveiller la cuisson.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Un Choix de Qualité de la Cocotte en Fonte</h2>
+
+
+
+<p>Lors de mes recherches sur les cocottes en fonte, j’ai découvert un modèle qui revient souvent pour son excellent rapport qualité-prix et ses performances en cuisine. Avec son émail résistant, sa compatibilité avec tous les types de feux, et ses nombreuses recommandations, elle semble être un choix idéal pour tous les passionnés de cuisine.&nbsp;<a href="https://amzn.to/4awXqKP">Découvrez&nbsp;ce&nbsp;modèle ici</a>.</p>
+
+
+
+<p>Si vous cherchez une cocotte durable et polyvalente, celle-ci pourrait bien répondre à vos attentes.</p>
+
+
+
+<p>En plus de ses performances, cette cocotte se distingue par son éventail de couleurs élégantes. Que vous préfériez un look classique ou une touche de modernité, vous trouverez forcément une teinte qui s’accorde parfaitement avec votre cuisine.</p>
+
+
+
+<h2 className="sous_titre">Astuces d’Entretien</h2>
+
+
+
+<p>Pour que votre cocotte reste comme neuve :</p>
+
+
+
+<ol className="wp-block-list">
+<li>Lavez-la à la main avec une éponge douce.</li>
+
+
+
+<li>Séchez-la immédiatement pour éviter les traces de rouille.</li>
+
+
+
+<li>Évitez les températures extrêmes (eau froide dans une cocotte chaude).</li>
+</ol>
+
+
+
+<p>La cocotte en fonte est bien plus qu’un simple ustensile de cuisine. C’est un allié précieux pour sublimer vos plats, impressionner vos convives, et gagner en sérénité en cuisine. Si vous ne l’avez pas encore testée, il est peut-être temps de franchir le pas et de vous offrir cet indispensable de la cuisine.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Pourquoi la Cocotte en Fonte Est Indispensable dans Votre Cuisine",
+
+    route: "/article/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg",
+
+    lien: 'https://cuisinedebase.com/pourquoi-la-cocotte-en-fonte-est-indispensable-dans-votre-cuisine/'
+}
+
+const B38 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les principales mesures de sécurité en cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p><strong>Les mesures de sécurité en cuisine</strong> sont très importantes pour éviter tout accident ou incident. Parmi ces mesures, on peut citer le respect des consignes de sécurité. Telles que l’utilisation d’ustensiles adaptés pour manipuler les aliments chauds. Puis le port de gants pour manipuler les objets tranchants. Ou encore la prudence lors de la manipulation de matériel électrique. L’objet de cet article est les principales mesures de sécurité en cuisine, on peut éviter les accidents et créer un environnement de travail sûr et sain pour tous.</p>
+
+
+
+<h2 className="sous_titre">La prévention des accidents de travail&nbsp;</h2>
+
+
+
+<p>La prévention des accidents de travail est une des <strong>mesures de sécurité primordiale en cuisine</strong>. Pour prévenir les accidents, il est important de former les employés aux techniques de travail sûres. Ainsi que de leur fournir des équipements de protection individuelle. Tels que des gants ou des chaussures de sécurité. Il est également essentiel de maintenir les équipements et les installations en bon état de fonctionnement. Notamment en effectuant des inspections régulières et en procédant aux réparations nécessaires. En outre, il est recommandé d’utiliser des produits et des matériaux sûrs. Tout en respectant les consignes d’utilisation et en évitant tout contact avec des substances dangereuses. </p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg" alt="Les mesures de sécurité en cuisine" className="wp-image-2866" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption"><strong>Les mesures de sécurité en cuisine</strong></figcaption></figure></div>
+
+
+<p>Enfin, il est important de mettre en place des procédures d’urgence en cas d’accident. En prévoyant des trousses de premiers soins et en formant les employés aux gestes de secours de base. En prévenant les accidents de travail en cuisine, on peut garantir la sécurité et la santé des employés et des clients. Ainsi que la pérennité de l’entreprise.</p>
+
+
+
+<h2 className="sous_titre">L’utilisation des outils et des équipements de protection individuelle (EPI)&nbsp;</h2>
+
+
+
+<p>L’utilisation des <strong>outils et des équipements de protection individuelle</strong> est une des <strong>mesures de sécurité en cuisine</strong> importante. Les outils, tels que les couteaux ou les mixeurs, doivent être utilisés avec prudence et en respectant les consignes de sécurité. Il est également recommandé de porter des <strong>équipements de protection</strong> individuelle adaptés à la tâche. Tels que des gants, des <a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/" target="_blank" rel="noopener noreferrer">tabliers ou des chaussures de sécurité.</a> Les équipements de protection individuelle peuvent prévenir les blessures et les accidents en cuisine. Tels que les brûlures, les coupures ou les chutes. Il est donc important de former les employés à l’utilisation correcte de ces équipements et de s’assurer qu’ils soient en bon état de fonctionnement et disponibles en quantité suffisante. En utilisant les outils et les équipements de protection individuelle de manière responsable et efficace, on peut garantir un environnement de travail sûr et prévenir les accidents en cuisine.</p>
+
+
+
+<h2 className="sous_titre">Les règles de sécurité électrique&nbsp;</h2>
+
+
+
+<p><strong>Les règles de sécurité électrique sont essentielles en cuisine</strong> pour éviter les accidents et les incendies. Les installations électriques et les équipements doivent être vérifiés régulièrement pour s’assurer qu’ils sont conformes aux normes de sécurité et qu’ils ne présentent aucun risque de court-circuit ou d’électrocution. Il est également important de respecter les consignes d’utilisation des équipements électriques, telles que la mise à la terre des appareils ou l’utilisation de prises étanches pour éviter tout contact avec l’eau. </p>
+
+
+
+<p>Les employés doivent recevoir une formation sur les procédures de sécurité électrique. Telles que la manipulation des fils électriques ou la procédure à suivre en cas de court-circuit. Enfin, il est recommandé d’utiliser des équipements électriques certifiés conformes aux normes de sécurité et de les remplacer en cas de défaillance ou de dysfonctionnement. En respectant les règles de sécurité électrique en cuisine, on peut prévenir les accidents et les incendies et garantir un environnement de travail sûr pour tous.</p>
+
+
+
+<h2 className="sous_titre">La manipulation des produits dangereux</h2>
+
+
+
+<p>La manipulation des produits dangereux est une mesure de sécurité importante en cuisine pour éviter les accidents et les problèmes de santé. Les produits dangereux tels que les détergents, les désinfectants, les produits chimiques ou les gaz inflammables sont dangereux. Effectivement, il est important de les manipuler avec précaution et en respectant les consignes d’utilisation. Il faut stocker les produits dangereux dans des endroits appropriés. Pour éviter tout contact avec les aliments ou les équipements de cuisine. Les employés doivent recevoir une formation à la manipulation correcte des produits dangereux. Notamment en utilisant des équipements de protection individuelle tels que des gants, des masques ou des lunettes de sécurité. </p>
+
+
+
+<p>Il faut également tenir des fiches de sécurité pour chaque produit dangereux, pour rappeler les consignes d’utilisation et les précautions à prendre. Enfin, en cas d’accident ou d’incident, il est important de suivre les procédures de secours et de prévenir immédiatement les autorités compétentes. En respectant les consignes de sécurité pour la manipulation des produits dangereux en cuisine, on peut garantir la sécurité des employés et des clients, ainsi que la pérennité de l’entreprise.</p>
+
+
+
+<h2 className="sous_titre">Environnement de travail propre et ordonné</h2>
+
+
+
+<p>Il est également recommandé de maintenir un environnement de travail propre et ordonné. En effet, cela permet d’éviter les chutes ou les glissades. Notamment en nettoyant régulièrement les sols et en évitant de laisser traîner des objets. Enfin, il est important de former les employés aux mesures de sécurité en cuisine et de leur fournir des équipements de protection individuelle. Tels que des lunettes de protection ou des masques respiratoires, si nécessaire.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les principales mesures de sécurité en cuisine",
+
+    route: "/article/les-principales-mesures-de-securite-en-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg",
+
+    lien: 'https://cuisinedebase.com/les-principales-mesures-de-securite-en-cuisine/'
+}
+
+const B39 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Quelles sont les fonds et les sauces de base en cuisine</h1>
+
+		<div className="entry-content clearfix">
+
+<p>Les <strong>fonds et les sauces de base</strong> sont des éléments fondamentaux de la cuisine. Ce sont des préparations culinaires qui permettent de donner du goût, de la texture et de l’arôme aux plats. De plus, pour les élèves de CAP cuisine, il est essentiel de bien comprendre et de <strong>maîtriser les fonds et les sauces de base</strong>.</p>
+
+
+
+<h2 className="sous_titre">Les fonds de base en cuisine</h2>
+
+
+
+<p><strong>Les fonds de base </strong>sont des préparations liquides qui servent de base à de nombreuses recettes culinaires. Il en existe plusieurs types :</p>
+
+
+
+<h2 className="sous_titre">Le <a href="https://cuisinedebase.com/fond-blanc-veau-volaille-comment-preparer-composition-regles-hygiene-utilisation/" target="_blank" rel="noopener noreferrer">fond blanc de volaille</a> : </h2>
+
+
+
+<p>D’abord, le <strong>fond blanc de volaille est à base de carcasses de volaille</strong> blanche (poulet, dinde, etc.). En effet, On cuit le fond longuement avec des légumes aromatiques (carottes, oignons, céleri), des herbes et de l’eau. Puis on l’utilise pour réaliser des sauces blanches, des veloutés et des potages.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg" alt="" className="wp-image-2863" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Un chef de cuisine prépare des fonds et sauces de base</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Le fond brun de veau : </h2>
+
+
+
+<p>Ensuite, le fond brun est un <strong>fond à base d’os et de viande de veau</strong>. Aussi, on les cuit longuement avec des légumes, des herbes et de l’eau. On l’utilise souvent pour réaliser des sauces brunes et des jus de viande.</p>
+
+
+
+<h2 className="sous_titre">Le fumet de poisson : </h2>
+
+
+
+<p>Puis, le e fumet de poisson. C’est un fond à base de têtes et d’arêtes de poisson. Notamment, on le prépare en cuisson longue avec des légumes, des herbes et de l’eau. Aussi, on l’utilise pour réaliser des sauces de poisson et des bisques.</p>
+
+
+
+<h2 className="sous_titre">Les sauces de base en cuisine</h2>
+
+
+
+<p>Les sauces de base sont des <strong>préparations culinaires</strong> qui servent de base à de nombreuses recettes. Il en existe plusieurs types :</p>
+
+
+
+<h2 className="sous_titre">La sauce béchamel : </h2>
+
+
+
+<p>C’est une sauce blanche réalisée à partir d’un roux (mélange de farine et de beurre) et de lait. Elle est utilisée pour réaliser des gratins, des lasagnes et des sauces pour les légumes.</p>
+
+
+
+<h2 className="sous_titre">La sauce tomate : </h2>
+
+
+
+<p>C’est une sauce à base de tomates pelées, d’oignons, d’ail et d’herbes. Elle est utilisée pour accompagner les pâtes, les pizzas et les viandes.</p>
+
+
+
+<h2 className="sous_titre">La sauce hollandaise : </h2>
+
+
+
+<p>C’est une sauce émulsionnée réalisée à partir de beurre fondu, de jus de citron, de jaune d’œuf et de poivre. Elle est utilisée pour accompagner les poissons et les légumes.</p>
+
+
+
+<h2 className="sous_titre">La sauce espagnole : </h2>
+
+
+
+<p>C’est une sauce brune réalisée à partir d’un fond brun de viande, d’un roux brun et de tomate concentrée. Elle est utilisée pour accompagner les viandes rouges.</p>
+
+
+
+<h2 className="sous_titre">Les fonds et sauces de base. La sauce velouté : </h2>
+
+
+
+<p>C’est une sauce blanche réalisée à partir d’un fond blanc de volaille ou de légumes et d’un roux blanc. Elle est utilisée pour accompagner les volailles et les légumes.</p>
+
+
+
+<h2 className="sous_titre">Les fonds PAI</h2>
+
+
+
+<p>Les fonds PAI sont des produits prêts à l’emploi. En effet, ils contiennent des ingrédients tels que de la viande, des légumes, des épices et des assaisonnements, utilisés pour préparer rapidement des sauces, des soupes et des plats cuisinés.</p>
+
+
+
+<p>Les fonds PAI sont largement utilisés dans les cuisines professionnelles et sont appréciés pour leur facilité d’utilisation et leur goût constant. Ils permettent de gagner du temps et de la commodité dans la cuisine, tout en offrant des résultats culinaires de qualité.</p>
+
+
+
+<p>Il existe différents types de fonds PAI disponibles sur le marché, tels que le fond brun, le fond blanc, le fond de volaille, le fond de poisson, etc. Ces fonds sont souvent vendus sous forme de poudre, de pâte ou de liquide concentré, et peuvent être dilués avec de l’eau pour obtenir la consistance désirée.</p>
+
+
+
+<h2 className="sous_titre">Maitriser les fonds et sauces de base</h2>
+
+
+
+<p>En conclusion, les fonds et les sauces de base sont des éléments clés de la cuisine. Pour les élèves de CAP cuisine, il est essentiel de bien comprendre et de maîtriser ces préparations culinaires pour pouvoir les utiliser dans toutes sortes de recettes. Il est recommandé de prendre le temps d’apprendre à préparer chacun de ces fonds et sauces de base. Car ils sont la base de nombreuses recettes culinaires. En maîtrisant les techniques de préparation des fonds et des sauces de base, les élèves de CAP cuisine seront en mesure de créer des plats savoureux et variés.</p>
+
+
+
+<p>Enfin, il convient de souligner que la cuisine est un art qui demande de la patience, de la précision et de la créativité. En maîtrisant les fonds et les sauces de base, les élèves de CAP cuisine pourront acquérir les compétences nécessaires pour créer des plats originaux et savoureux, tout en respectant les techniques culinaires traditionnelles.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Quelles sont les fonds et les sauces de base en cuisine",
+
+    route: "/article/fonds-sauces-base-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg",
+
+    lien: 'https://cuisinedebase.com/fonds-sauces-base-cap-cuisine/'
+}
+
+const B40 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+		<div className="post-image">
+				<img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Des chefs de cuisine préparent des pâtes de base" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=768%2C765&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=100%2C100&amp;ssl=1 100w"></img>			</div>
+
+			
+	<div className="post-content">
+
+			<h1 className="entry-title">Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Lorsque l’on parle de cuisine, la maîtrise des<strong> pâtes de base est essentielle pour tout apprenti cuisinier </strong>qui souhaite réussir dans le métier. Les pâtes de base sont des éléments fondamentaux de la cuisine, que ce soit pour préparer des plats salés ou sucrés. Le <strong>CAP cuisine</strong> est une formation qui enseigne aux futurs cuisiniers les <strong><a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">compétences de base nécessaires pour travailler en cuisine professionnelle</a></strong>. Dans le cadre de cette formation,<strong> plusieurs pâtes de base sont enseignées</strong>. Chacune ayant des propriétés uniques et des utilisations spécifiques. </p>
+
+
+
+<p>Dans cet article, nous allons découvrir les <strong>différentes pâtes de base enseignées au CAP cuisine</strong>. Comme la pâte brisée, la pâte feuilletée, ou encore la pâte à choux. Nous verrons comment les préparer et les utiliser pour des plats et des desserts délicieux. En apprenant ces <strong>pâtes de base</strong>, vous serez mieux préparé pour réussir le CAP cuisine et pour devenir un cuisinier professionnel accompli.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg" alt="" className="wp-image-2860" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Des chefs de cuisine préparent des pâtes de base</figcaption></figure></div>
+
+
+<h2 className="sous_titre">La pâte feuilletée</h2>
+
+
+
+<p>Tout d’abord, <a href="https://cuisinedebase.com/technique-de-base-de-realisation-de-la-pate-feuilletee/" target="_blank" rel="noopener noreferrer">la pâte feuilletée</a> est une pâte légère et croustillante. On l’apprécie beaucoup en cuisine et en pâtisserie pour la réalisation de nombreux plats et desserts. Elle se compose de farine, d’eau, de sel et de beurre. Aussi, on doit la travaillée avec soin pour obtenir un feuilletage parfait. La technique du feuilletage consiste à intercaler des couches de beurre entre des couches de pâte. Puis à plier et à tourner la pâte plusieurs fois pour créer des centaines de couches fines. Cela donne à la pâte feuilletée sa texture caractéristique de feuilletage et de croquant. On utilise la pâte feuilletée pour des plats salés, comme des tourtes ou des vol-au-vent, ou pour des desserts sucrés, comme des mille-feuilles ou des tartes. Maîtriser la pâte feuilletée est donc une compétence clé pour les aspirants chefs qui cherchent à réussir leur CAP cuisine.</p>
+
+
+
+<h2 className="sous_titre">La pâte brisée&nbsp;</h2>
+
+
+
+<p>Ensuite, la <a href="https://cuisinedebase.com/technique-de-base-pour-raliser-une-pate-brise/" target="_blank" rel="noopener noreferrer">pâte brisée</a> est une pâte fondante et friable. On l’utilise souvent en cuisine pour la préparation de tartes salées ou sucrées. Elle est généralement composée de farine, de beurre, d’œuf, d’eau et de sel. Et doit être manipulée avec précaution pour éviter de la rendre trop élastique. La pâte brisée peut être étalée à la main ou à l’aide d’un rouleau à pâtisserie. Puis placée dans un moule à tarte avant d’être garnie. Elle peut être cuite à blanc avant d’être garnie. La pâte brisée est également souvent utilisée comme base pour des tartes salées. Comme la quiche lorraine ou la tarte aux légumes. Ou pour des tartes sucrées, comme la tarte aux pommes ou la tarte aux fraises. La maîtrise de la pâte brisée est donc essentielle pour les apprentis cuisiniers qui cherchent à réussir leur CAP cuisine.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg" alt="améliorer ses opportunités professionnelles" className="wp-image-2843" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">améliorer ses opportunités professionnelles</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Pâtes de base.&nbsp;La pâte sucrée (pâte sablée) :&nbsp;</h2>
+
+
+
+<p>Puis, <a href="https://cuisinedebase.com/technique-de-base-pate-sucree/" target="_blank" rel="noopener noreferrer">la pâte sucrée</a> est une pâte à tarte sucrée, sablée. Qui est souvent utilisée pour les tartes aux fruits, les tartelettes, les fonds de tartes et les biscuits. Contrairement à la pâte brisée qui est une pâte salée, la pâte sucrée contient du sucre. La pâte sucrée se compose de farine, de sucre, de beurre, de jaune d’œuf et d’un peu d’eau. Il est important de bien mélanger tous les ingrédients pour obtenir une pâte homogène et lisse. La pâte sucrée doit être étalée délicatement avec un rouleau à pâtisserie. Puis découpée et placée dans un moule à tarte ou à tartelette. On peut la cuire à blanc avant la garnir ou directement avec sa garniture.</p>
+
+
+
+<p>On utilise souvent la pâte sucrée pour des tartes sucrées. Telles que la tarte au citron, la tarte aux fraises ou encore la tarte aux pommes. La maîtrise de la pâte sucrée est donc essentielle pour les apprentis cuisiniers qui cherchent à réussir leur CAP cuisine.</p>
+
+
+
+<h2 className="sous_titre">Pâtes de base.&nbsp;La pâte à choux :</h2>
+
+
+
+<p>Ensuite, <a href="https://cuisinedebase.com/technique-de-base-pour-realiser-la-pate-choux/" target="_blank" rel="noopener noreferrer">la pâte à choux</a> est une pâte qui est utilisée pour réaliser des pâtisseries. En effet, comme les éclairs, les choux à la crème ou encore les chouquettes. Contrairement aux autres pâtes, on cuit la pâte à choux deux fois. Une première fois pour faire gonfler la pâte et une seconde fois pour la faire sécher et la rendre croustillante. La pâte à choux se compose de farine, de beurre, d’eau, de sel et d’œufs. La préparation de la pâte à choux nécessite une cuisson à feu doux et une utilisation rapide. Car elle peut perdre de sa texture et devenir molle si elle est mal travaillée. </p>
+
+
+
+<p>La forme de la pâte à choux est donnée à l’aide d’une poche à douille ou d’une cuillère, selon la forme désirée. On utilise souvent la pâte à choux pour les pâtisseries à base de crème pâtissière. Aussi, on l’aromatise avec différents ingrédients pour varier les saveurs. Maîtriser la pâte à choux est donc un élément clé pour les pâtissiers et les chefs de cuisine. Pour faire des desserts élégants et délicieux.</p>
+
+
+
+<h2 className="sous_titre">Pâtes de base.&nbsp;La pâte à nouilles :</h2>
+
+
+
+<p>Aussi, la pâte à nouilles est une pâte de base utilisée pour préparer une grande variété de plats savoureux. Elle se fait à partir d’un mélange de farine, d’œufs et d’eau. Et on peut la pétrir à la main ou avec un robot culinaire. Une fois la pâte préparée, on l’étale et la découpe en différentes formes selon la recette. Par exemple, pour faire des tagliatelles, on découpe la pâte en fines lanières. Tandis que pour les spaghettis, on la découpe en fines cordes. On peut également faire sécher les pâtes à nouilles ou les faire fumer pour leur donner une saveur différente. </p>
+
+
+
+<p>Les chefs expérimentés peuvent créer leurs propres recettes de pâte à nouilles en modifiant les proportions des ingrédients pour obtenir une texture et un goût uniques. La maîtrise de la pâte à nouilles est une compétence importante pour les cuisiniers professionnels qui cherchent à ajouter de la variété et de la saveur à leurs plats.</p>
+
+
+
+<h2 className="sous_titre">Pâtes de base.&nbsp;La pâte à crêpes :</h2>
+
+
+
+<p>Puis, La pâte à crêpes est une préparation de base utilisée pour faire des crêpes légères et moelleuses. Elle est préparée en mélangeant de la farine, des œufs et du lait. Et éventuellement du sucre pour les crêpes sucrées. La pâte est ensuite laissée reposer pendant environ une demi-heure pour que la farine s’hydrate et que les ingrédients se mélangent bien. Une fois la pâte prête, il suffit de la verser dans une poêle chaude et de la faire cuire jusqu’à ce qu’elle soit dorée des deux côtés. </p>
+
+
+
+<p>La pâte à crêpes peut également être aromatisée avec de la vanille, de la cannelle ou du rhum pour une saveur plus intéressante. Les crêpes peuvent être garnies de nombreux ingrédients, tels que des fruits frais, de la crème fouettée, du Nutella ou du sirop d’érable. La maîtrise de la pâte à crêpes est importante pour les chefs professionnels qui cherchent à ajouter des desserts savoureux et polyvalents à leur menu.</p>
+
+
+
+<h2 className="sous_titre">La génoise :</h2>
+
+
+
+<p>Enfin, <strong><a href="https://cuisinedebase.com/entremets-facon-tiramisu/" target="_blank" rel="noopener noreferrer">la génoise </a></strong>est une pâte de base utilisée pour les gâteaux, les biscuits et les desserts en général. Elle est légère et aérée. Ce qui la rend parfaite pour être garnie de crème, de fruits frais ou de tout autre type de garniture. La génoise est préparée en fouettant des œufs entiers avec du sucre jusqu’à ce qu’ils deviennent mousseux et triples de volume. Ensuite, de la farine est ajoutée délicatement au mélange en utilisant une spatule pour ne pas perdre l’air incorporé. La pâte est ensuite versée dans un moule préalablement beurré et fariné et cuite au four à une température moyenne pendant environ 20 à 25 minutes. </p>
+
+
+
+<p>La génoise peut être aromatisée avec des zestes de citron, des extraits de vanille ou d’amande pour une saveur plus intéressante. La maîtrise de la génoise est essentielle pour les chefs pâtissiers professionnels qui cherchent à créer des desserts élégants et sophistiqués.</p>
+
+
+
+<h2 className="sous_titre">Maîtriser les pâtes de base pour réussir en cuisine</h2>
+
+
+
+<p>Que ce soit pour une tarte salée, une quiche ou un gâteau, ces pâtes permettent de donner du goût et de la texture à vos créations culinaires. En maîtrisant les différentes techniques pour préparer ces pâtes, vous serez en mesure de réaliser des plats dignes d’un professionnel. Que vous soyez un passionné de cuisine ou un professionnel en devenir, la pratique et la persévérance vous permettront de perfectionner vos compétences et de créer des plats savoureux qui plairont à tous.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+
+    route: "/article/pates-base-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg",
+
+    lien: 'https://cuisinedebase.com/pates-base-cap-cuisine/'
+}
+
+const B41 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">La listes des techniques de base à maîtriser pour le CAP cuisine</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Le CAP cuisine est un diplôme reconnu qui vous permettra de devenir cuisinier professionnel et d’exercer dans de nombreux établissements.&nbsp;Pour devenir un professionnel de la cuisine, il est indispensable de maîtriser certaines <strong>techniques culinaires de base</strong>. C’est pourquoi dans cet article, je vais vous présenter les techniques culinaires de base à connaître pour le CAP cuisine.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg" alt="" className="wp-image-2738" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Apprendre les techniques de base en cuisine</figcaption></figure></div>
+
+
+<p>On peut classer les&nbsp;<strong>techniques de base</strong>&nbsp;à maîtriser en cinq grandes catégories&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Les techniques et <strong>préparation des aliments</strong></li>
+
+
+
+<li>Les techniques de <strong>cuisson</strong></li>
+
+
+
+<li><strong>Fonds, sauces, jus et marinade, appareils et liaisons</strong></li>
+
+
+
+<li>Pâtisseries : <strong>Appareils, crèmes, sauces, coulis</strong>&nbsp;</li>
+
+
+
+<li><strong>Pâtes de base</strong> pour CAP cuisine</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Techniques de base de préparation des aliments</h2>
+
+
+
+<p>Les <strong>techniques de préparation</strong> consistent à préparer les ingrédients avant leur cuisson. Et les <strong>techniques de préparation de base</strong> qu’il faut maîtriser pour un candidat au<strong> CAP cuisine </strong>sont les suivantes&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Peser et mesurer</li>
+
+
+
+<li>Éplucher, laver, tailler des légumes Préparer des herbes aromatiques Canneler, historier</li>
+
+
+
+<li>Peler à vif</li>
+
+
+
+<li>Tourner des légumes</li>
+
+
+
+<li>Émincer des légumes</li>
+
+
+
+<li>Tailler en mirepoix, en brunoise, en paysanne, en&nbsp;julienne, en bâtonnets, en&nbsp;macédoine</li>
+
+
+
+<li>Ciseler</li>
+
+
+
+<li>Escaloper des légumes</li>
+
+
+
+<li>Monder et concasser</li>
+
+
+
+<li>Découper une volaille à cru</li>
+
+
+
+<li>Détailler de la viande</li>
+
+
+
+<li>Gratter, préparer, ébarber</li>
+
+
+
+<li>Habiller, détailler, désarêter et fileter un poisson rond Lustrer,&nbsp;napper</li>
+
+
+
+<li>Paner à l’anglaise</li>
+
+
+
+<li>Façonner à la cuillère</li>
+
+
+
+<li>Clarifier des œufs, du beurre</li>
+
+
+
+<li>Aplatir (batter)</li>
+
+
+
+<li>Brider simplement,&nbsp;ficeler</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Techniques de base de cuissons</h2>
+
+
+
+<p>Les<strong> <a href="https://cuisinedebase.com/differentes-methodes-de-cuisson-comment-maitriser/">techniques de cuisson</a></strong> sont également essentielles pour réussir en cuisine. Il existe de nombreuses façons de cuire les aliments, mais il est important de connaître <strong>les cuissons de base</strong>&nbsp;qu’on demande pour l’examen du CAP cuisine et que je vous rappelle dans la liste ci-dessous&nbsp;:</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg" alt="" className="wp-image-2739" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Apprenti techniques de base</figcaption></figure></div>
+
+
+<ul className="wp-block-list">
+<li>Cuire des œufs (sauf œufs frits)</li>
+
+
+
+<li>Griller, snacker des pièces</li>
+
+
+
+<li>Sauter – Sauter déglacer</li>
+
+
+
+<li>Blanchir</li>
+
+
+
+<li>Rôtir</li>
+
+
+
+<li>Pocher</li>
+
+
+
+<li>Frire</li>
+
+
+
+<li>Cuire en ragoût</li>
+
+
+
+<li>Cuire à la vapeur</li>
+
+
+
+<li>Étuver,&nbsp;glacer,&nbsp;cuire à blanc</li>
+
+
+
+<li>Cuire du riz, de la semoule, des céréales, etc.&nbsp;</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Les Fonds, sauces, jus et marinade, appareils et liaisons</h2>
+
+
+
+<p>Les fonds, sauces, jus et marinade, appareils et liaisons&nbsp;sont des éléments clés de la <strong>cuisine française</strong>. Et pour préparer le CAP cuisine, il faut maîtriser les <strong>techniques de base</strong> suivantes&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Lier à base d’amidon,&nbsp;à base de matière grasse,&nbsp;par réduction&nbsp;</li>
+
+
+
+<li>Lier à la purée de légumes</li>
+
+
+
+<li>Lier aux protéines Réaliser un fumet</li>
+
+
+
+<li>Réaliser un fond de volaille</li>
+
+
+
+<li>Réaliser et améliorer un fond PAI&nbsp;</li>
+
+
+
+<li>Puis, réaliser une sauce de type vin blanc&nbsp;</li>
+
+
+
+<li>Réaliser une sauce blanche,&nbsp;un velouté&nbsp;</li>
+
+
+
+<li>Réaliser une sauce brune&nbsp;</li>
+
+
+
+<li>Et, réaliser une sauce émulsionnée de base&nbsp;</li>
+
+
+
+<li>Réaliser un beurre composé</li>
+
+
+
+<li>Réaliser un coulis, une fondue de tomates&nbsp;</li>
+
+
+
+<li>Aussi, réaliser un jus de rôti&nbsp;</li>
+
+
+
+<li>Réaliser une marinade instantanée&nbsp;</li>
+
+
+
+<li>Réaliser une duxelles&nbsp;</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Les techniques de base en pâtisseries : Appareils, crèmes, sauces, coulis&nbsp;</h2>
+
+
+
+<p>En pâtisserie, les crèmes, sauces et coulis sont des éléments importants pour <strong>apporter de la saveur et de la texture</strong> à de nombreux desserts. Les crèmes les plus courantes sont la <strong>crème pâtissière</strong>, la crème <strong>mousseline</strong>, la <strong>crème Chantilly</strong> et la <strong>crème diplomate</strong>. Elles sont utilisées pour garnir des éclairs, des tartes, des choux et bien d’autres desserts. Les sauces et coulis, quant à eux, sont des préparations liquides souvent à base de fruits, de chocolat ou de caramel, utilisées pour accompagner ou décorer les desserts. Les exemples courants incluent le coulis de fruits rouges, la ganache au chocolat et le caramel beurre salé. </p>
+
+
+
+<p>Maîtriser la préparation de ces éléments de base est essentiel pour tout pâtissier afin de créer des desserts savoureux et réussis.</p>
+
+
+
+<p>Voici les <strong>techniques de base </strong>qu’il faut maîtriser en pâtisserie&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Réaliser une <strong>sauce chocolat</strong>,&nbsp;une <strong>ganache</strong>&nbsp;</li>
+
+
+
+<li>Réaliser un <strong>coulis de fruits</strong></li>
+
+
+
+<li>Puis, réaliser une <strong>crème anglaise</strong></li>
+
+
+
+<li>Réaliser un <strong>sirop&nbsp;</strong></li>
+
+
+
+<li>Réaliser un <strong>caramel</strong></li>
+
+
+
+<li>Et réaliser un <strong>appareil à crème prise</strong>&nbsp;</li>
+
+
+
+<li>Réaliser une <strong>crème pâtissière</strong></li>
+
+
+
+<li>Réaliser une <strong>crème d’amande</strong>&nbsp;</li>
+
+
+
+<li>Ensuite réaliser une <strong>marmelade, une compote</strong>&nbsp;</li>
+
+
+
+<li><strong>Foisonner</strong> de la crème, des œufs&nbsp;</li>
+
+
+
+<li>Réaliser une <strong>meringue française</strong>&nbsp;</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Pâtisseries : Pâtes de base pour CAP cuisine</h2>
+
+
+
+<p>Les pâtes sont des éléments de base en pâtisserie et sont utilisées pour préparer une grande variété de desserts. Les différentes pâtes ont des textures et des goûts différents et sont adaptées à des utilisations spécifiques. Par exemple, la <strong>pâte feuilletée</strong> est légère et feuilletée et est souvent utilisée pour les <strong>croissants</strong>, les <strong>palmiers</strong> et la <strong>galette des rois</strong>. La pâte brisée est plus solide et est souvent utilisée pour les<strong> tartes salées</strong> et sucrées. Puis, la pâte sucrée est douce et sablée et est souvent utilisée pour les <strong>tartes aux fruits</strong>. Aussi, la pâte à choux est une pâte légère et élastique utilisée pour les éclairs, les choux à la crème et les <strong>religieuses</strong>. </p>
+
+
+
+<p>En maîtrisant les <strong>différentes techniques de préparation des pâtes</strong>, vous pouvez créer des desserts exceptionnels et variés.</p>
+
+
+
+<p>Et voici les pâtes de base qu’il faut maîtriser pour le CAP cuisine&nbsp;:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Réaliser un biscuit, une génoise&nbsp;</li>
+
+
+
+<li>Réaliser une pâte à crêpes&nbsp;</li>
+
+
+
+<li>Puis, réaliser une pâte brisée&nbsp;</li>
+
+
+
+<li>Réaliser une pâte feuilletée&nbsp;</li>
+
+
+
+<li>Réaliser une pâte sablée&nbsp;</li>
+
+
+
+<li>Enfin, réaliser une pâte à choux&nbsp;</li>
+</ul>
+
+
+
+<h2 className="sous_titre">L’ensemble des techniques de base à maîtriser pour le CAP cuisine</h2>
+
+
+
+<p>En conclusion, le CAP cuisine est une formation complète qui permet aux apprenants de maîtriser les <strong>techniques culinaires de base.</strong> La préparation des aliments, les cuissons, les fonds, sauces, jus et marinades, les appareils et les liaisons sont des éléments clés pour réaliser des plats savoureux et réussis.&nbsp;</p>
+
+
+
+<p>En pâtisserie, les pâtes, les crèmes, les sauces et les coulis sont des éléments indispensables pour créer des desserts variés et originaux.&nbsp;</p>
+
+
+
+<p>La liste de ces <a href="https://www.education.gouv.fr/bo/16/Hebdo16/MENE1608030A.htm" target="_blank" rel="noopener noreferrer">techniques est extraite du référentiel du CAP cuisine</a>.</p>
+
+
+
+<p>En maîtrisant ces techniques de base, les futurs chefs cuisiniers peuvent développer leur créativité et leur savoir-faire pour offrir une expérience culinaire inoubliable à leurs clients.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Conseils et astuces pour maîtriser les techniques de base</h2>
+
+
+
+<p>Il est important de souligner l’importance de la pratique régulière pour maîtriser les techniques culinaires de base. La théorie est certes essentielle pour comprendre les principes de la cuisine, mais la pratique est indispensable pour les mettre en application et les perfectionner. En effet, la cuisine est un art qui demande de la patience, de la rigueur et de la passion. En s’entraînant régulièrement, les apprentis cuisiniers peuvent développer leur dextérité, leur créativité et leur capacité à improviser en fonction des ingrédients et des outils à leur disposition. La pratique régulière est donc un facteur clé pour acquérir les compétences nécessaires pour exceller en cuisine.</p>
+
+
+
+<p>Enfin, pour clore cet article, sachez que même les chefs cuisiniers les plus expérimentés continuent d’apprendre et de se perfectionner tout au long de leur carrière. En cuisine, il n’y a pas de limite à l’apprentissage et à la créativité. En se confrontant à de nouveaux défis culinaires et en explorant de nouvelles techniques, les apprentis cuisiniers peuvent continuer à élargir leur horizon et à développer leur talent culinaire.</p>
+
+
+
+<p>Alors, n’hésitez pas à explorer, à expérimenter et à vous challenger régulièrement pour atteindre de nouveaux sommets en cuisine !</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "La listes des techniques de base à maîtriser pour le CAP cuisine",
+
+    route: "/article/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg",
+
+    lien: 'https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/'
+}
+
+const B42 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les 11 couteaux de cuisine les plus utilisés en cuisine professionnelle</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Dans la cuisine, le couteau est l’un des outils les plus essentiels pour préparer les plats. Les&nbsp;<strong>couteaux de cuisine</strong>&nbsp;sont conçus pour des tâches spécifiques et chaque type de couteau a sa propre utilisation. Dans cet article, nous allons passer en revue les différents types de&nbsp;<strong>couteaux de cuisine</strong>&nbsp;et expliquer leur utilisation.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg" alt="" className="wp-image-2731" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Les couteaux de cuisine</figcaption></figure></div>
+
+
+<p>Voici une liste des types de couteaux de cuisine couramment utilisés&nbsp;:</p>
+
+
+
+<h2 className="sous_titre">Le couteau de chef</h2>
+
+
+
+<p>Ce couteau est l’un des plus couramment utilisés dans une cuisine professionnelle. Il est utilisé pour <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/">hacher, trancher et couper en dés des fruits, légumes</a>, viandes et poissons. Le couteau de chef a une lame large et légèrement courbée. Ce qui permet une coupe précise et un contrôle optimal.</p>
+
+
+
+<h2 className="sous_titre">L’économe</h2>
+
+
+
+<p>L’économe figure parmi les&nbsp;<strong>couteaux de cuisine</strong>&nbsp;les plus important. En effet,&nbsp;il s’agit d’un petit couteau à lame courbe utilisé pour éplucher les légumes et les fruits. Sa lame est fine et tranchante pour permettre une épluchure précise et sans effort.&nbsp;</p>
+
+
+
+<p>L’économe est un outil indispensable dans toute cuisine.</p>
+
+
+
+<h2 className="sous_titre">Le couteau d’office&nbsp;</h2>
+
+
+
+<p>Ce couteau est également essentiel dans toute cuisine. Il est de petite taille, avec une lame courte et pointue. Ce qui permet une grande précision dans la découpe des légumes, fruits et autres ingrédients de petite taille. Le couteau d’office est très polyvalent et pratique pour toutes sortes de tâches en cuisine. Comme l’épluchage, le désossage, le tranchage et le hachage.</p>
+
+
+
+<h2 className="sous_titre">Couteau à pain :&nbsp;</h2>
+
+
+
+<p>Ce couteau est utilisé principalement pour couper du pain, des pâtisseries et des gâteaux. La lame est longue et dentelée pour faciliter la coupe de surfaces dures et croustillantes.</p>
+
+
+
+<h2 className="sous_titre">Couteau de filet</h2>
+
+
+
+<p>Ce couteau est utilisé pour fileter les poissons à chair délicate comme la sole, le bar, le turbot, etc. La lame est longue, flexible et fine pour permettre une coupe précise et sans effort à travers les os et la peau du poisson.</p>
+
+
+
+<h2 className="sous_titre">Couteau à désosser</h2>
+
+
+
+<p>Ce couteau est utilisé pour enlever les os des viandes, volailles et poissons. La lame de ce couteau est fine et flexible pour permettre une coupe précise et une manipulation facile des os.</p>
+
+
+
+<h2 className="sous_titre">Couteau à émincer</h2>
+
+
+
+<p>Ce couteau est utilisé pour et lever des filets de viandes, volailles ou poisson. Il est aussi utiliser pour éminer les légumes en tranches fines. La lame est longue et mince pour permettre une coupe précise et rapide.</p>
+
+
+
+<h2 className="sous_titre">Couteau à tourner</h2>
+
+
+
+<p>On utilise ce couteau pour sculpter les fruits et légumes en formes décoratives. La lame est courte et légèrement incurvée pour permettre une coupe précise et facile.</p>
+
+
+
+<h2 className="sous_titre">Couteau à fromage</h2>
+
+
+
+<p>On utilise ce couteau pour couper le fromage en tranches. La lame est fine et souvent dentelée pour faciliter la coupe du fromage.</p>
+
+
+
+<h2 className="sous_titre">Couteau à hacher</h2>
+
+
+
+<p>On utilise ce couteau pour hacher les herbes, les légumes et les viandes. La lame est large et épaisse pour permettre une coupe précise et rapide.</p>
+
+
+
+<h2 className="sous_titre">Couteau à steak</h2>
+
+
+
+<p>On utilise ce couteau pour couper les steaks et autres viandes. La lame est longue et pointue pour permettre une coupe précise et rapide.</p>
+
+
+
+<h2 className="sous_titre">Couteau à huîtres</h2>
+
+
+
+<p>On utilise ce couteau pour ouvrir les huîtres. La lame est fine et pointue</p>
+
+
+
+<p>Il existe également d’autres types de couteaux de cuisine spécialisés. Tels que les couteaux à dépecer, les couteaux à écailler, les couteaux à graver, les couteaux à saumon. Chacun de ces couteaux a une utilisation spécifique en fonction de la tâche à accomplir.</p>
+
+
+
+<h2 className="sous_titre">Conseils pour entretenir les&nbsp;<strong>couteaux&nbsp;</strong><strong>de cuisine</strong></h2>
+
+
+
+<p>Il est important de choisir le bon couteau pour chaque tâche de cuisine afin de faciliter le travail et obtenir des résultats de qualité. Il est également important de bien entretenir ses&nbsp;<strong>couteaux de cuisine</strong>&nbsp;pour prolonger leur durée de vie et assurer une utilisation sûre. Vous devez aiguiser régulièrement vos couteaux de cuisine, les nettoyer et sécher après chaque utilisation, et ranger dans un endroit sûr et sec.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les 11 couteaux de cuisine les plus utilisés en cuisine professionnelle",
+
+    route: "/article/les-11-couteaux-de-cuisine-les-plus-utilises-en-cuisine-professionnelle",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/les-11-couteaux-de-cuisine-les-plus-utilises-en-cuisine-professionnelle/'
+}
+
+const B43 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les 6 techniques de dressage les plus connues</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Tout d’abord, il est important de comprendre que la présentation des plats ne se limite pas à la simple disposition des aliments sur une assiette. Elle implique également l’utilisation de couleurs, de textures et de formes. Afin de créer une harmonie visuelle qui stimule les papilles gustatives. Pour cela, il est essentiel de maîtriser les différentes&nbsp;<strong>techniques de dressage</strong>. Tels que le dressage linéaire, le dressage en rosace, le dressage en quinconce, le dressage en couronne, etc.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg" alt="" className="wp-image-2725" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Techniques de dressage gastronomique</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Techniques de dressage linéaire</h2>
+
+
+
+<p>Cette technique consiste à disposer les aliments en ligne droite généralement dans le sens de la longueur de l’assiette. On utilise beaucoup cette technique pour dresser les plats simples ou les plats de poisson.</p>
+
+
+
+<p>Pour réaliser un dressage linéaire, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Commencez par disposer le plat principal au centre de l’assiette, en le plaçant perpendiculairement à la ligne de l’assiette.</li>
+
+
+
+<li>Disposez ensuite les accompagnements du plat principal, en créant une ligne droite de chaque côté du plat principal. Par exemple, vous pouvez placer les légumes grillés d’un côté et les pommes de terre rissolées de l’autre côté.</li>
+
+
+
+<li>Veillez à ce que la quantité d’aliments de chaque côté soit à peu près égale pour créer une présentation équilibrée.</li>
+
+
+
+<li>Utilisez une sauce ou une garniture pour lier les différents éléments du plat. Et donner une touche finale à votre présentation.</li>
+
+
+
+<li>Pour ajouter de l’esthétique à votre présentation, vous pouvez ajouter des <a href="https://cuisinedebase.com/tag/herbes-aromatiques/">herbes fraîches ou des épices sur les aliments</a>. Ou utiliser une huile aromatisée pour les assaisonner.</li>
+</ul>
+
+
+
+<p>Il est important de se rappeler que le dressage linéaire doit être simple et épuré, sans trop de fioritures. Pour permettre aux aliments de prendre le devant de la scène. En suivant ces étapes simples, vous pouvez créer une présentation linéaire élégante et attrayante pour votre plat.</p>
+
+
+
+<h2 className="sous_titre">Techniques de dressage en rosace</h2>
+
+
+
+<p>Cette technique est très courante en cuisine. Elle consiste à disposer les aliments en cercle, en partant du centre de l’assiette et en travaillant vers l’extérieur. On utilise souvent cette technique pour les plats de viande, les salades, les desserts, etc.</p>
+
+
+
+<p>Pour réaliser un dressage en rosace, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ol className="wp-block-list" type="1">
+<li>Commencez par placer le plat principal, tel que la viande, au centre de l’assiette.</li>
+
+
+
+<li>Disposez ensuite les accompagnements autour du plat principal, en formant une rosace. Par exemple, vous pouvez disposer les légumes cuits à la vapeur ou les pommes de terre rissolées en cercle autour de la viande.</li>
+
+
+
+<li>Veillez à ce que chaque aliment soit disposé avec soin pour obtenir une présentation régulière et équilibrée.</li>
+
+
+
+<li>Pour ajouter de la couleur et de l’esthétique à votre présentation, vous pouvez ajouter des herbes fraîches, des fruits ou des légumes coupés en petits morceaux sur la rosace.</li>
+
+
+
+<li>Utilisez une sauce pour relier les différents éléments du plat et donner une touche finale à votre présentation. Vous pouvez verser la sauce sur le plat principal ou la disposer en petits points le long de la rosace.</li>
+</ol>
+
+
+
+<p>Il est important de se rappeler que le dressage en rosace doit être symétrique et régulier. Cela permet de donner une présentation esthétique. En suivant ces étapes simples, vous pouvez créer une présentation en rosace élégante et attrayante pour votre plat.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg" alt="" className="wp-image-2726" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Techniques de dressage</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Techniques de dressage en quinconce</h2>
+
+
+
+<p>Cette technique consiste à disposer les aliments en diagonale, en alternant les rangées. Elle est souvent utilisée pour les plats de légumes ou les plats de pâtes.</p>
+
+
+
+<p>Pour réaliser un dressage en quinconce, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ul className="wp-block-list">
+<li>Commencez par disposer le plat principal, tel que le poisson ou la viande, au centre de l’assiette.</li>
+
+
+
+<li>Disposez ensuite les accompagnements, tels que les légumes, les grains ou les fruits de mer, en diagonale par rapport au plat principal. Par exemple, vous pouvez placer les légumes grillés sur le côté droit de l’assiette et les pommes de terre au four sur le côté gauche.</li>
+
+
+
+<li>Veillez à ce que les aliments soient disposés de manière équilibrée et à des angles différents pour créer un effet visuel intéressant.</li>
+
+
+
+<li>Utilisez une sauce pour relier les différents éléments du plat et ajouter de la couleur et de la saveur à votre présentation.</li>
+
+
+
+<li>Pour ajouter une touche finale à votre présentation, vous pouvez utiliser des herbes fraîches ou des épices pour garnir les aliments ou ajouter des fruits ou des baies pour une touche sucrée.</li>
+</ul>
+
+
+
+<p>Il est important de se rappeler que le dressage en quinconce doit être élégant et sophistiqué, avec des aliments disposés de manière harmonieuse et équilibrée. En suivant ces étapes simples, vous pouvez créer une présentation en quinconce qui mettra en valeur les saveurs et la beauté de votre plat.</p>
+
+
+
+<h2 className="sous_titre">Techniques de dressage en couronne</h2>
+
+
+
+<p>Cette technique consiste à disposer les aliments en cercle autour du bord de l’assiette, en laissant un espace au centre. Elle est souvent utilisée pour les plats de pâtes, les salades ou les plats de fruits de mer.</p>
+
+
+
+<p>Pour réaliser un dressage en couronne, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ol className="wp-block-list" type="1">
+<li>Commencez par placer le plat principal, tel que la viande rôtie ou les pâtes, au centre de l’assiette.</li>
+
+
+
+<li>Disposez ensuite les accompagnements autour du plat principal, en formant une couronne. Par exemple, vous pouvez disposer les légumes cuits à la vapeur, les herbes fraîches ou les fruits de mer autour de la viande ou des pâtes.</li>
+
+
+
+<li>Veillez à ce que chaque aliment soit disposé de manière harmonieuse, de sorte qu’il y ait une certaine régularité dans la présentation.</li>
+
+
+
+<li>Pour ajouter de la couleur et de l’esthétique à votre présentation, vous pouvez ajouter des herbes fraîches, des fruits ou des légumes coupés en petits morceaux dans la couronne.</li>
+
+
+
+<li>Utilisez une sauce pour relier les différents éléments du plat et donner une touche finale à votre présentation. Vous pouvez verser la sauce sur le plat principal ou la disposer en petits points le long de la couronne.</li>
+</ol>
+
+
+
+<p>Il est important de se rappeler que le dressage en couronne doit être symétrique et régulier pour donner une présentation esthétique. En suivant ces étapes simples, vous pouvez créer une présentation en couronne élégante et attrayante pour votre plat.</p>
+
+
+
+<h2 className="sous_titre">Le dressage en nid</h2>
+
+
+
+<p>Cette technique consiste à créer un petit nid au centre de l’assiette et à y disposer les aliments à l’intérieur. Elle est souvent utilisée pour les plats de riz, les plats de nouilles ou les plats de fruits de mer.</p>
+
+
+
+<p>Pour réaliser un dressage en nid, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ol className="wp-block-list" type="1">
+<li>Commencez par disposer les aliments du plat principal, tels que les pâtes ou les fruits de mer, dans le centre de l’assiette, en formant un petit monticule.</li>
+
+
+
+<li>Utilisez une cuillère ou une fourchette pour retirer une partie du monticule et former un cercle creux ou un nid au centre de l’assiette.</li>
+
+
+
+<li>Disposez ensuite les accompagnements du plat, tels que les légumes cuits à la vapeur ou les fruits, dans le cercle creux, en les disposant de manière ordonnée et élégante.</li>
+
+
+
+<li>Utilisez une sauce pour relier les différents éléments du plat et donner une touche finale à votre présentation. Vous pouvez verser la sauce sur les aliments ou la disposer en petits points sur le plat.</li>
+
+
+
+<li>Pour ajouter une touche finale à votre présentation, vous pouvez garnir les aliments avec des herbes fraîches ou des épices.</li>
+</ol>
+
+
+
+<p>Il est important de se rappeler que le dressage en nid doit être élégant et attrayant, avec des aliments disposés de manière harmonieuse et ordonnée. En suivant ces étapes simples, vous pouvez créer une présentation en nid sophistiquée et originale pour votre plat.</p>
+
+
+
+<h2 className="sous_titre">Le dressage à la cuillère ou à la pince</h2>
+
+
+
+<p>Cette technique consiste à utiliser une cuillère ou une pince pour façonner les aliments en forme de quenelle ou de boule, avant de les disposer sur l’assiette. Elle est souvent utilisée pour les plats de purée, les plats de glace, les desserts, etc.</p>
+
+
+
+<p>Pour réaliser un dressage à la cuillère, vous pouvez suivre les étapes suivantes :</p>
+
+
+
+<ol className="wp-block-list" type="1">
+<li>Commencez par disposer le plat principal au centre de l’assiette.</li>
+
+
+
+<li>À l’aide d’une cuillère à soupe, déposez une petite quantité de sauce ou de purée à l’endroit souhaité de l’assiette.</li>
+
+
+
+<li>Utilisez le dos de la cuillère pour créer des motifs ou des formes décoratives avec la sauce ou la purée. Par exemple, vous pouvez dessiner des cercles, des vagues ou des lignes courbes sur l’assiette.</li>
+
+
+
+<li>Pour ajouter de la couleur et de la texture à votre présentation, vous pouvez utiliser différents types de sauces ou de purées, comme une sauce à la tomate, une purée de betteraves ou une sauce au fromage.</li>
+
+
+
+<li>Utilisez une petite quantité de sauce ou de purée pour éviter de noyer le plat principal. N’oubliez pas que l’objectif de cette technique est d’ajouter de l’esthétique et de la saveur à la présentation.</li>
+</ol>
+
+
+
+<p>Il est important de se rappeler que le dressage à la cuillère doit être subtil et élégant, en utilisant des formes et des motifs simples pour ne pas surcharger la présentation. En suivant ces étapes simples, vous pouvez créer une présentation à la cuillère sophistiquée et attrayante pour votre plat.</p>
+
+
+
+<p>En combinant ces différentes techniques de dressage, vous pouvez créer une grande variété de présentations pour vos plats et ainsi ajouter de la valeur esthétique à vos créations culinaires.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les 6 techniques de dressage les plus connues",
+
+    route: "/article/les-6-techniques-de-dressage-les-plus-connues",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg",
+
+    lien: 'https://cuisinedebase.com/les-6-techniques-de-dressage-les-plus-connues/'
+}
+
+const B44 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment améliorer vos compétences en dressage et présentation de plats</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>L’art de la cuisine ne se limite pas à la simple préparation des aliments. La&nbsp;<strong>présentation des plats</strong>&nbsp;est tout aussi importante que le goût, car elle permet de stimuler les sens et de mettre en valeur les ingrédients. Que vous soyez un <a href="https://cuisinedebase.com/coaching/">candidat libre au CAP cuisine</a>, un amateur ou un professionnel de la cuisine, améliorer vos compétences en dressage et présentation de plats peut faire toute la différence dans la perception et l’appréciation de vos créations culinaires. Dans cet article, je vais vous donner quelques conseils pour améliorer vos compétences en dressage et&nbsp;<strong>présentation de plats</strong>. Et ce, en utilisant des techniques simples et efficaces qui vous permettront de créer des plats attrayants et savoureux.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg" alt="" className="wp-image-2713" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Dressage de plat gastronomique</figcaption></figure></div>
+
+
+<h2 className="sous_titre">L’importance de la présentation de plats</h2>
+
+
+
+<p>La présentation de plats est une partie intégrante de la cuisine. Car elle permet de mettre en valeur les ingrédients, de stimuler les sens et de donner envie aux convives de manger. Il est important de comprendre que la présentation des plats ne se limite pas à la disposition des aliments sur une assiette. C’est également l’utilisation de couleurs, de textures et de formes pour créer des visuels agréables. Dans le but de stimuler les papilles gustatives.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Conseils pour améliorer la présentation de plats</h2>
+
+
+
+<p>Le dressage est l’art de disposer les aliments sur une assiette de manière à les mettre en valeur. Voici quelques conseils pour améliorer vos compétences en&nbsp;<strong>dressage et présentation de plats</strong>. Ces conseils seront particulièrement utiles aux&nbsp;<strong>candidats libres au CAP cuisine</strong>, ainsi qu’aux&nbsp;<strong>amateurs</strong>&nbsp;et&nbsp;<strong>professionnels</strong>&nbsp;de la cuisine.</p>
+
+
+
+<h2 className="sous_titre">Connaitre les techniques de dressage et de présentation de plats</h2>
+
+
+
+<p>Il est important de connaître les différentes techniques de dressage. Telles que le&nbsp;<strong>dressage linéaire</strong>, le&nbsp;<strong>dressage en rosace</strong>, le&nbsp;<strong>dressage en quinconce</strong>, le&nbsp;<strong>dressage en couronne</strong>, etc.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Maitriser les ustensiles de dressage</h2>
+
+
+
+<p>Il est également important de maîtriser l’utilisation des différents&nbsp;<strong>ustensiles de dressage</strong>, tels que les cuillères, les pinces, les pinceaux, etc.</p>
+
+
+
+<h2 className="sous_titre">Mettre de la couleur et des textures variées</h2>
+
+
+
+<p>Le dressage des plats doit être variée et attrayante, et cela implique&nbsp;<strong>l’utilisation de différentes couleurs et textures</strong>. Par exemple, une salade composée peut être mise en valeur en utilisant des feuilles de différentes couleurs et textures. En ajoutant des tomates cerises rouges, des radis roses et des carottes râpées orange. Il est également possible d’utiliser des herbes fraîches pour ajouter de la couleur et de la saveur.</p>
+
+
+
+<h2 className="sous_titre">Jouer avec les formes</h2>
+
+
+
+<p>Une belle présentation implique également l’utilisation de formes différentes pour les aliments. Par exemple, vous pouvez utiliser un emporte-pièce pour créer des formes originales avec des légumes, des fruits ou de la viande. Les formes peuvent également être créées en utilisant une cuillère ou une pince pour façonner les aliments.</p>
+
+
+
+<h2 className="sous_titre">Soigner la présentation de l’assiette</h2>
+
+
+
+<p>La&nbsp;<strong>présentation de l’assiette</strong>&nbsp;est également importante pour&nbsp;<strong>la mise en valeur des plats</strong>. Il est important de choisir une assiette adaptée au plat que vous servez. En tenant compte de la taille, de la forme et de la couleur de l’assiette. Il est également important de soigner la disposition des éléments sur l’assiette, en veillant à ce que chaque aliment soit bien visible et mis en valeur.</p>
+
+
+
+<p>En suivant ces conseils, vous pourrez améliorer vos compétences en dressage et <strong>présentation de plats</strong>. N’oubliez pas que la présentation des plats est tout aussi importante que le goût, car elle permet de donner envie aux convives de manger et de savourer chaque bouchée.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment améliorer vos compétences en dressage et présentation de plats",
+
+    route: "/article/comment-ameliorer-competences-dressage-presentation-plats",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-ameliorer-competences-dressage-presentation-plats/'
+}
+
+const B45 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Les différentes méthodes de cuisson et comment les maîtriser&nbsp;»</h1>
+
+		<div className="entry-content clearfix">
+
+<p>Que vous soyez un apprenti cuisinier, un chef professionnel ou simplement un passionné de cuisine, il est essentiel de connaître les différentes méthodes de cuisson en cuisine. En effet, chaque méthode de cuisson offre des avantages et des inconvénients. Qui peuvent affecter le goût, la texture et la présentation de votre plat. Dans cet article, nous allons passer en revue les principales&nbsp;<strong>méthodes de cuisson</strong>&nbsp;utilisées en cuisine. Ainsi que les astuces et les techniques pour maîtriser ces méthodes et améliorer votre savoir-faire culinaire.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg" alt="" className="wp-image-2709" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">méthode de cuisson à la poêle</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Cuisson à la poêle</h2>
+
+
+
+<p>Pour commencer, il y’a la&nbsp;<strong>cuisson à la poêle</strong>&nbsp;qui est l’une des&nbsp;méthodes de cuisson&nbsp;les plus courantes en cuisine. Cette méthode consiste à cuire les aliments dans une poêle avec un peu de matière grasse, comme de l’huile ou du beurre, à feu moyen à élevé. La cuisson à la poêle est idéale pour les viandes, les légumes et les œufs. Elle permet de créer une croûte dorée et croustillante sur les aliments. Pour maîtriser cette méthode de cuisson, il est important de </p>
+
+
+
+<ul className="wp-block-list">
+<li>préchauffer la poêle,</li>
+
+
+
+<li>de ne pas surcharger la poêle avec trop d’aliments, </li>
+
+
+
+<li>de ne pas trop remuer les aliments pendant la cuisson, </li>
+
+
+
+<li>et de ne pas retirer les aliments de la poêle trop tôt.&nbsp;»</li>
+</ul>
+
+
+
+<p>D’ailleurs, il est important de mettre un maximum d’informations sur les méthodes de cuisson dans votre <a href="https://cuisinedebase.com/carnet-personnel-de-techniques-professionnelles/">carnet personnel de techniques professionnelles</a>.</p>
+
+
+
+<h2 className="sous_titre">La cuisson au four</h2>
+
+
+
+<p>La&nbsp;<strong>cuisson au four</strong>&nbsp;est une autre&nbsp;<strong>méthode de cuisson</strong>&nbsp;courante en cuisine. Cette méthode consiste à cuire les aliments dans un four chaud, généralement entre 150°C et 250°C. La cuisson au four est idéale pour les viandes, les légumes, les gratins, les pains et les pâtisseries, et permet de cuire les aliments de manière uniforme. </p>
+
+
+
+<p>Pour maîtriser cette méthode de cuisson, il est important de </p>
+
+
+
+<ul className="wp-block-list">
+<li>préchauffer le four à la bonne température, </li>
+
+
+
+<li>de suivre les instructions de la recette en ce qui concerne le temps de cuisson et la température, </li>
+
+
+
+<li>et de surveiller les aliments de près pour éviter de les faire brûler.</li>
+</ul>
+
+
+
+<h2 className="sous_titre">Cuisson à la vapeur</h2>
+
+
+
+<p>La cuisson à la vapeur est une <strong>méthode de cuisson</strong> saine et légère. Elle utilise la vapeur pour cuire les aliments. Cette méthode consiste à placer les aliments dans un panier à vapeur, au-dessus d’une casserole d’eau bouillante, ou à utiliser un cuiseur vapeur électrique. La cuisson à la vapeur est idéale pour les légumes, les poissons et les fruits de mer. Elle permet de conserver les nutriments et la saveur des aliments. </p>
+
+
+
+<p>Pour maîtriser cette méthode de cuisson, il est important de ne pas trop cuire les aliments pour éviter qu’ils ne deviennent trop mous. Et de ne pas laisser l’eau bouillir à sec pendant la cuisson.&nbsp;»</p>
+
+
+
+<h2 className="sous_titre">méthode de cuisson au grill</h2>
+
+
+
+<p>La cuisson au grill est une&nbsp;<strong>méthode de cuisson</strong>&nbsp;rapide et savoureuse. Elle utilise une source de chaleur directe pour cuire les aliments. En effet, Cette méthode consiste à placer les aliments sur une grille au-dessus d’une source de chaleur. Comme un barbecue ou une plaque de cuisson. La&nbsp;<strong>cuisson au grill</strong>&nbsp;est idéale pour les viandes, les légumes et les fruits de mer, et permet de créer une belle croûte croustillante sur les aliments. Pour maîtriser cette méthode de cuisson, il est important de préchauffer le grill à la bonne température. Aussi, d’huiler la grille pour éviter que les aliments n’adhèrent. Et il ne faut pas trop cuire les aliments pour éviter qu’ils ne deviennent secs.&nbsp;»</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg" alt="" className="wp-image-2710" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Cuisson au grill</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Méthodes de cuisson en papillote</h2>
+
+
+
+<p>La cuisson en papillote est une <strong>méthode de cuisson</strong> légère et saine qui consiste à envelopper les aliments dans du papier sulfurisé ou de l’aluminium avant de les cuire au four ou à la vapeur. Cette méthode permet de conserver la saveur et les nutriments des aliments, et est particulièrement adaptée aux poissons, aux légumes et aux fruits.</p>
+
+
+
+<p>Maintenant que nous avons passé en revue les&nbsp;<strong>méthodes de cuisson les plus courantes</strong>, il est temps de nous concentrer sur les autres méthodes moins courantes mais tout aussi utiles en cuisine.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Méthodes de cuisson à l’étouffée</h2>
+
+
+
+<p>Tout d’abord, il y a la cuisson à l’étouffée,&nbsp;<strong>une méthode de cuisson</strong>&nbsp;lente et douce. Effectivement, Cette technique de cuisson consiste à cuire les aliments dans leur propre jus, en les recouvrant d’un couvercle hermétique. Cette méthode est idéale pour les&nbsp;<strong>plats mijotés</strong>, les ragoûts et les soupes. Elle nécessite une cocotte ou une casserole avec un couvercle bien ajusté pour retenir la vapeur et permet de conserver la tendreté et la saveur des aliments.</p>
+
+
+
+<h2 className="sous_titre">Méthodes de cuisson à l’autocuiseur</h2>
+
+
+
+<p>Ensuite, il y a la cuisson à l’autocuiseur, une méthode rapide et efficace qui utilise la vapeur sous pression pour cuire les aliments en un temps record. Cette méthode est idéale pour les légumes, les viandes et les plats en sauce, et nécessite un autocuiseur spécialisé.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Méthodes de cuisson sous vide</h2>
+
+
+
+<p>Enfin, il y a la cuisson sous vide consiste à sceller les aliments dans un sac sous vide avant de les cuire à basse température dans un bain-marie. Cette technique de cuisson est de plus en plus populaire en cuisine professionnelle. Elle permet de conserver la texture, la saveur et les nutriments des aliments, et est particulièrement adaptée aux viandes et aux légumes.</p>
+
+
+
+<h2 className="sous_titre">Pourquoi est-il important de connaitre les méthodes de cuisson</h2>
+
+
+
+<p>Chacune de ces méthodes de cuisson offre des avantages et des inconvénients. Aussi, il est important de les connaître pour pouvoir choisir la méthode de cuisson appropriée en fonction du plat que vous souhaitez préparer.&nbsp;»</p>
+
+
+
+<p>En résumé, maîtriser les différentes méthodes de cuisson est essentiel pour réussir en cuisine.</p>
+
+
+
+<p>Pour les candidats libres au CAP cuisine, il est essentiel de s’entraîner régulièrement sur chaque méthode de cuisson. Pour se familiariser avec les techniques et les subtilités de chacune d’entre elles. Les épreuves du CAP cuisine comprennent souvent des tests de compétences pratiques sur ces différentes méthodes de cuisson. Il est donc important de les maîtriser parfaitement.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les différentes méthodes de cuisson et comment les maîtriser",
+
+    route: "/article/differentes-methodes-de-cuisson-comment-maitriser",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg",
+
+    lien: 'https://cuisinedebase.com/differentes-methodes-de-cuisson-comment-maitriser/'
+}
+
+const B46 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">7 conseils et 3 astuces pour couper les légumes et manier le couteau comme un chef</h1>
+
+		<div className="entry-content clearfix">
+
+<p>Couper les légumes peut être une tâche difficile pour les débutants en cuisine. Pour obtenir des coupes régulières et uniformes, il est important d’apprendre comment <strong>manier le couteau comme un chef</strong> et d’utiliser les <strong>bonnes techniques</strong>. Voici quelques astuces pour vous aider à couper les légumes comme un chef.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w"></img><figcaption><strong>manier le couteau comme un chef</strong></figcaption></figure></div>
+
+
+<h2 className="sous_titre">Conseils pour couper les légumes comme un chef :</h2>
+
+
+
+<ol className="wp-block-list" type="1"><li>Utilisez un couteau bien affûté : Il est plus facile de <strong>couper les légumes avec un couteau bien aiguisé</strong>. Assurez-vous que votre couteau est aiguisé régulièrement pour une découpe rapide et précise.</li><li><strong>Choisissez le bon type de couteau</strong> : Il existe différents types de couteaux pour <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/" target="_blank" rel="noopener noreferrer">différents types de coupes</a>. Utilisez un couteau de chef pour les coupes de base, mais sachez que chaque type de couteau à son utilité dans une cuisine. Comme le couteau à désosser, couteau d’office, …</li><li><strong>Tenez votre couteau correctemen</strong>t : La façon dont vous tenez votre couteau peut faire une grande différence dans la qualité de vos coupes. Assurez-vous de le tenir avec fermeté mais sans tension excessive. Votre index doit être sur le dos du couteau pour avoir un meilleur contrôle.</li><li><strong>Faites de la sécurité votre règle numéro 1</strong>. Gardez vos doigts en sécurité : Il est important de ne pas vous blesser lorsque vous coupez les légumes. Gardez vos doigts à l’écart de la lame en formant une «&nbsp;pince&nbsp;» avec le pouce et l’index</li><li><strong>Découpez les légumes en forme uniforme</strong> : Pour une <strong>cuisson uniforme</strong> et une présentation agréable, assurez-vous de couper les légumes de la même taille.</li><li><strong>Coupez en une seule direction</strong> : Essayez de ne pas vous déplacer dans tous les sens avec votre couteau. Au lieu de cela, coupez dans une seule direction en poussant la lame à travers le légume.</li><li><strong>Prenez votre temps</strong> : Il n’y a pas de course lorsque vous coupez des légumes. La précipitation peut vous faire commettre des erreurs et vous blesser. Prenez votre temps pour vous assurer d’effectuer un travail précis et de ne pas vous couper.</li></ol>
+
+
+
+<h2 className="sous_titre">Astuces pour manier le couteau comme un chef :</h2>
+
+
+
+<ol className="wp-block-list" type="1"><li><strong>Tenez le couteau correctement</strong> : Assurez-vous de tenir le couteau correctement pour un contrôle maximum lors de la coupe.</li><li><strong>Utilisez la bonne technique de coupe</strong>&nbsp;: Apprenez les différentes techniques de coupe telles que la coupe en julienne, en brunoise ou en dés pour vous assurer d’obtenir les résultats souhaités.</li><li><strong>Entraînez-vous régulièrement</strong> : Plus vous utilisez votre couteau, plus vous deviendrez compétent dans son utilisation. Pratiquez régulièrement pour améliorer vos compétences.</li></ol>
+
+
+
+<p>En suivant ces <strong>conseils et astuces</strong>, vous pouvez <strong>couper les légumes</strong> et <strong>manier le couteau comme un chef</strong> en un rien de temps. Avec un peu de pratique, vous serez en mesure de <strong>couper les légumes rapidement</strong> et précisément pour des plats parfaits à chaque fois.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "7 conseils et 3 astuces pour couper les légumes et manier le couteau comme un chef",
+
+    route: "/article/conseils-astuces-couper-legumes-manier-couteau-chef",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/conseils-astuces-couper-legumes-manier-couteau-chef/'
+}
+
+const B47 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Tout ce qu’il faut savoir sur le lait</h1>
+
+		<div className="entry-content clearfix">
+
+<p><strong>Le lait de vache</strong> est à la base de notre alimentation, il existe sous différentes formes&nbsp;: <span>liquide, concentré, en poudre</span>… Le lait est à la base de fabrication de tous les&nbsp;<strong>produits laitiers</strong>. Ce qui apporte à l’organisme des éléments «&nbsp;bâtisseurs&nbsp;» et indispensable à chaque âge de la vie.</p>
+
+
+
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait.jpg" alt="" className="wp-image-2238" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?w=1707&amp;ssl=1 1707w"></img><figcaption>Le lait</figcaption></figure></div>
+
+
+
+<p>Dans cet article vous allez trouver <strong>tout ce qu’il faut savoir sur le lait</strong>. Les différents produits, catégories, classifications, …</p>
+
+
+
+<p>Si vous vous projetez d’intégrer le monde de la cuisine et de la restauration, découvrez le métier du traiteur chef à domicile à travers cette histoire de <a href="https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/" target="_blank" rel="noopener noreferrer">reconversion en traiteur chef à domicile</a>.</p>
+
+
+
+<h2 className="sous_titre">Le  lait est la base de tous les produits laitiers</h2>
+
+
+
+<p>Le <strong>lait</strong> fait bien évidemment partie des&nbsp;<strong>produits laitiers</strong>. </p>
+
+
+
+<p>Et si l’on ne spécifie pas de quelle bête il provient, cela sous-entend qu’il s’agit du <strong>lait de vache</strong>.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Les races de vaches laitières</h2>
+
+
+
+<p>Il est donc important de connaitre les&nbsp;<strong>races de vaches laitières</strong>. Voici les quatre races de vaches laitières&nbsp;:<strong><u></u></strong></p>
+
+
+
+<ul className="wp-block-list"><li><strong>Vache Normande</strong>, elle produit entre <span>35 et 40 litres de lait par jour.</span> Elle est originaire de la Normandie</li><li><strong>Prim’holstein</strong>, c’est la vache laitière par excellence. Elle déscend de la Holstein néerlandaise. Elle représente 30% du cheptel français et <span>80 % de la fabrication des produits laitiers</span>.</li><li><strong>Montbéliarde</strong>, la deuxième vache laitière de France. Elle est à l’origine de plusieurs produits laitiers. Notamment des fromages d’<strong>appellation d’origine contrôlé</strong> (AOC). Comme le <span>reblochon</span>&nbsp;; ou encore le <span>comté</span>.</li><li><strong>Salers</strong>, elle est originaire du Macif central. C’est une race de <span>vache qu’on élève pour son lait</span> et aussi pour sa viande. Le <strong>fromage Cantal</strong> est fabriqué avec le lait de cette race de vache.</li></ul>
+
+
+
+<h2 className="sous_titre">La classification des laits.</h2>
+
+
+
+<p>On classifie le lait selon sa <strong>teneur en matière grasse</strong>. Ensuite pour différencier chaque <strong>catégorie de lait</strong>, on utilise un emballage bien spécifique.</p>
+
+
+
+<h2 className="sous_titre">Le lait de vache cru</h2>
+
+
+
+<p>Le lait cru est le<strong> produit brut </strong>obtenu directement après la traite des vaches. On reconnait le lait cru à partir de son <strong>emballage jaune</strong>.</p>
+
+
+
+<h2 className="sous_titre">Le lait de vache entier</h2>
+
+
+
+<p>Le&nbsp;<strong>lait entier</strong>&nbsp;contient 36g/l de matière grasse. (36 grammes de matière grasse par litre de lait). On reconnait le&nbsp;<strong>lait entier</strong>&nbsp;par son <span>emballage rouge</span>.</p>
+
+
+
+<h2 className="sous_titre">Le lait de vache demi écrémé</h2>
+
+
+
+<p>Le&nbsp;<strong>lait demi écrémé</strong>&nbsp;contient entre 15,5 et 18,5 g/l de matière grasse. (Entre 15,5 et 18,5 grammes de matière grasse par litre de lait). On reconnait le&nbsp;<strong>lait demi écrémé</strong>&nbsp;par son <span>emballage bleu</span>.</p>
+
+
+
+<h2 className="sous_titre">Le lait de vache écrémé</h2>
+
+
+
+<p>Le&nbsp;<strong>lait écrémé</strong>&nbsp;contient moins de 3 g/l de matière grasse. (moins de 3 grammes de matière grasse par litre de lait). On reconnait le&nbsp;<strong>lait écrémé</strong>&nbsp;par son <span>emballage vert</span>.</p>
+
+
+
+<h2 className="sous_titre">Conservation du lait de vache  en restauration</h2>
+
+
+
+<p>En fonction du type de lait, la conservation peut être différente. Voici un récapitulatif des différentes&nbsp;<strong>conservations du lait de vache en restauration</strong>.</p>
+
+
+
+<h2 className="sous_titre">Conservation des laits frais</h2>
+
+
+
+<p>Les types de lait qui sont considérés comme lait frais sont&nbsp;: le lait cru et le lait frais pasteurisé.</p>
+
+
+
+<p>Le&nbsp;<strong>lait cru</strong>&nbsp;est un produit brut n’ayant subi aucun traitement autre que l’ébullition. Ce lait se conserve en&nbsp;enceinte réfrigérée&nbsp;à +3°C&nbsp;et pendant&nbsp;48 h&nbsp;après la traite.&nbsp;</p>
+
+
+
+<p>Le&nbsp;<strong>lait frais pasteurisé</strong>&nbsp;subit un traitement thermique de&nbsp;72° à 85°C&nbsp;pendant&nbsp;15 à 20 minutes.&nbsp;Ce lait se conserve en&nbsp;enceinte réfrigérée&nbsp;à +3°C. il a un date limite de consommation (DLC) de 7 jours.&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Les laits de longue conservation</h2>
+
+
+
+<p>Il existe une multitude de lait de longue conservation. Des laits sous forme liquide, concentrée ou en poudre.</p>
+
+
+
+<h4 className="sous_titre">Lait stérilisé</h4>
+
+
+
+<p>Le&nbsp;<strong>lait stérilisé</strong>&nbsp;subit un traitement thermique de&nbsp;115° à 120°C&nbsp;pendant&nbsp;15 à 20 minutes.&nbsp;Ce lait se conserve en&nbsp;économat&nbsp;à +15°C à l’abri de la lumière. il a un date limite de consommation (DLC) de 150 jours. Et après ouverture il se conserve pendant 48 heures à +3°C</p>
+
+
+
+<h4 className="sous_titre">Lait stérilisé UHT</h4>
+
+
+
+<p>Le&nbsp;<strong>lait stérilisé</strong>&nbsp;subit un traitement thermique de&nbsp;140° à 150°C&nbsp;pendant 4&nbsp;à 5 secondes.&nbsp;Ce lait se conserve en&nbsp;économatà +15°C à l’abri de la lumière. il a un date limite de consommation (DLC) de 90 jours. Et après ouverture il se conserve pendant 48 heures à +3°C</p>
+
+
+
+<h4 className="sous_titre">Lait concentré</h4>
+
+
+
+<p>Le lait concentré subit une déshydratation partielle&nbsp;(50%) (1kg = 2,2 litres de lait).&nbsp;Ce lait se conserve en&nbsp;économat&nbsp;à +15°C à l’abri de la lumière. il a un date limite de consommation (DLC) de 12 à 18 mois. Et après ouverture il se conserve pendant 48 heures à +3°C</p>
+
+
+
+<h4 className="sous_titre">Lait en poudre</h4>
+
+
+
+<p>Le lait en poudre est obtenu par élimination totale de lait.&nbsp;1kg de lait en poudre est équivalent à 11 litres de lait.&nbsp;Ce lait se conserve en&nbsp;économat&nbsp;à +15°C à l’abri de la lumière. il a un date limite d’utilisation optimale (DLUO) de 12 à 18 mois. Et après ouverture il se conserve à l’abri de la chaleur et de l’humidité avec une DLUO de 10 jours à 3 semaines.</p>
+
+
+
+<h2 className="sous_titre">Utilisations culinaires du lait</h2>
+
+
+
+<p>Le lait est beaucoup utilisé en <strong>cuisine et en pâtisserie</strong>. Il y’a plusieurs raisons qui permettent de justifier l’<strong>utilisation culinaire du lait</strong>. En voici quelques-unes&nbsp;:</p>
+
+
+
+<ul className="wp-block-list"><li>On utilise le lait dans les potages pour les&nbsp;<strong>adoucir ou les éclaircir</strong>.</li><li>Aussi, On utilise le lait&nbsp;<strong><em>Comme élément de cuisson pour</em></strong>&nbsp;préserver et fixer la couleur, ou pour donner du moelleux.</li><li>Et <strong><em>On utilise le lait dans la liaison à l’œuf. Dans le but de donner de l’o</em></strong>nctuosité et goût au produit fini.</li></ul>
+
+
+
+<p><strong>Il est aussi d’usage d’utiliser le lait dans les pâtes. </strong>Et cela afin de donner un aspect moelleux, et aussi pour avoir un goût légèrement sucré.</p>
+
+
+
+<p>Aussi, <span>le lait</span> peut intégrer des <span>marinades</span> <strong>po<em>ur r</em>éhydrater et donner du moelleux</strong> aux chaires.</p>
+
+
+
+<h2 className="sous_titre">Les composants du lait</h2>
+
+
+
+<p>Le lait se compose principalement <strong>d’eau</strong>, puis de <strong>protéine</strong>, de sucre et de <strong>matière grasse</strong> .</p>
+
+
+
+<p>Dans un 1kg de lait il y a&nbsp;</p>
+
+
+
+<ul className="wp-block-list"><li>880g d’eau,</li><li>30 g de protéine (caséine)</li><li>50g de sucre</li><li>Et 40g de matière grasse</li></ul>
+
+
+
+<p>Le lait est aussi riche en calcium et en vitamine A qui est très utile pour les yeux.</p>
+
+
+
+<h2 className="sous_titre">Bactérie dans le lait (listéria)</h2>
+
+
+
+<p>Dans le lait, on peut trouver une bactérie dangereuse qui peut provoquer une maladie. Cette bactérie est la&nbsp;<strong>listéria qui est à l’origine de listériose, une maladie infectieuse</strong>.&nbsp;&nbsp;</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Tout ce qu’il faut savoir sur le lait",
+
+    route: "/article/lait-produits-laitiers-composants-vache-conservation",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg",
+
+    lien: 'https://cuisinedebase.com/lait-produits-laitiers-composants-vache-conservation/'
+}
+
+const B48 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment créer des fiches de révision pdf pour préparer les épreuves du CAP</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Entrainer la mémoire à retenir plus facilement et plus de chose est très utile, il est très important de se faire aider par des<strong> indices visuels</strong>, et les <strong>fiches mémo</strong> (ou <u><strong>fiches de révision</strong></u>) est le moyen le plus adapté et le plus efficace pour solliciter la mémoire.</p>
+
+
+<div className="post-image">
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision.jpg" alt="" className="wp-image-2019" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1536%2C951&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=2048%2C1268&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=600%2C371&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=97%2C60&amp;ssl=1 97w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=145%2C90&amp;ssl=1 145w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?w=1820&amp;ssl=1 1820w"></img><figcaption className="wp-element-caption">belle fiche de revision</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Apprendre tout simplement</h2>
+
+
+
+<p><strong>Les fiches de révision</strong> peuvent être adaptée au gout de chacun. Le visuel est très important pour <strong>faciliter l’apprentissage.</strong> Pour faire une bonne <strong>fiche de révision</strong>, il ne faut surtout pas hésiter à choisir la taille et le style du texte, à ajouter des images et des diagrammes.</p>
+
+
+
+<h2 className="sous_titre">Comment créer des fiches de révision</h2>
+
+
+
+<p>Pour <strong>faire des belles fiches de révision</strong> il ne faut pas hésiter à être créatif. En effet, On peut par exemple se faire aider par des <strong>fiches mémo en ligne</strong>. Cependant, il n’est pas obligatoire de se faire aider par des fiches de révision sur le même domaine. Par exemple pour <strong>faire une fiche mémo PSE CAP</strong>, on peut s’inspirer d’une <strong>feuille de révision</strong> en mathématique ou en physique ou chimie. Car on peut facilement les trouver sur internet.</p>
+
+
+
+<p>Voici une exemple de <strong>fiches de révision </strong>faites par des professeurs de <strong>l’académie de Versailles</strong>: <a href="http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils" target="_blank" rel="noopener noreferrer">http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils</a></p>
+
+
+
+<p></p>
+
+
+
+<h2 className="sous_titre">Belle fiche de revision</h2>
+
+
+
+<p>Voici quelques conseils pour faire des <strong>belles fiches pour réviser</strong>:</p>
+
+
+
+<ul className="wp-block-list">
+<li>Il faut être créatif, il faut réfléchir sur un bon <strong>design et thème</strong></li>
+
+
+
+<li>Mettre seulement les <strong>informations utiles</strong> et facile à retenir.</li>
+
+
+
+<li>Mettre beaucoup <strong>d’images, de croquis, schémas, diagrammes</strong>, … (le visuel aide la mémoire à <u>retenir les choses plus facilement</u>)</li>
+
+
+
+<li>Utiliser des <strong>couleurs</strong> et une police attractive pour le <strong>texte</strong>.</li>
+
+
+
+<li>Appliquer un code couleur pour chaque sujet, créer des <strong>sous-titres en gras</strong> pour mieux suivre le fil ou rendre tout simplement les <strong>fiches attractives</strong> en y ajoutant des <strong>illustrations</strong> qui attireront l’attention.</li>
+
+
+
+<li>Enfin transformer la fiche au format <strong>image</strong> ou <strong>PDF</strong> pour pouvoir la consulter partout grâce au Smartphone ou tablette ou pour <strong>l’imprimer</strong> au besoin.</li>
+
+
+
+<li>Une fois la première fiche de révision créée, il est possible de créer des copies des <strong>fiches mémo</strong> en un seul clic. Il suffit alors de modifier le texte!</li>
+</ul>
+
+
+
+<p>Si toutefois vous aimeriez <strong>télécharger des fiches de révision au format pdf</strong> pour préparer les épreuves du CAP cuisine, vous pouvez les <a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">télécharger ici</a> contre une <strong>petite participation symbolique</strong>.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment créer des fiches de révision pdf pour préparer les épreuves du CAP",
+
+    route: "/article/comment-creer-jolies-fiches-memo-revision-pdf",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-creer-jolies-fiches-memo-revision-pdf/'
+}
+
+const B49 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment Poêler un canard</h1>
+
+
+		<div className="entry-content clearfix">
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5_thumb.jpg" alt="canard-olives-5" title="canard-olives-5"></img></a><figcaption>Canard poêlé aux olives</figcaption></figure></div>
+
+
+
+<p>La <strong>préparation des viandes</strong>, qu’elles soient du <strong>gibiers ou d’animaux d’élevage</strong>, est une compétence importante que les cuisiniers professionnels ou amateurs doivent acquérir. <strong>Poêler un canard</strong> ou une <strong>volaille</strong> d’une manière plus générale fait aussi partie de ces compétences.</p>
+
+
+
+<p>Dans un ancien post, je vous ai détaillé les étapes importantes pour <a href="https://cuisinedebase.com/comment-habiller-et-decouper-une-volaille-cru/" target="_blank" rel="noopener noreferrer">habiller une volaille</a>. Dans ce post je vais plus particulièrement vous montrer <strong>comment poêler un canard</strong>.</p>
+
+
+
+<h2 className="sous_titre">Etapes pour poêler un canard</h2>
+
+
+
+<p>Voici les étapes nécessaires pour <strong>préparer un canard poêlé</strong>:</p>
+
+
+
+<ul className="wp-block-list"><li><strong>Habiller le canard</strong></li><li>Saler et poivrer le canard (intérieur et extérieur).</li><li>Faire <strong>blondir le beurre et l’huile</strong>. le beurre ne doit pas brûler.</li><li>Disposer le <strong>canard sur un côté et le laisser colorer</strong> un peu, puis le retourner pour <strong>colorer l’autre face</strong>.</li><li>Préparer la <strong>garniture aromatiques</strong></li><li>Ajouter les abattis.</li><li>Placer le canard sur le dos.</li><li>Ajouter la garniture aromatique.</li><li>Couvrir le récipient puis le placer au four à 200 °C durant environ 1 heure.</li><li>S’assurer de la cuisson du canard.</li></ul>
+
+
+
+<p>Le jus qui s’écoule de l’intérieur doit être limpide et ne présenter aucune trace sanguinolente</p>
+
+
+
+<p>Le canard doit être arrosé fréquemment pendant sa <strong>cuisson au four</strong></p>
+
+
+
+<p>Découvrir 10 min avant la fin de la cuisson pour <strong>terminer la coloration du canard</strong>.</p>
+
+
+
+<p>Pour la <strong>garniture aromatique du canard poêlé</strong>, on peut utiliser soit des olives vertes, des navets ou des carottes et des quartiers d’orange.</p>
+
+
+
+<h2 className="sous_titre">Poêler un canard et préparer le fond de poêlage</h2>
+
+
+
+<p>Les étapes du paragraphes précédent permettent de <strong>poêler un canard</strong>. Mais une fois que ces étapes sont terminées, on va disposer de jus dans le récipient qui a servi de <strong>poêler un canard</strong>. C’est avec ce jus que l’on va préparer le <strong>fond de poêlage</strong>.</p>
+
+
+
+<p>Voici les étapes de réalisation du <strong>fond de poêlage</strong></p>
+
+
+
+<ul className="wp-block-list"><li><strong>Débarrasser le canard</strong> et le maintenir au chaud et à couvert.</li><li>Faire <strong>pincer les sucs</strong>.</li><li><strong>Déglacer avec le vin blanc</strong> et le laisser réduire.</li><li>Ajouter le <strong>fond brun</strong>.</li><li>Laisser <strong>réduire le fond de poêlage</strong> et vérifier l’assaisonnement.</li><li>Le <strong>passer au chinois étamine</strong> dans une petite russe.</li><li>Dégraisser soigneusement le <strong>fond de poêlage</strong>.</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment Poêler un canard",
+
+    route: "/article/poeler-un-canard",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/poeler-un-canard/'
+}
+
+const B50 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment connaitre Les morceaux et parties de boeuf. Rumsteack, basse-côtes..</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Le “bœuf” est une appellation qui sous entend plusieurs animaux de la race bovine. Cependant, pour appendre à cuisiner la <strong>viande rouge</strong>, il est important de connaitre les <strong>morceaux de boeuf</strong>.</p>
+
+
+
+<p>Aussi, le bœuf est composé de plusieurs parties, chaque partie est réservée à un certain type de plat. Effectivement, l’utilisation d’un morceau de <strong>rumsteack</strong> n’est pas la même qu’une <strong>basse côtes</strong> ou un des autres <strong>morceaux de boeuf</strong> par exemple. </p>
+
+
+
+<h2 className="sous_titre">Dénomination des morceaux de boeuf</h2>
+
+
+
+<p>Alors, selon ce <a href="https://www.economie.gouv.fr/dgccrf/denomination-des-viandes-boucherie-et-charcuterie" target="_blank" rel="noopener noreferrer">site gouvernemental</a>, Le regroupement de certains <strong>morceaux de découpe</strong> sous une dénomination générique permettra d’améliorer l’information du consommateur et l’adaptation du travail industriel.</p>
+
+
+
+<p>Ainsi, pour bien visualiser les <strong>différentes parties de bœuf</strong> je vous propose de regarder l’illustration suivante:</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/dErL9uVTwLxkLx-gKgL1080rZ2AnWC43GLh41pUdcZIqDwQX6kJ6GKl1lkxnyQVZ_zrlH7Q2QQDOHlixok_z9iQ-w7ztG_5_3wA84OOH8noxvuuxaghA8LhaPHWGxUVMnTrPbeHG" alt=""></img><figcaption><strong>morceaux de boeuf</strong></figcaption></figure></div>
+
+
+
+<p>Et comme on peut le constater, chaque partie est numérotée.</p>
+
+
+
+<p>Ainsi, en fonction des recettes, on doit pouvoir choisir les bons <strong>morceaux de bœuf</strong>.</p>
+
+
+
+<h2 className="sous_titre">1) Les morceaux de boeuf: Basses-Côtes</h2>
+
+
+
+<p>D’ailleurs, si l’on veut faire un plat mijoté, c’est les <strong>basses-côtes</strong> qu’il faut choir. Celles-ci font partie de l’avant du boeuf. Ce <strong>morceau de boeuf</strong> peut être utilisé pour faire d’excellents ragoût.</p>
+
+
+
+<h2 className="sous_titre">2) Les morceaux de boeuf: Côtes ou Entrecôtes</h2>
+
+
+
+<p>Une <strong>côte</strong> pèse en moyenne entre 1 kg 200 g et 1 kg 500 g, elle est servie souvent pour 4 personnes.</p>
+
+
+
+<p>Voici quelques <a href="https://cuisinedebase.com/steak-sautes-avec-sauce-poivre/" target="_blank" rel="noopener noreferrer">exemples d’utilisation des <strong>côtes ou des entrecôtes</strong></a></p>
+
+
+
+<ul className="wp-block-list"><li>Griller au barbecue</li><li><strong>Entrecôte</strong> sautée avec <span>sauce Bercy</span>, <span>Bordelaise</span>, <span>Lyonnaise, chasseur</span>, …</li></ul>
+
+
+
+<h2 className="sous_titre">3) Les morceaux de boeuf: Faux-Filets</h2>
+
+
+
+<p>Le <strong>faux filet</strong> est un <strong>morceau de boeuf</strong> maigre et faible en matière grasses, il se situe sur le <strong>dos du boeuf.</strong> Il faut compter à peu près 180 g brut de <strong>faux filet</strong> par personne. Le <strong>contre filet</strong>&nbsp; peut être détaillé en faux filet ou en <strong>steaks</strong>. Il est sauté ou grillé&nbsp;</p>
+
+
+
+<h2 className="sous_titre">4) Les morceaux de boeuf: Le Filet</h2>
+
+
+
+<p>C’est le morceau le plus tendre. Le <strong>filet</strong> est situé sous les <strong>côtes</strong>, il faut compter à peu près 200 g de <strong>filet</strong> brut par personne.</p>
+
+
+
+<p>Une fois paré, le filet peut être utilisé entier ou détaillé. Voici quelques <strong>exemples d’utilisation du filet</strong>:</p>
+
+
+
+<ul className="wp-block-list"><li>Bœuf en croute,</li><li>Tournedos</li><li>rôti de bœuf</li><li>filet Strognoff</li><li>Sauce bolognaise</li></ul>
+
+
+
+<h2 className="sous_titre">5) Le Rumsteak</h2>
+
+
+
+<p>Le <strong>rumsteak</strong> peut être utilisé à la poêle ou grillée en <strong>bifteck</strong> ou en pavé</p>
+
+
+
+<h2 className="sous_titre">6) Le Rond de gîte</h2>
+
+
+
+<p>Pour réaliser un bon carpaccio ou un succulent rôti, on utilise un bon morceau de <strong>rond de gîte</strong>.</p>
+
+
+
+<h2 className="sous_titre">7) Les morceaux de boeuf tende de tranche. Poire et Merlan</h2>
+
+
+
+<p>Elle peut être utilisé pour un bifteck poêlée ou en rôti</p>
+
+
+
+<h2 className="sous_titre">8) Les morceaux de boeuf: Gîte a la noix</h2>
+
+
+
+<p>C’est un muscle de la cuisse qui se mange grillé à la poêle ou en rôti</p>
+
+
+
+<h2 className="sous_titre">9) Les morceaux de boeuf: L’araignée</h2>
+
+
+
+<p>C’est un morceau très savoureux, il se prépare à la poêle&nbsp;</p>
+
+
+
+<h2 className="sous_titre">10) Les morceaux de boeuf: La Tranche</h2>
+
+
+
+<p>Il est très bon grillé à la poêle ou en rôti&nbsp;</p>
+
+
+
+<h2 className="sous_titre">11) La Bavette d’aloyau</h2>
+
+
+
+<p>C’est un morceau très tendre, savoureuse et juteuse, également très prisé des restaurants pour les grillades</p>
+
+
+
+<h2 className="sous_titre">12) La Hampe</h2>
+
+
+
+<p>Juteuse elle est apprécié par les amateurs de viandes de part sa saveur et sa mâche&nbsp;</p>
+
+
+
+<h2 className="sous_titre">13 L’Onglet</h2>
+
+
+
+<p>Elle fait partie des pièces nobles, elle est principalement utilisé en grillade</p>
+
+
+
+<h2 className="sous_titre">14) L’Aiguillette baronne</h2>
+
+
+
+<p>Elle se prépare en grillade ou à la poêle</p>
+
+
+
+<h2 className="sous_titre">15) La Bavette de Flanchet</h2>
+
+
+
+<p>C’est une viande savoureuse et&nbsp; juteuse . Très belle pièce à griller&nbsp;</p>
+
+
+
+<h2 className="sous_titre">16) Le Plat-de-côtes</h2>
+
+
+
+<p>Les plats de côtes conviennent pour la réalisation des pot-au-feu ou plats mijotés</p>
+
+
+
+<h2 className="sous_titre">17) La macreuse à bifteck</h2>
+
+
+
+<p>On peut utiliser cette partie de boeuf pour faire un bourguignon,&nbsp; la poêler,&nbsp; la griller ou rôtir</p>
+
+
+
+<h2 className="sous_titre">18) Le Paleron</h2>
+
+
+
+<p>Elle a une large utilisation : pour du steak haché, pot-au-feu, un bœuf braisé, tranché et grillé au barbecue ou mijoté</p>
+
+
+
+<h2 className="sous_titre">19) Le Jumeau à bifteck</h2>
+
+
+
+<p>Pour vos plats mijotés, poêlé ou rôti</p>
+
+
+
+<h2 className="sous_titre">20) Le jumeau à pot-au-feu</h2>
+
+
+
+<p>Utilisé soit en pot-au-feu ou&nbsp; braisé</p>
+
+
+
+<h2 className="sous_titre">21) La Macreuse à pot-au-feu</h2>
+
+
+
+<p>Egalement, la Macreuse convient très bien pour faire un pot-au-feu ou pour la braiser</p>
+
+
+
+<h2 className="sous_titre">22) La Queue de bœuf</h2>
+
+
+
+<p>Pour apporter coloration et saveur au pot-au-feu</p>
+
+
+
+<h2 className="sous_titre">23) Le Jarret arrière</h2>
+
+
+
+<p>pour pot-au-feu</p>
+
+
+
+<h2 className="sous_titre">Morceaux de boeuf moins connus</h2>
+
+
+
+<p>Effectivement, certains morceaux de boeuf n’ont pas la même popularité que ceux les plus connus. Mais malgré cela, il n’est pas difficile des les connaitre. Aussi on peut citer les <strong>morceaux de boeuf</strong> suivants:</p>
+
+
+
+<h2 className="sous_titre">24) Le Flanchet</h2>
+
+
+
+<p>Tout d’abord, on peut parler du flanchet. on utilise ce <strong>morceau de boeuf</strong> en plats mijotés ou pour un <strong>pot-au-feu</strong></p>
+
+
+
+<h2 className="sous_titre">25) Le Tendron</h2>
+
+
+
+<p>Ensuite, il y a le tendron. Ce <strong>morceau de boeuf</strong> se situe au milieu de la poitrine. On peut l’utiliser pour faire un pot-au-feu</p>
+
+
+
+<h2 className="sous_titre">26) Le morceau de boeuf: poitrine</h2>
+
+
+
+<p>Et puis bien sûre la <strong>poitrine</strong> qu’on peut utiliser pour un&nbsp; pot-au-feu</p>
+
+
+
+<h2 className="sous_titre">27) Le morceaux de boeuf: collier</h2>
+
+
+
+<p>Encore une fois, ce morceau est convenable pour un bourguignon, daube. Mais on l’utilise principalement pour un pot-au-feu</p>
+
+
+
+<h2 className="sous_titre">28) Le morceaux de boeuf: Plat de joue</h2>
+
+
+
+<p>Et même le plat de joue convient parfaitement à faire un pot-au-feu. En effet, ce morceau de boeuf fait partie des produits tripiers.</p>
+
+
+
+<h2 className="sous_titre">29) Langue de boeuf</h2>
+
+
+
+<p>Effectivement, cette partie de boeuf fait&nbsp; partie des abats. Cependant, elle est fondante et savoureuse. puis on peut la cuire au <strong>court-bouillon</strong> et l’accompagner d’une sauce.</p>
+
+
+
+<p>L’apprentissage de ces morceaux de boeuf fait certainement peur à plus d’un. Mais Aucune crainte, effectivement, il n’est pas nécessaire d’apprendre les <strong>morceaux de boeuf</strong> par cœur. Et si on ne sait pas quel morceau choisir, le boucher devrait m’orienter au mieux.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment connaitre Les morceaux et parties de boeuf. Rumsteack, basse-côtes..",
+
+    route: "/article/les-differentes-parties-du-boeuf-et-leurs-utilisations",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://lh6.googleusercontent.com/dErL9uVTwLxkLx-gKgL1080rZ2AnWC43GLh41pUdcZIqDwQX6kJ6GKl1lkxnyQVZ_zrlH7Q2QQDOHlixok_z9iQ-w7ztG_5_3wA84OOH8noxvuuxaghA8LhaPHWGxUVMnTrPbeHG",
+
+    lien: 'https://cuisinedebase.com/les-differentes-parties-du-boeuf-et-leurs-utilisations/'
+}
+
+const B51 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Crèmes de base en pâtisserie. Anglaise Chantilly, fouettée Mousseline</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Dans la <strong>cuisine</strong> en général, et la <strong>pâtisserie</strong> en particulier nous utilisons beaucoup de <strong>crèmes de base et d’appareils</strong> à base de crème. La <strong>crème liquide entière</strong>, ou minium <strong>30% de matière grasse</strong> (<u>30% MG</u>) est généralement utilisée pour <strong>monter une crème chantilly</strong> ou une <strong>crème fouettée</strong>, <strong>chocolat</strong> ou à une autre arome.</p>
+
+
+
+<p>Ensuite, la <strong>crème pâtissière</strong> est réalisée à partir de <strong>lait</strong>, de <strong>jaunes d’oeufs</strong> et un <strong>féculent pour l’épaissir</strong>. Et aussi la <strong>crème mousseline</strong> est une <strong>crème pâtissière</strong> plus <strong>riche en goût</strong> grâce au beurre que l’on lui ajoute.</p>
+
+
+
+<p>Voici quelques <strong>crèmes de base</strong> utilisées dans la <u>cuisine et la pâtisserie</u>.</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/opera-morceau.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/opera-morceau_thumb.png" alt="opera-morceau" title="opera-morceau"></img></a></figure></div>
+
+
+
+<h2 className="sous_titre">crèmes de base. Crème pâtissière</h2>
+
+
+
+<h2 className="sous_titre">Éléments de base:</h2>
+
+
+
+<ul className="wp-block-list"><li>500ml de lait;</li><li>4 jaunes d’œufs ;</li><li>125 g de sucre semoule;</li><li>70g de farine;</li><li>Une demi gousse de vanille.</li></ul>
+
+
+
+<h2 className="sous_titre">Technique de fabrication de la Crème pâtissière :</h2>
+
+
+
+<ul className="wp-block-list"><li>Mettre le lait à bouillir avec la vanille ; <ul><li>Couper la vanille en deux suivant la longueur;</li><li>Extraire avec un couteau d’office les graines et les mettre dans le lait;</li><li>Ajouter le reste de la gousse de vanille dans le lait. </li></ul></li><li><strong>Clarifier les œufs</strong>;</li><li><strong>Blanchir</strong>&nbsp; les jaunes avec le sucre;</li><li>Ajouter la poudre de cacao;</li><li>Ajouter la farine tamisée aux œufs et mélanger;</li><li>Verser progressivement une partie du lait dans le mélange œufs farine, puis mélanger;</li><li>Verser le mélange dans le reste du lait et remettre sur le feu;</li><li>Remuer sans arrêt jusqu’à épaississement du mélange;</li><li>Tamponner avec un peu de beurre;</li><li>Mette la crème pâtissière dans une poche à douille, ou couvrir en surface avec un film alimentaire et laisser refroidir.</li></ul>
+
+
+
+<h2 className="sous_titre">Crème pâtissière au chocolat</h2>
+
+
+
+<ul className="wp-block-list"><li>Ajouter 20 g&nbsp; de poudre de cacao à l’étape après avoir blanchi les jaunes d’œufs avec le sucre ;</li><li>Poursuivre les étapes de 4 à 10 de la crème pâtissière.</li></ul>
+
+
+
+<h2 className="sous_titre">Crème mousseline</h2>
+
+
+
+<ul className="wp-block-list"><li>Incorporer 100 g de beurre dans la crème encore chaude et laisser refroidir;</li><li>Travailler 100 g de beurre pour le transformer en beurre pommade;</li><li>Quand le beurre pommade et la crème pâtissière sont à la même température, on incorpore le beurre pommade à la crème en fouettant.</li></ul>
+
+
+
+<h2 className="sous_titre">crèmes de base. Crème anglaise</h2>
+
+
+
+<h2 className="sous_titre">Éléments de base:</h2>
+
+
+
+<ul className="wp-block-list"><li>500ml de lait;</li><li>4 jaunes d’œufs ;</li><li>100g de sucre semoule;</li><li>Une demi gousse de vanille.</li></ul>
+
+
+
+<h2 className="sous_titre">Technique de fabrication Crème anglaise:</h2>
+
+
+
+<ul className="wp-block-list"><li>Mettre le lait à bouillir avec la vanille ;</li><li>Couper la vanille en deux suivant la longueur;</li><li>Extraire avec un couteau d’office les graines et les mettre dans le lait;</li><li>Ajouter le reste de la gousse de vanille dans le lait.</li><li>Clarifier les œufs ;</li><li>Blanchir&nbsp; les jaunes avec le sucre;</li><li>Verser progressivement le lait sur les œufs et mélanger;</li><li>Remettre le mélange à cuire sur un feu doux en remuant continuellement;</li><li>Tamiser la crème et la refroidir rapidement.</li></ul>
+
+
+
+<h2 className="sous_titre">Monter une crème chantilly</h2>
+
+
+
+<p>L’une des crèmes de base les plus utilisées est la crème chantilly</p>
+
+
+
+<p>La <strong>crème</strong>, le <strong>fouet et la calotte en inox</strong> doivent être très froids</p>
+
+
+
+<p>On peut aussi monter la crème en plaçant la calotte dans un récipient <strong>rempli de glaçons</strong></p>
+
+
+
+<p>Pour <strong>250 ml de crème fleurette</strong>, on peut utiliser 35 g <strong>de sucre semoule</strong> ou <strong>sucre glace</strong></p>
+
+
+
+<p>La crème peut aussi être aromatisée aux <strong>extraits de vanille liquide</strong></p>
+
+
+
+<h2 className="sous_titre">crèmes de base. Technique de réalisation de la crème chantilly</h2>
+
+
+
+<ul className="wp-block-list"><li>Placer la crème dans la calotte</li><li>Ajouter l’extrait de vanille liquide</li><li>Ajouter le sucre semoule avant montage, ou le suce glace à la fin du montage, juste avant le serrage</li><li>Battre régulièrement avec un fouet souple en soulevant la calotte</li><li>Commencer doucement puis accélérer à fur et à mesure</li><li>Arrêter de fouetter dès que la crème atteint une texture qui tient entre les branches du fouet</li><li>Ajouter le sucre glace si nécessaire</li><li>Serrer la crème en la tournant énergiquement avec le fouet (en veillant à ne pas la tourner</li></ul>
+
+
+
+<h2 className="sous_titre">Crème fouettée au chocolat (crèmes de base)</h2>
+
+
+
+<p>Lorsqu’on parfume une <strong>crème fouettée</strong> d’un parfum aromatique (<strong>café, chocolat, citron, praliné </strong>…) qui détermine son appellation, on ne peut l’appeler <strong>crème chantilly</strong></p>
+
+
+
+<p>Les mêmes <strong>précautions et conditions</strong> utilisées pour réaliser la <strong>crème chantilly</strong> sont adoptées pour réaliser la <strong>crème fouettée</strong></p>
+
+
+
+<h2 className="sous_titre">Technique de réalisation </h2>
+
+
+
+<p>Pour 400ml de <strong>crème liquide</strong> et 200g de chocolat)</p>
+
+
+
+<ul className="wp-block-list"><li>Faire fondre le chocolat découpé en morceaux au bain-marie</li><li>Placer la crème dans la calotte</li><li>Battre régulièrement avec un fouet souple en soulevant la calotte</li><li>Commencer doucement puis accélérer à fur et à mesure</li><li>Arrêter de fouetter dès que la crème atteint une texture qui tient entre les branches du fouet</li><li>Ne pas trop serrer la crème, elle doit garder une texture lisse</li><li>Incorporer le ¼ de la crème dans le chocolat tiède, puis verser le mélange sur le reste de la crème fouettée</li><li>Donner une consistance lisse et homogène à la crème fouettée au chocolat en utilisant un fouet</li><li>Réserver la crème au frais</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Crèmes de base en pâtisserie. Anglaise Chantilly, fouettée Mousseline",
+
+    route: "/article/cremes-de-base-patissiere-anglaise-chantilly-fouettee-au-chocolat-mousseline",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/opera-morceau_thumb.png",
+
+    lien: 'https://cuisinedebase.com/cremes-de-base-patissiere-anglaise-chantilly-fouettee-au-chocolat-mousseline/'
+}
+
+const B52 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="entry-title">Les principales phases de la cuisson du sucre</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>En cuisine, et principalement en pâtisserie, nous utilisons beaucoup le sucre. Le sucre peut être cuits de plusieurs façons différentes. Suivant l’utilisation souhaitée il est important de <strong>contrôler la température de cuisson du sucre</strong>. Ainsi que son <strong>aspect physiologique</strong> qui permet de reconnaitre les <strong>stades de cuisson</strong>. <br></br>Voici les <strong>principales cuissons du sucre</strong> utilisées dans la cuisine et dans la pâtisserie</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule_thumb.jpg" alt="sucre-semoule" title="sucre-semoule"></img></a><figcaption><strong>cuisson du sucre</strong></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre"><strong>Cuisson du sucre</strong>. Nappe</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>105°c</strong></li><li>Voici comment on reconnait les stades de cuisson : <strong>Une fine pellicule</strong> de <strong>sirop</strong> s’étale sur une écumoire et<strong> forme des gouttes avant de tomber</strong></li><li>On cuit le sucre de cette façon pour faire des : <strong>Confitures, gelées, marmelades, pâtes de fruits, fruits confits</strong></li></ul>
+
+
+
+<h2 className="sous_titre">C<strong>uisson du sucre</strong> en Petit filet</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>107°c</strong></li><li>Voici comment on reconnait les stades de cuisson : <strong>Une goutte de sirop prise entre le pouce et l’index se transforme en petit fil lorsque l’on écarte les doigts</strong></li><li>On cuit le sucre de cette façon pour faire des : <strong>Gelées, fruits confits, mousses de fruits</strong></li></ul>
+
+
+
+<h2 className="sous_titre">C<strong>uisson du sucre</strong> en Grand filet</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>110°c </strong></li><li>Voici comment on reconnait les stades de cuisson : Les fils précédemment décrits <strong>s’allongent sans se rompre</strong>, ils sont plus <strong>visqueux, épais et plus résistants</strong></li><li>On cuit le sucre de cette façon pour faire des : <strong>Crèmes au beurre</strong> réalisées uniquement avec des jaunes d’œufs, <strong>fruits confits, marrons glacés</strong></li></ul>
+
+
+
+<h2 className="sous_titre">C<strong>uisson du sucre</strong> en Petit boulé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>115/117°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Plonger les doigts dans de l’eau froide, de les égoutter, puis <strong>prélever un peu de sucre cuit</strong>. Replonger immédiatement les doigts dans de l’eau froide et <strong>rouler</strong> <strong>le sucre entre le pouce,l’index</strong> et le majeur : <strong>une petite boule molle se forme</strong></li><li>On cuit le sucre de cette façon pour faire des : <strong>Crèmes au beurre</strong> réalisées sur un mélange d’œufs entiers et de jaunes, <strong>mousse de fruits</strong>, <strong>appareil à bombe, à parfaits, à soufflés glacés, marrons glacés</strong></li></ul>
+
+
+
+<h2 className="sous_titre">C<strong>uisson du sucre</strong> en Boulé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>120°c</strong></li><li>Voici comment on reconnait les stades de cuisson : <strong>La boule</strong> précédemment décrite est <strong>un peu plus consistante</strong></li><li>On cuit le sucre de cette façon pour faire des : <strong>Crèmes au beurre</strong> réalisées sur un mélange d’œufs entiers, <strong>fondant mou, meringue italienne</strong></li></ul>
+
+
+
+<h2 className="sous_titre">Gros boulé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>125/130°c</strong></li><li>Voici comment on reconnait les stades de cuisson : <strong>la boule devient plus ferme et reste ronde</strong></li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Fondants durs, meringue italienne, rochers, pâte d’amandes fondante, caramels mous</strong></li></ul>
+
+
+
+<h2 className="sous_titre">Petit cassé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>135/140°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Lorsque l’on remet les doigts dans l’eau froide, <strong>le sucre durcit en émettant de petits craquements</strong>. Il <strong>ne forme plus une boule</strong> et il devient <strong>cassant</strong>. Il semble dur mais <strong>colle sous la dent</strong>.</li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Pâtes d’amandes, nougat de Montélimar, bonbons, caramels</strong></li></ul>
+
+
+
+<h2 className="sous_titre">Grand cassé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>145/150°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Dans l’eau froide, le <strong>sucre durcit immédiatement</strong>, laisse entendre de petits pétillements et casse net. Il <strong>ne colle plus aux dents</strong></li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Nougats secs</strong>, <strong>décor en sucre</strong> à partir de 150°c, <strong>sucre tiré</strong>, <strong>voilé, soufflé, sucre au rocher, fruits secs déguisés</strong></li></ul>
+
+
+
+<h2 className="sous_titre">Caramel clair</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>155/165°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Une quantité importante de caramel donne l’illusion d’une <strong>coloration supérieure à ce qu’elle est réellement</strong></li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Fruits et fleurs déguisées, tous les sucres travaillés, montage de croquembouche, St Honoré, nougatine</strong></li></ul>
+
+
+<h2 className="sous_titre">C<strong>uisson du sucre</strong> en Caramel</h2>
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>170/180°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Pour s’assurer de la juste coloration du caramel, <strong>tremper un petit morceau de papier blanc dans le sucre cuit</strong>.</li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Crèmes caramel, crème viennoise, glace au caramel, chemisage des moules au caramel</strong></li></ul>
+
+
+
+<h2 className="sous_titre">Caramel foncé</h2>
+
+
+
+<ul className="wp-block-list"><li>La température moyenne de cuisson est : <strong>185/190°c</strong></li><li>Voici comment on reconnait les stades de cuisson : Le <strong>sucre noircit rapidement et dégage une fumée âcre et irritante</strong></li><li>Cette cuisson est principalement utilisé pour faire des : <strong>Caramels pour colorant</strong></li></ul>
+
+
+
+<p>&nbsp;Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour <strong>apprendre à cuisiner</strong>.</p>
+
+
+
+<p>Et pour finir, Voici une <strong>sélection de matériel</strong> qui peut vous être utile et vendu à<strong> prix raisonnable</strong> sur <a href="https://www.amazon.fr/gp/product/B01K1W910G/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B01K1W910G&amp;linkId=1e8d83fdc0edcd189e44bd23e5e4e46c">Amazon</a>&nbsp;</p>
+
+
+
+<p><a href="https://amzn.to/2M2Q224" target="_blank" rel="noopener noreferrer">Thermomètre à sucre</a></p>
+
+
+
+<p><a href="https://www.amazon.fr/gp/product/B000T5PVD2/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B000T5PVD2&amp;linkId=52b44a2c6d11edfa55eef2fd91ae10ad">casserole à sucre</a></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Les principales phases de la cuisson du sucre",
+
+    route: "/article/les-principales-phases-de-la-cuisson-du-sucre",
+
+    categorie: "1",
+
+    sous_categorie: "2",
+
+    articlesConnexes: [],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/les-principales-phases-de-la-cuisson-du-sucre/'
+}
+
+export const listeArticles = [B31, B32, B33, B34, B35, B36, B37, B38, B39, B40, B41, B42, B43, B44, B45, B46, B47, B48, B49, B50, B51, B52];
