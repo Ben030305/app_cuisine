@@ -146,7 +146,7 @@ const J1 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes: ["Recette de la crème brûlée avec la fiche technique de fabrication", "Recette de Crêpes farcies gratinées façon Picarde", "Les 25 recettes à faire absolument pour préparer le CAP cuisine"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Tiramisu_thumb-2.png",
 
@@ -285,7 +285,7 @@ const J2 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes: ["Technique de base pour faire la pâte à choux", "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine", "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Choux-creme-patissiere_thumb.png",
 
@@ -348,7 +348,7 @@ const J3 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes: ["Tartes feuilletées aux fruits rouges. Fiche technique et recette", "Recette de la Tarte au chocolat avec sa fiche technique de fabrication", "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/tarte-aux-pommes_thumb1_thumb.png",
 
@@ -490,7 +490,7 @@ const J4 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["La listes des techniques de base à maîtriser pour le CAP cuisine", "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine", "Fiche technique et recette de Choux à la crème pâtissière"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/tarte-aux-fruits-sur-pte-feuillete_thumb-2.png",
 
@@ -566,7 +566,7 @@ const J5 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de fabrication et recette d’œufs farcis Chimay", "Crèmes de base en pâtisserie. Anglaise Chantilly, fouettée Mousseline", "Mousse au chocolat"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/oeufs-a-la-neige_thumb-1.png",
 
@@ -655,7 +655,7 @@ const J6 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["La recette des Omelettes roulées aux champignons", "Recette de Potage Parmentier avec la Fiche technique", "Recette Riz Pilaf : La Fiche technique de fabrication"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Gigot-7-heures_thumb.png",
 
@@ -783,7 +783,7 @@ Voici une <strong>astuce</strong> pour réussir la <span><span><strong>crème re
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Recette de la crème brûlée avec la fiche technique de fabrication", "Les 25 recettes à faire absolument pour préparer le CAP cuisine", "Fiche technique et recette de Choux à la crème pâtissière"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/creme-caramel-renversee_thumb.png",
 
@@ -855,7 +855,7 @@ const J8 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Idée recettes pour repas de fêtes de fin d’année. Noël et nouvel an", "Fricassée de volaille à l’ancienne. La recette de CAP cuisine", "Les 25 recettes à faire absolument pour préparer le CAP cuisine"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Escalope-poulet-volaille-dinde_thumb.png",
 
@@ -996,7 +996,7 @@ const J9 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique – Quiche au poulet", "Jambonnette de poulet farcie. Comment réussir sa préparation", "La fiche technique des Escalopes de volaille sautées"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/06/Poulet-roti-1.jpeg",
 
@@ -1094,7 +1094,7 @@ const J10 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de goujonnettes de poisson. Recette avec la sole", "Jambonnette de poulet farcie. Comment réussir sa préparation", "Recette facile du Gigot de 7 heures"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/steak-sauce-poivre_thumb.png",
 
@@ -1178,7 +1178,7 @@ const J11 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de fabrication. Velouté dubarry", "Le fond blanc. Comment le préparer. Quelle est sa composition. Règles d’hygiène", "Riz madras aux fruits. Toute la fiche technique de fabrication."],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/blanquette-veau-1_thumb.jpg",
 
@@ -1258,7 +1258,7 @@ const J12 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique et recette de darnes de poisson pochées", "Habillage des poissons", "Quiche nordique (Saumon fumé épinard). Fiche technique"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/goujonnettes_sole_thumb.png",
 
@@ -1360,7 +1360,7 @@ const J13 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de goujonnettes de poisson. Recette avec la sole", "Habillage des poissons", "Signification de bleu. Le dictionnaire culinaire"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/poisson-poche_thumb.png",
 
@@ -1491,7 +1491,7 @@ const J14 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["La fiche technique des Escalopes de volaille sautées", "Comment habiller une volaille et découper un poulet cru", "Epreuve CAP cuisine 2021. Les sujets de l’examen pratique"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/07/Fricassee-volaille-edited.jpg",
 
@@ -1589,7 +1589,7 @@ const J15 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["EP2 session 2019. Colombo de volaille, riz pilaf et courgettes glacées", "La fiche technique et recette pour faire un bon poulet rôti", "Riz madras aux fruits. Toute la fiche technique de fabrication."],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg",
 
@@ -1660,7 +1660,7 @@ Pour préparer la recette <span><strong>œufs chimay</strong></span>, on cuit de
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Recette de crêpe facile. La fiche technique", "La recette des Omelettes roulées aux champignons", "Comment faire la fiche technique des Œufs à la neige"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/oeuf-farci-chimay-2_thumb.jpg?w=910&ssl=1",
 
@@ -1811,7 +1811,7 @@ const J17 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Salade salade Piémontaise. La Fiche technique", "Fiche technique et recette de la tarte aux pommes", "Omelette plate Savoyarde. Fiche et techniques de base"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/navarin-pommes_thumb.png?w=910&ssl=1",
 
@@ -1846,7 +1846,7 @@ const J18 = {
 
 
 
-<h2 className="sous_titre"><span ><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/crepe_farcie-picarde-ficelle.png?ssl=1"><img data-recalc-dims="1" decoding="async" title="crepe_farcie-picarde-ficelle" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/crepe_farcie-picarde-ficelle_thumb.png" alt="crepe_farcie-picarde-ficelle"></img></a></span></h2>
+<div className="post-image"><span ><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/crepe_farcie-picarde-ficelle.png?ssl=1"><img data-recalc-dims="1" decoding="async" title="crepe_farcie-picarde-ficelle" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/crepe_farcie-picarde-ficelle_thumb.png" alt="crepe_farcie-picarde-ficelle"></img></a></span></div>
 
 
 
@@ -1880,7 +1880,7 @@ const J18 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Recette de crêpe facile. La fiche technique", "Jambonnette de poulet farcie. Comment réussir sa préparation", "Les 25 recettes à faire absolument pour préparer le CAP cuisine"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/crepe-ficelle-picarde-4.jpg",
 
@@ -1962,7 +1962,7 @@ const J19 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de fabrication. Velouté dubarry", "Les 25 recettes à faire absolument pour préparer le CAP cuisine", "Dictionnaire culinaire. Signification de passer et d’autres termes qui commencent par N ou P"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/potage-parmentier-1_thumb.jpg",
 
@@ -2103,7 +2103,7 @@ const J20 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Les 25 recettes à faire absolument pour préparer le CAP cuisine", "Fiche technique et recette de la Blanquette de veau", "Recette de Potage Parmentier avec la Fiche technique"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/veloute-dubarry_thumb.png",
 
@@ -2188,7 +2188,7 @@ const J21 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Omelette plate Savoyarde. Fiche et techniques de base", "Fiche de révision CAP cuisine. Les oeufs et ovo produits", "Recette de la crème brûlée avec la fiche technique de fabrication"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Omelette-champignons_thumb-1.png",
 
@@ -2257,7 +2257,7 @@ const J22 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Quiche nordique (Saumon fumé épinard). Fiche technique", "La fiche technique et recette pour faire un bon poulet rôti", "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg",
 
@@ -2273,7 +2273,7 @@ const J23 = {
 <h2 className="sous_titre">La recette des Soles meunière</h2>
 <p><span >Soles farinées et sautées à la poêle avec une coloration dorée, arrosées de jus de citron, nappées de beurre «noisette», et agrémentées de rondelles de citrons pelés à vif et de persil haché.</span></p>
 <h2 className="sous_titre">La fiche technique de fabrication des soles meunières</h2>
-<h2 className="sous_titre"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere.png?ssl=1"><div><img data-recalc-dims="1" decoding="async" title="soles-meuniere" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere_thumb.png" alt="soles-meuniere"></img></div></a></h2>
+<div className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere.png?ssl=1"><div><img data-recalc-dims="1" decoding="async" title="soles-meuniere" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere_thumb.png" alt="soles-meuniere"></img></div></a></div>
 <span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span>
 <p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
@@ -2288,7 +2288,7 @@ const J23 = {
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Fiche technique de goujonnettes de poisson. Recette avec la sole", "Recette Riz Pilaf : La Fiche technique de fabrication", "Fiche technique de fabrication et recette d’œufs farcis Chimay"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere_thumb.png",
 
@@ -2325,7 +2325,7 @@ Voici la fiche technique de la macédoine :
 
 	sous_categorie: "4",
 
-	articlesConnexes: [],
+	articlesConnexes:["Challenge CAP cuisine candidat libre session 2023", "Tailles des légumes", "Dictionnaire culinaire. Signification de lever ainsi que d’autres termes qui commencent par I, J, K, L, M"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/macedoine-de-legumes-mayonnaise_thumb.png",
 
@@ -2444,7 +2444,7 @@ const J25 = {
 
 	sous_categorie: "-1",
 
-	articlesConnexes: [],
+	articlesConnexes:["Dans les Coulisses de l’Épreuve EP2 du CAP Cuisine : Le Témoignage d’une Candidate Libre", "Epreuves EP1 EP2 PSE dans le Podcast CAP cuisine", "Décryptage de l’épreuve pratique du CAP cuisine"],
 
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/02/tableau-ordonnancement.png",
 
@@ -2523,7 +2523,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Pourquoi la Cocotte en Fonte Est Indispensable dans Votre Cuisine", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine", "Histoire de cuisine"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/01/chef-zen-attitude.png",
 
@@ -2635,7 +2635,7 @@ const J27 = {
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Reconversion professionnelle en cuisine ou restauration : Comment la réussir", "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre", "Reconversion professionnelle. Evaluation de compétence pour ouvrir son propre restaurant"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant-1.webp",
 	
@@ -2832,7 +2832,7 @@ const J28 = {
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Les ressources pédagogiques pour le CAP cuisine", "Formation cuisine pas chère. Pourquoi faut-il payer pour bien apprendre", "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png",
 	
@@ -2947,7 +2947,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Les erreurs à éviter lors d’une reconversion professionnelle en cuisine", "Reconversion professionnelle. Evaluation de compétence pour ouvrir son propre restaurant", "Reconversion cuisinier par un CAP cuisine"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp",
 
@@ -3006,7 +3006,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Épices en cuisine : comment booster la saveur de vos recettes", "Les secrets des herbes aromatiques en cuisine", "Comment créer un menu équilibré et sain pour restaurant"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine.webp",
 
@@ -3104,7 +3104,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Comment appliquer les bonnes résolutions en 2021. La meilleure astuce", "Méthode simple et efficace pour atteindre ses objectifs", "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg",
 
@@ -3271,7 +3271,7 @@ const J32 = {
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Les ressources pédagogiques pour le CAP cuisine"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/08/Objectif-CAP-cuisine-v2.png",
 	
@@ -3440,7 +3440,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "Podcast épreuves CAP cuisine. Professionnelles et générales"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/08/Infographie-Examen-CAP-cuisine.png",
 
@@ -3498,7 +3498,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Challenge CAP cuisine candidat libre session 2023", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/08/episode-4.-EP1-EP2-PSE.png",
 
@@ -3719,7 +3719,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Podcast épreuves CAP cuisine. Professionnelles et générales", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/08/Infographie-Examen-CAP-cuisine.png",
 
@@ -3849,7 +3849,7 @@ categorie: "5",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine", "Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?", "La formation CAP cuisine adulte seul"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/performance-google_thumb-2.jpg",
 
@@ -3912,7 +3912,7 @@ Ou le télécharger sur votre téléphone ou tablette pour l’écouter plus tar
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Podcast. Correction de l’épreuve EP1 session 2006", "Podcast épisode 5. Accompagnement CAP cuisine", "Podcast stage CAP cuisine candidat libre"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/episode-7.-Temoignages-EP2-CAP-cuisine-candidat-libre.png",
 	
@@ -3957,7 +3957,7 @@ categorie: "2",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Annales et examens des années passées pour CAP cuisine", "Correction de l’épreuve EP1 2021. Examen CAP cuisine", "Correction EP1 Organisation de la production de cuisine session 2019"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/03/episode-6-correction-EP1-2006.png",
 
@@ -4001,7 +4001,7 @@ categorie: "2",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Podcast stage CAP cuisine candidat libre", "Les techniques à apprendre pour préparer le CAP cuisine. Podcast.", "Podcast épreuves CAP cuisine. Professionnelles et générales"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/episode-5.-Le-Coaching.png",
 
@@ -4066,7 +4066,7 @@ categorie: "2",
 
 sous_categorie: "-1",
 
-articlesConnexes: [],
+articlesConnexes:["Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales", "Epreuves EP1 EP2 PSE dans le Podcast CAP cuisine", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves"],
 
 image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/08/episode-3.-Toutes-les-epreuves-CAP-cuisine-1.png",
 
@@ -4107,7 +4107,7 @@ Ou le télécharger sur votre téléphone ou tablette pour l’écouter plus tar
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Podcast épisode 5. Accompagnement CAP cuisine", "Les techniques à apprendre pour préparer le CAP cuisine. Podcast.", "Podcast épreuves CAP cuisine. Professionnelles et générales"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/07/episode-2.-Le-stage.png",
 	
@@ -4152,7 +4152,7 @@ Les fiches techniques au format pdf à télécharger.
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Podcast stage CAP cuisine candidat libre", "Podcast épisode 5. Accompagnement CAP cuisine", "Podcast épreuves CAP cuisine. Professionnelles et générales"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg",
 	
@@ -4234,7 +4234,7 @@ Dans cet épisode je vous parle de certaines <strong>activités que l’on peut 
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Podcast épreuves CAP cuisine. Professionnelles et générales", "Les techniques à apprendre pour préparer le CAP cuisine. Podcast.", "Epreuves EP1 EP2 PSE dans le Podcast CAP cuisine"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/11/logo-podcast-cuisine-de-base.jpg",
 	
@@ -4288,7 +4288,7 @@ const J44 = {
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Pourquoi le métier de cuisinier est passionnant et attractif", "Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?", "Omelette plate Savoyarde. Fiche et techniques de base"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/11/logo-podcast-cuisine-de-base.jpg",
 	
@@ -4341,12 +4341,805 @@ On peut se poser la question pourquoi un podcast ?
 	
 	sous_categorie: "-1",
 	
-	articlesConnexes: [],
+	articlesConnexes:["Apprendre à cuisiner pour manger équilibré et mieux s’alimenter", "Comment utiliser l’IA (intelligence artificielle) pour apprendre à cuisiner"],
 	
 	image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/01/Podcast-micro-voix.jpeg",
 	
 	lien: "https://cuisinedebase.com/podcast-introduction-lapprentissage-de-la-cuisine/"
 	
+}
+
+const VA1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">La cuisine pour quitter la “Rat Race”</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Connaissez votre destin.</p>
+<p>Dans l’abondance de l’eau.</p>
+<p>L’insensé a soif… »</p>
+<p>Ces mots proviennent d’une traduction de la célèbre chanson de Bob Marley « Rat race ».</p>
+<div className="post-image">
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="rat-race-2395779_1920" alt="rat-race-2395779_1920" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg"></img></a>  </p>
+</div>
+<p>Certains traduiront cela par « race de rat » qui peut être utilisé comme une injure. Et d’autre traduiront cela par « course de rat » à l’image des rats qui courent dans des roues ignorant qu’ils sont prisonniers d’une course sans fin. D’ailleurs dans la chanson on joue avec les deux significations.  </p>
+<p>Pourquoi je vous raconte cela, cette chanson m’a beaucoup marqué, malgré le fait qu’elle soit écrite dans une autre époque, probablement les années 70, elle reflète encore la société dans laquelle nous vivons aujourd’hui. En effet, la vie de nombreuses personnes est dédiée à leur travail, elle se résume en général à « métro-boulot-dodo ».  </p>
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="oleg-sergeichik-500326-unsplash" alt="oleg-sergeichik-500326-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash_thumb.jpg"></img></a>  </p>
+<p>Une course qui ressemble étrangement à celle des rats, à une différence près : que nous, qui appartenons à la race humaine « intelligente », notre course peut s’arrêter et au moins de 2 manières différentes :  </p>
+<ol>
+<li>
+<h2>Elle prendra fin bien sûr à l’âge de la retraite, mais à condition, qu’on ait suffisamment cotisé pour toucher une indemnité descente et qu’on ait fini de rembourser les différents crédits, de la maison, de la voiture, de consommation, … </h2>
+</li><li>
+<h2>Le deuxième scénario est celui que je préfère et que je préconise, il consiste à prendre son destin en main et de quitter la course des rats vers une course de bien être et de bonheur. Et ce n’est pas les nombreux salariés qui tentent chaque année une <u>reconversion professionnelle</u> vers un travail manuel, et en rapport avec une de leurs passions, qui diront le contraire.</h2>
+</li>
+</ol>
+<p>Quitter son train train quotidien n’est pas une chose facile, il faut avoir des objectifs précis, et tenir à <u>respecter ses bonne résolutions</u>. Une reconversion professionnelle ne doit pas se faire à la légère, il faut qu’elle soit bien préparée en pesant le pour et le contre.  </p>
+<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash.jpg?ssl=1"><img data-recalc-dims="1" loading="lazy" decoding="async" title="dylan-nolte-576808-unsplash" alt="dylan-nolte-576808-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash_thumb.jpg"></img></a>&nbsp;L’image décrit des personnes en train de travailler dans un bâtiment de bureaux. La question qu’on peut se poser est quelle est la différence entre eux et les frères Dalton lorsque ces derniers sont derrière les barreaux…?  </p>
+<h2 className="post-image">Un cuisinier professionnel peut exercer plusieurs métiers</h2>
+<p>Un des métiers que j’aurais aimé exercer est celui d’un chef dans un restaurant, pour moi <u>les chefs cuisiniers ont tellement de qualités</u> que je les considère comme des personnes qui vendent du plaisir tout en se faisant plaisir. En apprenant la cuisine, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux …. C’est une des raisons pour laquelle les centres de formations voient arriver des personnes passionnées souhaitant se former en cuisine, et pour pouvoir vivre de leur passion, il y a plusieurs activités ou métiers qu’ils peuvent faire, j’en ai détaillé huit dans un précédent article comme par exemple: chef à domicile, traiteur, formateur, …  </p>
+<p>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u>quelques recettes</u>, qu’on peut facilement apprendre en suivant les conseilles que j’ai réunis dans cet article<u></u>, on peut passer un CAP cuisine en tant que candidat libre. Et pour vous aider dans ce projet, je vous ai fait un <u>programme d’entraînement </u>qui peut vous aider à préparer ce diplôme en 6 mois.  </p>
+<p>Il est temps d’arrêter de travailler pour le travail et de toujours courir pour acheter toutes les choses qu’on a envie de posséder, mais sans forcément en avoir besoin. Faire de sa passion son propre travail pour quitter la rat race pour une véritable course vers le bonheur.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "La cuisine pour quitter la “Rat Race”",
+
+    route: "/article/la-cuisine-pour-quitter-la-rat-race",
+
+    categorie: "3",
+
+    sous_categorie: "0",
+
+    articlesConnexes:["Reconversion cuisinier par un CAP cuisine", "Matériels du cuisinier, coutellerie, mallette de cuisine", "Le métier de cuisinier. Comment devenir grand chef"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/'
+}
+
+const E1 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment appliquer les bonnes résolutions en 2021. La meilleure astuce</h1>
+
+
+		<div className="entry-content clearfix">
+
+<div className="post-image">
+<figure className="post-image size-large"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg" alt="pexels-photo-5408689.jpeg" className="wp-image-1705" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1880&amp;ssl=1 1880w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=600%2C401&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1820&amp;ssl=1 1820w"></img><figcaption>Photo par Olya Kobruseva</figcaption></figure>
+</div>
+
+
+<p>Et heureusement qu’il y a une partie de gens beaucoup plus responsable et consciente, ces gens-là font la fête s’amusent rigolent, font des réunions et rencontres entre familles et amis, bref profitent pleinement de la vie, mais en même temps, ils sont soucieux de leurs <strong>bien être physique et moral</strong>, ils ne laissent donc pas passer cette occasion de <strong>fin d’année</strong> sans <strong>faire le point</strong> sur leur situation et comment faire pour l’améliorer en prenant en compte les enseignements appris durant l’année qui vient de s’écouler.</p>
+
+
+
+<h2 className="sous_titre">Astuce pour appliquer les résolutions de fin d’année</h2>
+
+
+
+<p>Comme la grande majorité des personnes de cette époque, je suis abonné à un certain nombre de <strong>newsletter de bolgs</strong>, marques, personnalités connues, etc… et la liste est longue. Et comme tout le monde donc, je reçois des <strong>conseils</strong>, <strong>feedback</strong> et des <strong>astuces</strong> pour appliquer les <strong>bonnes résolutions de fin d’année</strong>.</p>
+
+
+
+<p>Parmi toutes les astuces que j’ai eues, il y en a une qui a attiré toute mon attention. Et elle est <strong>facilement applicable</strong> dans n’importe quel domaine, notamment pour <strong>préparer le CAP cuisine en candidat libre</strong>.</p>
+
+
+
+<h2 className="sous_titre">Objectifs de fin d’année</h2>
+
+
+
+<p>Il s’agit en fait d’une chose à ne pas faire. Ne pas faire des <strong>objectifs très vagues</strong> et qui durent sur toute une année. En effet, le fait de découper un <strong>grand objectif</strong> en plusieurs petits objectifs est très efficace. Cela permet de <strong>mesurer l’efficacité</strong> de la démarche entreprise et de rectifier le tir en cas de besoin.&nbsp;</p>
+
+
+
+<p>Imaginons une personne qui attend la fin de l’année pour <strong>faire le bilan</strong>, si cette personne a commis une erreur qui a empêché l’aboutissement de son <strong>projet</strong>, elle ne se rendra compte qu’à la fin de l’année, au moment où elle fera son <strong>bilan</strong>. A contrario, imaginons une deuxième personne qui a découpé son grand projet en <strong>plusieurs mini-projets</strong>, en cas d’erreur, cette personne a largement le temps de se rattraper et de rectifier son erreur à l’<strong>étape suivante de son projet</strong>, et éviter à la même occasion une <strong>perte de temps</strong> qui pourrait lui coûter trop cher.</p>
+
+
+
+<h2 className="sous_titre">Objectif: CAP cuisine à distance</h2>
+
+
+
+<p>Cet article participe à l’évènement “Votre meilleure astuce pour&nbsp;appliquer&nbsp;vos bonnes résolutions” du blog&nbsp;<a href="https://devenez-meilleur.co/">Devenez meilleur</a>. Mon article préféré est&nbsp;<a href="https://devenez-meilleur.co/quest-ce-que-le-respect/">celui-ci</a>.</p>
+
+
+
+<p><strong>Cuisinedebase</strong> est un blog qui aide les personnes qui souhaitent <strong>passer le CAP cuisine en candidat libre</strong> à <strong>bien s’organiser et préparer les épreuves pratiques</strong>. Personnellement, je pense que c’est suffisant de bien préparer le <strong>CAP cuisine à distance</strong> en seulement <strong>6 mois</strong>. Si vous envisagez <strong>de préparer le CAP cuisine à distance et en solo</strong>. voici une application concrète de l’astuce précédente, au lieu de faire des résolutions à l’année (comme : <strong>Préparer les épreuves écrites et pratiques pour réussir le CAP cuisine</strong>), faites des résolutions pour les 60 prochains jours (comme: <strong>Faire 6 recettes qui permettent de préparer les épreuves pratiques et 2 examen blanc</strong>). Ne pensez même pas au reste de l’année. Et quand la résolution n’est plus excitante en Février, devinez quoi… vous avez déjà fait un tiers ! Vous n’allez pas abandonner maintenant !</p>
+
+
+
+<p>Un dernier effort – et vous avez terminé la moitié des entrainements en beauté.</p>
+
+
+
+<p>Et le top du top, c’est que, dès le mois de mars, la deuxième partie commence – et vous avez le droit à un&nbsp;tout <strong>nouveau départ</strong>.</p>
+
+
+
+<p>Et encore un dernier nouveau départ en mai.</p>
+
+
+
+<p>3 nouveaux départs pour <strong>réaliser les résolutions de début d’année</strong>. Quel bonheur.</p>
+
+
+
+<p>Ça vous aidera à <strong>créer des plans</strong> que vous allez tenir, à <strong>rester motivé</strong> et à <strong>éliminer les distractions</strong>.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment appliquer les bonnes résolutions en 2021. La meilleure astuce",
+
+    route: "/article/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?", "Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens", "Méthode simple et efficace pour atteindre ses objectifs"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg",
+
+    lien: 'https://cuisinedebase.com/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021/'
+}
+
+const E2 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres</h1>
+
+		<div className="entry-content clearfix">
+
+<div className="post-image">
+    <figure className="aligncenter"><img decoding="async" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&amp;usqp=CAU" alt="Livre, Coffee And Glasses | Photo gratuite | LibreShot"></img><figcaption>Reconversion professionnelle</figcaption></figure>
+</div>
+<p>Vendredi 15 février, le réveil est trop dur ce matin là, et je n’ai aucune envie d’aller au travail. La journée commence très mal, je n’ai plus de dosettes de café. Les chauffeurs de bus font grève. Et par conséquent, je dois marcher une vingtaine de minutes sous une pluie menaçante avant d’arriver à mon bureau. Ajouter à cela, et par dessus tout, mon rendez vous avec Arnaud à 8h30 <strong>va propulser cette matinée dans le top 3</strong> des pires matinées de mon existence. Et c’est aussi grâce à cette mauvaise journée que j’ai commencé à réfléchir sérieusement à ma <strong>reconversion professionnelle</strong>.</p>
+
+
+
+<h2 className="sous_titre">Le début de ma reconversion professionnelle</h2>
+
+
+
+<p>En fait Arnaud est l’un de mes clients de la liste noire, le genre arrogant prétentieux je sais tout… son gros problème est le fait qu’il se croit vraiment roi parce que pour lui “<strong>le client est roi</strong>”. </p>
+
+
+
+<p>En arrivant au bureau, j’ai juste le temps de faire ma tasse de café matinale. Passage obligatoire avant de me rendre en salle de réunion. Rêvons un peu! Si tout va bien. Dans exactement 10 minutes, la présentation powerpoint sera accueillie favorablement par Arnaud. Cette présentation que j’ai mis une journée à mettre en place. Et pour une fois, la réunion durera moins que d’habitude. Je serai débarrassé d’Arnaud et de ses remarques nauséabondes et ma journée prendra une autre tournure. Et à la fin de la réunion je ne penserai pas comme d’habitude à <strong>vouloir changer de métier</strong>. Et à chercher comment faire une <strong>reconversion professionnelle</strong></p>
+
+
+
+<p><strong>… Il n’est pas interdit de rêver</strong>! Réellement, cela ne se passe jamais comme ça. La réunion qui doit durer une heure ou 2 grand max, donnera naissance à une dizaine d’autres réunions. Qui elles aussi dureront en moyenne entre 2 et 3 heures chacune, quel gâchis! à croire que le temps n’a aucune valeur.</p>
+
+
+
+<h2 className="sous_titre">Le livre à l’origine de ma <strong>reconversion professionnelle</strong></h2>
+
+
+
+<p>J’ai vécu ce scénario pendant très longtemps, tellement longtemps que j’ai commencé à croire que pour qu’une <strong>décision soit valide</strong>, elle doit obligatoirement être le sujet d’une dizaine de réunions. Jusqu’au jour où j’ai fait une découverte qui m’a vraiment <strong>ouvert les yeux</strong>, cette découverte s’appelle “<strong><a href="https://amzn.to/3kIPaON">la semaine de 4 heures</a></strong>” le <strong>livre</strong> best seller de <strong>Tim Ferriss</strong>. Dans ce livre, l’auteur explique comment il a réussi de sortir d’une boucle interminable, une course derrière un bonheur fictif et imposée par la société “moderne”. En faisant une analyse objective de son quotidien, Tim Ferriss se rend compte que son <strong>véritable bonheur</strong> dépend de la bonne <strong>utilisation de son temps</strong>, et il déduit que son <strong>temps est son principal patrimoine</strong> et qu’il se doit de mieux le préserver.</p>
+
+
+
+<h2 className="sous_titre">Le bonheur au travail</h2>
+
+
+
+<p>Et la solution qu’il a avancé est très simple, elle est inspiré d’une loi statistique qui est <strong>la loi de Pareto</strong>, ou la loi <strong>20/80 (vingt quatre vingt)</strong>. Et en appliquant cette loi à lui même, il s’est rendu compte par exemple que:</p>
+
+
+
+<blockquote className="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>seulement 20% de son portefeuille client représente 80% de ses recettes, il décide donc de concentrer ses efforts de fidélisation sur ces 20% de clients plutôt que de perdre son temps avec la totalité de ses clients.</p><p>il utilise seulement 20% de son temps effectivement pour réaliser 80% de son travail, il a mis en place une stratégie intelligente basée sur du télétravail et de l’automatisation de tâches répétitives</p></blockquote>
+
+
+
+<p>Il a réussi à mettre un soupçon de <strong>bonheur dans son travail</strong> au quotidien juste en donnant de la <strong>valeur à son temps</strong>.</p>
+
+
+
+<h2 className="sous_titre">Pourquoi faire une <strong>reconversion professionnelle</strong></h2>
+
+
+
+<p>Selon ce livre, le <strong>schéma conventionnel</strong> et en quoi beaucoup de personnes croient <strong>est tout simplement un leurre</strong>.&nbsp; Ce schéma peut être résumé de la manière suivante:</p>
+
+
+
+<ul className="wp-block-list"><li>Faire des <strong>grandes études</strong></li><li>Trouver un <strong>travail</strong> dans une <strong>grande entreprise</strong></li><li>Grimper les échelons pour avoir un <strong>meilleur salaire</strong> et une <strong>bonne retraite</strong></li><li>Profiter du temps de la <strong>retraite</strong> pour passer des <strong>bons moments</strong></li></ul>
+
+
+
+<p>Si ce schéma était parfait, pourquoi donc il y a de plus en plus de gens à penser à faire une <strong>réorientation professionnelle</strong>. La réponse est toute simple…</p>
+
+
+
+<p>Seulement arrivé à l’âge de la retraite, beaucoup de gens n’ont plus suffisamment de forces pour faire des activités insolites.<strong>Tim Ferris</strong> propose un <strong>schéma alternatif</strong> qui consiste à créer ce qu’il appelle une “<strong>muse</strong>”, c’est une sorte de machine automatique à <strong>revenus passifs</strong> qui rend son créateur <strong>indépendant financièrement</strong>. Et de cette manière il peut passer de bons moment et <strong>profiter de sa jeunesse</strong> et de <strong>sa bonne santé</strong> pour faire ce qu’il l’amuse le plus. Plutôt que de rester enfermé dans un bureau et supporter des clients qui se prennent vraiment pour des rois.</p>
+
+
+
+<h2 className="sous_titre"><strong>Reconversion professionnelle</strong> en cuisine</h2>
+
+
+
+<p>Je participe avec le présent article à un évènement interblogueur. Il est organisé par <strong>Olivier Roland </strong>du blog <a href="https://des-livres-pour-changer-de-vie.com/">Des Livres pour changer de vie</a>. J’apprécie beaucoup ce blog, et en fait mon article préféré est <a href="https://des-livres-pour-changer-de-vie.com/la-semaine-de-4-heures/">celui-ci</a>.</p>
+
+
+
+<p>Le <strong>deuxième livre</strong> qui m’a beaucoup marqué, et qu’il n’a rien avoir avec le premier est “<strong><a href="https://www.amazon.fr/gp/product/2857089260/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=2857089260&amp;linkId=6a6e2ae8bc55b8dc2de04def579f442e">La cuisine de référence</a></strong>” de <strong>Michel Maincent-Morel</strong>. Ce livre m’a permis tout simplement de découvrir <strong>le cuisinier amateur</strong> qui se cache en moi, c’est grâce à ce livre que j’ai pu apprendre les <strong>bases de la cuisine</strong>, <u>gastronomique et traditionnelle</u>. Il m’a aussi été d’une grande utilité. Quand j’ai décidé de passer le <strong>CAP cuisine en tant que candidat libre</strong> en 2015.</p>
+
+
+
+<h2 className="sous_titre">Je change de métier</h2>
+
+
+
+<p>Et c’est grâce à cette <strong>formation à distance</strong> que j’ai pu découvrir le <strong>métier de cuisinier</strong>. J’ai suivi à la lettre les recommandations et <strong>enseignements de ce livre</strong>. Et je me suis entrainé tout seul dans ma petite cuisine à apprendre<strong> les bases de la cuisine</strong>, ainsi que les astuces de <strong>cuisiniers professionnels</strong>. Bref tout ce qui orbite autour de la cuisine et la <strong>restauration professionnelle</strong>. C’est grâce à cette formation et ce livre que j’ai pu dire un jour à mes proches «&nbsp;<strong>je change de métier</strong>«&nbsp;</p>
+
+
+
+<h2 className="sous_titre">Un livre inspirant</h2>
+
+
+
+<p>Et le <strong>troisième livre inspirant</strong> qui m’a marqué est “<strong><a href="https://www.amazon.fr/gp/product/210076196X/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=210076196X&amp;linkId=7d37d72e78f60a72a261d9566fc987ff">Partie de rien</a></strong>” de <strong>Hapsatou Sy</strong>. C’est un livre très facile à lire, il raconte l’histoire de son auteur. Un ouvrage qui démontre que <strong>tout est possible</strong>, même quand on a l’impression de <strong>partir</strong> <strong>de</strong> <strong>zéro</strong>, à condition de <strong>travailler sans relâche</strong> et de croire en sa bonne étoile.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres",
+
+    route: "/article/reconversion-professionnelle-livres-changer-metier",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["Comment je suis devenu traiteur – chef à domicile", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine", "Question CAP cuisine et Réponses sur le CAP cuisine en candidat libre. Questions 31 à 38"],
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&usqp=CAU",
+
+    lien: 'https://cuisinedebase.com/reconversion-professionnelle-livres-changer-metier/'
+}
+
+const E3 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens</h1>
+
+		<div className="entry-content clearfix">
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg" alt="cle_solution" title="cle_solution"></img></a><figcaption>préparation des examens</figcaption></figure></div>
+
+
+
+<p>Il est donc tout à fait normal de vouloir respirer un peu mais attention, il ne faut pas que cela soit en dépend de vos projets personnels ou professionnels. Je pense aux personnes qui ont des des épreuves ou examens à passer, et en particulier, à toutes celles et ceux qui sont sur leurs&nbsp;<strong>dernières ligne droite de préparation</strong>&nbsp;<strong>des épreuves de CAP cuisine</strong>, je vous souhaite bon courage de tout cœur!&nbsp;</p>
+
+
+
+<p>Je sais que cette période est très difficile, et beaucoup d’entre vous commencent à douter dans leurs capacités à aller jusqu’au bout et à baisser un peu le rythme en remettant de plus en plus ce que nous devons faire aujourd’hui à demain.&nbsp;<strong>La procrastination entraîne généralement un douloureux regret. Remettre nos actions du jour au lendemain nous donne une double charge. La meilleure façon de procéder est de les faire au moment approprié</strong>. Cette citation est attribuée à “Ida Scott Taylor”.</p>
+
+
+
+<p>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple&nbsp;les 25 recettes à maitriser&nbsp;pour passer le&nbsp;CAP cuisine en candidat libre&nbsp;et le&nbsp;planning détaillé&nbsp;pour les travailler.</p>
+
+
+
+<h2 className="sous_titre" id="7-etapes-pour-vous-aider-dans-la-preparation-des-examens">7 étapes pour vous aider dans la préparation des examens</h2>
+
+
+
+<p>Voici une méthode,&nbsp;<strong>en sept points,</strong>&nbsp;qui permet&nbsp;<strong>d’atteindre plus facilement</strong>&nbsp;les objectifs:</p>
+
+
+
+<h2 className="sous_titre" id="definir-un-objectif-principal">Définir un objectif principal</h2>
+
+
+
+<p>Un objectif ne peut être réalisé que s’il est bien défini et&nbsp;<strong>avec précision</strong>, s’il est&nbsp;<strong>raisonnable</strong>&nbsp;et s’il est&nbsp;<strong>atteignable</strong></p>
+
+
+
+<p>Voici un exemple d’objectif :&nbsp;<strong>Obtenir le diplôme de CAP cuisine</strong>.</p>
+
+
+
+<h2 className="sous_titre" id="determiner-des-objectifs-intermediaires">Déterminer des objectifs intermédiaires</h2>
+
+
+
+<p>Ces objectifs intermédiaires doivent tous&nbsp;<strong>mener à la réalisation</strong>&nbsp;de l’objectif principal. Ils doivent être Fixés sur des&nbsp;<strong>courtes périodes</strong>, car c’est plus&nbsp;<strong>facile à contrôler et à atteindre</strong>.</p>
+
+
+
+<p>Pour l’objectif fixé ci-dessus, les objectifs intermédiaires peuvent se traduire comme :</p>
+
+
+
+<ul className="wp-block-list"><li>Faire les 25 recettes de base</li><li>Apprendre les techniques de base</li><li>Apprendre les cours théoriques</li><li>Faire des examens blancs</li><li>…</li></ul>
+
+
+
+<p>Traduire ensuite les objectifs en&nbsp;<strong>grandeurs faciles à quantifier et à mesurer</strong>.</p>
+
+
+
+<ul className="wp-block-list"><li>Faire 2 recettes par semaine</li><li>apprendre 5 techniques par semaine</li><li>1 examen blanc par mois</li><li>…</li></ul>
+
+
+
+<h2 className="sous_titre" id="plan-d-action-pour-atteindre-ses-objectifs-de-preparation-des-examens">Plan d’action pour atteindre ses objectifs de préparation des examens</h2>
+
+
+
+<ul className="wp-block-list"><li>Mettre un&nbsp;<strong>plan d’action</strong>&nbsp;pour atteindre ses objectifs. Une sorte de&nbsp;<strong>planning</strong>&nbsp;qui détaille concrètement comment faire.</li><li>Faire une sorte de fiche de tâches journalière</li><li>Seulement&nbsp;<strong>deux à trois actions par jour</strong>&nbsp;suffisent pour avoir le sentiment d’aller de l’avant.</li><li>Se donner les&nbsp;<strong>moyens nécessaires</strong>&nbsp;pour rendre les&nbsp;<strong>objectifs facilement atteignables</strong>.</li><li>installer une sorte de&nbsp;<strong>rituel quotidien</strong>&nbsp;peut aider à éviter de remettre au lendemain les actions faisable aujourd’hui&nbsp;</li><li>toujours se rappeler des&nbsp;<strong>bénéfices à obtenir</strong>&nbsp;en réalisant l’objectif principal</li><li>Faire des&nbsp;<strong>points réguliers</strong>&nbsp;pour constater l’état d’avancement vers l’objectif principal&nbsp;</li><li>Ceci permet de faire une&nbsp;<strong>auto-évaluation</strong>, pour voir si on avance comme prévu vers l’objectif, ou le cas échéant, pour se rattraper et de revoir sa stratégie&nbsp;<strong>tant que ce n’est pas encore trop tard</strong>.</li><li>Une fois les objectifs de la première période sont atteints, il faut marquer convenablement la date et&nbsp;<strong>fixer les objectifs de la période suivante</strong>&nbsp;et ainsi de suite jusqu’à la réalisation de l’objectif principal.</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens",
+
+    route: "/article/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["Réussir un diplôme en candidat libre malgré un emploi du temps chargé : les secrets de ceux qui ont réussi", "Cinq astuces pour réussir une formation accélérée de CAP cuisine", "Comment s’organiser pour bien préparer le CAP cuisine candidat libre"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens/'
+}
+
+const E4 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Apprendre à cuisiner pour manger équilibré et mieux s’alimenter</h1>
+
+
+		<div className="entry-content clearfix">
+
+<p>Malheureusement beaucoup de gens ne mangent que ce que les autres font pour eux. Soit en <strong>sandwich, en plat pré-cuisiné</strong> à réchauffer en microonde ou dans les meilleurs des cas dans un <strong>restaurant “traditionnel”</strong>. Hélas, beaucoup de restaurants qui se revendiquent être traditionnel, ne le sont pas réellement. Alors, <strong>manger dans un restaurant traditionnel </strong>n’est plus une manière sûr pour <strong>manger équilibré</strong>, ni de <strong>consommer des produits de qualité</strong>. Beaucoup de restaurants ne servent que des plats réchauffés.</p>
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png" alt="image" title="image"></img></a><figcaption><strong>apprendre à cuisiner</strong></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">A<strong>pprendre à cuisiner</strong> pour diversifier ses repas</h2>
+
+
+
+<p>Avez vous déjà consommé un <strong>dessert dans un restaurant</strong>, à coup sure la réponse et oui. Mais attendez la suite, est ce que quelques jours plus tard vous êtes partis dans un autre restaurant et vous avez commandé le même dessert. Et à peine commencé à le déguster vous remarquez que les deux desserts se ressemblent tellement qu’on dirait qu’ils sont faits par une même personne. </p>
+
+
+
+<p>J’ai pris l’exemple d’un dessert mais cela peut aussi marcher avec une entrée ou un plat. Si vous avez une anecdote de ce genre, racontez la nous dans les commentaires. Et si vous ne vous souvenez pas, je vous invite à faire l’expérience et de nous la partager dans les commentaires de cet article.</p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour échapper à la consommation standard</h2>
+
+
+
+<p>L’explication de ceci est liée à notre <strong>mode de consommation alimentaire</strong>, celui-ci est basé de plus en plus sur des <strong>produits riches en matière grasse, en sucre, sel et toute sorte d’additifs.</strong> Ces derniers permettent de prolonger la durée de conservation des aliments et aussi de rendre leur aspect visuel plus attirant. En effet, le marché mondial de la <strong>consommation agro-alimentaire</strong> tend de plus en plus vers une <strong>standardisation des produits alimentaires</strong>, c’est la raison pour laquelle les <strong>humburger, pizzas, tacos, grec</strong>, … sont devenus des <strong>produits de grande consommation</strong> dans le monde entier. </p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour éviter la consommation à «&nbsp;l’américaine&nbsp;»</h2>
+
+
+
+<p>Le style de <strong>consommation à l’américain</strong> est souvent pris comme modèle, ainsi, les produits peuvent alors être diffusés sur la plupart des marchés. Ce qui permet aux multinationales de <strong>réduire leurs coûts fixes</strong> et donc de faire des économies d’échelle. <strong>La restauration rapide</strong> ou « <span>fast food </span>» s’est développée d’une manière phénoménale, la même chose pour les <strong>plats cuisinés</strong> que l’on trouve partout dans les magasins spécialisés ou dans les grandes surfaces. Et c’est pour ces raisons qu’on commence à trouver des <strong>plats quasiment similaires</strong> chez une grande partie des <strong>professionnelles de la restauration</strong>.</p>
+
+
+
+<h2 className="sous_titre"><strong>Apprendre à cuisiner est bon pour la santé</strong></h2>
+
+
+
+<p>Pour <strong>apprendre à cuisiner</strong> on commence par <strong>apprendre les produits alimentaires</strong> comme les fruits, légumes, viandes, produits gras, … Et la connaissance des produits alimentaires permet de mieux les <strong>choisir et les marier et bien sur les cuisiner</strong>.</p>
+
+
+
+<p>Aussi, on apprend à chercher la <strong>provenance des fruits, légumes, viandes</strong>, … comment les choisir selon leur fraicheur, où et quand les acheter, …</p>
+
+
+
+<p>Parce que les fruits et légumes sont meilleurs quand ils sont consommés pendant leur saison, il est donc important de <strong>connaitre la saisonnalité des fruits et légumes</strong>.</p>
+
+
+
+<p><strong>L’hygiène et la sécurité</strong> sont des sujets très importants, la qualité d’un produit culinaire ne s’arrête évidemment pas à ses<strong> propriétés sensorielles</strong> (son aspect visuel, son goût et son odeur), mais il faut ajouter à cela la <strong>qualité nutritionnelle et la qualité sanitaire</strong>.</p>
+
+
+
+<p>En <strong>apprenant la cuisine</strong>, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux ….</p>
+
+
+
+<p>Et en apprenant la cuisine, on développe des <strong>automatismes et réflexes hygiéniques spontanés</strong>. Comme par exemple: </p>
+
+
+
+<ul className="wp-block-list"><li><strong>Se laver les mains</strong> avant de commencer et aussi souvent que nécessaire</li><li><strong>Se soigner les ongles</strong></li><li>N’utiliser que des denrées de bonne qualité sanitaire, <strong>vérifier étiquettes, dates limites, températures</strong>, …</li><li><strong>Respecter la chaîne de froid</strong></li><li><strong>Laver soigneusement tous les fruits et les légumes</strong> avant utilisation.</li><li><span>Ne jamais</span> <strong>éplucher les légumes sur la planche à découper</strong>.</li><li><strong>Laver et désinfecter</strong> soigneusement l’endroit de travail</li><li><strong>Nettoyer les couteaux</strong> après chaque utilisation.</li><li>… </li></ul>
+
+
+
+<h2 className="sous_titre">Apprenez la cuisine pour manger équilibré</h2>
+
+
+
+<p>Une cuisine est un immense laboratoire où on peut expérimenter des idées, <strong>innover des recettes</strong> ou bien sûr d’en inventer des nouvelles, il suffit d’apprendre les bases et de se laisser entraîner par son imagination. Si les <strong>techniques de base</strong> restent les mêmes durant plusieurs décennies, les habitudes des gens et les <strong>produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer d’apprendre et de se <strong>former en cuisine</strong> est le seul moyen de continuer de vivre avec son époque. Et pourquoi pas être acteur de la <strong>gastronomie de demain</strong></p>
+
+
+
+<p>Il y a une célèbre citation qui dit : « <em>dis moi ce que tu manges je te dirai qui tu es</em> ». Le <strong>style d’alimentation </strong>est un élément essentiel et constructeur de la personnalité de chacun. Et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’apprendre à cuisiner ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes.</p>
+
+
+
+<p>Comme on dit “<strong>aux grands maux, grands remèdes</strong>”, Pour notre bien être moral et physique il faut prendre des décisions courageuses et énergiques contre toute tentation qui nous entraine dans un mode de consommation irresponsable, il est plus que jamais important de nous réconcilier avec la nourriture et la cuisine. Et pour ce faire, il suffit de savoir comment cuisiner et de connaitre les produits alimentaires.</p>
+
+
+
+<h2 className="sous_titre">Comment apprendre à cuisiner concrètement</h2>
+
+
+
+<p>Maintenant que nous sommes un peu éclairés sur nos habitudes alimentaire, il faut passer à l’action. Voici mes <strong>conseils pour vous aider à apprendre à cuisiner</strong> même si vous êtes <strong>complètement débutant</strong>.</p>
+
+
+
+<h2 className="sous_titre">Apprendre à cuisiner avec un CAP cuisine à distance</h2>
+
+
+
+<p>Tout d’abord il faut comprendre <strong>pourquoi vous voulez apprendre à cuisiner</strong>. Et si vous êtes un parfait <strong>débutant</strong>, pourquoi ne pas songer à passer un <strong>CAP cuisine en candidat libre</strong>. (sachez que vous pouvez trouver sur ce site un programme d’apprentissage ainsi que quelques recettes et techniques de base destinés aux <strong>apprentis cuisinier</strong>)</p>
+
+
+
+<h2 className="sous_titre">Pour les débutants en Cuisine</h2>
+
+
+
+<p>Quand on est <strong>débutant</strong>, les premiers résultats sont importants pour <strong>garder la motivation</strong>, c’est pour cela que je vous conseille de commencer par des <strong>recettes très simples</strong> comme par exemple: </p>
+
+
+
+<ul className="wp-block-list"><li>une omelette aux champignons</li><li>La macédoine de légumes (Des légumes taillés en dés et cuits&nbsp; l’eau salée puis liés à la <strong>sauce mayonnaise</strong>. Et pour la rendre moins calorique, on peut remplacer la mayonnaise par de <strong>l’huile d’olive </strong>et quelques fines herbes)</li><li>Cuire une <strong>tranche de saumon à l’unilatéral</strong>. Dans un premier temps vous pouvez acheter des tranches pré-découpées. Ou demander à votre poissonnier de le faire pour vous, étant donné que l’habillage de poisson est un travail un peu technique. </li></ul>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb-1.png" alt="image" title="image"></img></a><figcaption><strong>Apprendre à cuisiner</strong> pour diversifier ses repas</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Les techniques de base</h2>
+
+
+
+<p>En apprenant à<strong> faire ces recettes faciles</strong> vous apprenez <strong>les techniques de base</strong> ci-dessous. Ceci vous placera au-dessus de la moyenne d’une grande majorité des gens qui ne font que consommer ce que les autres font. </p>
+
+
+
+<ul className="wp-block-list"><li>casser et <strong>cuire un oeuf</strong> en omelette</li><li><strong>Escaloper des champignons</strong></li><li><strong>laver et éplucher des légumes</strong></li><li>couper des <strong>légumes en bâtonnets</strong> puis en dés</li><li>cuire des légumes à l’eau salée (<strong>cuisson à l’anglaise</strong>)</li><li>faire une <strong>sauce mayonnaise</strong></li><li>cuire une tranche de <strong>poisson à l’unilatéral</strong> </li></ul>
+
+
+
+<p>Ces <strong>techniques sont la base de beaucoup d’autres recettes</strong>, vous pouvez les utiliser pour faire d’autres recettes dérivées ou bien créer vos propres recettes.</p>
+
+
+
+<p><strong>Cuisiner c’est, en même temps, prendre et fournir du plaisir. </strong>En effet, il est évident que l’alimentation est un besoin fondamental, mais si on se rapporte à notre environnement propre et notre civilisation, nous pouvons considérer que nous mangeons pour nous alimenter mais aussi pour nous faire plaisir. De ce fait, le cuisinier étant la personne qui fabrique le manger, il fourni par conséquent du plaisir aux gens qui consomment sa cuisine. Si je peux me permettre un dernier conseil, soyez passionné quand vous cuisinez et vous serez surpris de l’impact de cela sur vos plats.</p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
+
+    route: "/article/apprendre-cuisiner-manger-equilibre-technique-cap",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["Le métier de cuisinier. Comment devenir grand chef", "Podcast. Comment apprendre à cuisiner"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png",
+
+    lien: 'https://cuisinedebase.com/apprendre-cuisiner-manger-equilibre-technique-cap/'
+}
+
+const E5 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé</h1>
+
+
+		<div className="entry-content clearfix">
+
+
+<p>Notre santé est un patrimoine sacré, il est de notre devoir de la préserver de façon avisée et réfléchie. Beaucoup d’études scientifiques montrent que pour <strong>rester en bonne santé</strong>, il faut faire deux choses essentielles: d’abord il faut <strong>manger équilibré</strong> et varier les aliments. Puis, il faut <strong>pratiquer régulièrement une activité physique</strong>.</p>
+
+
+
+<h2 className="sous_titre">Rester En Bonne Santé avec une alimentation saine et équilibrée</h2>
+
+
+
+<p>Une <strong>alimentation saine</strong>, est une alimentation adaptée aux besoins nutritionnels pour le fonctionnement de l’organisme. (protéines, lipides, glucides, vitamines, minéraux, oligoéléments, fibres…). Si en plus d’une <strong>alimentation saine et équilibrée</strong>, on pratique une <strong>activité physique quotidienne</strong>, cela aide à protéger contre certaines maladies. Des maladies comme le diabète, les <strong>maladies cardiovasculaires</strong>, les cancers, etc.. Cela aide aussi à limiter les <strong>problèmes de fatigue</strong>, et même à renforcer le système immunitaire pour <strong>défendre contre les infections</strong>. </p>
+
+
+
+<p>Voici quelques <strong>conseils, astuces</strong> et repères de consommation pour <strong>apprendre à rester en bonne santé</strong> tous les jours.</p>
+
+
+
+<h1 className="sous_titre">Faire du sport pour rester en bonne forme</h1>
+
+
+
+<p>Tout le monde est conscient de <strong>l’utilité du sport</strong> dans notre quotidien. On n’ qu’à ouvrir les yeux pour remarquer qu’il y a énormément de possibilités pour intégrer du sport dans son agenda. Je citerai ci-dessous deux exemples qui m’ont particulièrement interpelé:</p>
+
+
+
+<ul className="wp-block-list"><li>Les <strong>salles de sport</strong> poussent comme des champignons partout dans nos villes, et la plupart du temps avec du matériel sophistiqué et des prix défiant toute concurrence.</li><li>Les responsables des aménagement des ville prennent sont de plus en plus conscience sur <strong>l’intérêt du sport dans le quotidien</strong> des citoyens, et cette prise de conscience les pousse à prévoir systématiquement des <strong>pistes cyclables en ville</strong>, et d’équiper les espaces verts de <strong>matériel de sport en libre service</strong>.&nbsp;</li></ul>
+
+
+
+<h2 className="sous_titre">Applications pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Je pourrais continuer à illustrer cette remarque par le nombre impressionnant d’<strong>applications mobiles</strong> et de <strong>site internet</strong> qui aident à <strong>pratiquer du sport de manière régulière</strong> et organisée, et puis le métier du <strong>coach sportif </strong>qui devient un métier très prisé par les jeunes. Il existe énormément d’exemples qui prouve que le sport doit être omniprésent dans le quotidien de chacun de nous.</p>
+
+
+
+<p><strong>Pratiquer une activité sportive</strong> est alors devenue une <strong>chose facile à faire</strong>, et avec un peu de volonté même les plus paresseux d’entre nous arriveront à <strong>mettre un peu de sport dans leur programme.</strong></p>
+
+
+
+<p>On convient donc à dire que <strong>pratiquer une activité sportive</strong> relève de la volonté de chacun. Puisque tous les moyens nécessaires sont à portée de main, et qu’il suffit de passer à l’action. </p>
+
+
+
+<p>Qu’en est il du deuxième pilier qui est “<strong>manger équilibré et varié</strong>”?</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air_thumb.jpg" alt="appareil-fitness-plein-air" title="appareil-fitness-plein-air"></img></a><figcaption>Salle de sport en plein air</figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Changer les habitudes alimentaires pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Est ce qu’il vous est déjà arrivé de chercher un <strong>Mcdo, Quick, Subway, BurgerKing, Domino’s</strong>, ou autre enseigne du genre. Il y a de grande chance que la réponse soit oui. Mais est ce que ça vous arrive alors que vous êtes en plein voyage touristique dans un pays étranger. Et que vous êtes sensé <strong>profiter et découvrir la nourriture et la tradition locales</strong>. Ne vous inquiétez pas vous n’êtes pas seul… 🙁 </p>
+
+
+
+<h2 className="sous_titre">Habitudes alimentaires standards</h2>
+
+
+
+<p>Beaucoup de personnes n’aiment pas <strong>changer leurs habitudes alimentaires</strong> pendant leurs voyages. Et préfèrent manger quelques choses de familier. Ceci est dû à notre <strong>mode consommation au quotidien</strong>. En effet, de nos jours, on commence à voire une certaine <strong>forme d’alimentation différente</strong> de ce que nos parents et nos grand parent ont connu. </p>
+
+
+
+<ul className="wp-block-list"><li>Nous prenons de moins en moins le temps pour déjeuner; </li><li>nous grignotons davantage;</li><li>et consommons beaucoup de produits de restauration rapides;</li><li>et des plats pré-cuisinés. </li></ul>
+
+
+
+<h2 className="sous_titre"><strong>Rester en bonne santé</strong> avec une consommation responsable</h2>
+
+
+
+<p>Nos <strong>habitudes alimentaires deviennent de plus en plus standards</strong>. Nous sommes conditionnés par une société de consommation qui pousse à <strong>consommer toujours plus</strong>. Et sans trop regarder la provenance, les étapes de fabrication ni même la composition des produits que nous consommons. Et les industriels font tout pour que cela continue ainsi. Il créent toujours des nouveaux <strong>produits, généralement pas chers et de médiocre qualité</strong>. Cette manière de consommer que beaucoup qualifient de « <strong>irresponsable</strong> » a grandement contribué à la <strong>propagation de l’obésité</strong>, de <span>cancer et de maladie cardio-vasculaires</span>. En partie à cause des <strong>additifs alimentaires</strong> utilisés dans les plats cuisinés pour <strong>allonger leur durée de conservation</strong>.</p>
+
+
+
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire_thumb.jpg" alt="obesité-maladies-cardiovasculaire" title="obesité-maladies-cardiovasculaire"></img></a><figcaption><strong>rester en bonne santé</strong></figcaption></figure></div>
+
+
+
+<h2 className="sous_titre">Apprendre à cuisiner pour <strong>rester en bonne santé</strong></h2>
+
+
+
+<p>Selon une étude effectuée par le site mangerbouger.fr (1), la France pourrait compter près de 30 % d’adultes obèses en 2020. Ceci résulte d’un déséquilibre entre l’<strong>apport alimentaire et la dépense énergétique</strong>. Ce déséquilibre s’est installé à cause du recul spectaculaire de l’<strong>activité physique </strong>et de la <strong>modification des habitudes alimentaires.</strong> Avec une absorption accrue de <strong>boissons sucrées et d’aliments à haute densité énergétique et pauvres en nutriments</strong>, associée à une <strong>consommation insuffisante de fruits et de légumes</strong>.</p>
+
+
+
+<p>Beaucoup de gens se contentent de <strong>consommer et de manger ce que les autres ont fabriqué</strong>. Et ne se pose jamais la question sur l’origine, provenance ou circuit de distribution des produits qu’ils consomment. Cette manière de consommation irresponsable, pousse les <strong>professionnels de restauration</strong> et les <strong>industriels de l’agroalimentaire</strong> à produire toujours en grande quantité. Et la plupart du temps sans se soucier de la <strong>qualité nutritionnel de leurs produits</strong>. Leur seul objectif est de <strong>réduire les coûts de production</strong> parfois même au détriment des <strong>obligation sanitaires</strong> de leurs produits. souvenez vous de la <strong>viande de cheval </strong>qui a été retrouvée dans des <strong>lasagnes pré-cuisinées</strong> et plus récemment du lait pour enfant…</p>
+
+
+
+<h2 className="sous_titre">Comment préserver concrètement sa santé</h2>
+
+
+
+<p>Maintenant que nous sommes un peu éclairés sur la relation entre la <strong>santé et le bien être</strong> et puis l’alimentation et les <strong>activités physiques</strong>, il faut passer à l’action. Voici mes conseils pour vous aider à franchir le pas:</p>
+
+
+
+<ul className="wp-block-list"><li><strong>Marcher le plus souvent </strong>que possible (pour aller chercher le pain, le journal, emmener les enfants à l’école, faire une balade, …)</li><li>Privilégier <strong>vélo, trottinette, rollers</strong>, … aux transport en commun et à la voiture (si possible bien sûr)</li><li>Mettre un programme régulier pour <strong>pratiquer une activité physique</strong>,</li><li>Il y a un proverbe Marocain qui dit “<strong>peu et régulier est mieux que beaucoup et interrompu</strong>” si vous êtes fâché avec le sport depuis un moment, il vaut mieux commencer doucement mais de façon régulière.</li><li>Si vous n’avez pas le temps, <strong>7 minutes par jour suffisent</strong>, utilisez pour cela la méthode de “<a href="https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9_de_haute_intensit%C3%A9">l’entrainement fractionné de haute intensité</a>”. qui consiste à faire 12 exercices pendant 30 secondes chacun à une intensité maximale et de prendre 10 secondes de poses en fin de chaque exercice.</li></ul>
+
+
+
+<h2 className="sous_titre">Adopter une alimentation saine variée et équilibrée</h2>
+
+
+
+<ul className="wp-block-list"><li><strong>Manger des fruits et légumes</strong> le plus souvent possible</li><li><strong>Manger varié et équilibré</strong></li><li>Réduire la consommation de produits contenant des <strong>additifs alimentaire ou améliorant</strong> ou autre composant du même genre</li><li>Je ne peux m’empêcher de vous conseiller d’<strong>apprendre à cuisiner</strong> vos propres plats. Car ce n’est que de cette manière que vous pouvez savoir exactement ce que vous mettez dans votre assiette. Vous pouvez commencer par exemple à apprendre ces recettes et ces techniques de base.</li></ul>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
+
+    route: "/article/apprendre-cuisiner-pour-rester-en-bonne-sante",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["Apprendre à cuisiner pour manger équilibré et mieux s’alimenter", "Pourquoi le métier de cuisinier est passionnant et attractif", "Comment créer des plats équilibrés et complets"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sante/'
+}
+
+const E6 = {
+
+    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
+<div className="post-content">
+
+			<h1 className="titre_article">Méthode simple et efficace pour atteindre ses objectifs</h1>
+
+		<div className="entry-content clearfix">
+
+
+<h2 className="sous_titre">Les bonnes résolutions pour <strong>atteindre ses objectifs</strong></h2>
+
+
+
+<p><span>Dès janvier prochain, je commencerai à faire une <strong>activité physique régulièrement</strong>, je mangerai moins de gras et moins de fast-food, <strong>je cuisinerai davantage</strong> et je mettrai plus de <strong>légumes</strong> dans mes assiettes. Ces belles paroles raisonnent dans mes oreilles chaque fin d’année.&nbsp; J’ai pris au moins une dizaine de fois ces <strong>résolutions</strong>, mais au jour où j’écris ces lignes, je ne pratique aucune <strong>activité physique</strong> et je suis un adepte des <strong>gros sandwich américains</strong>. Rien à faire, les premiers jours qui suivent ma décision de prendre des nouvelles et <strong>bonnes résolutions</strong>, j’arrive à tenir à peu près mes engagements, mais au fil du temps, après quelques jours ou au mieux quelques semaines, tout part aux oubliettes <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-sadsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-sadsmile.png?w=910&amp;ssl=1" alt="Triste"></img>. </span></p>
+
+
+
+<p><span>Heureusement que maintenant j’ai une méthode fiable qui me permet de <strong>tenir tous mes engagements</strong> et <strong>atteindre mes objectifs</strong>.</span></p>
+
+
+
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un <strong>contenu gratuit</strong> et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
+
+
+
+<h2 className="sous_titre">Se faire aider pour tenir ses engagements</h2>
+
+
+
+<p><span>Cette année c’est la bonne <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img> !</span></p>
+
+
+
+<p><span>C’est bien de <strong>prendre des bonnes résolutions</strong> pour bien commencer l’année, mais c’est encore mieux de les appliquer réellement. Cette année sera la première année où<strong> je mettrai en pratique mes résolutions</strong>, et pour ce faire, je me suis fait aider par quelques livres et conférences sur le <strong>développement personnel</strong>. J’ai compris enfin qu’il existe des méthodes, <strong>prouvées scientifiquement ou par l’expérience</strong>, qui permettent de résoudre le <strong>problème des engagements non tenus</strong> et des <strong>résolutions non appliquées</strong>. Dans cet article je vais vous révéler la méthode que je vais suivre pour que cette année soit l’année où tous mes engagements seront respectés et mes résolutions seront appliquées.</span></p>
+
+
+
+<p><span>Mais avant de commencer, sachez que je participe avec cet article à l’évènement “Votre meilleure astuce pour <u>appliquer</u> vos bonnes résolutions” du blog </span><a href="https://devenez-meilleur.co/"><span>Devenez meilleur</span></a><span>. C’est un blog qui parle du développement personnel, et je conseille </span><a href="https://devenez-meilleur.co/comment-se-lever-immediatement-quand-votre-reveil-sonne/"><span>cet article</span></a><span> aux gens qui n’arrivent pas à se lever le matin immédiatement quand le réveil sonne.</span></p>
+
+
+<div className="post-image">
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg" alt="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois" title="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois"></img></a><figcaption>Manger des légumes</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Sept idées pratiques pour <strong>atteindre ses objectifs</strong><span></span></h2>
+
+
+
+<p><span>Comme à chaque fin d’année, nous sommes nombreux à <strong>prendre des bonnes résolutions</strong> soit pour améliorer notre qualité de vie, ou bien pour <strong>progresser dans nos projets</strong> professionnels ou personnels. </span></p>
+
+
+
+<p><span>Voici une méthode, en sept points, qui permet de <strong>mettre en application les résolutions</strong>:</span></p>
+
+
+
+<ol className="wp-block-list"><li><span>Définir des <strong>objectifs précis, raisonnables et atteignables</strong>. </span> </li><li><span><strong>Fixer les objectifs dans des périodes courtes</strong>. Les objectifs définis sur un mois ou deux sont plus faciles à contrôler et à atteindre que des objectifs définis sur une année par exemple. </span> </li><li><span>Traduire ensuite ses <strong>objectifs en grandeurs faciles à quantifier et à mesurer</strong>. (“perdre du poids” peut se traduire par “perdre 2kg” par exemple. “Faire du sport” peut se traduire par “faire 4 heures de sport par semaine”, …)</span> </li><li><span>Mettre un<strong> plan d’action pour atteindre ses objectifs</strong>. Une sorte de planning qui détaille concrètement comment faire.</span> </li><li><span><strong>Se donner les moyens</strong> nécessaires pour rendre les <strong>objectifs facilement atteignables</strong>.</span> </li><li><span><strong>Faire des points régulier</strong> pour constater l’état d’avancement vers les objectifs </span> </li><li><span>Une fois les objectifs de la première période sont atteints, il faut <strong>fêter convenablement l’évènement</strong> avant de fixer les objectifs de la période suivante et ainsi de suite jusqu’à la fin de l’année.</span>  </li></ol>
+
+
+<div className="post-image">
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand_thumb.jpg" alt="za3za3-jus-fruits-gourmand" title="za3za3-jus-fruits-gourmand"></img></a><figcaption>fêter l’évènement quand l’objectif est atteint</figcaption></figure></div>
+
+
+<h2 className="sous_titre">Exemple de situation pour atteindre ses objectifs<span></span></h2>
+
+
+
+<p><span>Prenons comme exemple une de mes résolutions qui consiste à <u>arrêter de consommer de la malbouffe</u>. C’est un objectif précis mais il n’est pas raisonnable, je ne pourrai pas arrêter du jour au lendemain d’aller à ma sandwicherie préférée, je pourrais le faire pendant quelques jours voire quelques semaines, mais je ne pourrais pas garantir que je tiendrais une année. Alors pour rendre mon objectif raisonnable et donc atteignable, je le ré-exprimerais de la manière suivante: pendant <u>un mois</u>, je ne mangerai que, au maximum, <u>4 fois</u> dans un établissement de restauration rapide. <u>C’est raisonnable, atteignable, quantifié et facile à mesurer</u>!</span></p>
+
+
+
+<h2 className="sous_titre">Plan d’action pour atteindre ses objectifs</h2>
+
+
+
+<p><span>Maintenant il faut mettre en place un <strong>plan d’action pour atteindre cet objectif</strong>. En identifiant les moments de la journée où on est le plus susceptibles de <strong>ne pas respecter nos engagements</strong>, on pourrait trouver des solutions pratiques pour faire en sorte de <strong>résoudre le problème</strong>. Dans mon cas c’est pendant ma pose du midi que je suis le plus tenté de consommer un hamburger ou un kebab ou autre produit similaire, alors pour éviter cela je dois</span> :</p>
+
+
+
+<ul className="wp-block-list"><li><span>ramener mon panier repas au travail, </span> </li><li><span>me faire livrer un plateau repas équilibré. </span>  </li></ul>
+
+
+
+<p><span>Le fait de se poser la question de comment peut-on appliquer concrètement le <u>plan d’action</u> pousse à réfléchir sur les <u>moyens</u> à déployer pour réussir sa mise en <u>application</u>. Et les moyens peuvent être sous forme de matériels, du temps, de l’argent, … Dans le cas de mon exemple, il faudra </span></p>
+
+
+
+<ul className="wp-block-list"><li><span>faire des courses en quantité suffisante pour couvrir les repas du midi, </span> </li><li><span>pouvoir conserver et réchauffer la nourriture, </span> </li><li><span>avoir des Tupperware pour le transport,</span> </li><li><span>chercher des entreprises de livraison de plateau repas équilibré</span> </li><li><span>…</span>  </li></ul>
+
+
+
+<h2 className="sous_titre">Appliquer les bonnes résolutions</h2>
+
+
+
+<p><span>Une fois tous les ingrédients sont réunis, la question d’appliquer les résolutions <u>reste du sort de la volonté et de la motivation</u> de chacun. Et justement le fait de réussir à <strong>tenir ses engagements sur une petite période</strong> permet de rester motivé et de commencer la période suivante avec enthousiasme, d’où l’intérêt de se fixer des <u>objectifs raisonnables et à court terme</u>.</span></p>
+
+
+
+<p><span>J’espère que cette méthode vous aidera à accomplir vos ambitions pour l’année qui vient, et j’en profite aussi pour vous souhaiter mes <strong>meilleurs vœux de bonheur et de réussite</strong> dans vos projets personnels et professionnels.</span></p>
+
+
+
+<p><span>Si vous aussi vous avez une méthode pour appliquer les bonnes résolutions et que vous souhaitez la partager avec nous, utilisez la rubrique des commentaires pour nous en faire part.</span></p>
+
+            </div>
+        </div>
+    </article>,
+
+    titre: "Méthode simple et efficace pour atteindre ses objectifs",
+
+    route: "/article/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions",
+
+    categorie: "3",
+
+    sous_categorie: "5",
+
+    articlesConnexes:["Comment appliquer les bonnes résolutions en 2021. La meilleure astuce", "Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens", "La cuisine pour quitter la “Rat Race”"],
+
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg",
+
+    lien: 'https://cuisinedebase.com/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions/'
 }
 
 const R1 = {
@@ -4562,7 +5355,7 @@ const R1 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Poursuite d’études après un CAP cuisine. Les différentes possibilités.", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg",
 
@@ -4634,7 +5427,7 @@ const R2 = {
         </div>
     </article>,
 
-    titre: "Les principales phases de la cuisson du sucre",
+    titre: "Reconversion professionnelle. Evaluation de compétence pour ouvrir son propre restaurant",
 
     route: "/article/reconversion-professionnelle-evaluation-de-competence-pour-ouvrir-son-propre-restaurant",
 
@@ -4642,7 +5435,7 @@ const R2 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Les compétences indispensables pour ouvrir un restaurant", "Reconversion professionnelle en cuisine ou restauration : Comment la réussir", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-with-6-arms.jpg",
 
@@ -4726,7 +5519,7 @@ const R3 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Reconversion professionnelle. Evaluation de compétence pour ouvrir son propre restaurant", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine", "Reconversion professionnelle en cuisine ou restauration : Comment la réussir"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-give-me-a-picture-of-a-large-restaurant-full-of-cu.jpg",
 
@@ -4866,7 +5659,7 @@ const R4 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Reconversion cuisinier par un CAP cuisine", "Reconversion professionnelle. Evaluation de compétence pour ouvrir son propre restaurant", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1641734989_Female-chef-strong-with-a-four-hands.-_xl-beta-v2-2-2.png",
 
@@ -4978,7 +5771,7 @@ const R5 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine", "La cuisine pour quitter la “Rat Race”"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png",
 
@@ -5091,7 +5884,7 @@ const R6 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Reconversion professionnelle en cuisine ou restauration : Comment la réussir", "Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres", "Les erreurs à éviter lors d’une reconversion professionnelle en cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20160723_153329_thumb.jpg",
 
@@ -5174,7 +5967,7 @@ const R7 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Reconversion professionnelle en cuisine ou restauration : Comment la réussir", "Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres", "La cuisine pour quitter la “Rat Race”"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/bullshit-job-good-job.png",
 
@@ -5321,7 +6114,7 @@ const R8 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Challenge CAP cuisine candidat libre session 2023", "Foire aux questions CAP cuisine en candidat libre – Le stage"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb.jpg",
 
@@ -5534,7 +6327,7 @@ const R9 = {
 
     sous_categorie: "6",
 
-    articlesConnexes: [],
+    articlesConnexes:["Le métier de cuisinier. Comment devenir grand chef", "Podcast 2. Les qualités, comportements et traits de caractère d’un bon cuisinier", "Omelette plate Savoyarde. Fiche et techniques de base"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/lettre.jpg",
 
@@ -5573,7 +6366,7 @@ const V1 = {
         </div>
     </article>,
 
-    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
+    titre: "Epreuve de mathématique physique chimie CAP session 2023",
 
     route: "/article/epreuve-de-mathematique-physique-chimie-cap-session-2023",
 
@@ -5581,7 +6374,7 @@ const V1 = {
 
     sous_categorie: "-1",
 
-    articlesConnexes: [],
+    articlesConnexes:["Les matières générales dans l’examen CAP cuisine", "Comment créer des fiches de révision pdf pour préparer les épreuves du CAP", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/05/Miniature-Mathematiques-et-Physique-Chimie-Groupement-2-tertiaires-services-hotellerie-alimentation-restauration.png",
 
@@ -5757,7 +6550,7 @@ const V2 = {
 
     sous_categorie: "-1",
 
-    articlesConnexes: [],
+    articlesConnexes:["Foire aux questions CAP cuisine en candidat libre – Le stage", "Podcast épreuves CAP cuisine. Professionnelles et générales", "Epreuves EP1 EP2 PSE dans le Podcast CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image.png",
 
@@ -5871,804 +6664,11 @@ const V3 = {
 
     sous_categorie: "-1",
 
-    articlesConnexes: [],
+    articlesConnexes:["Podcast stage CAP cuisine candidat libre", "CAP Cuisine. Les Défis du Candidat Libre", "Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10"],
 
     image: "https://i1.ytimg.com/vi/7Qs0CrV6Rn8/hqdefault.jpg",
 
     lien: 'https://cuisinedebase.com/questions-cap-cuisine-candidat-libre/'
-}
-
-const VA1 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">La cuisine pour quitter la “Rat Race”</h1>
-
-
-		<div className="entry-content clearfix">
-
-<p>Connaissez votre destin.</p>
-<p>Dans l’abondance de l’eau.</p>
-<p>L’insensé a soif… »</p>
-<p>Ces mots proviennent d’une traduction de la célèbre chanson de Bob Marley « Rat race ».</p>
-<div className="post-image">
-<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="rat-race-2395779_1920" alt="rat-race-2395779_1920" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg"></img></a>  </p>
-</div>
-<p>Certains traduiront cela par « race de rat » qui peut être utilisé comme une injure. Et d’autre traduiront cela par « course de rat » à l’image des rats qui courent dans des roues ignorant qu’ils sont prisonniers d’une course sans fin. D’ailleurs dans la chanson on joue avec les deux significations.  </p>
-<p>Pourquoi je vous raconte cela, cette chanson m’a beaucoup marqué, malgré le fait qu’elle soit écrite dans une autre époque, probablement les années 70, elle reflète encore la société dans laquelle nous vivons aujourd’hui. En effet, la vie de nombreuses personnes est dédiée à leur travail, elle se résume en général à « métro-boulot-dodo ».  </p>
-<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" title="oleg-sergeichik-500326-unsplash" alt="oleg-sergeichik-500326-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/oleg-sergeichik-500326-unsplash_thumb.jpg"></img></a>  </p>
-<p>Une course qui ressemble étrangement à celle des rats, à une différence près : que nous, qui appartenons à la race humaine « intelligente », notre course peut s’arrêter et au moins de 2 manières différentes :  </p>
-<ol>
-<li>
-<h2>Elle prendra fin bien sûr à l’âge de la retraite, mais à condition, qu’on ait suffisamment cotisé pour toucher une indemnité descente et qu’on ait fini de rembourser les différents crédits, de la maison, de la voiture, de consommation, … </h2>
-</li><li>
-<h2>Le deuxième scénario est celui que je préfère et que je préconise, il consiste à prendre son destin en main et de quitter la course des rats vers une course de bien être et de bonheur. Et ce n’est pas les nombreux salariés qui tentent chaque année une <u>reconversion professionnelle</u> vers un travail manuel, et en rapport avec une de leurs passions, qui diront le contraire.</h2>
-</li>
-</ol>
-<p>Quitter son train train quotidien n’est pas une chose facile, il faut avoir des objectifs précis, et tenir à <u>respecter ses bonne résolutions</u>. Une reconversion professionnelle ne doit pas se faire à la légère, il faut qu’elle soit bien préparée en pesant le pour et le contre.  </p>
-<p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash.jpg?ssl=1"><img data-recalc-dims="1" loading="lazy" decoding="async" title="dylan-nolte-576808-unsplash" alt="dylan-nolte-576808-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash_thumb.jpg"></img></a>&nbsp;L’image décrit des personnes en train de travailler dans un bâtiment de bureaux. La question qu’on peut se poser est quelle est la différence entre eux et les frères Dalton lorsque ces derniers sont derrière les barreaux…?  </p>
-<h2 className="post-image">Un cuisinier professionnel peut exercer plusieurs métiers</h2>
-<p>Un des métiers que j’aurais aimé exercer est celui d’un chef dans un restaurant, pour moi <u>les chefs cuisiniers ont tellement de qualités</u> que je les considère comme des personnes qui vendent du plaisir tout en se faisant plaisir. En apprenant la cuisine, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux …. C’est une des raisons pour laquelle les centres de formations voient arriver des personnes passionnées souhaitant se former en cuisine, et pour pouvoir vivre de leur passion, il y a plusieurs activités ou métiers qu’ils peuvent faire, j’en ai détaillé huit dans un précédent article comme par exemple: chef à domicile, traiteur, formateur, …  </p>
-<p>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u>quelques recettes</u>, qu’on peut facilement apprendre en suivant les conseilles que j’ai réunis dans cet article<u></u>, on peut passer un CAP cuisine en tant que candidat libre. Et pour vous aider dans ce projet, je vous ai fait un <u>programme d’entraînement </u>qui peut vous aider à préparer ce diplôme en 6 mois.  </p>
-<p>Il est temps d’arrêter de travailler pour le travail et de toujours courir pour acheter toutes les choses qu’on a envie de posséder, mais sans forcément en avoir besoin. Faire de sa passion son propre travail pour quitter la rat race pour une véritable course vers le bonheur.</p>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "La cuisine pour quitter la “Rat Race”",
-
-    route: "/article/la-cuisine-pour-quitter-la-rat-race",
-
-    categorie: "3",
-
-    sous_categorie: "0",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/rat-race-2395779_1920_thumb.jpg",
-
-    lien: 'https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/'
-}
-
-const E1 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Comment appliquer les bonnes résolutions en 2021. La meilleure astuce</h1>
-
-
-		<div className="entry-content clearfix">
-
-<div className="post-image">
-<figure className="post-image size-large"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg" alt="pexels-photo-5408689.jpeg" className="wp-image-1705" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1880&amp;ssl=1 1880w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?resize=600%2C401&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg?w=1820&amp;ssl=1 1820w"></img><figcaption>Photo par Olya Kobruseva</figcaption></figure>
-</div>
-
-
-<p>Et heureusement qu’il y a une partie de gens beaucoup plus responsable et consciente, ces gens-là font la fête s’amusent rigolent, font des réunions et rencontres entre familles et amis, bref profitent pleinement de la vie, mais en même temps, ils sont soucieux de leurs <strong>bien être physique et moral</strong>, ils ne laissent donc pas passer cette occasion de <strong>fin d’année</strong> sans <strong>faire le point</strong> sur leur situation et comment faire pour l’améliorer en prenant en compte les enseignements appris durant l’année qui vient de s’écouler.</p>
-
-
-
-<h2 className="sous_titre">Astuce pour appliquer les résolutions de fin d’année</h2>
-
-
-
-<p>Comme la grande majorité des personnes de cette époque, je suis abonné à un certain nombre de <strong>newsletter de bolgs</strong>, marques, personnalités connues, etc… et la liste est longue. Et comme tout le monde donc, je reçois des <strong>conseils</strong>, <strong>feedback</strong> et des <strong>astuces</strong> pour appliquer les <strong>bonnes résolutions de fin d’année</strong>.</p>
-
-
-
-<p>Parmi toutes les astuces que j’ai eues, il y en a une qui a attiré toute mon attention. Et elle est <strong>facilement applicable</strong> dans n’importe quel domaine, notamment pour <strong>préparer le CAP cuisine en candidat libre</strong>.</p>
-
-
-
-<h2 className="sous_titre">Objectifs de fin d’année</h2>
-
-
-
-<p>Il s’agit en fait d’une chose à ne pas faire. Ne pas faire des <strong>objectifs très vagues</strong> et qui durent sur toute une année. En effet, le fait de découper un <strong>grand objectif</strong> en plusieurs petits objectifs est très efficace. Cela permet de <strong>mesurer l’efficacité</strong> de la démarche entreprise et de rectifier le tir en cas de besoin.&nbsp;</p>
-
-
-
-<p>Imaginons une personne qui attend la fin de l’année pour <strong>faire le bilan</strong>, si cette personne a commis une erreur qui a empêché l’aboutissement de son <strong>projet</strong>, elle ne se rendra compte qu’à la fin de l’année, au moment où elle fera son <strong>bilan</strong>. A contrario, imaginons une deuxième personne qui a découpé son grand projet en <strong>plusieurs mini-projets</strong>, en cas d’erreur, cette personne a largement le temps de se rattraper et de rectifier son erreur à l’<strong>étape suivante de son projet</strong>, et éviter à la même occasion une <strong>perte de temps</strong> qui pourrait lui coûter trop cher.</p>
-
-
-
-<h2 className="sous_titre">Objectif: CAP cuisine à distance</h2>
-
-
-
-<p>Cet article participe à l’évènement “Votre meilleure astuce pour&nbsp;appliquer&nbsp;vos bonnes résolutions” du blog&nbsp;<a href="https://devenez-meilleur.co/">Devenez meilleur</a>. Mon article préféré est&nbsp;<a href="https://devenez-meilleur.co/quest-ce-que-le-respect/">celui-ci</a>.</p>
-
-
-
-<p><strong>Cuisinedebase</strong> est un blog qui aide les personnes qui souhaitent <strong>passer le CAP cuisine en candidat libre</strong> à <strong>bien s’organiser et préparer les épreuves pratiques</strong>. Personnellement, je pense que c’est suffisant de bien préparer le <strong>CAP cuisine à distance</strong> en seulement <strong>6 mois</strong>. Si vous envisagez <strong>de préparer le CAP cuisine à distance et en solo</strong>. voici une application concrète de l’astuce précédente, au lieu de faire des résolutions à l’année (comme : <strong>Préparer les épreuves écrites et pratiques pour réussir le CAP cuisine</strong>), faites des résolutions pour les 60 prochains jours (comme: <strong>Faire 6 recettes qui permettent de préparer les épreuves pratiques et 2 examen blanc</strong>). Ne pensez même pas au reste de l’année. Et quand la résolution n’est plus excitante en Février, devinez quoi… vous avez déjà fait un tiers ! Vous n’allez pas abandonner maintenant !</p>
-
-
-
-<p>Un dernier effort – et vous avez terminé la moitié des entrainements en beauté.</p>
-
-
-
-<p>Et le top du top, c’est que, dès le mois de mars, la deuxième partie commence – et vous avez le droit à un&nbsp;tout <strong>nouveau départ</strong>.</p>
-
-
-
-<p>Et encore un dernier nouveau départ en mai.</p>
-
-
-
-<p>3 nouveaux départs pour <strong>réaliser les résolutions de début d’année</strong>. Quel bonheur.</p>
-
-
-
-<p>Ça vous aidera à <strong>créer des plans</strong> que vous allez tenir, à <strong>rester motivé</strong> et à <strong>éliminer les distractions</strong>.</p>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Comment appliquer les bonnes résolutions en 2021. La meilleure astuce",
-
-    route: "/article/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/01/pexels-photo-5408689.jpeg",
-
-    lien: 'https://cuisinedebase.com/lastuces-pour-appliquer-les-bonnes-resolutions-en-2021/'
-}
-
-const E2 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres</h1>
-
-		<div className="entry-content clearfix">
-
-<div className="post-image">
-    <figure className="aligncenter"><img decoding="async" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&amp;usqp=CAU" alt="Livre, Coffee And Glasses | Photo gratuite | LibreShot"></img><figcaption>Reconversion professionnelle</figcaption></figure>
-</div>
-<p>Vendredi 15 février, le réveil est trop dur ce matin là, et je n’ai aucune envie d’aller au travail. La journée commence très mal, je n’ai plus de dosettes de café. Les chauffeurs de bus font grève. Et par conséquent, je dois marcher une vingtaine de minutes sous une pluie menaçante avant d’arriver à mon bureau. Ajouter à cela, et par dessus tout, mon rendez vous avec Arnaud à 8h30 <strong>va propulser cette matinée dans le top 3</strong> des pires matinées de mon existence. Et c’est aussi grâce à cette mauvaise journée que j’ai commencé à réfléchir sérieusement à ma <strong>reconversion professionnelle</strong>.</p>
-
-
-
-<h2 className="sous_titre">Le début de ma reconversion professionnelle</h2>
-
-
-
-<p>En fait Arnaud est l’un de mes clients de la liste noire, le genre arrogant prétentieux je sais tout… son gros problème est le fait qu’il se croit vraiment roi parce que pour lui “<strong>le client est roi</strong>”. </p>
-
-
-
-<p>En arrivant au bureau, j’ai juste le temps de faire ma tasse de café matinale. Passage obligatoire avant de me rendre en salle de réunion. Rêvons un peu! Si tout va bien. Dans exactement 10 minutes, la présentation powerpoint sera accueillie favorablement par Arnaud. Cette présentation que j’ai mis une journée à mettre en place. Et pour une fois, la réunion durera moins que d’habitude. Je serai débarrassé d’Arnaud et de ses remarques nauséabondes et ma journée prendra une autre tournure. Et à la fin de la réunion je ne penserai pas comme d’habitude à <strong>vouloir changer de métier</strong>. Et à chercher comment faire une <strong>reconversion professionnelle</strong></p>
-
-
-
-<p><strong>… Il n’est pas interdit de rêver</strong>! Réellement, cela ne se passe jamais comme ça. La réunion qui doit durer une heure ou 2 grand max, donnera naissance à une dizaine d’autres réunions. Qui elles aussi dureront en moyenne entre 2 et 3 heures chacune, quel gâchis! à croire que le temps n’a aucune valeur.</p>
-
-
-
-<h2 className="sous_titre">Le livre à l’origine de ma <strong>reconversion professionnelle</strong></h2>
-
-
-
-<p>J’ai vécu ce scénario pendant très longtemps, tellement longtemps que j’ai commencé à croire que pour qu’une <strong>décision soit valide</strong>, elle doit obligatoirement être le sujet d’une dizaine de réunions. Jusqu’au jour où j’ai fait une découverte qui m’a vraiment <strong>ouvert les yeux</strong>, cette découverte s’appelle “<strong><a href="https://amzn.to/3kIPaON">la semaine de 4 heures</a></strong>” le <strong>livre</strong> best seller de <strong>Tim Ferriss</strong>. Dans ce livre, l’auteur explique comment il a réussi de sortir d’une boucle interminable, une course derrière un bonheur fictif et imposée par la société “moderne”. En faisant une analyse objective de son quotidien, Tim Ferriss se rend compte que son <strong>véritable bonheur</strong> dépend de la bonne <strong>utilisation de son temps</strong>, et il déduit que son <strong>temps est son principal patrimoine</strong> et qu’il se doit de mieux le préserver.</p>
-
-
-
-<h2 className="sous_titre">Le bonheur au travail</h2>
-
-
-
-<p>Et la solution qu’il a avancé est très simple, elle est inspiré d’une loi statistique qui est <strong>la loi de Pareto</strong>, ou la loi <strong>20/80 (vingt quatre vingt)</strong>. Et en appliquant cette loi à lui même, il s’est rendu compte par exemple que:</p>
-
-
-
-<blockquote className="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>seulement 20% de son portefeuille client représente 80% de ses recettes, il décide donc de concentrer ses efforts de fidélisation sur ces 20% de clients plutôt que de perdre son temps avec la totalité de ses clients.</p><p>il utilise seulement 20% de son temps effectivement pour réaliser 80% de son travail, il a mis en place une stratégie intelligente basée sur du télétravail et de l’automatisation de tâches répétitives</p></blockquote>
-
-
-
-<p>Il a réussi à mettre un soupçon de <strong>bonheur dans son travail</strong> au quotidien juste en donnant de la <strong>valeur à son temps</strong>.</p>
-
-
-
-<h2 className="sous_titre">Pourquoi faire une <strong>reconversion professionnelle</strong></h2>
-
-
-
-<p>Selon ce livre, le <strong>schéma conventionnel</strong> et en quoi beaucoup de personnes croient <strong>est tout simplement un leurre</strong>.&nbsp; Ce schéma peut être résumé de la manière suivante:</p>
-
-
-
-<ul className="wp-block-list"><li>Faire des <strong>grandes études</strong></li><li>Trouver un <strong>travail</strong> dans une <strong>grande entreprise</strong></li><li>Grimper les échelons pour avoir un <strong>meilleur salaire</strong> et une <strong>bonne retraite</strong></li><li>Profiter du temps de la <strong>retraite</strong> pour passer des <strong>bons moments</strong></li></ul>
-
-
-
-<p>Si ce schéma était parfait, pourquoi donc il y a de plus en plus de gens à penser à faire une <strong>réorientation professionnelle</strong>. La réponse est toute simple…</p>
-
-
-
-<p>Seulement arrivé à l’âge de la retraite, beaucoup de gens n’ont plus suffisamment de forces pour faire des activités insolites.<strong>Tim Ferris</strong> propose un <strong>schéma alternatif</strong> qui consiste à créer ce qu’il appelle une “<strong>muse</strong>”, c’est une sorte de machine automatique à <strong>revenus passifs</strong> qui rend son créateur <strong>indépendant financièrement</strong>. Et de cette manière il peut passer de bons moment et <strong>profiter de sa jeunesse</strong> et de <strong>sa bonne santé</strong> pour faire ce qu’il l’amuse le plus. Plutôt que de rester enfermé dans un bureau et supporter des clients qui se prennent vraiment pour des rois.</p>
-
-
-
-<h2 className="sous_titre"><strong>Reconversion professionnelle</strong> en cuisine</h2>
-
-
-
-<p>Je participe avec le présent article à un évènement interblogueur. Il est organisé par <strong>Olivier Roland </strong>du blog <a href="https://des-livres-pour-changer-de-vie.com/">Des Livres pour changer de vie</a>. J’apprécie beaucoup ce blog, et en fait mon article préféré est <a href="https://des-livres-pour-changer-de-vie.com/la-semaine-de-4-heures/">celui-ci</a>.</p>
-
-
-
-<p>Le <strong>deuxième livre</strong> qui m’a beaucoup marqué, et qu’il n’a rien avoir avec le premier est “<strong><a href="https://www.amazon.fr/gp/product/2857089260/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=2857089260&amp;linkId=6a6e2ae8bc55b8dc2de04def579f442e">La cuisine de référence</a></strong>” de <strong>Michel Maincent-Morel</strong>. Ce livre m’a permis tout simplement de découvrir <strong>le cuisinier amateur</strong> qui se cache en moi, c’est grâce à ce livre que j’ai pu apprendre les <strong>bases de la cuisine</strong>, <u>gastronomique et traditionnelle</u>. Il m’a aussi été d’une grande utilité. Quand j’ai décidé de passer le <strong>CAP cuisine en tant que candidat libre</strong> en 2015.</p>
-
-
-
-<h2 className="sous_titre">Je change de métier</h2>
-
-
-
-<p>Et c’est grâce à cette <strong>formation à distance</strong> que j’ai pu découvrir le <strong>métier de cuisinier</strong>. J’ai suivi à la lettre les recommandations et <strong>enseignements de ce livre</strong>. Et je me suis entrainé tout seul dans ma petite cuisine à apprendre<strong> les bases de la cuisine</strong>, ainsi que les astuces de <strong>cuisiniers professionnels</strong>. Bref tout ce qui orbite autour de la cuisine et la <strong>restauration professionnelle</strong>. C’est grâce à cette formation et ce livre que j’ai pu dire un jour à mes proches «&nbsp;<strong>je change de métier</strong>«&nbsp;</p>
-
-
-
-<h2 className="sous_titre">Un livre inspirant</h2>
-
-
-
-<p>Et le <strong>troisième livre inspirant</strong> qui m’a marqué est “<strong><a href="https://www.amazon.fr/gp/product/210076196X/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=210076196X&amp;linkId=7d37d72e78f60a72a261d9566fc987ff">Partie de rien</a></strong>” de <strong>Hapsatou Sy</strong>. C’est un livre très facile à lire, il raconte l’histoire de son auteur. Un ouvrage qui démontre que <strong>tout est possible</strong>, même quand on a l’impression de <strong>partir</strong> <strong>de</strong> <strong>zéro</strong>, à condition de <strong>travailler sans relâche</strong> et de croire en sa bonne étoile.</p>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Comment j’ai réussi ma reconversion professionnelle en lisant Trois livres",
-
-    route: "/article/reconversion-professionnelle-livres-changer-metier",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4cENeBep1uPchOBngGecObAiuahwQJeckPA&usqp=CAU",
-
-    lien: 'https://cuisinedebase.com/reconversion-professionnelle-livres-changer-metier/'
-}
-
-const E3 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens</h1>
-
-		<div className="entry-content clearfix">
-
-
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg" alt="cle_solution" title="cle_solution"></img></a><figcaption>préparation des examens</figcaption></figure></div>
-
-
-
-<p>Il est donc tout à fait normal de vouloir respirer un peu mais attention, il ne faut pas que cela soit en dépend de vos projets personnels ou professionnels. Je pense aux personnes qui ont des des épreuves ou examens à passer, et en particulier, à toutes celles et ceux qui sont sur leurs&nbsp;<strong>dernières ligne droite de préparation</strong>&nbsp;<strong>des épreuves de CAP cuisine</strong>, je vous souhaite bon courage de tout cœur!&nbsp;</p>
-
-
-
-<p>Je sais que cette période est très difficile, et beaucoup d’entre vous commencent à douter dans leurs capacités à aller jusqu’au bout et à baisser un peu le rythme en remettant de plus en plus ce que nous devons faire aujourd’hui à demain.&nbsp;<strong>La procrastination entraîne généralement un douloureux regret. Remettre nos actions du jour au lendemain nous donne une double charge. La meilleure façon de procéder est de les faire au moment approprié</strong>. Cette citation est attribuée à “Ida Scott Taylor”.</p>
-
-
-
-<p>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple&nbsp;les 25 recettes à maitriser&nbsp;pour passer le&nbsp;CAP cuisine en candidat libre&nbsp;et le&nbsp;planning détaillé&nbsp;pour les travailler.</p>
-
-
-
-<h2 className="sous_titre" id="7-etapes-pour-vous-aider-dans-la-preparation-des-examens">7 étapes pour vous aider dans la préparation des examens</h2>
-
-
-
-<p>Voici une méthode,&nbsp;<strong>en sept points,</strong>&nbsp;qui permet&nbsp;<strong>d’atteindre plus facilement</strong>&nbsp;les objectifs:</p>
-
-
-
-<h2 className="sous_titre" id="definir-un-objectif-principal">Définir un objectif principal</h2>
-
-
-
-<p>Un objectif ne peut être réalisé que s’il est bien défini et&nbsp;<strong>avec précision</strong>, s’il est&nbsp;<strong>raisonnable</strong>&nbsp;et s’il est&nbsp;<strong>atteignable</strong></p>
-
-
-
-<p>Voici un exemple d’objectif :&nbsp;<strong>Obtenir le diplôme de CAP cuisine</strong>.</p>
-
-
-
-<h2 className="sous_titre" id="determiner-des-objectifs-intermediaires">Déterminer des objectifs intermédiaires</h2>
-
-
-
-<p>Ces objectifs intermédiaires doivent tous&nbsp;<strong>mener à la réalisation</strong>&nbsp;de l’objectif principal. Ils doivent être Fixés sur des&nbsp;<strong>courtes périodes</strong>, car c’est plus&nbsp;<strong>facile à contrôler et à atteindre</strong>.</p>
-
-
-
-<p>Pour l’objectif fixé ci-dessus, les objectifs intermédiaires peuvent se traduire comme :</p>
-
-
-
-<ul className="wp-block-list"><li>Faire les 25 recettes de base</li><li>Apprendre les techniques de base</li><li>Apprendre les cours théoriques</li><li>Faire des examens blancs</li><li>…</li></ul>
-
-
-
-<p>Traduire ensuite les objectifs en&nbsp;<strong>grandeurs faciles à quantifier et à mesurer</strong>.</p>
-
-
-
-<ul className="wp-block-list"><li>Faire 2 recettes par semaine</li><li>apprendre 5 techniques par semaine</li><li>1 examen blanc par mois</li><li>…</li></ul>
-
-
-
-<h2 className="sous_titre" id="plan-d-action-pour-atteindre-ses-objectifs-de-preparation-des-examens">Plan d’action pour atteindre ses objectifs de préparation des examens</h2>
-
-
-
-<ul className="wp-block-list"><li>Mettre un&nbsp;<strong>plan d’action</strong>&nbsp;pour atteindre ses objectifs. Une sorte de&nbsp;<strong>planning</strong>&nbsp;qui détaille concrètement comment faire.</li><li>Faire une sorte de fiche de tâches journalière</li><li>Seulement&nbsp;<strong>deux à trois actions par jour</strong>&nbsp;suffisent pour avoir le sentiment d’aller de l’avant.</li><li>Se donner les&nbsp;<strong>moyens nécessaires</strong>&nbsp;pour rendre les&nbsp;<strong>objectifs facilement atteignables</strong>.</li><li>installer une sorte de&nbsp;<strong>rituel quotidien</strong>&nbsp;peut aider à éviter de remettre au lendemain les actions faisable aujourd’hui&nbsp;</li><li>toujours se rappeler des&nbsp;<strong>bénéfices à obtenir</strong>&nbsp;en réalisant l’objectif principal</li><li>Faire des&nbsp;<strong>points réguliers</strong>&nbsp;pour constater l’état d’avancement vers l’objectif principal&nbsp;</li><li>Ceci permet de faire une&nbsp;<strong>auto-évaluation</strong>, pour voir si on avance comme prévu vers l’objectif, ou le cas échéant, pour se rattraper et de revoir sa stratégie&nbsp;<strong>tant que ce n’est pas encore trop tard</strong>.</li><li>Une fois les objectifs de la première période sont atteints, il faut marquer convenablement la date et&nbsp;<strong>fixer les objectifs de la période suivante</strong>&nbsp;et ainsi de suite jusqu’à la réalisation de l’objectif principal.</li></ul>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Comment luter contre la procrastination et aller au bout de ses projets de préparation des examens",
-
-    route: "/article/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/cle_solution_thumb.jpg",
-
-    lien: 'https://cuisinedebase.com/comment-luter-contre-la-procrastination-et-aller-au-bout-de-ses-projets-a-la-veille-des-examens/'
-}
-
-const E4 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Apprendre à cuisiner pour manger équilibré et mieux s’alimenter</h1>
-
-
-		<div className="entry-content clearfix">
-
-<p>Malheureusement beaucoup de gens ne mangent que ce que les autres font pour eux. Soit en <strong>sandwich, en plat pré-cuisiné</strong> à réchauffer en microonde ou dans les meilleurs des cas dans un <strong>restaurant “traditionnel”</strong>. Hélas, beaucoup de restaurants qui se revendiquent être traditionnel, ne le sont pas réellement. Alors, <strong>manger dans un restaurant traditionnel </strong>n’est plus une manière sûr pour <strong>manger équilibré</strong>, ni de <strong>consommer des produits de qualité</strong>. Beaucoup de restaurants ne servent que des plats réchauffés.</p>
-
-
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png" alt="image" title="image"></img></a><figcaption><strong>apprendre à cuisiner</strong></figcaption></figure></div>
-
-
-
-<h2 className="sous_titre">A<strong>pprendre à cuisiner</strong> pour diversifier ses repas</h2>
-
-
-
-<p>Avez vous déjà consommé un <strong>dessert dans un restaurant</strong>, à coup sure la réponse et oui. Mais attendez la suite, est ce que quelques jours plus tard vous êtes partis dans un autre restaurant et vous avez commandé le même dessert. Et à peine commencé à le déguster vous remarquez que les deux desserts se ressemblent tellement qu’on dirait qu’ils sont faits par une même personne. </p>
-
-
-
-<p>J’ai pris l’exemple d’un dessert mais cela peut aussi marcher avec une entrée ou un plat. Si vous avez une anecdote de ce genre, racontez la nous dans les commentaires. Et si vous ne vous souvenez pas, je vous invite à faire l’expérience et de nous la partager dans les commentaires de cet article.</p>
-
-
-
-<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour échapper à la consommation standard</h2>
-
-
-
-<p>L’explication de ceci est liée à notre <strong>mode de consommation alimentaire</strong>, celui-ci est basé de plus en plus sur des <strong>produits riches en matière grasse, en sucre, sel et toute sorte d’additifs.</strong> Ces derniers permettent de prolonger la durée de conservation des aliments et aussi de rendre leur aspect visuel plus attirant. En effet, le marché mondial de la <strong>consommation agro-alimentaire</strong> tend de plus en plus vers une <strong>standardisation des produits alimentaires</strong>, c’est la raison pour laquelle les <strong>humburger, pizzas, tacos, grec</strong>, … sont devenus des <strong>produits de grande consommation</strong> dans le monde entier. </p>
-
-
-
-<h2 className="sous_titre"><strong>Apprendre à cuisiner</strong> pour éviter la consommation à «&nbsp;l’américaine&nbsp;»</h2>
-
-
-
-<p>Le style de <strong>consommation à l’américain</strong> est souvent pris comme modèle, ainsi, les produits peuvent alors être diffusés sur la plupart des marchés. Ce qui permet aux multinationales de <strong>réduire leurs coûts fixes</strong> et donc de faire des économies d’échelle. <strong>La restauration rapide</strong> ou « <span>fast food </span>» s’est développée d’une manière phénoménale, la même chose pour les <strong>plats cuisinés</strong> que l’on trouve partout dans les magasins spécialisés ou dans les grandes surfaces. Et c’est pour ces raisons qu’on commence à trouver des <strong>plats quasiment similaires</strong> chez une grande partie des <strong>professionnelles de la restauration</strong>.</p>
-
-
-
-<h2 className="sous_titre"><strong>Apprendre à cuisiner est bon pour la santé</strong></h2>
-
-
-
-<p>Pour <strong>apprendre à cuisiner</strong> on commence par <strong>apprendre les produits alimentaires</strong> comme les fruits, légumes, viandes, produits gras, … Et la connaissance des produits alimentaires permet de mieux les <strong>choisir et les marier et bien sur les cuisiner</strong>.</p>
-
-
-
-<p>Aussi, on apprend à chercher la <strong>provenance des fruits, légumes, viandes</strong>, … comment les choisir selon leur fraicheur, où et quand les acheter, …</p>
-
-
-
-<p>Parce que les fruits et légumes sont meilleurs quand ils sont consommés pendant leur saison, il est donc important de <strong>connaitre la saisonnalité des fruits et légumes</strong>.</p>
-
-
-
-<p><strong>L’hygiène et la sécurité</strong> sont des sujets très importants, la qualité d’un produit culinaire ne s’arrête évidemment pas à ses<strong> propriétés sensorielles</strong> (son aspect visuel, son goût et son odeur), mais il faut ajouter à cela la <strong>qualité nutritionnelle et la qualité sanitaire</strong>.</p>
-
-
-
-<p>En <strong>apprenant la cuisine</strong>, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux ….</p>
-
-
-
-<p>Et en apprenant la cuisine, on développe des <strong>automatismes et réflexes hygiéniques spontanés</strong>. Comme par exemple: </p>
-
-
-
-<ul className="wp-block-list"><li><strong>Se laver les mains</strong> avant de commencer et aussi souvent que nécessaire</li><li><strong>Se soigner les ongles</strong></li><li>N’utiliser que des denrées de bonne qualité sanitaire, <strong>vérifier étiquettes, dates limites, températures</strong>, …</li><li><strong>Respecter la chaîne de froid</strong></li><li><strong>Laver soigneusement tous les fruits et les légumes</strong> avant utilisation.</li><li><span>Ne jamais</span> <strong>éplucher les légumes sur la planche à découper</strong>.</li><li><strong>Laver et désinfecter</strong> soigneusement l’endroit de travail</li><li><strong>Nettoyer les couteaux</strong> après chaque utilisation.</li><li>… </li></ul>
-
-
-
-<h2 className="sous_titre">Apprenez la cuisine pour manger équilibré</h2>
-
-
-
-<p>Une cuisine est un immense laboratoire où on peut expérimenter des idées, <strong>innover des recettes</strong> ou bien sûr d’en inventer des nouvelles, il suffit d’apprendre les bases et de se laisser entraîner par son imagination. Si les <strong>techniques de base</strong> restent les mêmes durant plusieurs décennies, les habitudes des gens et les <strong>produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer d’apprendre et de se <strong>former en cuisine</strong> est le seul moyen de continuer de vivre avec son époque. Et pourquoi pas être acteur de la <strong>gastronomie de demain</strong></p>
-
-
-
-<p>Il y a une célèbre citation qui dit : « <em>dis moi ce que tu manges je te dirai qui tu es</em> ». Le <strong>style d’alimentation </strong>est un élément essentiel et constructeur de la personnalité de chacun. Et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’apprendre à cuisiner ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes.</p>
-
-
-
-<p>Comme on dit “<strong>aux grands maux, grands remèdes</strong>”, Pour notre bien être moral et physique il faut prendre des décisions courageuses et énergiques contre toute tentation qui nous entraine dans un mode de consommation irresponsable, il est plus que jamais important de nous réconcilier avec la nourriture et la cuisine. Et pour ce faire, il suffit de savoir comment cuisiner et de connaitre les produits alimentaires.</p>
-
-
-
-<h2 className="sous_titre">Comment apprendre à cuisiner concrètement</h2>
-
-
-
-<p>Maintenant que nous sommes un peu éclairés sur nos habitudes alimentaire, il faut passer à l’action. Voici mes <strong>conseils pour vous aider à apprendre à cuisiner</strong> même si vous êtes <strong>complètement débutant</strong>.</p>
-
-
-
-<h2 className="sous_titre">Apprendre à cuisiner avec un CAP cuisine à distance</h2>
-
-
-
-<p>Tout d’abord il faut comprendre <strong>pourquoi vous voulez apprendre à cuisiner</strong>. Et si vous êtes un parfait <strong>débutant</strong>, pourquoi ne pas songer à passer un <strong>CAP cuisine en candidat libre</strong>. (sachez que vous pouvez trouver sur ce site un programme d’apprentissage ainsi que quelques recettes et techniques de base destinés aux <strong>apprentis cuisinier</strong>)</p>
-
-
-
-<h2 className="sous_titre">Pour les débutants en Cuisine</h2>
-
-
-
-<p>Quand on est <strong>débutant</strong>, les premiers résultats sont importants pour <strong>garder la motivation</strong>, c’est pour cela que je vous conseille de commencer par des <strong>recettes très simples</strong> comme par exemple: </p>
-
-
-
-<ul className="wp-block-list"><li>une omelette aux champignons</li><li>La macédoine de légumes (Des légumes taillés en dés et cuits&nbsp; l’eau salée puis liés à la <strong>sauce mayonnaise</strong>. Et pour la rendre moins calorique, on peut remplacer la mayonnaise par de <strong>l’huile d’olive </strong>et quelques fines herbes)</li><li>Cuire une <strong>tranche de saumon à l’unilatéral</strong>. Dans un premier temps vous pouvez acheter des tranches pré-découpées. Ou demander à votre poissonnier de le faire pour vous, étant donné que l’habillage de poisson est un travail un peu technique. </li></ul>
-
-
-
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb-1.png" alt="image" title="image"></img></a><figcaption><strong>Apprendre à cuisiner</strong> pour diversifier ses repas</figcaption></figure></div>
-
-
-
-<h2 className="sous_titre">Les techniques de base</h2>
-
-
-
-<p>En apprenant à<strong> faire ces recettes faciles</strong> vous apprenez <strong>les techniques de base</strong> ci-dessous. Ceci vous placera au-dessus de la moyenne d’une grande majorité des gens qui ne font que consommer ce que les autres font. </p>
-
-
-
-<ul className="wp-block-list"><li>casser et <strong>cuire un oeuf</strong> en omelette</li><li><strong>Escaloper des champignons</strong></li><li><strong>laver et éplucher des légumes</strong></li><li>couper des <strong>légumes en bâtonnets</strong> puis en dés</li><li>cuire des légumes à l’eau salée (<strong>cuisson à l’anglaise</strong>)</li><li>faire une <strong>sauce mayonnaise</strong></li><li>cuire une tranche de <strong>poisson à l’unilatéral</strong> </li></ul>
-
-
-
-<p>Ces <strong>techniques sont la base de beaucoup d’autres recettes</strong>, vous pouvez les utiliser pour faire d’autres recettes dérivées ou bien créer vos propres recettes.</p>
-
-
-
-<p><strong>Cuisiner c’est, en même temps, prendre et fournir du plaisir. </strong>En effet, il est évident que l’alimentation est un besoin fondamental, mais si on se rapporte à notre environnement propre et notre civilisation, nous pouvons considérer que nous mangeons pour nous alimenter mais aussi pour nous faire plaisir. De ce fait, le cuisinier étant la personne qui fabrique le manger, il fourni par conséquent du plaisir aux gens qui consomment sa cuisine. Si je peux me permettre un dernier conseil, soyez passionné quand vous cuisinez et vous serez surpris de l’impact de cela sur vos plats.</p>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
-
-    route: "/article/apprendre-cuisiner-manger-equilibre-technique-cap",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/image_thumb.png",
-
-    lien: 'https://cuisinedebase.com/apprendre-cuisiner-manger-equilibre-technique-cap/'
-}
-
-const E5 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé</h1>
-
-
-		<div className="entry-content clearfix">
-
-
-<p>Notre santé est un patrimoine sacré, il est de notre devoir de la préserver de façon avisée et réfléchie. Beaucoup d’études scientifiques montrent que pour <strong>rester en bonne santé</strong>, il faut faire deux choses essentielles: d’abord il faut <strong>manger équilibré</strong> et varier les aliments. Puis, il faut <strong>pratiquer régulièrement une activité physique</strong>.</p>
-
-
-
-<h2 className="sous_titre">Rester En Bonne Santé avec une alimentation saine et équilibrée</h2>
-
-
-
-<p>Une <strong>alimentation saine</strong>, est une alimentation adaptée aux besoins nutritionnels pour le fonctionnement de l’organisme. (protéines, lipides, glucides, vitamines, minéraux, oligoéléments, fibres…). Si en plus d’une <strong>alimentation saine et équilibrée</strong>, on pratique une <strong>activité physique quotidienne</strong>, cela aide à protéger contre certaines maladies. Des maladies comme le diabète, les <strong>maladies cardiovasculaires</strong>, les cancers, etc.. Cela aide aussi à limiter les <strong>problèmes de fatigue</strong>, et même à renforcer le système immunitaire pour <strong>défendre contre les infections</strong>. </p>
-
-
-
-<p>Voici quelques <strong>conseils, astuces</strong> et repères de consommation pour <strong>apprendre à rester en bonne santé</strong> tous les jours.</p>
-
-
-
-<h1 className="sous_titre">Faire du sport pour rester en bonne forme</h1>
-
-
-
-<p>Tout le monde est conscient de <strong>l’utilité du sport</strong> dans notre quotidien. On n’ qu’à ouvrir les yeux pour remarquer qu’il y a énormément de possibilités pour intégrer du sport dans son agenda. Je citerai ci-dessous deux exemples qui m’ont particulièrement interpelé:</p>
-
-
-
-<ul className="wp-block-list"><li>Les <strong>salles de sport</strong> poussent comme des champignons partout dans nos villes, et la plupart du temps avec du matériel sophistiqué et des prix défiant toute concurrence.</li><li>Les responsables des aménagement des ville prennent sont de plus en plus conscience sur <strong>l’intérêt du sport dans le quotidien</strong> des citoyens, et cette prise de conscience les pousse à prévoir systématiquement des <strong>pistes cyclables en ville</strong>, et d’équiper les espaces verts de <strong>matériel de sport en libre service</strong>.&nbsp;</li></ul>
-
-
-
-<h2 className="sous_titre">Applications pour <strong>rester en bonne santé</strong></h2>
-
-
-
-<p>Je pourrais continuer à illustrer cette remarque par le nombre impressionnant d’<strong>applications mobiles</strong> et de <strong>site internet</strong> qui aident à <strong>pratiquer du sport de manière régulière</strong> et organisée, et puis le métier du <strong>coach sportif </strong>qui devient un métier très prisé par les jeunes. Il existe énormément d’exemples qui prouve que le sport doit être omniprésent dans le quotidien de chacun de nous.</p>
-
-
-
-<p><strong>Pratiquer une activité sportive</strong> est alors devenue une <strong>chose facile à faire</strong>, et avec un peu de volonté même les plus paresseux d’entre nous arriveront à <strong>mettre un peu de sport dans leur programme.</strong></p>
-
-
-
-<p>On convient donc à dire que <strong>pratiquer une activité sportive</strong> relève de la volonté de chacun. Puisque tous les moyens nécessaires sont à portée de main, et qu’il suffit de passer à l’action. </p>
-
-
-
-<p>Qu’en est il du deuxième pilier qui est “<strong>manger équilibré et varié</strong>”?</p>
-
-
-
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/appareil-fitness-plein-air_thumb.jpg" alt="appareil-fitness-plein-air" title="appareil-fitness-plein-air"></img></a><figcaption>Salle de sport en plein air</figcaption></figure></div>
-
-
-
-<h2 className="sous_titre">Changer les habitudes alimentaires pour <strong>rester en bonne santé</strong></h2>
-
-
-
-<p>Est ce qu’il vous est déjà arrivé de chercher un <strong>Mcdo, Quick, Subway, BurgerKing, Domino’s</strong>, ou autre enseigne du genre. Il y a de grande chance que la réponse soit oui. Mais est ce que ça vous arrive alors que vous êtes en plein voyage touristique dans un pays étranger. Et que vous êtes sensé <strong>profiter et découvrir la nourriture et la tradition locales</strong>. Ne vous inquiétez pas vous n’êtes pas seul… 🙁 </p>
-
-
-
-<h2 className="sous_titre">Habitudes alimentaires standards</h2>
-
-
-
-<p>Beaucoup de personnes n’aiment pas <strong>changer leurs habitudes alimentaires</strong> pendant leurs voyages. Et préfèrent manger quelques choses de familier. Ceci est dû à notre <strong>mode consommation au quotidien</strong>. En effet, de nos jours, on commence à voire une certaine <strong>forme d’alimentation différente</strong> de ce que nos parents et nos grand parent ont connu. </p>
-
-
-
-<ul className="wp-block-list"><li>Nous prenons de moins en moins le temps pour déjeuner; </li><li>nous grignotons davantage;</li><li>et consommons beaucoup de produits de restauration rapides;</li><li>et des plats pré-cuisinés. </li></ul>
-
-
-
-<h2 className="sous_titre"><strong>Rester en bonne santé</strong> avec une consommation responsable</h2>
-
-
-
-<p>Nos <strong>habitudes alimentaires deviennent de plus en plus standards</strong>. Nous sommes conditionnés par une société de consommation qui pousse à <strong>consommer toujours plus</strong>. Et sans trop regarder la provenance, les étapes de fabrication ni même la composition des produits que nous consommons. Et les industriels font tout pour que cela continue ainsi. Il créent toujours des nouveaux <strong>produits, généralement pas chers et de médiocre qualité</strong>. Cette manière de consommer que beaucoup qualifient de « <strong>irresponsable</strong> » a grandement contribué à la <strong>propagation de l’obésité</strong>, de <span>cancer et de maladie cardio-vasculaires</span>. En partie à cause des <strong>additifs alimentaires</strong> utilisés dans les plats cuisinés pour <strong>allonger leur durée de conservation</strong>.</p>
-
-
-
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/obesit-maladies-cardiovasculaire_thumb.jpg" alt="obesité-maladies-cardiovasculaire" title="obesité-maladies-cardiovasculaire"></img></a><figcaption><strong>rester en bonne santé</strong></figcaption></figure></div>
-
-
-
-<h2 className="sous_titre">Apprendre à cuisiner pour <strong>rester en bonne santé</strong></h2>
-
-
-
-<p>Selon une étude effectuée par le site mangerbouger.fr (1), la France pourrait compter près de 30 % d’adultes obèses en 2020. Ceci résulte d’un déséquilibre entre l’<strong>apport alimentaire et la dépense énergétique</strong>. Ce déséquilibre s’est installé à cause du recul spectaculaire de l’<strong>activité physique </strong>et de la <strong>modification des habitudes alimentaires.</strong> Avec une absorption accrue de <strong>boissons sucrées et d’aliments à haute densité énergétique et pauvres en nutriments</strong>, associée à une <strong>consommation insuffisante de fruits et de légumes</strong>.</p>
-
-
-
-<p>Beaucoup de gens se contentent de <strong>consommer et de manger ce que les autres ont fabriqué</strong>. Et ne se pose jamais la question sur l’origine, provenance ou circuit de distribution des produits qu’ils consomment. Cette manière de consommation irresponsable, pousse les <strong>professionnels de restauration</strong> et les <strong>industriels de l’agroalimentaire</strong> à produire toujours en grande quantité. Et la plupart du temps sans se soucier de la <strong>qualité nutritionnel de leurs produits</strong>. Leur seul objectif est de <strong>réduire les coûts de production</strong> parfois même au détriment des <strong>obligation sanitaires</strong> de leurs produits. souvenez vous de la <strong>viande de cheval </strong>qui a été retrouvée dans des <strong>lasagnes pré-cuisinées</strong> et plus récemment du lait pour enfant…</p>
-
-
-
-<h2 className="sous_titre">Comment préserver concrètement sa santé</h2>
-
-
-
-<p>Maintenant que nous sommes un peu éclairés sur la relation entre la <strong>santé et le bien être</strong> et puis l’alimentation et les <strong>activités physiques</strong>, il faut passer à l’action. Voici mes conseils pour vous aider à franchir le pas:</p>
-
-
-
-<ul className="wp-block-list"><li><strong>Marcher le plus souvent </strong>que possible (pour aller chercher le pain, le journal, emmener les enfants à l’école, faire une balade, …)</li><li>Privilégier <strong>vélo, trottinette, rollers</strong>, … aux transport en commun et à la voiture (si possible bien sûr)</li><li>Mettre un programme régulier pour <strong>pratiquer une activité physique</strong>,</li><li>Il y a un proverbe Marocain qui dit “<strong>peu et régulier est mieux que beaucoup et interrompu</strong>” si vous êtes fâché avec le sport depuis un moment, il vaut mieux commencer doucement mais de façon régulière.</li><li>Si vous n’avez pas le temps, <strong>7 minutes par jour suffisent</strong>, utilisez pour cela la méthode de “<a href="https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9_de_haute_intensit%C3%A9">l’entrainement fractionné de haute intensité</a>”. qui consiste à faire 12 exercices pendant 30 secondes chacun à une intensité maximale et de prendre 10 secondes de poses en fin de chaque exercice.</li></ul>
-
-
-
-<h2 className="sous_titre">Adopter une alimentation saine variée et équilibrée</h2>
-
-
-
-<ul className="wp-block-list"><li><strong>Manger des fruits et légumes</strong> le plus souvent possible</li><li><strong>Manger varié et équilibré</strong></li><li>Réduire la consommation de produits contenant des <strong>additifs alimentaire ou améliorant</strong> ou autre composant du même genre</li><li>Je ne peux m’empêcher de vous conseiller d’<strong>apprendre à cuisiner</strong> vos propres plats. Car ce n’est que de cette manière que vous pouvez savoir exactement ce que vous mettez dans votre assiette. Vous pouvez commencer par exemple à apprendre ces recettes et ces techniques de base.</li></ul>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Pourquoi le métier de cuisinier est passionnant et attractif",
-
-    route: "/article/apprendre-cuisiner-pour-rester-en-bonne-sante",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer_thumb.jpg",
-
-    lien: 'https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sante/'
-}
-
-const E6 = {
-
-    contenu: <article id="post-2789" className="post-2789 post type-post status-publish format-standard has-post-thumbnail hentry category-formation-cap-cuisinier">
-<div className="post-content">
-
-			<h1 className="titre_article">Méthode simple et efficace pour atteindre ses objectifs</h1>
-
-		<div className="entry-content clearfix">
-
-
-<h2 className="sous_titre">Les bonnes résolutions pour <strong>atteindre ses objectifs</strong></h2>
-
-
-
-<p><span>Dès janvier prochain, je commencerai à faire une <strong>activité physique régulièrement</strong>, je mangerai moins de gras et moins de fast-food, <strong>je cuisinerai davantage</strong> et je mettrai plus de <strong>légumes</strong> dans mes assiettes. Ces belles paroles raisonnent dans mes oreilles chaque fin d’année.&nbsp; J’ai pris au moins une dizaine de fois ces <strong>résolutions</strong>, mais au jour où j’écris ces lignes, je ne pratique aucune <strong>activité physique</strong> et je suis un adepte des <strong>gros sandwich américains</strong>. Rien à faire, les premiers jours qui suivent ma décision de prendre des nouvelles et <strong>bonnes résolutions</strong>, j’arrive à tenir à peu près mes engagements, mais au fil du temps, après quelques jours ou au mieux quelques semaines, tout part aux oubliettes <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-sadsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-sadsmile.png?w=910&amp;ssl=1" alt="Triste"></img>. </span></p>
-
-
-
-<p><span>Heureusement que maintenant j’ai une méthode fiable qui me permet de <strong>tenir tous mes engagements</strong> et <strong>atteindre mes objectifs</strong>.</span></p>
-
-
-
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un <strong>contenu gratuit</strong> et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
-
-
-
-<h2 className="sous_titre">Se faire aider pour tenir ses engagements</h2>
-
-
-
-<p><span>Cette année c’est la bonne <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img> !</span></p>
-
-
-
-<p><span>C’est bien de <strong>prendre des bonnes résolutions</strong> pour bien commencer l’année, mais c’est encore mieux de les appliquer réellement. Cette année sera la première année où<strong> je mettrai en pratique mes résolutions</strong>, et pour ce faire, je me suis fait aider par quelques livres et conférences sur le <strong>développement personnel</strong>. J’ai compris enfin qu’il existe des méthodes, <strong>prouvées scientifiquement ou par l’expérience</strong>, qui permettent de résoudre le <strong>problème des engagements non tenus</strong> et des <strong>résolutions non appliquées</strong>. Dans cet article je vais vous révéler la méthode que je vais suivre pour que cette année soit l’année où tous mes engagements seront respectés et mes résolutions seront appliquées.</span></p>
-
-
-
-<p><span>Mais avant de commencer, sachez que je participe avec cet article à l’évènement “Votre meilleure astuce pour <u>appliquer</u> vos bonnes résolutions” du blog </span><a href="https://devenez-meilleur.co/"><span>Devenez meilleur</span></a><span>. C’est un blog qui parle du développement personnel, et je conseille </span><a href="https://devenez-meilleur.co/comment-se-lever-immediatement-quand-votre-reveil-sonne/"><span>cet article</span></a><span> aux gens qui n’arrivent pas à se lever le matin immédiatement quand le réveil sonne.</span></p>
-
-
-<div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg" alt="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois" title="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois"></img></a><figcaption>Manger des légumes</figcaption></figure></div>
-
-
-<h2 className="sous_titre">Sept idées pratiques pour <strong>atteindre ses objectifs</strong><span></span></h2>
-
-
-
-<p><span>Comme à chaque fin d’année, nous sommes nombreux à <strong>prendre des bonnes résolutions</strong> soit pour améliorer notre qualité de vie, ou bien pour <strong>progresser dans nos projets</strong> professionnels ou personnels. </span></p>
-
-
-
-<p><span>Voici une méthode, en sept points, qui permet de <strong>mettre en application les résolutions</strong>:</span></p>
-
-
-
-<ol className="wp-block-list"><li><span>Définir des <strong>objectifs précis, raisonnables et atteignables</strong>. </span> </li><li><span><strong>Fixer les objectifs dans des périodes courtes</strong>. Les objectifs définis sur un mois ou deux sont plus faciles à contrôler et à atteindre que des objectifs définis sur une année par exemple. </span> </li><li><span>Traduire ensuite ses <strong>objectifs en grandeurs faciles à quantifier et à mesurer</strong>. (“perdre du poids” peut se traduire par “perdre 2kg” par exemple. “Faire du sport” peut se traduire par “faire 4 heures de sport par semaine”, …)</span> </li><li><span>Mettre un<strong> plan d’action pour atteindre ses objectifs</strong>. Une sorte de planning qui détaille concrètement comment faire.</span> </li><li><span><strong>Se donner les moyens</strong> nécessaires pour rendre les <strong>objectifs facilement atteignables</strong>.</span> </li><li><span><strong>Faire des points régulier</strong> pour constater l’état d’avancement vers les objectifs </span> </li><li><span>Une fois les objectifs de la première période sont atteints, il faut <strong>fêter convenablement l’évènement</strong> avant de fixer les objectifs de la période suivante et ainsi de suite jusqu’à la fin de l’année.</span>  </li></ol>
-
-
-<div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/za3za3-jus-fruits-gourmand_thumb.jpg" alt="za3za3-jus-fruits-gourmand" title="za3za3-jus-fruits-gourmand"></img></a><figcaption>fêter l’évènement quand l’objectif est atteint</figcaption></figure></div>
-
-
-<h2 className="sous_titre">Exemple de situation pour atteindre ses objectifs<span></span></h2>
-
-
-
-<p><span>Prenons comme exemple une de mes résolutions qui consiste à <u>arrêter de consommer de la malbouffe</u>. C’est un objectif précis mais il n’est pas raisonnable, je ne pourrai pas arrêter du jour au lendemain d’aller à ma sandwicherie préférée, je pourrais le faire pendant quelques jours voire quelques semaines, mais je ne pourrais pas garantir que je tiendrais une année. Alors pour rendre mon objectif raisonnable et donc atteignable, je le ré-exprimerais de la manière suivante: pendant <u>un mois</u>, je ne mangerai que, au maximum, <u>4 fois</u> dans un établissement de restauration rapide. <u>C’est raisonnable, atteignable, quantifié et facile à mesurer</u>!</span></p>
-
-
-
-<h2 className="sous_titre">Plan d’action pour atteindre ses objectifs</h2>
-
-
-
-<p><span>Maintenant il faut mettre en place un <strong>plan d’action pour atteindre cet objectif</strong>. En identifiant les moments de la journée où on est le plus susceptibles de <strong>ne pas respecter nos engagements</strong>, on pourrait trouver des solutions pratiques pour faire en sorte de <strong>résoudre le problème</strong>. Dans mon cas c’est pendant ma pose du midi que je suis le plus tenté de consommer un hamburger ou un kebab ou autre produit similaire, alors pour éviter cela je dois</span> :</p>
-
-
-
-<ul className="wp-block-list"><li><span>ramener mon panier repas au travail, </span> </li><li><span>me faire livrer un plateau repas équilibré. </span>  </li></ul>
-
-
-
-<p><span>Le fait de se poser la question de comment peut-on appliquer concrètement le <u>plan d’action</u> pousse à réfléchir sur les <u>moyens</u> à déployer pour réussir sa mise en <u>application</u>. Et les moyens peuvent être sous forme de matériels, du temps, de l’argent, … Dans le cas de mon exemple, il faudra </span></p>
-
-
-
-<ul className="wp-block-list"><li><span>faire des courses en quantité suffisante pour couvrir les repas du midi, </span> </li><li><span>pouvoir conserver et réchauffer la nourriture, </span> </li><li><span>avoir des Tupperware pour le transport,</span> </li><li><span>chercher des entreprises de livraison de plateau repas équilibré</span> </li><li><span>…</span>  </li></ul>
-
-
-
-<h2 className="sous_titre">Appliquer les bonnes résolutions</h2>
-
-
-
-<p><span>Une fois tous les ingrédients sont réunis, la question d’appliquer les résolutions <u>reste du sort de la volonté et de la motivation</u> de chacun. Et justement le fait de réussir à <strong>tenir ses engagements sur une petite période</strong> permet de rester motivé et de commencer la période suivante avec enthousiasme, d’où l’intérêt de se fixer des <u>objectifs raisonnables et à court terme</u>.</span></p>
-
-
-
-<p><span>J’espère que cette méthode vous aidera à accomplir vos ambitions pour l’année qui vient, et j’en profite aussi pour vous souhaiter mes <strong>meilleurs vœux de bonheur et de réussite</strong> dans vos projets personnels et professionnels.</span></p>
-
-
-
-<p><span>Si vous aussi vous avez une méthode pour appliquer les bonnes résolutions et que vous souhaitez la partager avec nous, utilisez la rubrique des commentaires pour nous en faire part.</span></p>
-
-            </div>
-        </div>
-    </article>,
-
-    titre: "Méthode simple et efficace pour atteindre ses objectifs",
-
-    route: "/article/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions",
-
-    categorie: "3",
-
-    sous_categorie: "5",
-
-    articlesConnexes: [],
-
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg",
-
-    lien: 'https://cuisinedebase.com/atteindre-objectifs-methode-simple-tenir-engagements-appliquer-resolutions/'
 }
 
 export const listeArticles3 = [J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17, J18, J19, J20, J21, J22, J23, J24, J25, J26, J27, J28, J29, J30, J31, J32, J33, J34, J35, J36, J37, J38, J39, J40, J41, J42, J43, J44, J45, VA1, E1, E2, E3, E4, E5, E6, R1, R2, R3, R4, R5, R6, R7, R8, R9, V1, V2, V3];
