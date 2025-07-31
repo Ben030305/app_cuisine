@@ -22,7 +22,7 @@ const B1 = {
                     <figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-4chef-under-stress.jpg?resize=200%2C300&amp;ssl=1" alt="Coach pour préparer le CAP cuisine" className="wp-image-2801" ></img><figcaption className="wp-element-caption">Coach pour préparer le CAP cuisine</figcaption></figure></div>
 
 
-                <h2 className="sous_titre">différence entre un mentor et un <strong>coach pour préparer le CAP cuisine</strong></h2>
+                <h2 className="sous_titre">Différence entre un mentor et un <strong>coach pour préparer le CAP cuisine</strong></h2>
 
 
 
@@ -130,9 +130,6 @@ const B1 = {
 
                 <p>Enfin, rappelez-vous que le mentorat et le coaching ne sont pas une garantie de succès. Vous devrez travailler dur et rester engagé tout au long du processus. Mais en travaillant avec un mentor ou un coach, vous pouvez bénéficier de leur expertise, de leur expérience et de leur soutien pour vous aider à atteindre vos objectifs et à réaliser votre potentiel. Bonne chance dans votre recherche et votre préparation pour l’examen du CAP cuisine !</p>
 
-
-
-                <p>ChatGpt : tu veux bien faire un brainstorming avec moi pour écrire un article sur Comment trouver un mentor ou un coach pour vous aider à préparer le CAP cuisine</p>
             </div>
         </div>
     </article>,
@@ -145,7 +142,7 @@ const B1 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Cinq astuces pour réussir une formation accélérée de CAP cuisine", "Les ressources pédagogiques pour le CAP cuisine", "Organisation pour préparer seul le CAP cuisine candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/10apprentice-cooks-under-stress.jpg",
 
@@ -182,7 +179,7 @@ const B2 = {
 
 
 
-                <h2 className="sous_titre">poursuite d’études après un CAP cuisine. Les BTS en Hôtellerie-Restauration</h2>
+                <h2 className="sous_titre">Poursuite d’études après un CAP cuisine. Les BTS en Hôtellerie-Restauration</h2>
 
 
 
@@ -240,7 +237,7 @@ const B2 = {
         </div>
     </article>,
 
-    titre: "Poursuite d’études après un CAP cuisine. Les différentes possibilités",
+    titre: "Poursuite d’études après un CAP cuisine. Les différentes possibilités.",
 
     route: "/article/poursuite-detudes-apres-un-cap-cuisine-les-differentes-possibilites",
 
@@ -248,7 +245,7 @@ const B2 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Quelle évolution de carrière après un CAP cuisine","CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?", "Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-apprentice-cooks-under-stress.jpg",
 
@@ -417,7 +414,7 @@ const B3 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre", "La formation CAP cuisine adulte seul", "Challenge CAP cuisine candidat libre session 2023"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png",
 
@@ -1069,7 +1066,7 @@ const B5 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Challenge CAP cuisine candidat libre session 2023", "Comment s’organiser pour bien préparer le CAP cuisine candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/SupportS1-1CCP.png",
 
@@ -1286,7 +1283,7 @@ const B6 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?", "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Comment-se-preparer-formation-seul-groupe-facebook.png",
 
@@ -1342,7 +1339,7 @@ const B7 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Pourquoi le métier de cuisinier est passionnant et attractif", "Huit activités qu’on peut faire après une formation de cuisinier", "La formation CAP cuisine adulte seul"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/abcd_alphabet_apprendre_cuisine.jpg",
 
@@ -1747,7 +1744,7 @@ const B8 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Formation cuisine pas chère. Pourquoi faut-il payer pour bien apprendre", "Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png",
 
@@ -1847,7 +1844,7 @@ const B9 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "CAP Cuisine. Les Défis du Candidat Libre", "Comment Faire L’inscription CAP Cuisine Candidat Libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/11/celebrity-chef-small-beard-strait-looks-without-kn.jpg",
 
@@ -2023,7 +2020,7 @@ const B11 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "CAP Cuisine. Les Défis du Candidat Libre", "Cinq astuces pour réussir une formation accélérée de CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png",
 
@@ -2186,7 +2183,7 @@ const B12 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["CAP Cuisine. Les Défis du Candidat Libre", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png",
 
@@ -2348,7 +2345,7 @@ const B13 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Cinq astuces pour réussir une formation accélérée de CAP cuisine", "Comment trouver le meilleur coach pour préparer le CAP Cuisine", "Les ressources pédagogiques pour le CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg",
 
@@ -2436,7 +2433,7 @@ const B14 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Épices en cuisine : comment booster la saveur de vos recettes", "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?", "Comment faire et utiliser un Tableau d’Ordonnancement"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png",
 
@@ -2522,7 +2519,7 @@ const B15 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine", "Les épreuves professionnelles CAP cuisine", "Réussir le CAP cuisine en Candidat Libre. Les Clés du Succès"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png",
 
@@ -2573,7 +2570,7 @@ const B16 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Comment trouver le meilleur coach pour préparer le CAP Cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/portrait-hicham2.png",
 
@@ -2905,7 +2902,7 @@ const B17 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Annales et examens des années passées pour CAP cuisine", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "Epreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020."],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png",
 
@@ -3121,7 +3118,7 @@ const B18 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "Challenge CAP cuisine candidat libre session 2023", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg",
 
@@ -3357,7 +3354,7 @@ const B19 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["La formation CAP cuisine adulte seul", "Huit activités qu’on peut faire après une formation de cuisinier", "Question CAP cuisine et Réponses sur le CAP cuisine en candidat libre. Questions 31 à 38"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg",
 
@@ -3622,7 +3619,7 @@ Description générée automatiquement" className="wp-image-1868" srcSet="https:
         </div>
     </article>,
 
-    titre: "Epreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020",
+    titre: "Epreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020.",
 
     route: "/article/correction-epreuve-ep1-2020-organisation-production-cap-cuisine",
 
@@ -3630,7 +3627,7 @@ Description générée automatiquement" className="wp-image-1868" srcSet="https:
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Annales et examens des années passées pour CAP cuisine", "Challenge CAP cuisine candidat libre session 2023", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-EP1-session-2020-organisation-production-cuisine.png",
 
@@ -3800,7 +3797,7 @@ const B21 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "Epreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020.", "Challenge CAP cuisine candidat libre session 2023"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png",
 
@@ -4110,7 +4107,7 @@ const B22 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment Faire L’inscription CAP Cuisine Candidat Libre", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/image_thumb.png",
 
@@ -4334,7 +4331,7 @@ const B23 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Challenge CAP cuisine candidat libre session 2023", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7_thumb.png",
 
@@ -4463,7 +4460,7 @@ const B24 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)", "Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/03/corona-virus-covid19-cartographie.png",
 
@@ -4593,7 +4590,7 @@ const B25 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10", "Podcast stage CAP cuisine candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/09/STAGIAIRE-DIPLOME_thumb.png",
 
@@ -4768,7 +4765,7 @@ const B26 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10", "La formation CAP cuisine adulte seul", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/image_thumb.png",
 
@@ -4942,7 +4939,7 @@ const B27 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10", "Questions et Réponses sur l’épreuve CAP cuisine", "Question CAP cuisine et Réponses sur le CAP cuisine en candidat libre. Questions 31 à 38"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
 
@@ -5103,7 +5100,7 @@ const B28 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10", "Question comment faire et Réponses sur le CAP cuisine en candidat libre. Questions 21 à 30", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/20180209_201232_thumb.jpg?w=910&ssl=1",
 
@@ -5282,7 +5279,7 @@ const B29 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Questions et Réponses sur l’épreuve CAP cuisine", "Question comment faire et Réponses sur le CAP cuisine en candidat libre. Questions 21 à 30", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/chose-promise-chose-due_thumb.jpg",
 
@@ -5573,7 +5570,7 @@ const B30 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)", "Epreuve CAP cuisine 2021. Les sujets de l’examen pratique", "Recette de Crêpes farcies gratinées façon Picarde"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg",
 
@@ -5804,7 +5801,7 @@ const B31 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Challenge CAP cuisine candidat libre session 2023", "Annales et examens des années passées pour CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/06/PAge-de-garde-EP1-2021-2022-2023.png",
 
@@ -5856,7 +5853,7 @@ const B32 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Examens CAP cuisine candidat libre. Comment se déroulent les épreuves", "6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg",
 
@@ -5963,7 +5960,7 @@ const B33 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment s’organiser pour bien préparer le CAP cuisine candidat libre", "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »", "La formation CAP cuisine adulte seul"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error_thumb.png",
 
@@ -6234,7 +6231,7 @@ const B34 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment Faire L’inscription CAP Cuisine Candidat Libre", "Challenge CAP cuisine candidat libre session 2023", "Examen CAP cuisine. L’épreuve pratique et matières professionnelles et générales"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1-draw-me-a-portrait-of-robert-deniro-disguised-as-a-restaurant-chef-in-a-large-restaurant.webp",
 
@@ -6356,7 +6353,7 @@ const B35 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment Faire L’inscription CAP Cuisine Candidat Libre", "Annales et examens des années passées pour CAP cuisine", "Comment s’organiser pour bien préparer le CAP cuisine candidat libre"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg",
 
@@ -6726,7 +6723,7 @@ const B36 = {
 
     sous_categorie: "1",
 
-    articlesConnexes: [],
+    articlesConnexes: ["6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine", "La formation CAP cuisine adulte seul", "Cinq astuces pour réussir une formation accélérée de CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/apprentis_cuisinier.jpg",
 
@@ -6871,7 +6868,7 @@ const B37 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique", "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)", "Epreuve CAP cuisine 2021. Les sujets de l’examen pratique"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg",
 
@@ -6957,7 +6954,7 @@ const B38 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre", "Les bases de la cuisine pour cuisiner comme un chef", "Comment gérer le stress pendant l’examen du CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg",
 
@@ -7098,7 +7095,7 @@ const B39 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["La listes des techniques de base à maîtriser pour le CAP cuisine", "Le fond blanc. Comment le préparer. Quelle est sa composition. Règles d’hygiène", "Les bases de la cuisine pour cuisiner comme un chef"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg",
 
@@ -7227,7 +7224,7 @@ const B40 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["La listes des techniques de base à maîtriser pour le CAP cuisine", "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)", "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/03-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg",
 
@@ -7632,7 +7629,7 @@ const B41 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Quelles sont les fonds et les sauces de base en cuisine", "La formation CAP cuisine adulte seul", "6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg",
 
@@ -7782,7 +7779,7 @@ const B42 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment diminuer les risques de rater une recette de cuisine.", "7 conseils et 3 astuces pour couper les légumes et manier le couteau comme un chef", "FICHE TECHNIQUE DE FABRICATION. Macédoine de légumes mayonnaise"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg",
 
@@ -8051,7 +8048,7 @@ const B43 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment améliorer vos compétences en dressage et présentation de plats", "Question comment faire et Réponses sur le CAP cuisine en candidat libre. Questions 21 à 30", "Tailles des légumes"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg",
 
@@ -8145,7 +8142,7 @@ const B44 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les 6 techniques de dressage les plus connues", "8 conseils pour réussir dans le monde de la cuisine et devenir un chef épanoui", "Comment améliorer la saveur de vos plats avec les herbes et les épices"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg",
 
@@ -8309,7 +8306,7 @@ const B45 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Créativité culinaire. Comment la développer en 4 étapes", "Les principales phases de la cuisson du sucre", "Comment utiliser l’IA (intelligence artificielle) pour apprendre à cuisiner"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg",
 
@@ -8362,7 +8359,7 @@ const B46 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Les 11 couteaux de cuisine les plus utilisés en cuisine professionnelle", "Les bases de la cuisine pour cuisiner comme un chef", "Tout ce qu’il faut savoir sur les familles de légumes"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer_thumb.jpg",
 
@@ -8580,7 +8577,7 @@ const B47 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Fiche technique et recette de Tiramisu", "Fiche technique et recette de Choux à la crème pâtissière", "Comment faire la fiche technique des Œufs à la neige"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg",
 
@@ -8680,7 +8677,7 @@ const B48 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Fiches techniques de fabrication en format Excel. Téléchargement Gratuit", "Les farces, beurres composés, marinades et court bouillons", "Recette de Potage Parmentier avec la Fiche technique"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg",
 
@@ -8763,7 +8760,7 @@ const B49 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment habiller une volaille et découper un poulet cru", "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore", "Fricassée de volaille à l’ancienne. La recette de CAP cuisine"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5_thumb.jpg",
 
@@ -9082,7 +9079,7 @@ const B50 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Dictionnaire culinaire. Signification de lever ainsi que d’autres termes qui commencent par I, J, K, L, M", "Fiche technique de fabrication du Navarin aux pommes", "Fiche technique et recette de la Blanquette de veau"],
 
     image: "https://lh6.googleusercontent.com/dErL9uVTwLxkLx-gKgL1080rZ2AnWC43GLh41pUdcZIqDwQX6kJ6GKl1lkxnyQVZ_zrlH7Q2QQDOHlixok_z9iQ-w7ztG_5_3wA84OOH8noxvuuxaghA8LhaPHWGxUVMnTrPbeHG",
 
@@ -9237,7 +9234,7 @@ const B51 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["La listes des techniques de base à maîtriser pour le CAP cuisine", "Comment préparer le mille-feuille", "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/opera-morceau_thumb.png",
 
@@ -9374,7 +9371,7 @@ const B52 = {
 
     sous_categorie: "2",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Fiche technique et recette de la Crème renversée au caramel", "Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H", "Les bases de la cuisine pour cuisiner comme un chef"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule_thumb.jpg",
 
