@@ -9,10 +9,10 @@ const Tutoriel: React.FC = () => {
         <IonText class='titre'>Tutoriel</IonText>
         <div className='contenu'>
           <IonText>
-            <p>Bienvenue sur l'application Cuisine de base ! Comme c'est la 1ère fois que vous vous connectez à l'application, voici un rapide tutoriel pour apprendre à l'utiliser simplement.</p>
-            <p>Lors du lancement de l'application, vous vous trouverez sur la page d'accueil. C'est ici que vous trouverez les derniers articles parus ou mis en avant. Sur chaque page se trouvera en bas de l'écran 5 boutons :</p>
+            <p>Bienvenue sur l'application Cuisine de base ! Comme c'est la 1ère fois que vous vous connectez à l'application, voici un rapide guide pour l'utiliser simplement.</p>
+            <p>Lors du lancement de l'application, vous vous trouverez sur la page d'accueil :</p>
             <ul>
-              <li>dans <b>Débutant</b>, vous aurez accès à une sélection d'articles et de ressources vous permettant d'apprendre sereinement et simplement les bases de la cuisine !</li>
+              <li>dans <b>Débutant</b>, vous aurez accès à une sélection d'articles et de ressources vous permettant d'apprendre les bases de la cuisine,</li>
               <li>dans <b>Ebook</b>, vous trouverez ma sélection de livres numériques permettant de se préparer au mieux aux épreuves du CAP cuisine,</li>
               <li>dans <b>Explorer</b>, vous pourrez naviguer parmi tous les articles disponibles sur l'application afin de vous renseigner sur le sujet de votre choix,</li>
               <li>dans <b>Coaching</b>, vous aurez la possibilité d'obtenir un appel avec moi pour que je vous aide à obtenir votre CAP cuisine,</li>

@@ -1,5 +1,5 @@
 import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText, IonToast } from '@ionic/react';
-import { listeArticles } from '../ConstructeurArticle';
+import { mapArticles } from '../ConstructeurArticle';
 import { Directory } from '@capacitor/filesystem';
 import write_blob from 'capacitor-blob-writer';
 import './Page.css';
@@ -16,10 +16,10 @@ const Article: React.FC<ArticleProps> = ({ props }) => {
   function buildItem() {
     return (
       <IonList className='liste_article'>
-        {props.articlesConnexes.map((indice: number) => (
-          <IonItem className='item_liste' routerLink={listeArticles[indice].route} key={listeArticles[indice].titre}>
-            <IonImg class='item_image' src={listeArticles[indice].image} alt={listeArticles[indice].titre}></IonImg>
-            <IonText class='item_texte_liste'> {listeArticles[indice].titre} </IonText>
+        {props.articlesConnexes.map((titre: string) => (
+          <IonItem className='item_liste' routerLink={mapArticles.get(titre).route} key={mapArticles.get(titre).titre}>
+            <IonImg class='item_image' src={mapArticles.get(titre).image} alt={mapArticles.get(titre).titre}></IonImg>
+            <IonText class='item_texte_liste'> {mapArticles.get(titre).titre} </IonText>
           </IonItem>
         ))}
       </IonList>
