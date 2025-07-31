@@ -1385,7 +1385,7 @@ const H5 = {
     route: "/article/dictionnaire-culinaire-g-h/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: ["Signification de bleu. Le dictionnaire culinaire", "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S", "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore"],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-g-h/",
 }
@@ -8900,7 +8900,6 @@ const H34 = {
     sous_categorie: "3",
     articlesConnexes: [
         "Challenge CAP cuisine candidat libre session 2023",
-        "Débutants commencez ici",
         "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?"
     ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg",
@@ -9209,7 +9208,7 @@ const H36 = {
     sous_categorie: "3",
     articlesConnexes: [
         "Poursuite d’études après un CAP cuisine. Les différentes possibilités.",
-        "Comment trouver le meilleur coach pour préparer le CAP Cuisine ",
+        "Comment trouver le meilleur coach pour préparer le CAP Cuisine",
         "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?"
     ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/well-dressed-female-chef-finishes-the-presentation-of-his-dish.png?resize=600%2C600&ssl=1",
@@ -9927,8 +9926,7 @@ const H42 = {
     sous_categorie: "3",
     articlesConnexes: [
         "Histoire de cuisine",
-        "Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre",
-        "Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé"
+        "Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre"
     ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/20181110_225601_thumb.jpg",
     lien: "https://cuisinedebase.com/le-point-sur-les-diffrents-types-de-restaurants-et-modes-de-restauration/",
@@ -10605,8 +10603,7 @@ const H46 = {
     sous_categorie: "3",
     articlesConnexes: [
         "La cuisine pour quitter la “Rat Race”",
-        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
-        "Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé"
+        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter"
     ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/05/cuisson_histoire_vielle.jpg",
     lien: "https://cuisinedebase.com/la-cuisine-dans-lhistoire/",

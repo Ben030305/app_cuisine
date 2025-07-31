@@ -899,7 +899,7 @@ const B4 = {
 
     sous_categorie: "0",
 
-    articlesConnexes: [],
+    articlesConnexes: ["Comment habiller une volaille et découper un poulet cru", "La fiche technique et recette pour faire un bon poulet rôti", "Comment créer des plats savoureux et équilibrés"],
 
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/fruits-marche-melun-5_thumb.jpg",
 
