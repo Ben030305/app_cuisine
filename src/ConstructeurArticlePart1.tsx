@@ -170,7 +170,7 @@ const B2 = {
 
 
 
-                <p>Le Bac Professionnel Cuisine est un diplôme de niveau IV. Il permet de se former <a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">aux techniques culinaires et aux gestes professionnels de la cuisine</a>. Cette formation dure deux ans et est accessible aux titulaires d’un CAP cuisine. Elle permet aux étudiants d’approfondir leurs connaissances et de se spécialiser dans des domaines spécifiques. Tels que la cuisine gastronomique, la cuisine du terroir ou la cuisine exotique.</p>
+                <p>Le Bac Professionnel Cuisine est un diplôme de niveau IV. Il permet de se former aux techniques culinaires et aux gestes professionnels de la cuisine. Cette formation dure deux ans et est accessible aux titulaires d’un CAP cuisine. Elle permet aux étudiants d’approfondir leurs connaissances et de se spécialiser dans des domaines spécifiques. Tels que la cuisine gastronomique, la cuisine du terroir ou la cuisine exotique.</p>
 
 
 
@@ -276,7 +276,7 @@ const B3 = {
 
 
 
-<p><span><span>Je me souviens d’un <strong>tableau Excel</strong> dans lequel j’ai écrit dans la première colonne toutes les <strong>techniques de base</strong> et les <strong>fabrications</strong> que je voulais <strong>apprendre</strong>, dans la deuxième colonne la page correspondante dans le <a href="https://amzn.to/2xvEnyC" target="_blank" rel="noopener noreferrer">livre cuisine de référence</a>, dans la colonne 4 le statut (fait ou pas), dans la colonne d’après une note qui correspond à mon <strong>niveau d’acquisition de la technique</strong>, et enfin en dernier la date de la <strong>préparation</strong>. </span></span></p>
+<p><span><span>Je me souviens d’un <strong>tableau Excel</strong> dans lequel j’ai écrit dans la première colonne toutes les <strong>techniques de base</strong> et les <strong>fabrications</strong> que je voulais <strong>apprendre</strong>, dans la deuxième colonne la page correspondante dans le <a href="https://amzn.to/2xvEnyC">livre cuisine de référence</a>, dans la colonne 4 le statut (fait ou pas), dans la colonne d’après une note qui correspond à mon <strong>niveau d’acquisition de la technique</strong>, et enfin en dernier la date de la <strong>préparation</strong>. </span></span></p>
 
 
 <div className="post-image">
@@ -302,11 +302,11 @@ const B3 = {
 
 
 
-<p>Quand on prépare un examen en tant que candidat libre.On est seul dans la nature au milieu de toute une montagne d’informations. Et une grande quantité d’enseignements à apprendre pour réussir l’examen. Il est difficile de rester motivé sur un long terme. C’est pour cela qu’il faut avoir un <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">Programme d’entrainement et d’organisation</a> qui respecte le <strong>programme CAP cuisine</strong> et qui aide à rester motivé.</p>
+<p>Quand on prépare un examen en tant que candidat libre.On est seul dans la nature au milieu de toute une montagne d’informations. Et une grande quantité d’enseignements à apprendre pour réussir l’examen. Il est difficile de rester motivé sur un long terme. C’est pour cela qu’il faut avoir un Programme d’entrainement et d’organisation qui respecte le <strong>programme CAP cuisine</strong> et qui aide à rester motivé.</p>
 
 
 
-<h2 className="sous_titre"><a href="https://cuisinedebase.com/cles-succes-pour-reussir-cap-cuisine-candidat-libre/">Clés pour réussir le CAP cuisine</a></h2>
+<h2 className="sous_titre">Clés pour réussir le CAP cuisine</h2>
 
 
 
@@ -330,7 +330,7 @@ const B3 = {
 
 
 
-<p><span>L’<strong>épreuve pratique du CAP cuisine</strong> est la plus redoutée de toutes les épreuves. En plus de la maîtrise des <strong>techniques de base</strong>, les candidats doivent savoir préparer et <strong>maintenir en état</strong> leurs <strong>postes de travail</strong>, ainsi que communiquer, dresser, analyser et contrôler la qualité des <strong>produits</strong>.</span> Voici un article qui revient sur le détail de cet <strong>examen pratique</strong>: <a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">Décryptage de l’épreuve pratique</a></p>
+<p><span>L’<strong>épreuve pratique du CAP cuisine</strong> est la plus redoutée de toutes les épreuves. En plus de la maîtrise des <strong>techniques de base</strong>, les candidats doivent savoir préparer et <strong>maintenir en état</strong> leurs <strong>postes de travail</strong>, ainsi que communiquer, dresser, analyser et contrôler la qualité des <strong>produits</strong>.</span> Voici un article qui revient sur le détail de cet <strong>examen pratique</strong>: Décryptage de l’épreuve pratique</p>
 
 
 
@@ -352,11 +352,11 @@ const B3 = {
 
 
 
-<p>Voici un article qui explique les examens écrits du <strong>CAP cuisine</strong>: <a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">Décryptage des épreuves écrites</a></p>
+<p>Voici un article qui explique les examens écrits du <strong>CAP cuisine</strong>: Décryptage des épreuves écrites</p>
 
 
 
-<p><span><span><span>Voici <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/" target="_blank" rel="noopener noreferrer">une sélection de livres</a> pour préparer les <strong>épreuves du CAP cuisine</strong></span></span></span></p>
+<p><span><span><span>Voici une sélection de livres pour préparer les <strong>épreuves du CAP cuisine</strong></span></span></span></p>
 
 
 
@@ -368,11 +368,11 @@ const B3 = {
 
 
 
-<p>Dans le planning que je vous propose j’ai intégré des examens blancs à la fin de chaque mois. Ces examens sont inspirés des <strong>annales CAP cuisine</strong>.Voici un post qui regroupe les <a href="https://cuisinedebase.com/annales-et-examens-des-annes-passes-pour-cap-cuisine/">Annales et examens</a> des années passées.</p>
+<p>Dans le planning que je vous propose j’ai intégré des examens blancs à la fin de chaque mois. Ces examens sont inspirés des <strong>annales CAP cuisine</strong>.Voici un post qui regroupe les Annales et examens des années passées.</p>
 
 
 
-<p><a href="https://cuisinedebase.com/annales-et-examens-des-annes-passes-pour-cap-cuisine/">Téléchargez les annales</a> pour les retravailler en examens blancs.</p>
+<p>Téléchargez les annales pour les retravailler en examens blancs.</p>
 
 
 
@@ -380,7 +380,7 @@ const B3 = {
 
 
 
-<p>L’évènement qui a marqué le <strong>sujet examen CAP cuisine</strong> de la session 2019 c’est que les <strong>épreuves</strong> étaient vraiment à un niveau légèrement supérieur par rapport à la <strong>session 2018</strong>. Il fallait que les candidats fassent preuve de beaucoup de courage et de concentration. <a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/">Le point sur la session 2019</a> avec une analyse détaillée qui permet d’avoir un aperçu sur le <strong>corrigé 2019</strong>.</p>
+<p>L’évènement qui a marqué le <strong>sujet examen CAP cuisine</strong> de la session 2019 c’est que les <strong>épreuves</strong> étaient vraiment à un niveau légèrement supérieur par rapport à la <strong>session 2018</strong>. Il fallait que les candidats fassent preuve de beaucoup de courage et de concentration. Le point sur la session 2019 avec une analyse détaillée qui permet d’avoir un aperçu sur le <strong>corrigé 2019</strong>.</p>
 
 
 
@@ -388,7 +388,7 @@ const B3 = {
 
 
 
-<p>Quand on <strong>prépare le CAP cuisine seul dans sa cuisine</strong>, on est amené à commettre des <strong>erreurs</strong>, pourtant il est très facile de les éviter. Des bons conseils sont toujours les bienvenues. Surtout quand il s’agit des erreurs commises par la majorité <strong>des candidats</strong>. Et qu’il faut éviter pour <strong>réussir le CAP cuisine en candidat libre</strong>. <a href="https://cuisinedebase.com/les-5-5-erreurs-eviter-pour-reussir-en-cap-cuisine-en-candidat-libre/">Consultez la liste des erreurs à éviter</a>.</p>
+<p>Quand on <strong>prépare le CAP cuisine seul dans sa cuisine</strong>, on est amené à commettre des <strong>erreurs</strong>, pourtant il est très facile de les éviter. Des bons conseils sont toujours les bienvenues. Surtout quand il s’agit des erreurs commises par la majorité <strong>des candidats</strong>. Et qu’il faut éviter pour <strong>réussir le CAP cuisine en candidat libre</strong>. Consultez la liste des erreurs à éviter.</p>
 
 
 
@@ -404,7 +404,7 @@ const B3 = {
 
 
 
-<p>Aussi je vous propose une <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">sélection de livres intéressants</a>. Ces livres vous seront d’une grande aide pour<strong> préparer l’examen du CAP cuisine</strong>. Et aussi à apprendre <strong>la cuisine de base</strong>. Cherchez-y celui qui correspondra le mieux à vos attentes.</p>
+<p>Aussi je vous propose une sélection de livres intéressants. Ces livres vous seront d’une grande aide pour<strong> préparer l’examen du CAP cuisine</strong>. Et aussi à apprendre <strong>la cuisine de base</strong>. Cherchez-y celui qui correspondra le mieux à vos attentes.</p>
         </div>
         </div>
     </article>,
@@ -455,11 +455,11 @@ const B4 = {
 
 
 
-<p>Explorez l’univers culinaire en plongeant dans le <a href="https://amzn.to/46BXyoP" target="_blank" rel="noopener noreferrer">livret dédié aux 25 recettes indispensables</a> pour tout aspirant au <strong>diplôme de CAP Cuisine</strong>. Ces recettes soigneusement sélectionnées constituent une compilation complète des <strong>techniques de base incontournables </strong>que chaque apprenti cuisinier devrait maîtriser. Du <strong>savoir-faire classique</strong> aux astuces modernes, cet article offre un guide essentiel pour perfectionner vos compétences en cuisine. Découvrez l’importance de chaque recette dans la construction d’une base solide pour exceller dans le domaine de la gastronomie. Explorez ces créations emblématiques et plongez dans l’art de la préparation culinaire, enrichissant ainsi votre parcours vers l’excellence en cuisine.</p>
+<p>Explorez l’univers culinaire en plongeant dans le <a href="https://amzn.to/46BXyoP">livret dédié aux 25 recettes indispensables</a> pour tout aspirant au <strong>diplôme de CAP Cuisine</strong>. Ces recettes soigneusement sélectionnées constituent une compilation complète des <strong>techniques de base incontournables </strong>que chaque apprenti cuisinier devrait maîtriser. Du <strong>savoir-faire classique</strong> aux astuces modernes, cet article offre un guide essentiel pour perfectionner vos compétences en cuisine. Découvrez l’importance de chaque recette dans la construction d’une base solide pour exceller dans le domaine de la gastronomie. Explorez ces créations emblématiques et plongez dans l’art de la préparation culinaire, enrichissant ainsi votre parcours vers l’excellence en cuisine.</p>
 
 
 
-<p><span>Aussi, voici quelques <strong>techniques et préparations de base</strong> à maitriser pour <strong>cuisiner comme un chef</strong>. Et être confiant lors du passage de l’<strong>épreuve pratique du CAP cuisine</strong> ! Il ne s’agit bien sûr pas d’une liste officielle mais d’un ensemble de <strong>techniques</strong> que nous pouvons trouver dans <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les recettes de base</a> à maîtriser.</span></p>
+<p><span>Aussi, voici quelques <strong>techniques et préparations de base</strong> à maitriser pour <strong>cuisiner comme un chef</strong>. Et être confiant lors du passage de l’<strong>épreuve pratique du CAP cuisine</strong> ! Il ne s’agit bien sûr pas d’une liste officielle mais d’un ensemble de <strong>techniques</strong> que nous pouvons trouver dans les recettes de base à maîtriser.</span></p>
 
 
 
@@ -471,7 +471,7 @@ const B4 = {
 
 
 
-<p><a href="https://cuisinedebase.com/tous-ce-quil-faut-savoir-sur-les-legumes/"><span>Cliquez pour avoir plus d’informations concernant les légumes</span></a></p>
+<p><span>Cliquez pour avoir plus d’informations concernant les légumes</span></p>
 
 
 
@@ -479,11 +479,11 @@ const B4 = {
 
 
 
-<p>Les corps gras jouent un rôle prépondérant tant en <strong>cuisine</strong> qu’en <strong>pâtisserie</strong>. Leur utilisation, qu’elle soit pour sauter, frire, rôtir ou créer des <strong><a href="https://cuisinedebase.com/pates-base-cap-cuisine/">pâtes feuilletées</a></strong> et des desserts exquis, est omniprésente dans l’art culinaire. Ces lipides apportent une richesse de saveurs, une texture délicate et participent à la création d’une variété infinie de plats et de <strong>délices sucrés</strong>. Que ce soit pour sublimer la <strong>cuisson d’une viande</strong> ou conférer à une pâte la légèreté tant recherchée, les corps gras sont des alliés incontournables, ajoutant une dimension sensorielle essentielle à la palette gustative de chaque <strong>création culinaire.</strong></p>
+<p>Les corps gras jouent un rôle prépondérant tant en <strong>cuisine</strong> qu’en <strong>pâtisserie</strong>. Leur utilisation, qu’elle soit pour sauter, frire, rôtir ou créer des <strong>pâtes feuilletées</strong> et des desserts exquis, est omniprésente dans l’art culinaire. Ces lipides apportent une richesse de saveurs, une texture délicate et participent à la création d’une variété infinie de plats et de <strong>délices sucrés</strong>. Que ce soit pour sublimer la <strong>cuisson d’une viande</strong> ou conférer à une pâte la légèreté tant recherchée, les corps gras sont des alliés incontournables, ajoutant une dimension sensorielle essentielle à la palette gustative de chaque <strong>création culinaire.</strong></p>
 
 
 
-<p>C<span>liquez pour découvrir <a href="https://cuisinedebase.com/utilisation-des-corps-gras-dans-la-cuisine-et-la-patisserie/">l’utilisation des corps gras dans la cuisine et la pâtisserie. </a></span></p>
+<p>C<span>liquez pour découvrir l’utilisation des corps gras dans la cuisine et la pâtisserie. </span></p>
 
 
 
@@ -495,7 +495,7 @@ const B4 = {
 
 
 
-<p><span>Les </span><strong>farces</strong><span>, les </span><strong>beurres composés</strong><span>, les </span><strong>marinades</strong><span> et les </span><strong>court bouillons</strong> se dressent comme des symphonies de saveurs, des potions magiques de <strong>l’art culinaire</strong>, œuvrant à aromatiser, sublimer le goût, et enrichir textures et saveurs des aliments. Ces préparations ingénieuses constituent l’essence même de l’<strong>élaboration gastronomique</strong>, apportant une touche d’excellence à chaque plat. Si vous souhaitez approfondir vos connaissances sur ces <strong>techniques culinaires captivantes</strong>, je vous invite à explorer notre section dédiée aux <span> <a href="https://cuisinedebase.com/fiches-de-revision-cap-cuisine-les-farces-beurres-composes-marinades-court-bouillons/">Les farces, beurres composés, marinades, court bouillons</a></span>. Vous y découvrirez des détails enrichissants pour parfaire vos <strong>compétences culinaires</strong> et élever vos créations à de nouveaux sommets de délicatesse et de saveur.</p>
+<p><span>Les </span><strong>farces</strong><span>, les </span><strong>beurres composés</strong><span>, les </span><strong>marinades</strong><span> et les </span><strong>court bouillons</strong> se dressent comme des symphonies de saveurs, des potions magiques de <strong>l’art culinaire</strong>, œuvrant à aromatiser, sublimer le goût, et enrichir textures et saveurs des aliments. Ces préparations ingénieuses constituent l’essence même de l’<strong>élaboration gastronomique</strong>, apportant une touche d’excellence à chaque plat. Si vous souhaitez approfondir vos connaissances sur ces <strong>techniques culinaires captivantes</strong>, je vous invite à explorer notre section dédiée aux <span> Les farces, beurres composés, marinades, court bouillons</span>. Vous y découvrirez des détails enrichissants pour parfaire vos <strong>compétences culinaires</strong> et élever vos créations à de nouveaux sommets de délicatesse et de saveur.</p>
 
 
 
@@ -511,11 +511,11 @@ const B4 = {
 
 
 
-<p>Pour plus d’informations sur <strong>les sauces et fonds de base</strong> vous pouvez consulter l’article suivant: <a href="https://cuisinedebase.com/fiches-de-rvision-les-fonds-de-base-en-cuisine-sauces-blanc-brun-fumet-de-poisson-jus-de-veaux/">fonds de base, sauces</a></p>
+<p>Pour plus d’informations sur <strong>les sauces et fonds de base</strong> vous pouvez consulter l’article suivant: fonds de base, sauces</p>
 
 
 
-<h2 className="sous_titre"><a href="https://cuisinedebase.com/fiche-de-revision-cap-cuisine-les-oeufs-et-ovo-produits/">Œufs et ovo produits</a></h2>
+<h2 className="sous_titre">Œufs et ovo produits</h2>
 
 
 
@@ -523,7 +523,7 @@ const B4 = {
 
 
 
-<p>Les <strong>bases de la cuisine</strong>&nbsp;sont nécessaires pour <strong>apprendre à cuisiner</strong>. Voici une liste de ressources qui permettent de découvrir certaines <strong><a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">techniques de base pour cuisiner comme un chef</a>.</strong></p>
+<p>Les <strong>bases de la cuisine</strong>&nbsp;sont nécessaires pour <strong>apprendre à cuisiner</strong>. Voici une liste de ressources qui permettent de découvrir certaines <strong>techniques de base pour cuisiner comme un chef.</strong></p>
 
 
 
@@ -535,15 +535,15 @@ const B4 = {
 
 
 
-<p>Comprendre les <a href="https://cuisinedebase.com/les-principales-phases-de-la-cuisson-du-sucre/">diverses techniques de cuisson du sucre</a> est fondamental en cuisine et en pâtisserie. Que vous cherchiez à réaliser un <strong>caramel onctueux</strong>, une <strong>nougatine croquante</strong> ou une <strong>meringue aérée</strong>, chaque application nécessite une attention particulière à la température et à la <strong>transformation physique du sucre</strong>. <strong>Explorez les principales méthodes de cuisson du sucre</strong> pour affiner votre expertise dans l’art délicat de la pâtisserie et créer des œuvres sucrées véritablement exceptionnelles.</p>
+<p>Comprendre les diverses techniques de cuisson du sucre est fondamental en cuisine et en pâtisserie. Que vous cherchiez à réaliser un <strong>caramel onctueux</strong>, une <strong>nougatine croquante</strong> ou une <strong>meringue aérée</strong>, chaque application nécessite une attention particulière à la température et à la <strong>transformation physique du sucre</strong>. <strong>Explorez les principales méthodes de cuisson du sucre</strong> pour affiner votre expertise dans l’art délicat de la pâtisserie et créer des œuvres sucrées véritablement exceptionnelles.</p>
 
 
 
-<h2 className="sous_titre"><a href="https://cuisinedebase.com/comment-habiller-et-decouper-une-volaille-cru/">Habiller et découper une volaille à cru</a></h2>
+<h2 className="sous_titre">Habiller et découper une volaille à cru</h2>
 
 
 
-<p>Lorsqu’on évoque la <strong>volaille</strong>, le <strong>poulet</strong> s’impose naturellement comme protagoniste principal, peut-être en raison de sa polyvalence et de son accessibilité. Outre son coût abordable, le poulet offre une palette infinie de <strong>préparations culinaires</strong>, ce qui en fait un incontournable des cuisines du monde entier. Il devient donc impératif de <a href="https://cuisinedebase.com/comment-habiller-et-decouper-une-volaille-cru/">maîtriser l’art d’habiller et de découper un poulet cru</a> pour exploiter pleinement sa diversité en <strong>cuisine</strong>. Apprendre à <strong>brider</strong>, <strong>ficeler</strong> et <strong>préparer les abats</strong> du poulet devient également une étape incontournable pour tirer le meilleur parti de cet ingrédient emblématique. Plongez dans les subtilités de la <strong>manipulation du poulet</strong> cru pour enrichir votre répertoire culinaire et <strong>créer des plats savoureux et variés</strong>.</p>
+<p>Lorsqu’on évoque la <strong>volaille</strong>, le <strong>poulet</strong> s’impose naturellement comme protagoniste principal, peut-être en raison de sa polyvalence et de son accessibilité. Outre son coût abordable, le poulet offre une palette infinie de <strong>préparations culinaires</strong>, ce qui en fait un incontournable des cuisines du monde entier. Il devient donc impératif de maîtriser l’art d’habiller et de découper un poulet cru pour exploiter pleinement sa diversité en <strong>cuisine</strong>. Apprendre à <strong>brider</strong>, <strong>ficeler</strong> et <strong>préparer les abats</strong> du poulet devient également une étape incontournable pour tirer le meilleur parti de cet ingrédient emblématique. Plongez dans les subtilités de la <strong>manipulation du poulet</strong> cru pour enrichir votre répertoire culinaire et <strong>créer des plats savoureux et variés</strong>.</p>
 
 
 
@@ -551,7 +551,7 @@ const B4 = {
 
 
 
-<p>Les <strong>produits de la mer</strong> jouent un rôle prépondérant dans la richesse de la <strong>gastronomie française</strong>. Ainsi, il devient essentiel de pouvoir identifier certains <strong>poissons et crustacés</strong> couramment utilisés en <strong>cuisine</strong>, ne serait-ce que pour reconnaître leurs noms. Cette compétence est fondamentale pour tout amateur désireux de comprendre <strong>les bases de la cuisine</strong>. Ainsi elle offre une clé d’accès à la diversité infinie des <strong>saveurs marines</strong> qui caractérisent la cuisine française. Que ce soit pour apprécier un <strong>filet de bar</strong> délicatement préparé ou pour savourer des <strong>crustacés frais</strong> dans une recette sophistiquée, la capacité à identifier et à comprendre les spécificités de chaque <strong>produit de la pêche</strong> devient un atout inestimable pour tout <strong>amateur de cuisine</strong> française. <a href="https://cuisinedebase.com/habillage-poisson/" target="_blank" rel="noopener noreferrer">Plongez dans l’univers des produits de la mer et découvrez la magie d’une cuisine riche en saveurs marines</a>.</p>
+<p>Les <strong>produits de la mer</strong> jouent un rôle prépondérant dans la richesse de la <strong>gastronomie française</strong>. Ainsi, il devient essentiel de pouvoir identifier certains <strong>poissons et crustacés</strong> couramment utilisés en <strong>cuisine</strong>, ne serait-ce que pour reconnaître leurs noms. Cette compétence est fondamentale pour tout amateur désireux de comprendre <strong>les bases de la cuisine</strong>. Ainsi elle offre une clé d’accès à la diversité infinie des <strong>saveurs marines</strong> qui caractérisent la cuisine française. Que ce soit pour apprécier un <strong>filet de bar</strong> délicatement préparé ou pour savourer des <strong>crustacés frais</strong> dans une recette sophistiquée, la capacité à identifier et à comprendre les spécificités de chaque <strong>produit de la pêche</strong> devient un atout inestimable pour tout <strong>amateur de cuisine</strong> française. Plongez dans l’univers des produits de la mer et découvrez la magie d’une cuisine riche en saveurs marines.</p>
 
 
 
@@ -563,7 +563,7 @@ const B4 = {
 
 
 
-<p>Si vous souhaitez approfondir vos connaissances sur cette pratique essentielle, je vous invite à consulter notre article dédié aux «&nbsp;<span><a href="https://cuisinedebase.com/feuilles-de-grammage/">Feuilles de grammage.</a></span>«&nbsp;. Celui-ci offre des informations détaillées sur l’élaboration et l’utilisation de ces tableaux, apportant ainsi une dimension pratique à la gestion précise des quantités en cuisine.</p>
+<p>Si vous souhaitez approfondir vos connaissances sur cette pratique essentielle, je vous invite à consulter notre article dédié aux «&nbsp;<span>Feuilles de grammage.</span>«&nbsp;. Celui-ci offre des informations détaillées sur l’élaboration et l’utilisation de ces tableaux, apportant ainsi une dimension pratique à la gestion précise des quantités en cuisine.</p>
 
 
 <div className="post-image">
@@ -578,7 +578,7 @@ const B4 = {
 
 
 
-<p>Le découpage, quant à lui, est une étape cruciale pour assurer une<strong> cuisson homogène</strong> et une expérience <strong>gustative</strong> optimale. En acquérant ces compétences dès le début de leur formation, les <strong>apprentis</strong> <strong>cuisiniers</strong> posent <strong>les bases de la cuisine.</strong> Ainsi que d’une maîtrise technique qui les accompagnera tout au long de leur <strong>parcours culinaire</strong>. Pour de plus amples détails sur ces techniques essentielles, les apprentis peuvent consulter <strong>des <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">ressources et livres spécialisées</a></strong> et bénéficier des conseils pratiques de chefs expérimentés.</p>
+<p>Le découpage, quant à lui, est une étape cruciale pour assurer une<strong> cuisson homogène</strong> et une expérience <strong>gustative</strong> optimale. En acquérant ces compétences dès le début de leur formation, les <strong>apprentis</strong> <strong>cuisiniers</strong> posent <strong>les bases de la cuisine.</strong> Ainsi que d’une maîtrise technique qui les accompagnera tout au long de leur <strong>parcours culinaire</strong>. Pour de plus amples détails sur ces techniques essentielles, les apprentis peuvent consulter <strong>des ressources et livres spécialisées</strong> et bénéficier des conseils pratiques de chefs expérimentés.</p>
 
 
 
@@ -586,7 +586,7 @@ const B4 = {
 
 
 
-<p>Voici un article qui explique les découpes des légumes: <a href="https://cuisinedebase.com/techniques-de-base-epluchage-et-decoupe/">Épluchage et découpe</a>&nbsp;des fruits et légumes en cuisine</p>
+<p>Voici un article qui explique les découpes des légumes: Épluchage et découpe&nbsp;des fruits et légumes en cuisine</p>
 
 
 
@@ -607,27 +607,27 @@ const B4 = {
 
 
 <ul className="wp-block-list">
-<li><a href="https://cuisinedebase.com/recette-crepe-facile/"><strong>Pâte à crêpe</strong></a></li>
+<li><strong>Pâte à crêpe</strong></li>
 
 
 
-<li><a href="https://cuisinedebase.com/technique-de-base-de-realisation-de-la-pate-feuilletee/">Confection de <strong>la pâte feuilletée</strong></a></li>
+<li>Confection de <strong>la pâte feuilletée</strong></li>
 
 
 
-<li><a href="https://cuisinedebase.com/technique-de-base-pour-realiser-la-pate-choux/"><strong>La pâte à choux</strong></a></li>
+<li><strong>La pâte à choux</strong></li>
 
 
 
-<li><a href="https://cuisinedebase.com/technique-de-base-pour-raliser-une-pate-brise/">Réaliser une <strong>pate brisée</strong></a></li>
+<li>Réaliser une <strong>pate brisée</strong></li>
 
 
 
-<li><strong>Faire une </strong><a href="https://cuisinedebase.com/technique-de-base-pate-sucree/"><strong>Pâte sucrée</strong></a></li>
+<li><strong>Faire une </strong><strong>Pâte sucrée</strong></li>
 
 
 
-<li><strong>Et enfin la </strong><a href="https://cuisinedebase.com/technique-de-base-pate-sablee/"><strong>pâte sablée</strong></a></li>
+<li><strong>Et enfin la </strong><strong>pâte sablée</strong></li>
 </ul>
 
 
@@ -636,7 +636,7 @@ const B4 = {
 
 
 
-<p><span>En cuisine nous sommes amenés à faire des <strong>mesures</strong> pour <strong>doser les ingrédients</strong> d’une recette donnée. Les principales mesures effectuées sont différentes. Voici un article qui explique l’ensemble de ces mesures: <a href="https://cuisinedebase.com/unite-de-mesure-pesage-et-adaptation-des-recettes/">Peser, mesurer et adapter les recettes</a></span></p>
+<p><span>En cuisine nous sommes amenés à faire des <strong>mesures</strong> pour <strong>doser les ingrédients</strong> d’une recette donnée. Les principales mesures effectuées sont différentes. Voici un article qui explique l’ensemble de ces mesures: Peser, mesurer et adapter les recettes</span></p>
 
 
 
@@ -978,7 +978,7 @@ const B5 = {
 
 
 
-<p><a href="https://cuisinedebase.com/coaching/">Je veux de l’aide pour préparer le CAP!</a>.</p>
+<p>Je veux de l’aide pour préparer le CAP!.</p>
 
 
 
@@ -1051,11 +1051,11 @@ const B5 = {
 
 
 
-<p>Si tout cela vous parait très dur et compliqué à atteindre tout seul, je peux vous aider via <a href="https://cuisinedebase.com/coaching/">mon programme de coaching</a>.</p>
+<p>Si tout cela vous parait très dur et compliqué à atteindre tout seul, je peux vous aider via mon programme de coaching.</p>
 
 
 
-<p>Aussi, les personnes qui souhaitent <strong>préparer le CAP cuisine en candidat libre,</strong> doivent aussi passer des <strong>épreuves écrites</strong> et même pour certains des épreuves sur les <strong>matières générales</strong>. N’hésitez pas à consulter mon article sur <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/" target="_blank" rel="noopener noreferrer">comment passer le CAP cuisine en candidat libre</a>, et consultez le&nbsp;<a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014" target="_blank" rel="noopener noreferrer">bulletin officiel</a>&nbsp;relatif à ce sujet.</p>
+<p>Aussi, les personnes qui souhaitent <strong>préparer le CAP cuisine en candidat libre,</strong> doivent aussi passer des <strong>épreuves écrites</strong> et même pour certains des épreuves sur les <strong>matières générales</strong>. N’hésitez pas à consulter mon article sur comment passer le CAP cuisine en candidat libre, et consultez le&nbsp;<a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014">bulletin officiel</a>&nbsp;relatif à ce sujet.</p>
 
             </div>
         </div>
@@ -1103,7 +1103,7 @@ const B6 = {
 
 
 
-<p><span>Entre nous, j’ai trouvé que la formation était <strong>chère</strong> surtout que je ne comptais pas faire de la cuisine mon métier, c’était juste un <strong>défi</strong> que je voulais relever et en même temps <strong>apprendre les techniques de base</strong>. En continuant mes recherches je suis tombé sur le magnifique <strong>blog</strong> de <strong><u>oups la gourmande</u></strong> où j’ai appris qu’il suffit d’acheter un <strong>livre pour préparer le CAP cuisine</strong>. Il s’agit du livre <a href="https://amzn.to/2xvEnyC" target="_blank" rel="noopener noreferrer">CUISINE DE REFERENCE</a> de <strong>Michel Maincent</strong> et de suivre scrupuleusement un <strong><a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/" target="_blank" rel="noopener noreferrer">programme d’entrainement</a> </strong>pour apprendre certaines <strong>techniques de base </strong>nécessaires pour réussir <strong>le CAP cuisine</strong>.</span></p>
+<p><span>Entre nous, j’ai trouvé que la formation était <strong>chère</strong> surtout que je ne comptais pas faire de la cuisine mon métier, c’était juste un <strong>défi</strong> que je voulais relever et en même temps <strong>apprendre les techniques de base</strong>. En continuant mes recherches je suis tombé sur le magnifique <strong>blog</strong> de <strong><u>oups la gourmande</u></strong> où j’ai appris qu’il suffit d’acheter un <strong>livre pour préparer le CAP cuisine</strong>. Il s’agit du livre <a href="https://amzn.to/2xvEnyC">CUISINE DE REFERENCE</a> de <strong>Michel Maincent</strong> et de suivre scrupuleusement un <strong>programme d’entrainement </strong>pour apprendre certaines <strong>techniques de base </strong>nécessaires pour réussir <strong>le CAP cuisine</strong>.</span></p>
 
 
 
@@ -1142,7 +1142,7 @@ const B6 = {
 
 
 
-<p>Toutefois, il y a une information pertinente et qui a son importance. Les <strong>démarches administrative</strong> pour s’inscrire en tant que <strong>candidat libre</strong> sont individuelles. Cela veut dire que les centres de formations ne peuvent pas faire les demandes à la place de leurs élèves. Et cette information est très nuancée par les centres. Je vous invite à lire mon article sur comment effectuer les <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/" target="_blank" rel="noopener noreferrer">démarches administrative du CAP en candidat libre</a>.</p>
+<p>Toutefois, il y a une information pertinente et qui a son importance. Les <strong>démarches administrative</strong> pour s’inscrire en tant que <strong>candidat libre</strong> sont individuelles. Cela veut dire que les centres de formations ne peuvent pas faire les demandes à la place de leurs élèves. Et cette information est très nuancée par les centres. Je vous invite à lire mon article sur comment effectuer les démarches administrative du CAP en candidat libre.</p>
 
 
 
@@ -1174,7 +1174,7 @@ const B6 = {
 
 
 
-<p>Vous pouvez consulter cet article pour avoir plus d’informations concernant<span><b >l’</b><a href="https://cuisinedebase.com/comment-sorganiser-pour-bien-prparer-le-cap-cuisine-candidat-libre/" target="_blank" rel="noopener noreferrer"><b >organisation pour </b><span>préparer</span><strong><b > </b></strong></a></span><a href="https://cuisinedebase.com/comment-sorganiser-pour-bien-prparer-le-cap-cuisine-candidat-libre/" target="_blank" rel="noopener noreferrer"><strong>le </strong></a><strong ><a href="https://cuisinedebase.com/comment-sorganiser-pour-bien-prparer-le-cap-cuisine-candidat-libre/" target="_blank" rel="noopener noreferrer">CAP</a> cuisine en candidat libre</strong>.</p>
+<p>Vous pouvez consulter cet article pour avoir plus d’informations concernant<span><b >l’</b><b >organisation pour </b><span>préparer</span><strong><b > </b></strong></span><strong>le </strong><strong >CAP cuisine en candidat libre</strong>.</p>
 
 
 
@@ -1186,7 +1186,7 @@ const B6 = {
 
 
 
-<p>Voici un article qui vous détaille un peu plus <strong>le métier du cuisinier</strong> et <a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/" target="_blank" rel="noopener noreferrer">comment devenir un cuisinier professionnel</a></p>
+<p>Voici un article qui vous détaille un peu plus <strong>le métier du cuisinier</strong> et comment devenir un cuisinier professionnel</p>
 
 
 
@@ -1194,11 +1194,11 @@ const B6 = {
 
 
 
-<p>L’<strong>épreuve pratique</strong> du CAP cuisine est la plus importante des épreuves. C’est elle qui a le plus gros coefficient. Et cela est normal, on ne peut pas prétendre <strong>être cuisinier</strong> si on ne sait pas cuisiner. En outre, pour <strong>apprendre à cuisiner</strong>, il faut s’entrainer. Voici donc un <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">programme d’entrainement et d’organisation pour préparer seul le CAP cuisine candidat libre</a>.</p>
+<p>L’<strong>épreuve pratique</strong> du CAP cuisine est la plus importante des épreuves. C’est elle qui a le plus gros coefficient. Et cela est normal, on ne peut pas prétendre <strong>être cuisinier</strong> si on ne sait pas cuisiner. En outre, pour <strong>apprendre à cuisiner</strong>, il faut s’entrainer. Voici donc un programme d’entrainement et d’organisation pour préparer seul le CAP cuisine candidat libre.</p>
 
 
 
-<p>S’entrainer c’est bien, mais savoir quelles sont les <strong>techniques</strong> et les <strong>recettes à travailler</strong>, c’est encore mieux. Il est impossible d’apprendre l’ensemble des <strong>techniques de base de la cuisine</strong>. Néanmoins, il existe certaines techniques qu’il faut absolument maîtriser pour espérer <strong>obtenir le diplôme du CAP cuisine</strong>. Heureusement il existe une <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/" target="_blank" rel="noopener noreferrer">liste de 25 fiches techniques pour préparer le CAP cuisine</a>. C’est une <strong>liste de recettes</strong> qui englobe <strong>les bases de la cuisine</strong> que l’on doit maîtriser avec un <strong>CAP cuisine</strong>.</p>
+<p>S’entrainer c’est bien, mais savoir quelles sont les <strong>techniques</strong> et les <strong>recettes à travailler</strong>, c’est encore mieux. Il est impossible d’apprendre l’ensemble des <strong>techniques de base de la cuisine</strong>. Néanmoins, il existe certaines techniques qu’il faut absolument maîtriser pour espérer <strong>obtenir le diplôme du CAP cuisine</strong>. Heureusement il existe une liste de 25 fiches techniques pour préparer le CAP cuisine. C’est une <strong>liste de recettes</strong> qui englobe <strong>les bases de la cuisine</strong> que l’on doit maîtriser avec un <strong>CAP cuisine</strong>.</p>
 
 
 
@@ -1248,7 +1248,7 @@ const B6 = {
 
 
 
-<p><span >Vous pouvez consulter quelques <a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">techniques et préparations de base</a> à maitriser pour r</span>éussir<span > l’épreuve la plus redoutée du <strong>CAP cuisine</strong> ! Il ne s’agit bien sûr pas d’une <strong>liste officielle</strong>. </span>M<span >ais d’un ensemble de <strong>techniques</strong> que nous pouvons trouver dans les <strong>recettes de base</strong> à maîtriser.</span></p>
+<p><span >Vous pouvez consulter quelques techniques et préparations de base à maitriser pour r</span>éussir<span > l’épreuve la plus redoutée du <strong>CAP cuisine</strong> ! Il ne s’agit bien sûr pas d’une <strong>liste officielle</strong>. </span>M<span >ais d’un ensemble de <strong>techniques</strong> que nous pouvons trouver dans les <strong>recettes de base</strong> à maîtriser.</span></p>
 
 
 
@@ -1256,11 +1256,11 @@ const B6 = {
 
 
 
-<p>Il est possible de se procurer des ressources gratuites pour préparer le CAP cuisine à distance. En effet,  il est possible de <span >travailler facilement ces <strong>techniques de base</strong>. </span>G<span >râce </span>à <a href="http://webtv.ac-versailles.fr/restauration/Formation-CAP-cuisine" target="_blank" rel="noopener noreferrer">l’académie de Versailles</a><span > </span>qui a mis gratuitement<span > différentes <strong>vidéos</strong> sur le web. On peut aussi trouver dans ce site, <strong>des fiches techniques de fabrication</strong>, des conseils pour les jeunes apprentis, …</span></p>
+<p>Il est possible de se procurer des ressources gratuites pour préparer le CAP cuisine à distance. En effet,  il est possible de <span >travailler facilement ces <strong>techniques de base</strong>. </span>G<span >râce </span>à <a href="http://webtv.ac-versailles.fr/restauration/Formation-CAP-cuisine">l’académie de Versailles</a><span > </span>qui a mis gratuitement<span > différentes <strong>vidéos</strong> sur le web. On peut aussi trouver dans ce site, <strong>des fiches techniques de fabrication</strong>, des conseils pour les jeunes apprentis, …</span></p>
 
 
 
-<p><span >Evitez de travailler de manière isolée, vous pouvez participer à des groupes de discussion sur <strong>Facebook</strong>. </span>C<span >omme le groupe </span><a href="https://www.facebook.com/groups/149592485856959/?ref=group_header" target="_blank" rel="noopener noreferrer"><span >CAP cuisine en candidat libre – session 2019</span></a><span > ou encore le groupe </span><a href="https://www.facebook.com/groups/484278061782378/?ref=group_header" target="_blank" rel="noopener noreferrer"><span >C.A.P cuisine en candidat libre</span></a><span > qui sont très actifs. On peut poster ses <strong>réalisations</strong> et demander <strong>avis et conseils</strong> aux membres</span>.<span > </span>E<span >n général les membres sont très réactifs et leur temps de réponse est court. Grâce à ces groupes, on peut aussi suivre un <strong>programme collectifs</strong></span>. C<span >e qui permet de se sentir moins seul, se <strong>motiver</strong> mutuellement et de garder une bonne <strong>assiduité</strong> pour <strong>accomplir</strong> le programme.</span></p>
+<p><span >Evitez de travailler de manière isolée, vous pouvez participer à des groupes de discussion sur <strong>Facebook</strong>. </span>C<span >omme le groupe </span><a href="https://www.facebook.com/groups/149592485856959/?ref=group_header"><span >CAP cuisine en candidat libre – session 2019</span></a><span > ou encore le groupe </span><a href="https://www.facebook.com/groups/484278061782378/?ref=group_header"><span >C.A.P cuisine en candidat libre</span></a><span > qui sont très actifs. On peut poster ses <strong>réalisations</strong> et demander <strong>avis et conseils</strong> aux membres</span>.<span > </span>E<span >n général les membres sont très réactifs et leur temps de réponse est court. Grâce à ces groupes, on peut aussi suivre un <strong>programme collectifs</strong></span>. C<span >e qui permet de se sentir moins seul, se <strong>motiver</strong> mutuellement et de garder une bonne <strong>assiduité</strong> pour <strong>accomplir</strong> le programme.</span></p>
 
 
 
@@ -1268,7 +1268,7 @@ const B6 = {
 
 
 
-<p><span >Sachez aussi que <strong>l’AFPA</strong> a créé un </span><a href="https://mooc.afpa.fr/" target="_blank" rel="noopener noreferrer"><span >MOOC</span></a><span >&nbsp; (Massive Open Online Course) en 2017 sur la <strong>cuisine</strong> et la <strong>pâtisserie</strong>. Des <strong>cours de cuisine gratuits en ligne </strong>qui s’adressent à tous</span> ceux <span >qui souhaitent <strong>se former en cuisine, </strong>se perfectionner ou s’orienter vers le <strong>métier de cuisinier</strong>.</span></p>
+<p><span >Sachez aussi que <strong>l’AFPA</strong> a créé un </span><a href="https://mooc.afpa.fr/"><span >MOOC</span></a><span >&nbsp; (Massive Open Online Course) en 2017 sur la <strong>cuisine</strong> et la <strong>pâtisserie</strong>. Des <strong>cours de cuisine gratuits en ligne </strong>qui s’adressent à tous</span> ceux <span >qui souhaitent <strong>se former en cuisine, </strong>se perfectionner ou s’orienter vers le <strong>métier de cuisinier</strong>.</span></p>
 
 
 
@@ -1314,20 +1314,20 @@ const B7 = {
 <p><span>Qu’il soit <strong>amateur </strong>ou<strong> professionnel</strong>, le <strong>cuisinier</strong> doit <strong>faire la cuisine</strong>&nbsp;avec ferveur et mettre toute son énergie pour&nbsp;<strong>réussir les plats qu’il confectionne</strong>. Personne n’est né avec un <strong>tablier ou</strong> une<strong> toque</strong> sur la tête. Comme dans toutes les professions, le <strong>métier de cuisinier </strong>s’apprend très facilement. Et avant de se lancer tête baissée dans&nbsp;<strong>l’apprentissage des techniques de base</strong> de la <strong>cuisine. </strong>Ou la réalisation des <strong>fiches techniques de fabrication.</strong>&nbsp;Il y a certaines choses qui sont négligées par une grande partie des personnes qui souhaitent <strong>apprendre à cuisiner.</strong>&nbsp;Et bien entendu, ces enseignements sont essentiels pour comprendre correctement <strong>le métier d’un cuisinier professionnel</strong>.&nbsp;</span></p>
 <h2 className="sous_titre">Histoire de la cuisine</h2>
 <p>Le <strong>métier de cuisinier</strong> a aussi une histoire, et elle remonte à la nuit des temps.&nbsp;<strong>L’histoire de la cuisine</strong> a commencé avec l’histoire de l’Homme, car celui-ci a toujours eu besoin de <strong>s’alimenter</strong>. il a commencé par manger <strong>la viande</strong> de son <strong>gibier</strong> toute crue, puis il a amélioré ses outils de <strong>chasse</strong> puis a inventé le feu, ce qu’il lui a permis de déguster de bon <strong>steack grillé</strong> et de bons morceaux de <strong>viandes rôties</strong>.</p>
-<p>Aujourd’hui, <a href="https://cuisinedebase.com/la-cuisine-dans-lhistoire/">l’histoire de la cuisine</a> a progressé et <strong>l’alimentation</strong> de l’espèce humaine a évolué et les <strong>formes de consommation culinaire</strong> ont changé. La <strong>cuisine</strong> ne joue plus qu’un seule rôle, celui de <strong>s’alimenter</strong>, mais elle est devenu un <strong>symbole et une identité culturelle</strong> des nations.</p>
-<p>La <strong>gastronomie Française</strong> a aussi progressé pour rendre la <strong>France</strong> mondialement connue par sa <strong>cuisine</strong> et par la <strong>diversité de ses plats</strong>.<a href="https://cuisinedebase.com/la-cuisine-dans-lhistoire/"> Cliquez ici</a> pour avoir plus de détails sur l’histoire de la cuisine.</p>
+<p>Aujourd’hui, l’histoire de la cuisine a progressé et <strong>l’alimentation</strong> de l’espèce humaine a évolué et les <strong>formes de consommation culinaire</strong> ont changé. La <strong>cuisine</strong> ne joue plus qu’un seule rôle, celui de <strong>s’alimenter</strong>, mais elle est devenu un <strong>symbole et une identité culturelle</strong> des nations.</p>
+<p>La <strong>gastronomie Française</strong> a aussi progressé pour rendre la <strong>France</strong> mondialement connue par sa <strong>cuisine</strong> et par la <strong>diversité de ses plats</strong>. Cliquez ici pour avoir plus de détails sur l’histoire de la cuisine.</p>
 <h2 className="sous_titre">Le métier de cuisinier et ses grands chefs</h2>
-<p>La <strong>cuisine française</strong> est sans doute une <strong>cuisine de référence</strong> dans le monde entier, grâce à la diversité et la richesse de ses produits de <strong>terroir</strong> qui sont souvent attachés à une région. Plusieurs <strong><a href="https://cuisinedebase.com/les-8-grands-chefs-qui-ont-influence-et-marque-la-cuisine-francaise/">grands noms de la cuisine française</a></strong> ont contribué à l’évolution de cette filière qui est maintenant classée au patrimoine culturel immatériel de l’humanité.</p>
-<p><a href="https://cuisinedebase.com/les-8-grands-chefs-qui-ont-influence-et-marque-la-cuisine-francaise/">Cliquez ici</a> pour découvrir les <strong>grands chefs</strong> qui ont marqué la <strong>gastronomie Française</strong>, et par la même occasion, ils ont transformé&nbsp;le <strong>métier de cuisinier</strong>.</p>
+<p>La <strong>cuisine française</strong> est sans doute une <strong>cuisine de référence</strong> dans le monde entier, grâce à la diversité et la richesse de ses produits de <strong>terroir</strong> qui sont souvent attachés à une région. Plusieurs <strong>grands noms de la cuisine française</strong> ont contribué à l’évolution de cette filière qui est maintenant classée au patrimoine culturel immatériel de l’humanité.</p>
+<p>Cliquez ici pour découvrir les <strong>grands chefs</strong> qui ont marqué la <strong>gastronomie Française</strong>, et par la même occasion, ils ont transformé&nbsp;le <strong>métier de cuisinier</strong>.</p>
 <h2 className="sous_titre">Les activités que peut exercer le cuisinier professionnel</h2>
 <p>Les <strong>activités</strong> que l’on peut exercer après une <strong>formation de cuisinier</strong> sont nombreuses.&nbsp;Un <strong>commis de cuisine</strong> est la première étape dans l’échelle des <strong>métiers de cuisine. </strong>Le temps passé à exercer cette <strong>activité</strong> constitue une période <strong>d’apprentissage</strong>&nbsp;sur le terrain. Cette période&nbsp;est très importante dans la vie de tous ceux qui souhaitent faire <strong>carrière dans la cuisine</strong>. Pendant ce temps, l’<strong>apprentis cuisinier</strong> continue à <strong>apprendre à cuisiner</strong> et de découvrir la <strong>fiche métier cuisinier</strong> pour devenir <strong>cuisinier professionnel</strong> et pourquoi pas un <strong>grand chef cuisinier</strong>.</p>
-<p>Mais une fois le <strong>diplôme de&nbsp;</strong><span>cuisinier</span>&nbsp;en poche, ou pas d’ailleurs selon certains cas, le <strong>cuisinier</strong> a une multitude de choix d’activité et de professions à exercer. Pour plus d’informations sur ce sujet: <a href="https://cuisinedebase.com/huit-activites-qu-on-peut-faire-apres-une-formation-de-cuisinier/">Activités de cuisinier professionnel</a>.</p>
+<p>Mais une fois le <strong>diplôme de&nbsp;</strong><span>cuisinier</span>&nbsp;en poche, ou pas d’ailleurs selon certains cas, le <strong>cuisinier</strong> a une multitude de choix d’activité et de professions à exercer. Pour plus d’informations sur ce sujet: Activités de cuisinier professionnel.</p>
 <h2 className="sous_titre">Le métier de cuisinier selon le mode de restauration</h2>
 <p>La <strong>fréquentation des restaurants</strong> est devenu de plus en plus facile. Notamment, grâce au développement des moyens de transport en commun. Et aussi parce que nous prenons de plus en plus de repas hors domicile.</p>
-<p>En plus des raisons <strong>nutritionnelles</strong>, nous fréquentons les restaurants pour <strong>le plaisir</strong>, comme partager des repas entre amis et famille. Aussi pour des raisons professionnelles, <strong>déjeuner ou diner d’affaire</strong>. Mais il existe plusieurs d’autres <a href="https://cuisinedebase.com/le-point-sur-les-diffrents-types-de-restaurants-et-modes-de-restauration/">modes de restauration</a>. Et chaque type de restauration a sa particularité et <strong>service</strong> spécifique (<strong>service à l’assiette, à emporter, en livraison, en self service</strong>, …). Pour plus d’information sur le sujet, vous pouvez découvrir <a href="https://cuisinedebase.com/?p=941">Les différentes méthodes de restauration qui existent</a>.</p>
+<p>En plus des raisons <strong>nutritionnelles</strong>, nous fréquentons les restaurants pour <strong>le plaisir</strong>, comme partager des repas entre amis et famille. Aussi pour des raisons professionnelles, <strong>déjeuner ou diner d’affaire</strong>. Mais il existe plusieurs d’autres modes de restauration. Et chaque type de restauration a sa particularité et <strong>service</strong> spécifique (<strong>service à l’assiette, à emporter, en livraison, en self service</strong>, …). Pour plus d’information sur le sujet, vous pouvez découvrir Les différentes méthodes de restauration qui existent.</p>
 <h2 className="sous_titre">Le matériel du cuisinier professionnel</h2>
-<p>le <strong>matériel de cuisinier</strong> est une chose très personnelle, il est indispensable que les <strong>apprentis cuisiniers</strong> disposent de leur propre <strong><a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/">équipement de cuisinier</a></strong> le jour de <strong>l’épreuve pratique</strong>. En effet, le fait d’utiliser ses propres <strong>couteaux, fouets, cuillères</strong> etc.. permet de poser moins de questions le jour de <strong>l’examen</strong>, au moins celles relatives à son <strong>propre matériel</strong>.</p>
-<p>Parce que il y aura <strong>d’autre matériel fourni</strong> par le <strong>centre où se déroule l’examen</strong>, comme le <strong>matériel mobile de cuisson</strong>, (<strong>russe, sautoir marmite</strong>, …) <strong>matériel de préparation</strong> et <strong>matériel à débarrasser</strong> (<strong>plaque à débarrasser, calotte, bahut</strong>, …) et bien d’autres matériels nécessaires pour le bon déroulement de l’épreuve. Et quand on n’est pas habitué aux grandes <strong>cuisines professionnelles</strong>, il faudra s’adapter et savoir utiliser le <strong>matériel fourni</strong>. Pour plus d’information sur le sujet, vous pouvez découvrir <a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/">le matériel du cuisinier professionnel.</a></p>
+<p>le <strong>matériel de cuisinier</strong> est une chose très personnelle, il est indispensable que les <strong>apprentis cuisiniers</strong> disposent de leur propre <strong>équipement de cuisinier</strong> le jour de <strong>l’épreuve pratique</strong>. En effet, le fait d’utiliser ses propres <strong>couteaux, fouets, cuillères</strong> etc.. permet de poser moins de questions le jour de <strong>l’examen</strong>, au moins celles relatives à son <strong>propre matériel</strong>.</p>
+<p>Parce que il y aura <strong>d’autre matériel fourni</strong> par le <strong>centre où se déroule l’examen</strong>, comme le <strong>matériel mobile de cuisson</strong>, (<strong>russe, sautoir marmite</strong>, …) <strong>matériel de préparation</strong> et <strong>matériel à débarrasser</strong> (<strong>plaque à débarrasser, calotte, bahut</strong>, …) et bien d’autres matériels nécessaires pour le bon déroulement de l’épreuve. Et quand on n’est pas habitué aux grandes <strong>cuisines professionnelles</strong>, il faudra s’adapter et savoir utiliser le <strong>matériel fourni</strong>. Pour plus d’information sur le sujet, vous pouvez découvrir le matériel du cuisinier professionnel.</p>
 
 
             </div>
@@ -1510,11 +1510,11 @@ const B8 = {
 
 
 
-<p>Prêt à obtenir des réponses détaillées et des conseils pour vous préparer efficacement à l’épreuve EP1 du CAP Cuisine ? Téléchargez dès maintenant le <a href="https://cuisinedebase.com/produit/corrige-ep1-2022-cap-cuisine/">corrigé EP1 2022 complet en format PDF</a>, comprenant des solutions détaillées, des conseils pratiques et l’énoncé de l’épreuve. Ne manquez pas cette opportunité d’améliorer votre préparation et de maximiser vos chances de réussite. Cliquez ici pour obtenir votre exemplaire du corrigé PDF dès aujourd’hui&nbsp;!</p>
+<p>Prêt à obtenir des réponses détaillées et des conseils pour vous préparer efficacement à l’épreuve EP1 du CAP Cuisine ? Téléchargez dès maintenant le corrigé EP1 2022 complet en format PDF, comprenant des solutions détaillées, des conseils pratiques et l’énoncé de l’épreuve. Ne manquez pas cette opportunité d’améliorer votre préparation et de maximiser vos chances de réussite. Cliquez ici pour obtenir votre exemplaire du corrigé PDF dès aujourd’hui&nbsp;!</p>
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><a href="https://cuisinedebase.com/produit/corrige-ep1-2022-cap-cuisine/" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img></a><figcaption className="wp-element-caption">Corrigé EP1 2022 CAP cuisineCorrige EP1 2022 CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img><figcaption className="wp-element-caption">Corrigé EP1 2022 CAP cuisineCorrige EP1 2022 CAP cuisine</figcaption></figure></div>
 
 
 <h2 className="sous_titre"><a>Réception de marchandise</a></h2>
@@ -1732,7 +1732,7 @@ const B8 = {
 
 
 
-<p>Si vous souhaitez approfondir votre préparation et accéder au <a href="https://cuisinedebase.com/produit/correction-de-lepreuve-ep1-cap-cuisine-2021-telecharger-le-pdf/">corrigé complet de l’épreuve EP1 du CAP Cuisine pour la session 2022</a>, téléchargez dès maintenant le PDF comprenant l’énoncé de l’épreuve et les solutions détaillées. Ne manquez pas cette opportunité de vous familiariser davantage avec les exigences de l’examen et de renforcer vos connaissances. <a href="https://cuisinedebase.com/produit/corrige-ep1-2022-cap-cuisine/">Cliquez ici pour obtenir votre copie du corrigé PDF</a> dès aujourd’hui !</p>
+<p>Si vous souhaitez approfondir votre préparation et accéder au corrigé complet de l’épreuve EP1 du CAP Cuisine pour la session 2022, téléchargez dès maintenant le PDF comprenant l’énoncé de l’épreuve et les solutions détaillées. Ne manquez pas cette opportunité de vous familiariser davantage avec les exigences de l’examen et de renforcer vos connaissances. Cliquez ici pour obtenir votre copie du corrigé PDF dès aujourd’hui !</p>
 
 
             </div>
@@ -1770,7 +1770,7 @@ const B9 = {
 		<div className="entry-content clearfix">
 
 
-<p>Pour <strong>réussir le CAP Cuisine en candidat libre</strong>, l’acquisition du diplôme repose fondamentalement sur un triptyque essentiel : <strong>persévérance</strong>, <strong>passion pour la cuisine</strong>, et <strong>créativité</strong>. Cet ensemble de trois éléments essentiels constitue le socle sur lequel s’édifie le parcours exigeant mais enrichissant de tout aspirant cuisinier autodidacte. Chacun de ces éléments joue un rôle déterminant. Evoquant un cheminement où les obstacles deviennent des opportunités d’apprentissage. Et où la passion culinaire se conjugue à la persévérance et à la créativité. En explorant ces clés du succès, ce périple culinaire sera éclairé par des conseils pratiques. Aussi ccompagné par la recommandation avisée du livre «&nbsp;<strong><a href="https://amzn.to/3SI4ugW" target="_blank" rel="noopener noreferrer">CAP Cuisine en Solo</a></strong>«&nbsp;.</p>
+<p>Pour <strong>réussir le CAP Cuisine en candidat libre</strong>, l’acquisition du diplôme repose fondamentalement sur un triptyque essentiel : <strong>persévérance</strong>, <strong>passion pour la cuisine</strong>, et <strong>créativité</strong>. Cet ensemble de trois éléments essentiels constitue le socle sur lequel s’édifie le parcours exigeant mais enrichissant de tout aspirant cuisinier autodidacte. Chacun de ces éléments joue un rôle déterminant. Evoquant un cheminement où les obstacles deviennent des opportunités d’apprentissage. Et où la passion culinaire se conjugue à la persévérance et à la créativité. En explorant ces clés du succès, ce périple culinaire sera éclairé par des conseils pratiques. Aussi ccompagné par la recommandation avisée du livre «&nbsp;<strong><a href="https://amzn.to/3SI4ugW">CAP Cuisine en Solo</a></strong>«&nbsp;.</p>
 
 
 <h2 className="sous_titre">Importance de la persévérance pour réussir le CAP cuisine</h2>
@@ -1801,7 +1801,7 @@ const B9 = {
 
 
 
-<p>Pour maximiser votre efficacité dans cette aventure, je vous recommande d’utiliser ce <strong><a href="https://amzn.to/3MLzoRs" target="_blank" rel="noopener noreferrer">carnet-agenda</a></strong>, car il allie avec finesse organisation et motivation. Ses pages vous offrent un espace structuré <strong>pour planifier votre emploi du temps et fixer des objectifs précis</strong>. En plus de son côté pratique, il vous inspire au quotidien avec <strong>des citations motivantes</strong> et des <strong>espaces dédiés à la réflexion</strong>. Cet outil devient ainsi un compagnon essentiel pour nourrir votre persévérance tout au long de votre parcours pour réussir le CAP Cuisine en candidat libre.</p>
+<p>Pour maximiser votre efficacité dans cette aventure, je vous recommande d’utiliser ce <strong><a href="https://amzn.to/3MLzoRs">carnet-agenda</a></strong>, car il allie avec finesse organisation et motivation. Ses pages vous offrent un espace structuré <strong>pour planifier votre emploi du temps et fixer des objectifs précis</strong>. En plus de son côté pratique, il vous inspire au quotidien avec <strong>des citations motivantes</strong> et des <strong>espaces dédiés à la réflexion</strong>. Cet outil devient ainsi un compagnon essentiel pour nourrir votre persévérance tout au long de votre parcours pour réussir le CAP Cuisine en candidat libre.</p>
 
 
 <h2 className="sous_titre">Rôle de la passion dans le succès au CAP Cuisine</h2>
@@ -1812,13 +1812,13 @@ const B9 = {
 
 
 
-<p>Conseil pratique : Créez un journal culinaire où vous enregistrez vos expériences, découvertes, et idées de recettes. Cela servira de source d&rsquo;inspiration continue. <em>Pour intensifier cette connexion avec votre passion, je recommande l&rsquo;utilisation du « <a href="https://cuisinedebase.com/carnet-personnel-de-techniques-professionnelles/">Carnet individuel des techniques professionnelles</a>« . Un journal pré-rempli avec des conseils et des astuces, ce journal culinaire devient le compagnon idéal pour consigner vos expériences, découvertes et idées de recettes. Il devient ainsi une source d&rsquo;inspiration continue, vous guidant à travers votre exploration culinaire tout en renforçant votre attachement à la passion qui alimente votre quête du CAP Cuisine.</em></p>
+<p>Conseil pratique : Créez un journal culinaire où vous enregistrez vos expériences, découvertes, et idées de recettes. Cela servira de source d&rsquo;inspiration continue. <em>Pour intensifier cette connexion avec votre passion, je recommande l&rsquo;utilisation du « Carnet individuel des techniques professionnelles« . Un journal pré-rempli avec des conseils et des astuces, ce journal culinaire devient le compagnon idéal pour consigner vos expériences, découvertes et idées de recettes. Il devient ainsi une source d&rsquo;inspiration continue, vous guidant à travers votre exploration culinaire tout en renforçant votre attachement à la passion qui alimente votre quête du CAP Cuisine.</em></p>
 
 
 <h2 className="sous_titre">Créativité&nbsp;: Penser Hors des Sentiers Battus</h2>
 
 
-<p>La créativité en cuisine constitue une manière de penser. Osez explorer des <strong><a href="https://cuisinedebase.com/comment-creer-des-plats-savoureux-et-equilibres/">combinaisons de saveurs</a></strong> inattendues, jouez avec la présentation des plats, et lancez-vous dans l’expérimentation avec des ingrédients peu communs. Le développement d’un style culinaire distinctif émerge de cette liberté créative. Soyez ouvert aux critiques constructives, car elles deviennent des guides précieux pour affiner vos compétences. La créativité trouve souvent son essor dans l’audace et la volonté d’essayer de nouvelles choses.</p>
+<p>La créativité en cuisine constitue une manière de penser. Osez explorer des <strong>combinaisons de saveurs</strong> inattendues, jouez avec la présentation des plats, et lancez-vous dans l’expérimentation avec des ingrédients peu communs. Le développement d’un style culinaire distinctif émerge de cette liberté créative. Soyez ouvert aux critiques constructives, car elles deviennent des guides précieux pour affiner vos compétences. La créativité trouve souvent son essor dans l’audace et la volonté d’essayer de nouvelles choses.</p>
 
 
 
@@ -1830,7 +1830,7 @@ const B9 = {
 
 
 
-<p>Un compagnon précieux pour les candidats libres est le livre «&nbsp;<strong><a href="https://amzn.to/3SI4ugW" target="_blank" rel="noopener noreferrer">CAP Cuisine en Solo</a></strong>«&nbsp;. Cet ouvrage propose des conseils pratiques, des exemples concrets, et des stratégies éprouvées pour naviguer avec succès dans le processus d’auto-apprentissage. Il offre une structure d’apprentissage solide, des exercices pratiques et des conseils de professionnels de la cuisine, créant ainsi un guide indispensable pour les candidats libres ambitieux.</p>
+<p>Un compagnon précieux pour les candidats libres est le livre «&nbsp;<strong><a href="https://amzn.to/3SI4ugW">CAP Cuisine en Solo</a></strong>«&nbsp;. Cet ouvrage propose des conseils pratiques, des exemples concrets, et des stratégies éprouvées pour naviguer avec succès dans le processus d’auto-apprentissage. Il offre une structure d’apprentissage solide, des exercices pratiques et des conseils de professionnels de la cuisine, créant ainsi un guide indispensable pour les candidats libres ambitieux.</p>
 
 
 <p>En conclusion, la persévérance, la passion pour la cuisine, et la créativité sont les piliers du succès pour un candidat libre au CAP Cuisine. En intégrant ces clés dans votre parcours, vous développerez non seulement des compétences culinaires exceptionnelles mais aussi une approche unique et personnelle de l’art culinaire. Alors, armez-vous de ces clés, suivez les conseils pratiques, et plongez dans votre aventure culinaire avec confiance et détermination. Bonne chance&nbsp;!</p>
@@ -1891,7 +1891,7 @@ const B10 = {
 
 
 
-<p>Cependant, la recherche de ressources peut également être un atout. Vous avez la liberté de choisir <strong><a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/" target="_blank" rel="noopener noreferrer">les livres de cuisine</a></strong>, les vidéos pédagogiques et les forums en ligne qui correspondent le mieux à votre style d’apprentissage. Cela vous permet de personnaliser votre parcours de préparation en fonction de vos besoins spécifiques.</p>
+<p>Cependant, la recherche de ressources peut également être un atout. Vous avez la liberté de choisir <strong>les livres de cuisine</strong>, les vidéos pédagogiques et les forums en ligne qui correspondent le mieux à votre style d’apprentissage. Cela vous permet de personnaliser votre parcours de préparation en fonction de vos besoins spécifiques.</p>
 
 
 
@@ -1919,7 +1919,7 @@ const B10 = {
 
 
 
-<p>La préparation en tant que candidat libre est un voyage personnel, mais vous n’êtes pas seul. Vous pouvez <a href="https://cuisinedebase.com/coaching/" target="_blank" rel="noopener noreferrer">trouver de l’aide auprès d’un pro</a>, ou du soutien et de l’inspiration auprès d’autres candidats libres, de ressources en ligne et de mentors culinaires. Continuez à vous engager, à rester discipliné(e) et à chercher des ressources, et vous serez bien parti pour relever le défi du CAP Cuisine en tant que candidat libre.</p>
+<p>La préparation en tant que candidat libre est un voyage personnel, mais vous n’êtes pas seul. Vous pouvez trouver de l’aide auprès d’un pro, ou du soutien et de l’inspiration auprès d’autres candidats libres, de ressources en ligne et de mentors culinaires. Continuez à vous engager, à rester discipliné(e) et à chercher des ressources, et vous serez bien parti pour relever le défi du CAP Cuisine en tant que candidat libre.</p>
 
 
 
@@ -1927,7 +1927,7 @@ const B10 = {
 
 
 
-<p>Ce contenu a été inspiré par les enseignements du livre «&nbsp;<strong><a href="https://amzn.to/3FGHU09" target="_blank" rel="noopener noreferrer">CAP Cuisine en Solo</a></strong>«&nbsp;. L’auteur partage une richesse de connaissances et d’expérience concernant la préparation du CAP Cuisine en tant que candidat libre. </p>
+<p>Ce contenu a été inspiré par les enseignements du livre «&nbsp;<strong><a href="https://amzn.to/3FGHU09">CAP Cuisine en Solo</a></strong>«&nbsp;. L’auteur partage une richesse de connaissances et d’expérience concernant la préparation du CAP Cuisine en tant que candidat libre. </p>
 
             </div>
         </div>
@@ -1969,11 +1969,11 @@ const B11 = {
 
 
 
-<p>Les manuels scolaires sont une&nbsp;<strong>ressource essentielle</strong>&nbsp;pour la préparation de&nbsp;<strong>l’examen du CAP cuisine</strong>. Ils fournissent une base solide en termes de théorie, de techniques culinaires et de connaissances professionnelles.&nbsp;Si vous ne devez acheter qu’un seul&nbsp;<strong>livre pour préparer le CAP cuisine</strong>, ça serait la&nbsp;<a href="https://amzn.to/2Jwd4f5" target="_blank" rel="noopener noreferrer">Cuisine de référence de Michel Maincent</a>.&nbsp;On y trouve tout ce qu’on doit savoir sur la&nbsp;<strong>profession du cuisinier</strong>. De la tenue vestimentaire aux comportements et qualités d’un cuisinier. Sans oublier le matériel, les fiches techniques ainsi que des commentaires et des conseils. C’est manuel bien illustré&nbsp;!&nbsp;</p>
+<p>Les manuels scolaires sont une&nbsp;<strong>ressource essentielle</strong>&nbsp;pour la préparation de&nbsp;<strong>l’examen du CAP cuisine</strong>. Ils fournissent une base solide en termes de théorie, de techniques culinaires et de connaissances professionnelles.&nbsp;Si vous ne devez acheter qu’un seul&nbsp;<strong>livre pour préparer le CAP cuisine</strong>, ça serait la&nbsp;<a href="https://amzn.to/2Jwd4f5">Cuisine de référence de Michel Maincent</a>.&nbsp;On y trouve tout ce qu’on doit savoir sur la&nbsp;<strong>profession du cuisinier</strong>. De la tenue vestimentaire aux comportements et qualités d’un cuisinier. Sans oublier le matériel, les fiches techniques ainsi que des commentaires et des conseils. C’est manuel bien illustré&nbsp;!&nbsp;</p>
 
 
 
-<p>Vous pouvez trouver d’autres&nbsp;<a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">livres et manuels scolaires utiles pour préparer le CAP cuisine en candidat libre dans cet article</a>.</p>
+<p>Vous pouvez trouver d’autres&nbsp;livres et manuels scolaires utiles pour préparer le CAP cuisine en candidat libre dans cet article.</p>
 
 
 
@@ -1997,7 +1997,7 @@ const B11 = {
 
 
 
-<p>Les formations en ligne peuvent être une option intéressante si vous préférez un apprentissage plus structuré et guidé. De nombreux organismes de formation proposent des cours en ligne pour la&nbsp;<strong>préparation de l’examen du CAP cuisine</strong>. Ils peuvent inclure des vidéos, des exercices pratiques, des tests de connaissances et un suivi personnalisé. Si vous préparez le&nbsp;<strong>CAP cuisine en candidat libre</strong>, je peux vous coacher pour le réussir. Je vous fournis les&nbsp;<strong>ressources pédagogiques nécessaires ainsi qu’un planning adapté à vos occupations</strong>. Pour plus de détails,&nbsp;<a href="https://cuisinedebase.com/coaching/">vous pouvez consulter cette page</a>.</p>
+<p>Les formations en ligne peuvent être une option intéressante si vous préférez un apprentissage plus structuré et guidé. De nombreux organismes de formation proposent des cours en ligne pour la&nbsp;<strong>préparation de l’examen du CAP cuisine</strong>. Ils peuvent inclure des vidéos, des exercices pratiques, des tests de connaissances et un suivi personnalisé. Si vous préparez le&nbsp;<strong>CAP cuisine en candidat libre</strong>, je peux vous coacher pour le réussir. Je vous fournis les&nbsp;<strong>ressources pédagogiques nécessaires ainsi qu’un planning adapté à vos occupations</strong>. Pour plus de détails,&nbsp;vous pouvez consulter cette page.</p>
 
 
 
@@ -2148,7 +2148,7 @@ const B12 = {
 
 
 
-<p>J’ai eu du mal à équilibrer mes heures de travail et mes heures d’étude, ce qui m’a conduit à de nombreux moments de découragement. Mais j’ai continué à avancer, car je savais que j’étais passionné par la cuisine et que cela valait la peine de travailler dur pour atteindre mes objectifs. <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">J’ai élaboré un plan d’entraînement</a> qui couvrait les principales techniques à apprendre, avec des heures précises consacrées à chaque aspect de la cuisine.</p>
+<p>J’ai eu du mal à équilibrer mes heures de travail et mes heures d’étude, ce qui m’a conduit à de nombreux moments de découragement. Mais j’ai continué à avancer, car je savais que j’étais passionné par la cuisine et que cela valait la peine de travailler dur pour atteindre mes objectifs. J’ai élaboré un plan d’entraînement qui couvrait les principales techniques à apprendre, avec des heures précises consacrées à chaque aspect de la cuisine.</p>
 
 
 
@@ -2230,15 +2230,15 @@ const B13 = {
 
 
 <ul className="wp-block-list">
-<li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li>
+<li>Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</li>
 
 
 
-<li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction de l’épreuve EP1 2021. Examen CAP cuisine</a></li>
+<li>Correction de l’épreuve EP1 2021. Examen CAP cuisine</li>
 
 
 
-<li><a href="https://cuisinedebase.com/les-epreuves-professionnelles-cap-cuisine/">Les épreuves professionnelles CAP cuisine</a></li>
+<li>Les épreuves professionnelles CAP cuisine</li>
 </ul>
 
 
@@ -2402,7 +2402,7 @@ const B14 = {
 
 
 
-<p>En outre, il est important de noter que l’apprentissage culinaire avec l’IA ne remplace pas tout à fait l’expérience de travailler avec un <strong>professeur humain</strong>. Un professeur humain peut fournir des commentaires et des conseils en temps réel, ainsi que des démonstrations pratiques qui peuvent être difficiles à reproduire avec une application. D’ailleurs, si vous préparez le CAP cuisine en candidat libre, <a href="https://cuisinedebase.com/coaching/" target="_blank" rel="noopener noreferrer">je peux vous accompagner dans cette aventure…</a></p>
+<p>En outre, il est important de noter que l’apprentissage culinaire avec l’IA ne remplace pas tout à fait l’expérience de travailler avec un <strong>professeur humain</strong>. Un professeur humain peut fournir des commentaires et des conseils en temps réel, ainsi que des démonstrations pratiques qui peuvent être difficiles à reproduire avec une application. D’ailleurs, si vous préparez le CAP cuisine en candidat libre, je peux vous accompagner dans cette aventure…</p>
 
 
 
@@ -2414,7 +2414,7 @@ const B14 = {
 
 
 
-<p>Il est possible d’utiliser un modèle comme <strong><a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a> pour aider à préparer le CAP Cuisine en tant que candidat</strong> <strong>libre</strong>. On peut utiliser <strong>ChatGPT</strong> pour générer des recettes, des instructions de cuisson et des conseils de cuisine qui peuvent aider les candidats à se familiariser avec les techniques culinaires nécessaires pour réussir l’examen.</p>
+<p>Il est possible d’utiliser un modèle comme <strong><a href="https://chat.openai.com/">ChatGPT</a> pour aider à préparer le CAP Cuisine en tant que candidat</strong> <strong>libre</strong>. On peut utiliser <strong>ChatGPT</strong> pour générer des recettes, des instructions de cuisson et des conseils de cuisine qui peuvent aider les candidats à se familiariser avec les techniques culinaires nécessaires pour réussir l’examen.</p>
 
 
 
@@ -2498,7 +2498,7 @@ const B15 = {
 
 
 
-<p><a href="https://amzn.to/3WfsJlr" target="_blank" rel="noopener noreferrer">Cliquez sur ce lien pour avoir un exemplaire</a>.</p>
+<p><a href="https://amzn.to/3WfsJlr">Cliquez sur ce lien pour avoir un exemplaire</a>.</p>
 
 
 
@@ -2955,11 +2955,11 @@ const B18 = {
 
 
 
-<p>Dans cet article, j’analyse 13 des sujets des épreuves pratiques proposées dans les différentes académies en France. Pour la&nbsp;<a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">correction de l’épreuve écrite de la session 2020</a>, vous pouvez trouver une&nbsp;<strong>correction au format pdf téléchargeable</strong>.</p>
+<p>Dans cet article, j’analyse 13 des sujets des épreuves pratiques proposées dans les différentes académies en France. Pour la&nbsp;correction de l’épreuve écrite de la session 2020, vous pouvez trouver une&nbsp;<strong>correction au format pdf téléchargeable</strong>.</p>
 
 
 
-<p>Aussi, Vous pouvez trouver la&nbsp;<a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">correction de l’épreuve EP1 de la session 2019</a>&nbsp;dans cet article. Vous y trouverez des&nbsp;<strong>éléments de réponse&nbsp;</strong>et un&nbsp;<strong>fichier à télécharger au format pdf.</strong></p>
+<p>Aussi, Vous pouvez trouver la&nbsp;correction de l’épreuve EP1 de la session 2019&nbsp;dans cet article. Vous y trouverez des&nbsp;<strong>éléments de réponse&nbsp;</strong>et un&nbsp;<strong>fichier à télécharger au format pdf.</strong></p>
 
 
 
@@ -3083,7 +3083,7 @@ const B18 = {
 
 
 
-<p className="has-text-align-center"><a href="https://cuisinedebase.com/produit/sujets-ep2-epreuve-cap-cuisine-2021/" target="_blank" rel="noopener noreferrer">Sujets de l’épreuve CAP cuisine 2021 au format pdf</a></p>
+<p className="has-text-align-center">Sujets de l’épreuve CAP cuisine 2021 au format pdf</p>
 
 
 
@@ -3103,7 +3103,7 @@ const B18 = {
 
 
 
-<p className="has-text-align-center"><a href="https://cuisinedebase.com/produit/sujets-ep2-epreuve-cap-cuisine-2021/">Sujets de l’épreuve CAP cuisine 2021 au format pdf</a></p>
+<p className="has-text-align-center">Sujets de l’épreuve CAP cuisine 2021 au format pdf</p>
 
 
 
@@ -3281,7 +3281,7 @@ const B19 = {
 
 
 
-<p>Cependant, il est possible de s’en sortir seul en suivant les conseils de mon article qui détaille les différents moyens qui existent pour <a href="https://cuisinedebase.com/comment-sorganiser-pour-bien-prparer-le-cap-cuisine-candidat-libre/" target="_blank" rel="noopener noreferrer">préparer le cap cuisine seul</a>. Et notamment les <a href="https://webtv.hotellerie-restauration.ac-versailles.fr/Formation-CAP-cuisine" target="_blank" rel="noopener noreferrer">cours</a> proposés par l’académie de Versailles</p>
+<p>Cependant, il est possible de s’en sortir seul en suivant les conseils de mon article qui détaille les différents moyens qui existent pour préparer le cap cuisine seul. Et notamment les <a href="https://webtv.hotellerie-restauration.ac-versailles.fr/Formation-CAP-cuisine">cours</a> proposés par l’académie de Versailles</p>
 
 
 
@@ -3374,11 +3374,11 @@ const B20 = {
 
 		<div className="entry-content clearfix">
 
-<p>Comme promis, dans le précédent article où je vous ai livré les éléments de&nbsp;<a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/" target="_blank" rel="noopener noreferrer">correction de l’épreuve CAP cuisine EP1</a>, <strong>organisation gestion de la production</strong>,&nbsp;<span>session 2019</span>, aujourd’hui c’est au tour de la&nbsp;<strong>correction de l’EP1 session de 2020.</strong></p>
+<p>Comme promis, dans le précédent article où je vous ai livré les éléments de&nbsp;correction de l’épreuve CAP cuisine EP1, <strong>organisation gestion de la production</strong>,&nbsp;<span>session 2019</span>, aujourd’hui c’est au tour de la&nbsp;<strong>correction de l’EP1 session de 2020.</strong></p>
 
 
 
-<p>Si vous vous entrainez seul, voici la <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">liste des sujets de l’épreuve pratique EP2</a> de la session 2021. </p>
+<p>Si vous vous entrainez seul, voici la liste des sujets de l’épreuve pratique EP2 de la session 2021. </p>
 
 
 
@@ -3418,7 +3418,7 @@ const B20 = {
 
 
 
-<p>Mais si vous préférez travailler avec des fichiers pdf, vous pouvez acheter le&nbsp;<a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-2020-cap-organisation-production-cuisine/" target="_blank" rel="noopener noreferrer">corrigé de l’épreuve CAP cuisine EP1 session 2020</a>&nbsp;dans son intégralité. Vous pouvez vous le procurer en cliquant sur le lien. Vous pourrez ainsi&nbsp;<strong>télécharger la correction en version pdf.</strong></p>
+<p>Mais si vous préférez travailler avec des fichiers pdf, vous pouvez acheter le&nbsp;corrigé de l’épreuve CAP cuisine EP1 session 2020&nbsp;dans son intégralité. Vous pouvez vous le procurer en cliquant sur le lien. Vous pourrez ainsi&nbsp;<strong>télécharger la correction en version pdf.</strong></p>
 
 
 
@@ -3524,7 +3524,7 @@ Description générée automatiquement" className="wp-image-1868" srcSet="https:
 
 
 
-<p>Vous devrez trouver <span>5 kg de pomme de terre</span>. Vous pouvez découvrir le détail de ce calcul dans le document intégral.&nbsp;<a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-2020-cap-organisation-production-cuisine/">Téléchargez la correction EP1 2020 en pdf</a>&nbsp;pour voir le détail du calcul.</p>
+<p>Vous devrez trouver <span>5 kg de pomme de terre</span>. Vous pouvez découvrir le détail de ce calcul dans le document intégral.&nbsp;Téléchargez la correction EP1 2020 en pdf&nbsp;pour voir le détail du calcul.</p>
 
 
 
@@ -3616,7 +3616,7 @@ Description générée automatiquement" className="wp-image-1868" srcSet="https:
 
 
 
-<p>Vous pouvez trouver l’ensemble des réponses de cette épreuve dans un seul&nbsp;<strong>document pdf téléchargeable</strong>&nbsp;via ce lien&nbsp;:&nbsp;<a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-2020-cap-organisation-production-cuisine/">corrigé de l’épreuve EP1 session 2020</a></p>
+<p>Vous pouvez trouver l’ensemble des réponses de cette épreuve dans un seul&nbsp;<strong>document pdf téléchargeable</strong>&nbsp;via ce lien&nbsp;:&nbsp;corrigé de l’épreuve EP1 session 2020</p>
 
             </div>
         </div>
@@ -3666,7 +3666,7 @@ const B21 = {
 
 
 
-<p>Dans cet article je vous propose des éléments de correction de l’épreuve EP1 de la session 2019. Vous trouverez un rappel des questions et des explications pour comprendre les questions et comment on peut répondre correctement aux questions. Pour vous pousser à travailler cette matière, je ne vous donnerai que des éléments de réponse. Si vous souhaitez le&nbsp;<a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-session-2019-cap-cuisine/">corrigé de l’épreuve EP1 session 2019</a>&nbsp;dans son intégralité vous pouvez vous le procurer en cliquant sur le lien. Vous pourrez ainsi&nbsp;<strong>télécharger la correction en version pdf.</strong></p>
+<p>Dans cet article je vous propose des éléments de correction de l’épreuve EP1 de la session 2019. Vous trouverez un rappel des questions et des explications pour comprendre les questions et comment on peut répondre correctement aux questions. Pour vous pousser à travailler cette matière, je ne vous donnerai que des éléments de réponse. Si vous souhaitez le&nbsp;corrigé de l’épreuve EP1 session 2019&nbsp;dans son intégralité vous pouvez vous le procurer en cliquant sur le lien. Vous pourrez ainsi&nbsp;<strong>télécharger la correction en version pdf.</strong></p>
 
 
 
@@ -3754,7 +3754,7 @@ const B21 = {
 
 
 
-<p>Dans la question 7 il faut connaitre les informations que l’on trouve dans l’estampille des œufs. Ce n’est pas très compliqué, vous pouvez consulter l’article sur&nbsp;<strong><a href="https://cuisinedebase.com/fiche-de-revision-cap-cuisine-les-oeufs-et-ovo-produits/">les œufs et ovo produits</a></strong>.</p>
+<p>Dans la question 7 il faut connaitre les informations que l’on trouve dans l’estampille des œufs. Ce n’est pas très compliqué, vous pouvez consulter l’article sur&nbsp;<strong>les œufs et ovo produits</strong>.</p>
 
 
 
@@ -3778,7 +3778,7 @@ const B21 = {
 
 
 
-<p>Vous pouvez trouver l’ensemble des réponses de cette épreuve dans un seul document pdf téléchargeable via ce lien&nbsp;:&nbsp;<a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-session-2019-cap-cuisine/">corrigé de l’épreuve EP1 session 2019</a></p>
+<p>Vous pouvez trouver l’ensemble des réponses de cette épreuve dans un seul document pdf téléchargeable via ce lien&nbsp;:&nbsp;corrigé de l’épreuve EP1 session 2019</p>
 
 
 
@@ -3786,7 +3786,7 @@ const B21 = {
 
 
 
-<p>Pour réviser les autres matière comme les mathématiques, vous pouvez visitez ce site qui parle de <a href="https://cours-maths-python.com" target="_blank" rel="noopener noreferrer">mathématiques et programmation python</a>.</p>
+<p>Pour réviser les autres matière comme les mathématiques, vous pouvez visitez ce site qui parle de <a href="https://cours-maths-python.com">mathématiques et programmation python</a>.</p>
 
             </div>
         </div>
@@ -3833,7 +3833,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>2 novembre 2020</strong> et la date de fin est le <strong>22 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-aix-marseille.fr/cid82557/inscription-des-candidats-individuels-aux-examens-professionnels.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>2 novembre 2020</strong> et la date de fin est le <strong>22 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-aix-marseille.fr/cid82557/inscription-des-candidats-individuels-aux-examens-professionnels.html">lien suivant</a></p>
 
 
 
@@ -3841,7 +3841,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>2 novembre&nbsp; 2020</strong> et la date de fin est le <strong>2 décembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-amiens.fr/336-modalites-d-inscription.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>2 novembre&nbsp; 2020</strong> et la date de fin est le <strong>2 décembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-amiens.fr/336-modalites-d-inscription.html">lien suivant</a></p>
 
 
 
@@ -3849,7 +3849,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>15 octobre 2020</strong> et la date de fin est le <strong>23 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-besancon.fr/spip.php?article1187" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>15 octobre 2020</strong> et la date de fin est le <strong>23 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-besancon.fr/spip.php?article1187">lien suivant</a></p>
 
 
 
@@ -3857,7 +3857,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>13 octobre 2020</strong> et la date de fin est le <strong>06 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>13 octobre 2020</strong> et la date de fin est le <strong>06 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -3865,7 +3865,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic?&amp;Ucod_dom=CAP&amp;Uaca_dep=A05" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic?&amp;Ucod_dom=CAP&amp;Uaca_dep=A05">lien suivant</a></p>
 
 
 
@@ -3873,7 +3873,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong><strong>.</strong> Effectuez votre inscription en suivant le <a href="http://www.ac-clermont.fr/examens/inscription-a-un-examen/candidat-individuel/" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong><strong>.</strong> Effectuez votre inscription en suivant le <a href="http://www.ac-clermont.fr/examens/inscription-a-un-examen/candidat-individuel/">lien suivant</a></p>
 
 
 
@@ -3881,7 +3881,7 @@ const B22 = {
 
 
 
-<p>selon les spécialité, les dates sont différentes, soit la date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020, </strong>soit entre le <strong>23 novembre 2020 </strong>et le<strong> 15 décembre 2020.</strong> Effectuez votre inscription en suivant le <a href="http://www.ac-corse.fr/Examens-et-Concours_a1242.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>selon les spécialité, les dates sont différentes, soit la date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020, </strong>soit entre le <strong>23 novembre 2020 </strong>et le<strong> 15 décembre 2020.</strong> Effectuez votre inscription en suivant le <a href="http://www.ac-corse.fr/Examens-et-Concours_a1242.html">lien suivant</a></p>
 
 
 
@@ -3889,7 +3889,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés mais selon le site de l’académie l’ouverture des <strong>inscription est prévue en décembre</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés mais selon le site de l’académie l’ouverture des <strong>inscription est prévue en décembre</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html">lien suivant</a></p>
 
 
 
@@ -3897,7 +3897,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>19 novembre 2020</strong> et la date de fin est le <strong>02 décembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-dijon.fr/" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>19 novembre 2020</strong> et la date de fin est le <strong>02 décembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-dijon.fr/">lien suivant</a></p>
 
 
 
@@ -3905,7 +3905,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>23 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-grenoble.fr/cid135086/cap-aepe-accompagnant-educatif-petite-enfance.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>23 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-grenoble.fr/cid135086/cap-aepe-accompagnant-educatif-petite-enfance.html">lien suivant</a></p>
 
 
 
@@ -3913,7 +3913,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://www.ac-guadeloupe.fr/sites/default/files/documents/www_communique_inscriptions_exapro_2020.pdf" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://www.ac-guadeloupe.fr/sites/default/files/documents/www_communique_inscriptions_exapro_2020.pdf">lien suivant</a></p>
 
 
 
@@ -3921,7 +3921,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -3929,7 +3929,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -3937,7 +3937,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>14 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-limoges.fr/cid82507/lycee-professionnel.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>14 octobre 2020</strong> et la date de fin est le <strong>20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-limoges.fr/cid82507/lycee-professionnel.html">lien suivant</a></p>
 
 
 
@@ -3945,7 +3945,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le<strong> 13 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-lyon.fr/cid90303/les-cap-bep.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>12 octobre 2020</strong> et la date de fin est le<strong> 13 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-lyon.fr/cid90303/les-cap-bep.html">lien suivant</a></p>
 
 
 
@@ -3953,7 +3953,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le <strong>15 octobre 2020</strong> et la date de fin est le<strong> 12 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-martinique.fr/cid120332/inscriptions-aux-examens-voie-professionnelle.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le <strong>15 octobre 2020</strong> et la date de fin est le<strong> 12 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-martinique.fr/cid120332/inscriptions-aux-examens-voie-professionnelle.html">lien suivant</a></p>
 
 
 
@@ -3961,7 +3961,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 21 octobre 2020</strong> et la date de fin est le<strong> 16 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-mayotte.fr/index.php/examens/examens/bep-et-cap" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 21 octobre 2020</strong> et la date de fin est le<strong> 16 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-mayotte.fr/index.php/examens/examens/bep-et-cap">lien suivant</a></p>
 
 
 
@@ -3969,7 +3969,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 18 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-montpellier.fr/cid87205/certificat-aptitude-professionnel.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 18 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-montpellier.fr/cid87205/certificat-aptitude-professionnel.html">lien suivant</a></p>
 
 
 
@@ -3977,7 +3977,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -3985,7 +3985,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-nantes.fr/examens/diplomes-professionnels/c-a-p-b-e-p-et-m-c-niveau-3-m-c-3-/inscriptions/" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-nantes.fr/examens/diplomes-professionnels/c-a-p-b-e-p-et-m-c-niveau-3-m-c-3-/inscriptions/">lien suivant</a></p>
 
 
 
@@ -3993,7 +3993,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="http://www2.ac-nice.fr/cid66944/inscriptions-bep-et-cap.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="http://www2.ac-nice.fr/cid66944/inscriptions-bep-et-cap.html">lien suivant</a></p>
 
 
 
@@ -4001,7 +4001,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -4009,7 +4009,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 20 octobre 2020</strong> et la date de fin est le<strong> 27 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-orleans-tours.fr/examens/examens_professionnels/certificat_daptitude_professionnelle/" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 20 octobre 2020</strong> et la date de fin est le<strong> 27 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-orleans-tours.fr/examens/examens_professionnels/certificat_daptitude_professionnelle/">lien suivant</a></p>
 
 
 
@@ -4017,7 +4017,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés mais selon le site de l’académie l’ouverture des <strong>inscription est prévue en décembre</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html" target="_blank" rel="noopener noreferrer">lien suivant</a>.</p>
+<p>Les dates ne sont pas encore donnés mais selon le site de l’académie l’ouverture des <strong>inscription est prévue en décembre</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html">lien suivant</a>.</p>
 
 
 
@@ -4025,7 +4025,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -4033,7 +4033,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 14 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-reims.fr/cid76417/certificat-aptitude-professionnelle.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 14 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-reims.fr/cid76417/certificat-aptitude-professionnelle.html">lien suivant</a></p>
 
 
 
@@ -4041,7 +4041,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 22 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-rennes.fr/cid132331/certificat-aptitude-professionnelle-cap.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 22 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-rennes.fr/cid132331/certificat-aptitude-professionnelle-cap.html">lien suivant</a></p>
 
 
 
@@ -4049,7 +4049,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://www.ac-reunion.fr/examens-et-concours/cap-bep.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://www.ac-reunion.fr/examens-et-concours/cap-bep.html">lien suivant</a></p>
 
 
 
@@ -4057,7 +4057,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-rouen.fr/examens/presentation-des-examens/cap-accompagnant-educatif-petite-enfance-aepe-cap-petite-enfance-197638.kjsp?RH=PRESENTATION-EXAMENS" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 12 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://www.ac-rouen.fr/examens/presentation-des-examens/cap-accompagnant-educatif-petite-enfance-aepe-cap-petite-enfance-197638.kjsp?RH=PRESENTATION-EXAMENS">lien suivant</a></p>
 
 
 
@@ -4065,7 +4065,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
 
 
@@ -4073,7 +4073,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-strasbourg.fr/examens-concours/cap-bep-bp-mc/" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 13 octobre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="https://www.ac-strasbourg.fr/examens-concours/cap-bep-bp-mc/">lien suivant</a></p>
 
 
 
@@ -4081,7 +4081,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="http://www.ac-toulouse.fr/cid73915/cap-bep-mentions-complementaires-de-niveau-v.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="http://www.ac-toulouse.fr/cid73915/cap-bep-mentions-complementaires-de-niveau-v.html">lien suivant</a></p>
 
 
 
@@ -4089,7 +4089,7 @@ const B22 = {
 
 
 
-<p>La date du début des inscription est le<strong> 2 novembre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>La date du début des inscription est le<strong> 2 novembre 2020</strong> et la date de fin est le<strong> 20 novembre 2020</strong>. Effectuez votre inscription en suivant le <a href="http://ocean.siec.education.fr/exapro2_index.html">lien suivant</a></p>
 
 
 
@@ -4097,7 +4097,7 @@ const B22 = {
 
 
 
-<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic" target="_blank" rel="noopener noreferrer">lien suivant</a></p>
+<p>Les dates ne sont pas encore donnés. Effectuez votre inscription en suivant le <a href="https://ecc.orion.education.fr/inscrinetpro/inscriptionpublic">lien suivant</a></p>
 
         </div>
     </article>,
@@ -4143,7 +4143,7 @@ const B23 = {
 
 
 
-<p>Pour ma part, j’ai essayé de vous tenir au-courant des décisions du gouvernement suite à l’évolution de la pandémie Covid 19 (Corona). Notamment par rapport aux <strong>épreuves scolaire</strong> et particulièrement les épreuves du <strong>CAP cuisine candidat libre</strong> en 2020, <a href="https://cuisinedebase.com/les-examens-de-cap-cuisine-seront-ils-annules-a-cause-du-corona-virus-covid-19/">souvenez vous cet article</a>.</p>
+<p>Pour ma part, j’ai essayé de vous tenir au-courant des décisions du gouvernement suite à l’évolution de la pandémie Covid 19 (Corona). Notamment par rapport aux <strong>épreuves scolaire</strong> et particulièrement les épreuves du <strong>CAP cuisine candidat libre</strong> en 2020, souvenez vous cet article.</p>
 
 
 
@@ -4175,11 +4175,11 @@ const B23 = {
 
 
 
-<p>Dans cet article, j’analyse 13 des sujets des épreuves pratiques proposées dans les différentes académies en France. &nbsp;pour la <a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">correction de l’épreuve écrite de la session 2020</a>, vous pouvez trouver une <strong>correction au format pdf</strong> <strong>téléchargeable</strong> et des éléments de réponse.</p>
+<p>Dans cet article, j’analyse 13 des sujets des épreuves pratiques proposées dans les différentes académies en France. &nbsp;pour la correction de l’épreuve écrite de la session 2020, vous pouvez trouver une <strong>correction au format pdf</strong> <strong>téléchargeable</strong> et des éléments de réponse.</p>
 
 
 
-<p>Vous pouvez aussi trouver la <a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">correction de l’épreuve EP1 de la session 2019</a>&nbsp;dans cet article. vous y trouverez des <strong>éléments de réponse</strong> et un <strong>fichier à télécharger au format pdf</strong></p>
+<p>Vous pouvez aussi trouver la correction de l’épreuve EP1 de la session 2019&nbsp;dans cet article. vous y trouverez des <strong>éléments de réponse</strong> et un <strong>fichier à télécharger au format pdf</strong></p>
 
 
 
@@ -4541,11 +4541,11 @@ const B25 = {
 
 
 <ul className="wp-block-list">
-<li>pour<strong> <a href="https://cuisinedebase.com/etiquette-produit/corrige-ep1-2023/">l’épreuve EP1</a></strong>, d’une expérience professionnelle ou d’une période de formation en milieu professionnel dans un établissement de restauration proposant des activités en adéquation avec le pôle 1 « Organisation de la production en cuisine » d’une durée minimale de quatre semaines consécutives ou fractionnées ;</li>
+<li>pour<strong> l’épreuve EP1</strong>, d’une expérience professionnelle ou d’une période de formation en milieu professionnel dans un établissement de restauration proposant des activités en adéquation avec le pôle 1 « Organisation de la production en cuisine » d’une durée minimale de quatre semaines consécutives ou fractionnées ;</li>
 
 
 
-<li>pour <strong><a href="https://cuisinedebase.com/produit/sujets-ep2-epreuve-cap-cuisine-2021/">l’épreuve EP2</a></strong>, d’une expérience professionnelle ou d’une période de formation en milieu professionnel dans un établissement de restauration proposant des activités en adéquation avec le pôle 2 « Préparation et distribution de la production en cuisine » d’une durée minimale de dix semaines consécutives ou fractionnées.</li>
+<li>pour <strong>l’épreuve EP2</strong>, d’une expérience professionnelle ou d’une période de formation en milieu professionnel dans un établissement de restauration proposant des activités en adéquation avec le pôle 2 « Préparation et distribution de la production en cuisine » d’une durée minimale de dix semaines consécutives ou fractionnées.</li>
 </ul>
 </blockquote>
 
@@ -4571,7 +4571,7 @@ const B25 = {
 
 
 
-<p>En effet, Le <strong>stage CAP cuisine</strong> est une <strong>période de formation en milieu professionnel</strong>. C’est un moment d’apprentissage pendant laquelle les <strong>stagiaires mettent en pratique leurs enseignements théoriques</strong>. Le <strong>stage CAP cuisine </strong>peut durer de <strong>quelques jours</strong> à <strong>plusieurs semaines</strong>. Dans le cas de <strong>CAP cuisine</strong>, les candidats peuvent <strong>passer leur stage</strong> dans plusieurs structures différentes: <strong>Restaurants traditionnels</strong> ou <span>gastronomique</span>, <strong>restaurants collectifs</strong>, <span>cantine scolaire</span>, <strong>restaurants universitaires</strong> ou de travail. Pour plus d’information consultez <a href="https://cuisinedebase.com/le-point-sur-les-diffrents-types-de-restaurants-et-modes-de-restauration/">l’article qui parle des types de restaurant</a>.&nbsp;</p>
+<p>En effet, Le <strong>stage CAP cuisine</strong> est une <strong>période de formation en milieu professionnel</strong>. C’est un moment d’apprentissage pendant laquelle les <strong>stagiaires mettent en pratique leurs enseignements théoriques</strong>. Le <strong>stage CAP cuisine </strong>peut durer de <strong>quelques jours</strong> à <strong>plusieurs semaines</strong>. Dans le cas de <strong>CAP cuisine</strong>, les candidats peuvent <strong>passer leur stage</strong> dans plusieurs structures différentes: <strong>Restaurants traditionnels</strong> ou <span>gastronomique</span>, <strong>restaurants collectifs</strong>, <span>cantine scolaire</span>, <strong>restaurants universitaires</strong> ou de travail. Pour plus d’information consultez l’article qui parle des types de restaurant.&nbsp;</p>
 
 
 
@@ -4658,7 +4658,7 @@ const B26 = {
 
 
 
-<p>Il est tout à fait possible de le préparer en un an et même moins, cela dépend de la motivation et des occupations de chacun, si vous le préparez en parallèle d’un travail à plein temps, cela va vous demander une organisation stricte. Si cela peut vous inspirer, découvrez <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">comment je me suis organisé pour le préparer en 6 mois</a>.</p>
+<p>Il est tout à fait possible de le préparer en un an et même moins, cela dépend de la motivation et des occupations de chacun, si vous le préparez en parallèle d’un travail à plein temps, cela va vous demander une organisation stricte. Si cela peut vous inspirer, découvrez comment je me suis organisé pour le préparer en 6 mois.</p>
 
 
 
@@ -4694,7 +4694,7 @@ const B26 = {
 
 
 
-<p>Effectivement il y a eu des changement depuis la <strong>session de 2018</strong>. Voici <a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">le décryptage des épreuves pratiques</a>, et aussi vous pouvez consultez le <a href="https://cuisinedebase.com/decryptage-des-epreuves-ecrites-du-cap-cuisine/">décryptage des épreuves écrites</a></p>
+<p>Effectivement il y a eu des changement depuis la <strong>session de 2018</strong>. Voici le décryptage des épreuves pratiques, et aussi vous pouvez consultez le décryptage des épreuves écrites</p>
 
 
 
@@ -4734,7 +4734,7 @@ const B26 = {
 
 
 
-<p>Si mon expérience personnelle peut vous être utile, voici <a href="https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/" target="_blank" rel="noopener noreferrer">l’histoire de ma reconversion en chef à domicile</a> et le <a href="https://amzn.to/2Y77uIx" target="_blank" rel="noopener noreferrer">business plan</a> qui m’a permis de réaliser cette reconversion.</p>
+<p>Si mon expérience personnelle peut vous être utile, voici l’histoire de ma reconversion en chef à domicile et le <a href="https://amzn.to/2Y77uIx">business plan</a> qui m’a permis de réaliser cette reconversion.</p>
 
 
 
@@ -4809,7 +4809,7 @@ const B27 = {
 
 
 
-<p>Le livre <a href="https://amzn.to/2XRmytx">cuisine de référence</a> est un concentré d’informations et de <strong>techniques de base</strong>. Les <strong>apprentis cuisiniers</strong> doivent les connaitre. Mais de là à l’apprendre par coeur, je ne pense pas que c’est nécessaire, en revanche, Pour <strong>l’épreuve ÉCRITE</strong>. Il y a des <strong>recettes</strong> a compléter, donc il faut réviser les <a href="https://cuisinedebase.com/feuilles-de-grammage/">feuilles de grammage</a> ainsi que les <a href="https://cuisinedebase.com/unite-de-mesure-pesage-et-adaptation-des-recettes/">unités de mesure</a>. Pour savoir combien de kg de <strong>viande/personne</strong>, ou une fourchette pour un <strong>nombre donnée de personne</strong>.</p>
+<p>Le livre <a href="https://amzn.to/2XRmytx">cuisine de référence</a> est un concentré d’informations et de <strong>techniques de base</strong>. Les <strong>apprentis cuisiniers</strong> doivent les connaitre. Mais de là à l’apprendre par coeur, je ne pense pas que c’est nécessaire, en revanche, Pour <strong>l’épreuve ÉCRITE</strong>. Il y a des <strong>recettes</strong> a compléter, donc il faut réviser les feuilles de grammage ainsi que les unités de mesure. Pour savoir combien de kg de <strong>viande/personne</strong>, ou une fourchette pour un <strong>nombre donnée de personne</strong>.</p>
 
 
 
@@ -4998,7 +4998,7 @@ const B28 = {
 
 
 
-<p>Il est tout à fait possible d’utiliser des couteaux en céramique à condition qu’ils soient compatible avec ceux dont on a besoin au CAP. Voici la liste du <a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/">matériel à avoir pour le CAP cuisine</a>, si on peut avoir les mêmes en céramique je pense qu’il n’y aura pas de problème pour l’examen.</p>
+<p>Il est tout à fait possible d’utiliser des couteaux en céramique à condition qu’ils soient compatible avec ceux dont on a besoin au CAP. Voici la liste du matériel à avoir pour le CAP cuisine, si on peut avoir les mêmes en céramique je pense qu’il n’y aura pas de problème pour l’examen.</p>
 
 
 
@@ -5022,7 +5022,7 @@ const B28 = {
 
 
 
-<p>pour l’examen pratique on a la fiche recette avec les ingrédients, les quantités et les grands axes de la recette, sans être aussi détaillés que dans les fiches techniques qu’on l’habitude d’utiliser. Pour plus d’information, voici une <a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/">analyse des sujets des épreuves pratiques</a> de la <strong>session 2019 de CAP cuisine. </strong>Consultez aussi <a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">le décryptage de l’épreuve pratique</a>.</p>
+<p>pour l’examen pratique on a la fiche recette avec les ingrédients, les quantités et les grands axes de la recette, sans être aussi détaillés que dans les fiches techniques qu’on l’habitude d’utiliser. Pour plus d’information, voici une analyse des sujets des épreuves pratiques de la <strong>session 2019 de CAP cuisine. </strong>Consultez aussi le décryptage de l’épreuve pratique.</p>
 
 
 
@@ -5034,7 +5034,7 @@ const B28 = {
 
 
 
-<p>Le jour de l’examen, il vaut mieux avoir sa propre <strong>valise de matériel</strong> de cuisine. Voici la liste du <a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/">matériel à avoir pour le CAP cuisine</a>. Le <strong>centre d’examen</strong> met à disposition certains matériel mais pas tout dont on a besoin, et on plus le jour J vous n’aurez pas le temps de découvrir comment marche tel ou tel appareil, utiliser des appareils qui vous sont familiers et que vous avez pu tester auparavant c’est toujours mieux. <br></br>&nbsp;</p>
+<p>Le jour de l’examen, il vaut mieux avoir sa propre <strong>valise de matériel</strong> de cuisine. Voici la liste du matériel à avoir pour le CAP cuisine. Le <strong>centre d’examen</strong> met à disposition certains matériel mais pas tout dont on a besoin, et on plus le jour J vous n’aurez pas le temps de découvrir comment marche tel ou tel appareil, utiliser des appareils qui vous sont familiers et que vous avez pu tester auparavant c’est toujours mieux. <br></br>&nbsp;</p>
 
 
 
@@ -5062,7 +5062,7 @@ const B28 = {
 
 
 
-<p>Consultez la <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">procédure pour passer le CAP cuisine en candidat libre</a>.&nbsp;</p>
+<p>Consultez la procédure pour passer le CAP cuisine en candidat libre.&nbsp;</p>
 
 
 
@@ -5074,7 +5074,7 @@ const B28 = {
 
 
 
-<p>Une fiche technique est le terme professionnel utilisé pour désigner une recette, elle est souvent sous forme d’un tableau qui contient les ingrédients, les quantités et les étapes de réalisation de la recette. Si vous êtes intéressé, j’ai mis en téléchargement libre quelques <a href="https://cuisinedebase.com/fiches-techniques-de-fabrication-en-restauration-format-excel-en-telechargement-gratuit/">fiches techniques de certaines réalisations au format Excel</a>.</p>
+<p>Une fiche technique est le terme professionnel utilisé pour désigner une recette, elle est souvent sous forme d’un tableau qui contient les ingrédients, les quantités et les étapes de réalisation de la recette. Si vous êtes intéressé, j’ai mis en téléchargement libre quelques fiches techniques de certaines réalisations au format Excel.</p>
 
 
 
@@ -5128,7 +5128,7 @@ const B29 = {
 
 
 
-<p>Si vous aussi vous voulez me poser votre question vérifiez si <a href="https://forms.gle/U772zv6QYvgXuw4F8" target="_blank" rel="noopener noreferrer">le lien vers le sondage</a> est toujours actif</p>
+<p>Si vous aussi vous voulez me poser votre question vérifiez si <a href="https://forms.gle/U772zv6QYvgXuw4F8">le lien vers le sondage</a> est toujours actif</p>
 
 
 
@@ -5160,7 +5160,7 @@ const B29 = {
 
 
 
-<p>Pour plus de détail sur l’épreuve pratique consultez <a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">le décryptage de l’épreuve pratique.</a></p>
+<p>Pour plus de détail sur l’épreuve pratique consultez le décryptage de l’épreuve pratique.</p>
 
 
 
@@ -5196,7 +5196,7 @@ const B29 = {
 
 
 
-<p>Il y a énormément de plateforme qui proposent <strong>les bases de la cuisine</strong>, l’exemple qui me vient tout de suite à l’esprit est le site de l’académie de Versailles et plein de chaines youtube qui propose la même chose. Voici un article qui parle des différentes manières qui existent aujourd’hui <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-preparer-avec-une-ecole-de-formation-des-groupes-de-discussion-ou-seul/">pour apprendre les bases de la cuisine</a>.</p>
+<p>Il y a énormément de plateforme qui proposent <strong>les bases de la cuisine</strong>, l’exemple qui me vient tout de suite à l’esprit est le site de l’académie de Versailles et plein de chaines youtube qui propose la même chose. Voici un article qui parle des différentes manières qui existent aujourd’hui pour apprendre les bases de la cuisine.</p>
 
 
 
@@ -5212,7 +5212,7 @@ const B29 = {
 
 
 
-<p>Alors, <strong>habiller un poisson</strong> et <strong>lever les filets</strong> sont des techniques de bases qu’un cuisinier devrait savoir faire, il est donc important de savoir identifier les poissons et de les préparer.<br></br>Et d’ailleurs <a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/">plusieurs sujets de cette année du CAP cuisine</a> concernaient justement la <strong>préparation de Filets de poisson</strong>. <br></br>Voici un article qui parle de <a href="https://cuisinedebase.com/habillage-poisson/">l’habillage de poisson</a>.</p>
+<p>Alors, <strong>habiller un poisson</strong> et <strong>lever les filets</strong> sont des techniques de bases qu’un cuisinier devrait savoir faire, il est donc important de savoir identifier les poissons et de les préparer.<br></br>Et d’ailleurs plusieurs sujets de cette année du CAP cuisine concernaient justement la <strong>préparation de Filets de poisson</strong>. <br></br>Voici un article qui parle de l’habillage de poisson.</p>
 
 
 
@@ -5224,11 +5224,11 @@ const B29 = {
 
 
 
-<p>Selon le profil du candidat, i peut être épargné ou pas de certaine épreuves théoriques. Mais Normalement tout le monde devrait passer <strong>les épreuves EP1 et PSE</strong>. Voici des <a href="https://cuisinedebase.com/produit/corrige-epreuve-ep1-2020-cap-organisation-production-cuisine/" target="_blank" rel="noopener noreferrer">épreuves des années passées avec leurs corrigés</a> dans cette page</p>
+<p>Selon le profil du candidat, i peut être épargné ou pas de certaine épreuves théoriques. Mais Normalement tout le monde devrait passer <strong>les épreuves EP1 et PSE</strong>. Voici des épreuves des années passées avec leurs corrigés dans cette page</p>
 
 
 
-<p>Voici un article qui revient sur le <a href="https://cuisinedebase.com/decryptage-des-epreuves-ecrites-du-cap-cuisine/">décryptage de l’épreuve écrite du CAP cuisine</a></p>
+<p>Voici un article qui revient sur le décryptage de l’épreuve écrite du CAP cuisine</p>
 
 
 
@@ -5240,7 +5240,7 @@ const B29 = {
 
 
 
-<p>Cela demande une organisation drastique surtout si on a un travail à côté, pour ma part, j’ai suivi la <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">méthode décrite ici</a></p>
+<p>Cela demande une organisation drastique surtout si on a un travail à côté, pour ma part, j’ai suivi la méthode décrite ici</p>
 
 
 
@@ -5252,11 +5252,11 @@ const B29 = {
 
 
 
-<p>Tout est possible avec de la <strong>volonté</strong> et une bonne dose de <strong>motivation</strong>, mais cela dit il ne faut pas se lancer tête baissée, une reconversion professionnelle se prépare correctement. Et si mon <a href="https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/">histoire de reconversion professionnelle</a>&nbsp; peut vous inspirer, cliquez sur le lien.</p>
+<p>Tout est possible avec de la <strong>volonté</strong> et une bonne dose de <strong>motivation</strong>, mais cela dit il ne faut pas se lancer tête baissée, une reconversion professionnelle se prépare correctement. Et si mon histoire de reconversion professionnelle&nbsp; peut vous inspirer, cliquez sur le lien.</p>
 
 
 
-<p>Vous pouvez aussi trouver ici <a href="https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/">quelques conseils qui peuvent vous aider</a> dans votre démarche.</p>
+<p>Vous pouvez aussi trouver ici quelques conseils qui peuvent vous aider dans votre démarche.</p>
 
 
 
@@ -5610,7 +5610,7 @@ const B31 = {
 
 
 
-<p>1 – <a href="https://amzn.to/2Jwd4f5" target="_blank" rel="noopener noreferrer">Cuisine de référence de Michel Maincent</a></p>
+<p>1 – <a href="https://amzn.to/2Jwd4f5">Cuisine de référence de Michel Maincent</a></p>
 
 
 
@@ -5622,7 +5622,7 @@ const B31 = {
 
 
 
-<p>2 – <a href="https://amzn.to/2VsIHgt" target="_blank" rel="noopener noreferrer">Le grand cours de cuisine de FERRANDI</a></p>
+<p>2 – <a href="https://amzn.to/2VsIHgt">Le grand cours de cuisine de FERRANDI</a></p>
 
 
 
@@ -5673,7 +5673,7 @@ const B31 = {
 
 
 
-<p>6 – <a href="https://amzn.to/2VtG0vi" target="_blank" rel="noopener noreferrer">Lexique culinaire de Ferrandi</a></p>
+<p>6 – <a href="https://amzn.to/2VtG0vi">Lexique culinaire de Ferrandi</a></p>
 
 
 
@@ -5685,18 +5685,18 @@ const B31 = {
 
 
 
-<p>6+1 – <a href="https://amzn.to/31oQ9st" target="_blank" rel="noopener noreferrer">Business plan. Traiteur – Chef à domicile</a></p>
+<p>6+1 – <a href="https://amzn.to/31oQ9st">Business plan. Traiteur – Chef à domicile</a></p>
 
 
 <div className="post-image">
 <figure className="aligncenter size-full"><a href="https://amzn.to/31oQ9st"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/couverture-business-plan-traiteur-chef-a-domicile.jpg" alt="Business plan" className="wp-image-956"></img></a></figure></div>
 
 
-<h2 className="sous_titre">6+2 – <a href="https://amzn.to/3ZjIKI8" target="_blank" rel="noopener noreferrer">Le carnet personnel des techniques professionnelles</a></h2>
+<h2 className="sous_titre">6+2 – <a href="https://amzn.to/3ZjIKI8">Le carnet personnel des techniques professionnelles</a></h2>
 
 
 
-<p>En fait, il ne s’agit pas d’un livre. Comme son nom l’indique c’est un carnet. Ce <a href="https://amzn.to/3ZjIKI8" target="_blank" rel="noopener noreferrer">carnet personnel de technique professionnelles</a> est tout simplement un petit cahier où vous pouvez mettre toutes les informations sur les fiches techniques, recettes, astuces, techniques de base, …Bref, tout ce que vous pensez être utile pour apprendre les bases de la cuisine. Le carnet personnel est accepté lors de l’épreuve écrite EP2 du CAP cuisine.</p>
+<p>En fait, il ne s’agit pas d’un livre. Comme son nom l’indique c’est un carnet. Ce <a href="https://amzn.to/3ZjIKI8">carnet personnel de technique professionnelles</a> est tout simplement un petit cahier où vous pouvez mettre toutes les informations sur les fiches techniques, recettes, astuces, techniques de base, …Bref, tout ce que vous pensez être utile pour apprendre les bases de la cuisine. Le carnet personnel est accepté lors de l’épreuve écrite EP2 du CAP cuisine.</p>
 
 
 <div className="post-image">
@@ -5711,14 +5711,14 @@ const B31 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature.jpg" alt="fiche technique" className="wp-image-1734" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1536%2C1491&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=2048%2C1988&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=600%2C582&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></a><figcaption className="wp-element-caption"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer">25 Fiches techniques pour préparer le CAP cuisine</a></figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature.jpg" alt="fiche technique" className="wp-image-1734" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1536%2C1491&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=2048%2C1988&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=600%2C582&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></a><figcaption className="wp-element-caption"><a href="https://amzn.to/3RwhgOX">25 Fiches techniques pour préparer le CAP cuisine</a></figcaption></figure></div>
 
 
 <h2 className="sous_titre">Le livre indispensable pour les candidats libres</h2>
 
 
 
-<p><a href="https://amzn.to/2Jwd4f5" target="_blank" rel="noopener noreferrer">Cuisine de référence de Michel Maincent</a></p>
+<p><a href="https://amzn.to/2Jwd4f5">Cuisine de référence de Michel Maincent</a></p>
 
 
 
@@ -5734,7 +5734,7 @@ const B31 = {
 
 
 
-<p><a href="https://amzn.to/2VsIHgt" target="_blank" rel="noopener noreferrer">Le grand cours de cuisine de FERRANDI</a></p>
+<p><a href="https://amzn.to/2VsIHgt">Le grand cours de cuisine de FERRANDI</a></p>
 
 
 
@@ -5778,7 +5778,7 @@ const B31 = {
 
 
 
-<p><a href="https://amzn.to/2VtG0vi" target="_blank" rel="noopener noreferrer">Lexique culinaire de Ferrandi</a></p>
+<p><a href="https://amzn.to/2VtG0vi">Lexique culinaire de Ferrandi</a></p>
 
 
 
@@ -5790,7 +5790,7 @@ const B31 = {
 
 
 
-<p>Pour préparer l’épreuve pratique EP2, vous devez absolument faire les <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">25 recettes de base</a> qui regroupent l’ensemble des techniques à apprendre. Vous pouvez retrouver l’ensemble des fiches techniques, assemblées dans un seul document, au format pdf en suivant le lien suivant : <a href="https://cuisinedebase.com/25-fiches-techniques-pour-apprendre-a-cuisiner/">Fiches techniques au format pdf</a>.</p>
+<p>Pour préparer l’épreuve pratique EP2, vous devez absolument faire les 25 recettes de base qui regroupent l’ensemble des techniques à apprendre. Vous pouvez retrouver l’ensemble des fiches techniques, assemblées dans un seul document, au format pdf en suivant le lien suivant : Fiches techniques au format pdf.</p>
 
             </div>
         </div>
@@ -5821,27 +5821,27 @@ const B32 = {
 		<div className="entry-content clearfix">
 
 <div className="post-image"><p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg" alt="examen"></img></p></div>
-<p>A l’approche de la période des <strong>examens</strong>, les élèves ont l’habitude de suivre un <a href="https://cuisinedebase.com/programme-entrainement-et-organisation-pour-preparer-le-cap/">planning de révision pour bien préparer</a> les épreuves. En plus des révisions habituelles, il est important de s’exercer avec des <strong>annales</strong> et <strong>épreuves des années passées du CAP cuisine</strong>. Ceci permet aux élèves de s’entrainer en conditions réelles et de respecter les règles de l’examen.</p>
+<p>A l’approche de la période des <strong>examens</strong>, les élèves ont l’habitude de suivre un planning de révision pour bien préparer les épreuves. En plus des révisions habituelles, il est important de s’exercer avec des <strong>annales</strong> et <strong>épreuves des années passées du CAP cuisine</strong>. Ceci permet aux élèves de s’entrainer en conditions réelles et de respecter les règles de l’examen.</p>
 <p>Dans cet article, vous trouverez des liens pour télécharger les <strong>corrections des épreuves écrites</strong> en pdf.</p>
 <h2 className="sous_titre">Gérer le stress et la concentration</h2>
-<p>La <strong>concentration</strong> et l’<strong>organisation,&nbsp;</strong>sont les deux qualités que les candidats au passage de <strong>l’épreuve pratique du CAP</strong> <strong>cuisine,</strong> doivent développer le plus<strong>. </strong>Pendant cette épreuve, les <strong>examinateurs</strong> passent dans les différents postes pour voir les <strong>méthodes de travail</strong> de chacun, ainsi que le degré de maîtrise des <a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">techniques de base</a>.</p>
+<p>La <strong>concentration</strong> et l’<strong>organisation,&nbsp;</strong>sont les deux qualités que les candidats au passage de <strong>l’épreuve pratique du CAP</strong> <strong>cuisine,</strong> doivent développer le plus<strong>. </strong>Pendant cette épreuve, les <strong>examinateurs</strong> passent dans les différents postes pour voir les <strong>méthodes de travail</strong> de chacun, ainsi que le degré de maîtrise des techniques de base.</p>
 <p>Ils peuvent même poser des questions techniques aux candidats! il faut donc gérer son stress et <strong>rester concentré</strong>!</p>
 <h2 className="sous_titre">Annales en téléchargement gratuit</h2>
-<p>Les <strong>annales</strong>&nbsp;du CAP cuisine sont offerts en <strong>téléchargement gratuit. </strong>Il sont intégrés&nbsp;comme bonus que vous pouvez obtenir en commandant un produit de la <a href="https://cuisinedebase.com/categorie-produit/livres-ebook-pdf/">boutique.</a>&nbsp;Voici la liste des produits les plus demandés:</p>
+<p>Les <strong>annales</strong>&nbsp;du CAP cuisine sont offerts en <strong>téléchargement gratuit. </strong>Il sont intégrés&nbsp;comme bonus que vous pouvez obtenir en commandant un produit de la boutique.&nbsp;Voici la liste des produits les plus demandés:</p>
 <ul>
-<li>l’ebook des&nbsp;<a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">25 fiches techniques</a> pour <strong>préparer le CAP cuisine;</strong></li>
-<li>ou encore l’ebook les <a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">bases de la cuisine</a>&nbsp;professionnelle;</li>
-<li><a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/">correction de l’épreuve de 2006</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2006;</strong></li>
-<li><a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">Correction de l’épreuve EP1 2019</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2019;</strong></li>
-<li>ou bien&nbsp;<a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Correction annale EP1 2020</a>&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2020.</strong></li>
+<li>l’ebook des&nbsp;25 fiches techniques pour <strong>préparer le CAP cuisine;</strong></li>
+<li>ou encore l’ebook les bases de la cuisine&nbsp;professionnelle;</li>
+<li>correction de l’épreuve de 2006&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2006;</strong></li>
+<li>Correction de l’épreuve EP1 2019&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2019;</strong></li>
+<li>ou bien&nbsp;Correction annale EP1 2020&nbsp;pour préparer <strong>l’épreuve écrite EP1 de la session 2020.</strong></li>
 </ul>
 <p>Aux annales&nbsp;des années <strong>2011, 2012, 2013 et 2014,&nbsp;</strong>je viens d’ajouter à cette collection les sujets de <strong>2015, 2016, 2017 et 2018</strong>.</p>
 <h2 className="sous_titre">Annales avec corrections et en format pdf</h2>
-<p>Les épreuves du CAP cuisine se composent de deux sortes d’épreuves, des <a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/">épreuves écrites</a> et des <a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a>.</p>
+<p>Les épreuves du CAP cuisine se composent de deux sortes d’épreuves, des épreuves écrites et des épreuves pratiques.</p>
 <p>Les épreuves écrites sont sous forme <strong>d’exercices de cas pratiques</strong>, les candidats peuvent répondre à une bonne partie des questions en comptant sur leur <strong>bon sens</strong>, mais il est fortement conseillé de les préparer convenablement avec <strong>des livres</strong> ou des cours et de faire au moins deux ou trois <strong>annales</strong>&nbsp;du CAP cuisine des années précédentes.</p>
-<p>Il est vrai que les épreuves écrites ne sont pas très complexes, surtout qu’en fonction du niveau d’étude, <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-preparer-avec-une-ecole-de-formation-des-groupes-de-discussion-ou-seul/">les candidats au CAP</a> peuvent être <strong>dispensés de certaines matières</strong>. Pour la majorité des candidats, avec un niveau lycée par exemple, n’auront à passer que deux épreuves théoriques : <strong>Organisation de la production de cuisine (EP1) et Prévention Santé Environnement (PSE).</strong></p>
+<p>Il est vrai que les épreuves écrites ne sont pas très complexes, surtout qu’en fonction du niveau d’étude, les candidats au CAP peuvent être <strong>dispensés de certaines matières</strong>. Pour la majorité des candidats, avec un niveau lycée par exemple, n’auront à passer que deux épreuves théoriques : <strong>Organisation de la production de cuisine (EP1) et Prévention Santé Environnement (PSE).</strong></p>
 <p>La meilleure manière de préparer ces épreuves est de travailler des <strong>épreuves des années précédentes</strong>.</p>
-<p>Je vous ai préparé une <a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/">correction de l’épreuve de 2006</a>. <a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">Correction de l’épreuve EP1 2019</a> et <a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Correction annale EP1 2020</a>. Vous pouvez essayer de les faire et comparer vos résultats avec les corrections que vous pouvez <strong>télécharger en pdf</strong>.</p>
+<p>Je vous ai préparé une correction de l’épreuve de 2006. Correction de l’épreuve EP1 2019 et Correction annale EP1 2020. Vous pouvez essayer de les faire et comparer vos résultats avec les corrections que vous pouvez <strong>télécharger en pdf</strong>.</p>
 <p>Vous pouvez aussi vous faire aider des <strong>conseils</strong> donnés dans ces deux <strong>livres:</strong> <a href="https://amzn.to/2LgaAE1">Science appliquée</a> et <a href="https://amzn.to/2LjsZQm">Technologie culinaire</a>. Pour être transparent avec vous, les liens vers ces deux <strong>livres</strong> sont des liens affiliés, cela veut dire que je toucherai une commission si vous passez par ces liens pour acheter ces livres et sans que cela n’augmente leurs prix <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img></p>
 
             </div>
@@ -5872,7 +5872,7 @@ const B33 = {
 
 		<div className="entry-content clearfix">
 
-<p><span>Le <strong>CAP cuisine</strong> se fait en formation initiale dans un <strong>lycée professionnel</strong>. Et le CAP cuisine se fait généralement en 2 ans. Mais pendant cette dernière décennie, les <strong>centres de formation</strong> voient arriver massivement des candidats d’une autre sorte. Des femmes et des hommes qui souhaitent passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en tant que candidat libre</span></a><span >!</span> Dans cet article je vais lister certaines <strong>erreurs à éviter pour préparer le CAP</strong> cuisine en candidat libre.</p>
+<p><span>Le <strong>CAP cuisine</strong> se fait en formation initiale dans un <strong>lycée professionnel</strong>. Et le CAP cuisine se fait généralement en 2 ans. Mais pendant cette dernière décennie, les <strong>centres de formation</strong> voient arriver massivement des candidats d’une autre sorte. Des femmes et des hommes qui souhaitent passer le </span><span >CAP cuisine en tant que candidat libre</span><span >!</span> Dans cet article je vais lister certaines <strong>erreurs à éviter pour préparer le CAP</strong> cuisine en candidat libre.</p>
 
 
 
@@ -5900,11 +5900,11 @@ const B33 = {
 
 
 
-<p><span >La première des <strong>erreurs à éviter</strong> est de se préparer en aveugle, travailler sans suivre un <strong>programme</strong> bien établi. Et surtout tenir à bien le respecter, (vous pouvez vous <strong>faire aider par les conseils</strong> de </span><a href="https://cuisinedebase.com/une-mthode-simple-pour-tenir-ses-engagements-et-appliquer-ses-bonnes-rsolutions/" rel="sponsored nofollow"><span >cet article qui peuvent vous être utiles pour respecter vos engagements</span></a><span >. </span></p>
+<p><span >La première des <strong>erreurs à éviter</strong> est de se préparer en aveugle, travailler sans suivre un <strong>programme</strong> bien établi. Et surtout tenir à bien le respecter, (vous pouvez vous <strong>faire aider par les conseils</strong> de </span><span >cet article qui peuvent vous être utiles pour respecter vos engagements</span><span >. </span></p>
 
 
 
-<p><span >Un <strong>planning étalé sur 10 mois</strong> me parait correcte pour apprendre doucement les différentes <strong>techniques et fabrications de base</strong>, cela n’empêche pas les personnes qui se sentent capables à accélérer le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span >rythme d’apprentissage à 5 ou 6 mois</span></a><span >.</span></p>
+<p><span >Un <strong>planning étalé sur 10 mois</strong> me parait correcte pour apprendre doucement les différentes <strong>techniques et fabrications de base</strong>, cela n’empêche pas les personnes qui se sentent capables à accélérer le </span><span >rythme d’apprentissage à 5 ou 6 mois</span><span >.</span></p>
 
 
 
@@ -5912,7 +5912,7 @@ const B33 = {
 
 
 
-<p><span >Beaucoup de candidats libres travaillent d’arrache pieds pour maîtriser la <strong>partie pratique</strong>. Et malheureusement ne consacrent pas beaucoup temps à l’<strong>épreuve théorique</strong>. Négliger la partie théorique relative à toutes les <strong>généralités sur la cuisine et le métier de cuisinier</strong>, comme les noms et propriétés des <strong>fruits et légumes</strong>, le <strong>matériel du cuisinier</strong>, la <strong>tenue vestimentaire</strong> les bons comportements que les cuisiniers doivent avoir, tout ce qui est relatif à <strong>l’hygiène et à la sécurité et l’environnement</strong>, bref tout l’univers qui orbite autour de la cuisine et <a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/">des métiers du cuisinier</a> en dehors <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">des recettes</a>, techniques et préparations de bases.</span></p>
+<p><span >Beaucoup de candidats libres travaillent d’arrache pieds pour maîtriser la <strong>partie pratique</strong>. Et malheureusement ne consacrent pas beaucoup temps à l’<strong>épreuve théorique</strong>. Négliger la partie théorique relative à toutes les <strong>généralités sur la cuisine et le métier de cuisinier</strong>, comme les noms et propriétés des <strong>fruits et légumes</strong>, le <strong>matériel du cuisinier</strong>, la <strong>tenue vestimentaire</strong> les bons comportements que les cuisiniers doivent avoir, tout ce qui est relatif à <strong>l’hygiène et à la sécurité et l’environnement</strong>, bref tout l’univers qui orbite autour de la cuisine et des métiers du cuisinier en dehors des recettes, techniques et préparations de bases.</span></p>
 
 
 
@@ -5922,7 +5922,7 @@ const B33 = {
 
 
 
-<p><span >Avoir des reflexes et des méthodes qui sont différentes (voir contraires) aux </span><a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/"><span >techniques de base à maîtriser</span></a><span >. Maintenant grâce à internet et particulièrement Youtube, on peut accéder aux techniques des meilleurs <strong>formateurs et chefs de cuisines</strong>. Je conseille particulièrement les différentes vidéos mises gratuitement sur le web par </span><a href="http://webtv.ac-versailles.fr/restauration/Formation-CAP-cuisine"><span >l’académie de Versailles</span></a><span >, on peut aussi y trouver entre autres, des <strong>fiches techniques de fabrication</strong> et des conseils pour les <strong>jeunes apprentis</strong>, …</span></p>
+<p><span >Avoir des reflexes et des méthodes qui sont différentes (voir contraires) aux </span><span >techniques de base à maîtriser</span><span >. Maintenant grâce à internet et particulièrement Youtube, on peut accéder aux techniques des meilleurs <strong>formateurs et chefs de cuisines</strong>. Je conseille particulièrement les différentes vidéos mises gratuitement sur le web par </span><a href="http://webtv.ac-versailles.fr/restauration/Formation-CAP-cuisine"><span >l’académie de Versailles</span></a><span >, on peut aussi y trouver entre autres, des <strong>fiches techniques de fabrication</strong> et des conseils pour les <strong>jeunes apprentis</strong>, …</span></p>
 
 
 
@@ -6039,7 +6039,7 @@ const B34 = {
 
 
 <ul className="wp-block-list">
-<li>L’épreuve EP1 : <strong><a href="https://cuisinedebase.com/decryptage-de-epreuve-pratique-du-cap-cuisine/">ORGANISATION DE LA PRODUCTION DE CUISINE</a></strong>. C’est une épreuve écrite de 2 heures et son coefficient est 4. Vous pouvez <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">cliquer sur le lien</a> pour avoir plus de détails sur cette épreuve.</li>
+<li>L’épreuve EP1 : <strong>ORGANISATION DE LA PRODUCTION DE CUISINE</strong>. C’est une épreuve écrite de 2 heures et son coefficient est 4. Vous pouvez cliquer sur le lien pour avoir plus de détails sur cette épreuve.</li>
 
 
 
@@ -6061,15 +6061,15 @@ const B34 = {
 
 
 <ul className="wp-block-list">
-<li><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/" target="_blank" rel="noopener noreferrer">CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</a></li>
+<li>CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</li>
 
 
 
-<li><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/" target="_blank" rel="noopener noreferrer">Les épreuves pratiques de CAP cuisine session 2020</a></li>
+<li>Les épreuves pratiques de CAP cuisine session 2020</li>
 
 
 
-<li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li>
+<li>Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</li>
 </ul>
 
 
@@ -6105,19 +6105,19 @@ const B34 = {
 
 
 <ul className="wp-block-list">
-<li><a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/" target="_blank" rel="noopener noreferrer">Correction EP1 Organisation de la production de cuisine <strong>session 2019</strong></a></li>
+<li>Correction EP1 Organisation de la production de cuisine <strong>session 2019</strong></li>
 
 
 
-<li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Epreuve CAP cuisine. Sujet et Correction de l’épreuve <strong>EP1 2020</strong>.</a></li>
+<li>Epreuve CAP cuisine. Sujet et Correction de l’épreuve <strong>EP1 2020</strong>.</li>
 
 
 
-<li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction de l’épreuve <strong>EP1 2021</strong>. Examen CAP cuisine</a></li>
+<li>Correction de l’épreuve <strong>EP1 2021</strong>. Examen CAP cuisine</li>
 
 
 
-<li><a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/" target="_blank" rel="noopener noreferrer">Corrigé de l’épreuve <strong>EP1 Session 2006 </strong>CAP cuisine</a></li>
+<li>Corrigé de l’épreuve <strong>EP1 Session 2006 </strong>CAP cuisine</li>
 </ul>
 
 
@@ -6220,7 +6220,7 @@ const B34 = {
 <cite>PSE 2012</cite>
 
 
-<p>A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le <a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014" target="_blank" rel="noopener noreferrer">bulletin officiel</a> relatif à ce sujet.</p>
+<p>A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le <a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014">bulletin officiel</a> relatif à ce sujet.</p>
 
             </div>
         </div>
@@ -6261,7 +6261,7 @@ const B35 = {
 <figure className="aligncenter is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/examen_thumb-1.jpg" alt="examen" title="examen"></img></figure></div>
 
 
-<p><span >A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le </span><a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014" target="_blank" rel="noopener noreferrer"><span >bulletin officiel</span></a><span > relatif à ce sujet. </span></p>
+<p><span >A partir de la session 2018, un changement a eu lieu sur les modalités de délivrance. Consultez le </span><a href="http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=101014"><span >bulletin officiel</span></a><span > relatif à ce sujet. </span></p>
 
 
 
@@ -6334,15 +6334,15 @@ const B35 = {
 
 
 <ul className="wp-block-list">
-<li><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/" target="_blank" rel="noopener noreferrer">CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</a></li>
+<li>CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</li>
 
 
 
-<li><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/" target="_blank" rel="noopener noreferrer">Les épreuves pratiques de CAP cuisine session 2020</a></li>
+<li>Les épreuves pratiques de CAP cuisine session 2020</li>
 
 
 
-<li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li>
+<li>Epreuve CAP cuisine 2021. Les sujets de l’examen pratique</li>
 </ul>
             </div>
         </div>
@@ -6428,15 +6428,15 @@ const B36 = {
 
 
 
-<p><span >Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la <strong>cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">les différentes manières</a> qui existent aujourd’hui pour passer le <strong>CAP cuisine en candidat libre</strong>.</span></p>
+<p><span >Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la <strong>cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre les différentes manières qui existent aujourd’hui pour passer le <strong>CAP cuisine en candidat libre</strong>.</span></p>
 
 
 
-<p><span >Dans le cas de la <strong>spécialité cuisine</strong>, les candidats doivent passer une <strong>épreuve écrite</strong> et une <strong>épreuve pratique</strong>, celle-ci s’appelle <u>“<strong>production culinaire</strong></u>”, c’est l’épreuve la plus importante, elle dure 4h30 et consiste à mettre les candidats dans un <strong>cas réel de production culinaire</strong>, des <strong><a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">fiches des plats à préparer</a></strong> sont distribuées aux candidats, en général, <strong>entrée + plat</strong> ou <strong>plat + dessert</strong>. Bien entendu, les fiches ne comportent pas tous les détails pour <strong>réaliser les recettes</strong>, en plus des <strong>techniques de fabrication</strong>, les candidats doivent connaître <strong>le dosage</strong> et les <strong>ingrédients des recettes</strong>.</span></p>
+<p><span >Dans le cas de la <strong>spécialité cuisine</strong>, les candidats doivent passer une <strong>épreuve écrite</strong> et une <strong>épreuve pratique</strong>, celle-ci s’appelle <u>“<strong>production culinaire</strong></u>”, c’est l’épreuve la plus importante, elle dure 4h30 et consiste à mettre les candidats dans un <strong>cas réel de production culinaire</strong>, des <strong>fiches des plats à préparer</strong> sont distribuées aux candidats, en général, <strong>entrée + plat</strong> ou <strong>plat + dessert</strong>. Bien entendu, les fiches ne comportent pas tous les détails pour <strong>réaliser les recettes</strong>, en plus des <strong>techniques de fabrication</strong>, les candidats doivent connaître <strong>le dosage</strong> et les <strong>ingrédients des recettes</strong>.</span></p>
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="fiches techniques amazon" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="fiches techniques amazon" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine</figcaption></figure></div>
 
 
 <h2 className="sous_titre"><span>Recettes dans l’histoire de la cuisine</span></h2>
@@ -6467,7 +6467,7 @@ const B36 = {
 
 
 
-<p>Commandez le document au <strong>format pdf</strong> en suivant le lien suivant : <a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer">Fiches techniques au format papier ou pdf</a>.</p>
+<p>Commandez le document au <strong>format pdf</strong> en suivant le lien suivant : <a href="https://amzn.to/3RwhgOX">Fiches techniques au format papier ou pdf</a>.</p>
 
 
 
@@ -6489,7 +6489,7 @@ const B36 = {
 
 
 
-<p>Commandez le document <a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/"><strong>25 recettes CAP cuisine</strong> au <strong>format pdf</strong></a> et recevez en bonus supplémentaire les&nbsp;<strong>Fiches techniques en format Excel</strong>! ainsi que les&nbsp;<strong>annales des années passées</strong>!</p>
+<p>Commandez le document <strong>25 recettes CAP cuisine</strong> au <strong>format pdf</strong> et recevez en bonus supplémentaire les&nbsp;<strong>Fiches techniques en format Excel</strong>! ainsi que les&nbsp;<strong>annales des années passées</strong>!</p>
 
 
 
@@ -6501,7 +6501,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">1. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-potage-parmentier/">Potage Parmentier</a></h2>
+<h2 className="sous_titre">1. Potage Parmentier</h2>
 
 
 
@@ -6509,7 +6509,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">2. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-sole-meunire/">Soles meunière</a></h2>
+<h2 className="sous_titre">2. Soles meunière</h2>
 
 
 
@@ -6517,7 +6517,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">3. <a href="https://cuisinedebase.com/fiche-technique-quiche-au-poulet/">Quiche au poulet</a></h2>
+<h2 className="sous_titre">3. Quiche au poulet</h2>
 
 
 
@@ -6525,7 +6525,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">4. <a href="https://cuisinedebase.com/fiche-technique-omelette-roule-aux-champignons/">Omelette roulée</a> est parmi les 25 recettes CAP cuisine</h2>
+<h2 className="sous_titre">4. Omelette roulée est parmi les 25 recettes CAP cuisine</h2>
 
 
 
@@ -6533,7 +6533,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">5. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-velout-dubarry/">Crème Dubarry / velouté Dubarry</a></h2>
+<h2 className="sous_titre">5. Crème Dubarry / velouté Dubarry</h2>
 
 
 
@@ -6545,7 +6545,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">6. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-macdoine-de-lgumes-mayonnaise/">Macédoine de légumes</a></h2>
+<h2 className="sous_titre">6. Macédoine de légumes</h2>
 
 
 
@@ -6553,7 +6553,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">7. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-crpes-farcies-gratines/">Crêpe farcie</a> fait partie des 25 recettes CAP cuisine</h2>
+<h2 className="sous_titre">7. Crêpe farcie fait partie des 25 recettes CAP cuisine</h2>
 
 
 
@@ -6561,7 +6561,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">8. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-du-navarin-aux-pommes/">Navarin</a></h2>
+<h2 className="sous_titre">8. Navarin</h2>
 
 
 
@@ -6569,7 +6569,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">9. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-des-ufs-farcis-chimay/">Œufs farcis Chimay</a></h2>
+<h2 className="sous_titre">9. Œufs farcis Chimay</h2>
 
 
 
@@ -6577,7 +6577,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">10. <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-riz-pilaf/">Riz pilaf</a></h2>
+<h2 className="sous_titre">10. Riz pilaf</h2>
 
 
 
@@ -6588,7 +6588,7 @@ const B36 = {
 <figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte-1.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg" alt="riz-pilaf-boeuf-carotte" title="riz-pilaf-boeuf-carotte"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine. Riz pilaf</figcaption></figure></div>
 
 
-<h2 className="sous_titre">11. <a href="https://cuisinedebase.com/darnes-de-poisson-poches/">Darne de poisson pochée</a></h2>
+<h2 className="sous_titre">11. Darne de poisson pochée</h2>
 
 
 
@@ -6596,7 +6596,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">12. <a href="https://cuisinedebase.com/goujonnettes-de-sole/">Goujonnettes de poisson frit</a></h2>
+<h2 className="sous_titre">12. Goujonnettes de poisson frit</h2>
 
 
 
@@ -6604,7 +6604,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">13. <a href="https://cuisinedebase.com/blanquette-de-veau/">Blanquette de veau</a></h2>
+<h2 className="sous_titre">13. Blanquette de veau</h2>
 
 
 
@@ -6616,7 +6616,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">14. <a href="https://cuisinedebase.com/steak-sauts-avec-sauce-poivre/">Steaks au poivre</a></h2>
+<h2 className="sous_titre">14. Steaks au poivre</h2>
 
 
 
@@ -6624,7 +6624,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">15. <a href="https://cuisinedebase.com/escalopes-de-volaille-sautes/">Escalope de volaille viennoise</a></h2>
+<h2 className="sous_titre">15. Escalope de volaille viennoise</h2>
 
 
 
@@ -6632,7 +6632,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">16. <a href="https://cuisinedebase.com/fricasse-de-volaille-lancienne/">Fricassée de volaille à l’ancienne</a></h2>
+<h2 className="sous_titre">16. Fricassée de volaille à l’ancienne</h2>
 
 
 
@@ -6644,7 +6644,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">17. <a href="https://cuisinedebase.com/poulets-rtis/">Poulet Rôti</a></h2>
+<h2 className="sous_titre">17. Poulet Rôti</h2>
 
 
 
@@ -6652,7 +6652,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">18. <a href="https://cuisinedebase.com/crme-renverse-au-caramel/">Crème renversée au caramel</a></h2>
+<h2 className="sous_titre">18. Crème renversée au caramel</h2>
 
 
 
@@ -6660,7 +6660,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">19. <a href="https://cuisinedebase.com/ufs-la-neige/">Œufs à la neige</a></h2>
+<h2 className="sous_titre">19. Œufs à la neige</h2>
 
 
 
@@ -6668,7 +6668,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">20. <a href="https://cuisinedebase.com/tartes-feuilletes-aux-fruits-rouges/">Tartes aux fruits sur pâte feuilletée</a></h2>
+<h2 className="sous_titre">20. Tartes aux fruits sur pâte feuilletée</h2>
 
 
 
@@ -6676,7 +6676,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">21. <a href="https://cuisinedebase.com/tarte-aux-pommes/">Tarte aux pommes</a></h2>
+<h2 className="sous_titre">21. Tarte aux pommes</h2>
 
 
 
@@ -6684,7 +6684,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">22. <a href="https://cuisinedebase.com/choux-la-crme-ptissire/">Choux à la crème pâtissière</a></h2>
+<h2 className="sous_titre">22. Choux à la crème pâtissière</h2>
 
 
 
@@ -6692,7 +6692,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">23. <a href="https://cuisinedebase.com/entremets-faon-tiramisu/">Tiramisu</a></h2>
+<h2 className="sous_titre">23. Tiramisu</h2>
 
 
 
@@ -6700,7 +6700,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">24. <a href="https://cuisinedebase.com/creme-brulee/">Crème brûlée</a></h2>
+<h2 className="sous_titre">24. Crème brûlée</h2>
 
 
 
@@ -6708,7 +6708,7 @@ const B36 = {
 
 
 
-<h2 className="sous_titre">25. <a href="https://cuisinedebase.com/tarte-au-chocolat/">Tarte au chocolat</a></h2>
+<h2 className="sous_titre">25. Tarte au chocolat</h2>
 
 
 
@@ -6746,7 +6746,7 @@ const B37 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/4awXqKP" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg" alt="Cocotte en fonte" className="wp-image-3220" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=90%2C90&amp;ssl=1 90w"></img></a></figure></div>
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/4awXqKP"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg" alt="Cocotte en fonte" className="wp-image-3220" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2025/01/Cocotte-en-Fonte.jpg?resize=90%2C90&amp;ssl=1 90w"></img></a></figure></div>
 
 
 <h2 className="sous_titre">La Cocotte en Fonte : Un Héritage Culinaire</h2>
@@ -6911,7 +6911,7 @@ const B38 = {
 
 
 
-<p>L’utilisation des <strong>outils et des équipements de protection individuelle</strong> est une des <strong>mesures de sécurité en cuisine</strong> importante. Les outils, tels que les couteaux ou les mixeurs, doivent être utilisés avec prudence et en respectant les consignes de sécurité. Il est également recommandé de porter des <strong>équipements de protection</strong> individuelle adaptés à la tâche. Tels que des gants, des <a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/" target="_blank" rel="noopener noreferrer">tabliers ou des chaussures de sécurité.</a> Les équipements de protection individuelle peuvent prévenir les blessures et les accidents en cuisine. Tels que les brûlures, les coupures ou les chutes. Il est donc important de former les employés à l’utilisation correcte de ces équipements et de s’assurer qu’ils soient en bon état de fonctionnement et disponibles en quantité suffisante. En utilisant les outils et les équipements de protection individuelle de manière responsable et efficace, on peut garantir un environnement de travail sûr et prévenir les accidents en cuisine.</p>
+<p>L’utilisation des <strong>outils et des équipements de protection individuelle</strong> est une des <strong>mesures de sécurité en cuisine</strong> importante. Les outils, tels que les couteaux ou les mixeurs, doivent être utilisés avec prudence et en respectant les consignes de sécurité. Il est également recommandé de porter des <strong>équipements de protection</strong> individuelle adaptés à la tâche. Tels que des gants, des tabliers ou des chaussures de sécurité. Les équipements de protection individuelle peuvent prévenir les blessures et les accidents en cuisine. Tels que les brûlures, les coupures ou les chutes. Il est donc important de former les employés à l’utilisation correcte de ces équipements et de s’assurer qu’ils soient en bon état de fonctionnement et disponibles en quantité suffisante. En utilisant les outils et les équipements de protection individuelle de manière responsable et efficace, on peut garantir un environnement de travail sûr et prévenir les accidents en cuisine.</p>
 
 
 
@@ -6985,7 +6985,7 @@ const B39 = {
 
 
 
-<h2 className="sous_titre">Le <a href="https://cuisinedebase.com/fond-blanc-veau-volaille-comment-preparer-composition-regles-hygiene-utilisation/" target="_blank" rel="noopener noreferrer">fond blanc de volaille</a> : </h2>
+<h2 className="sous_titre">Le fond blanc de volaille : </h2>
 
 
 
@@ -7119,7 +7119,7 @@ const B40 = {
 
 		<div className="entry-content clearfix">
 
-<p>Lorsque l’on parle de cuisine, la maîtrise des<strong> pâtes de base est essentielle pour tout apprenti cuisinier </strong>qui souhaite réussir dans le métier. Les pâtes de base sont des éléments fondamentaux de la cuisine, que ce soit pour préparer des plats salés ou sucrés. Le <strong>CAP cuisine</strong> est une formation qui enseigne aux futurs cuisiniers les <strong><a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">compétences de base nécessaires pour travailler en cuisine professionnelle</a></strong>. Dans le cadre de cette formation,<strong> plusieurs pâtes de base sont enseignées</strong>. Chacune ayant des propriétés uniques et des utilisations spécifiques. </p>
+<p>Lorsque l’on parle de cuisine, la maîtrise des<strong> pâtes de base est essentielle pour tout apprenti cuisinier </strong>qui souhaite réussir dans le métier. Les pâtes de base sont des éléments fondamentaux de la cuisine, que ce soit pour préparer des plats salés ou sucrés. Le <strong>CAP cuisine</strong> est une formation qui enseigne aux futurs cuisiniers les <strong>compétences de base nécessaires pour travailler en cuisine professionnelle</strong>. Dans le cadre de cette formation,<strong> plusieurs pâtes de base sont enseignées</strong>. Chacune ayant des propriétés uniques et des utilisations spécifiques. </p>
 
 
 
@@ -7134,7 +7134,7 @@ const B40 = {
 
 
 
-<p>Tout d’abord, <a href="https://cuisinedebase.com/technique-de-base-de-realisation-de-la-pate-feuilletee/" target="_blank" rel="noopener noreferrer">la pâte feuilletée</a> est une pâte légère et croustillante. On l’apprécie beaucoup en cuisine et en pâtisserie pour la réalisation de nombreux plats et desserts. Elle se compose de farine, d’eau, de sel et de beurre. Aussi, on doit la travaillée avec soin pour obtenir un feuilletage parfait. La technique du feuilletage consiste à intercaler des couches de beurre entre des couches de pâte. Puis à plier et à tourner la pâte plusieurs fois pour créer des centaines de couches fines. Cela donne à la pâte feuilletée sa texture caractéristique de feuilletage et de croquant. On utilise la pâte feuilletée pour des plats salés, comme des tourtes ou des vol-au-vent, ou pour des desserts sucrés, comme des mille-feuilles ou des tartes. Maîtriser la pâte feuilletée est donc une compétence clé pour les aspirants chefs qui cherchent à réussir leur CAP cuisine.</p>
+<p>Tout d’abord, la pâte feuilletée est une pâte légère et croustillante. On l’apprécie beaucoup en cuisine et en pâtisserie pour la réalisation de nombreux plats et desserts. Elle se compose de farine, d’eau, de sel et de beurre. Aussi, on doit la travaillée avec soin pour obtenir un feuilletage parfait. La technique du feuilletage consiste à intercaler des couches de beurre entre des couches de pâte. Puis à plier et à tourner la pâte plusieurs fois pour créer des centaines de couches fines. Cela donne à la pâte feuilletée sa texture caractéristique de feuilletage et de croquant. On utilise la pâte feuilletée pour des plats salés, comme des tourtes ou des vol-au-vent, ou pour des desserts sucrés, comme des mille-feuilles ou des tartes. Maîtriser la pâte feuilletée est donc une compétence clé pour les aspirants chefs qui cherchent à réussir leur CAP cuisine.</p>
 
 
 
@@ -7142,7 +7142,7 @@ const B40 = {
 
 
 
-<p>Ensuite, la <a href="https://cuisinedebase.com/technique-de-base-pour-raliser-une-pate-brise/" target="_blank" rel="noopener noreferrer">pâte brisée</a> est une pâte fondante et friable. On l’utilise souvent en cuisine pour la préparation de tartes salées ou sucrées. Elle est généralement composée de farine, de beurre, d’œuf, d’eau et de sel. Et doit être manipulée avec précaution pour éviter de la rendre trop élastique. La pâte brisée peut être étalée à la main ou à l’aide d’un rouleau à pâtisserie. Puis placée dans un moule à tarte avant d’être garnie. Elle peut être cuite à blanc avant d’être garnie. La pâte brisée est également souvent utilisée comme base pour des tartes salées. Comme la quiche lorraine ou la tarte aux légumes. Ou pour des tartes sucrées, comme la tarte aux pommes ou la tarte aux fraises. La maîtrise de la pâte brisée est donc essentielle pour les apprentis cuisiniers qui cherchent à réussir leur CAP cuisine.</p>
+<p>Ensuite, la pâte brisée est une pâte fondante et friable. On l’utilise souvent en cuisine pour la préparation de tartes salées ou sucrées. Elle est généralement composée de farine, de beurre, d’œuf, d’eau et de sel. Et doit être manipulée avec précaution pour éviter de la rendre trop élastique. La pâte brisée peut être étalée à la main ou à l’aide d’un rouleau à pâtisserie. Puis placée dans un moule à tarte avant d’être garnie. Elle peut être cuite à blanc avant d’être garnie. La pâte brisée est également souvent utilisée comme base pour des tartes salées. Comme la quiche lorraine ou la tarte aux légumes. Ou pour des tartes sucrées, comme la tarte aux pommes ou la tarte aux fraises. La maîtrise de la pâte brisée est donc essentielle pour les apprentis cuisiniers qui cherchent à réussir leur CAP cuisine.</p>
 
 
 <div className="post-image">
@@ -7153,7 +7153,7 @@ const B40 = {
 
 
 
-<p>Puis, <a href="https://cuisinedebase.com/technique-de-base-pate-sucree/" target="_blank" rel="noopener noreferrer">la pâte sucrée</a> est une pâte à tarte sucrée, sablée. Qui est souvent utilisée pour les tartes aux fruits, les tartelettes, les fonds de tartes et les biscuits. Contrairement à la pâte brisée qui est une pâte salée, la pâte sucrée contient du sucre. La pâte sucrée se compose de farine, de sucre, de beurre, de jaune d’œuf et d’un peu d’eau. Il est important de bien mélanger tous les ingrédients pour obtenir une pâte homogène et lisse. La pâte sucrée doit être étalée délicatement avec un rouleau à pâtisserie. Puis découpée et placée dans un moule à tarte ou à tartelette. On peut la cuire à blanc avant la garnir ou directement avec sa garniture.</p>
+<p>Puis, la pâte sucrée est une pâte à tarte sucrée, sablée. Qui est souvent utilisée pour les tartes aux fruits, les tartelettes, les fonds de tartes et les biscuits. Contrairement à la pâte brisée qui est une pâte salée, la pâte sucrée contient du sucre. La pâte sucrée se compose de farine, de sucre, de beurre, de jaune d’œuf et d’un peu d’eau. Il est important de bien mélanger tous les ingrédients pour obtenir une pâte homogène et lisse. La pâte sucrée doit être étalée délicatement avec un rouleau à pâtisserie. Puis découpée et placée dans un moule à tarte ou à tartelette. On peut la cuire à blanc avant la garnir ou directement avec sa garniture.</p>
 
 
 
@@ -7165,7 +7165,7 @@ const B40 = {
 
 
 
-<p>Ensuite, <a href="https://cuisinedebase.com/technique-de-base-pour-realiser-la-pate-choux/" target="_blank" rel="noopener noreferrer">la pâte à choux</a> est une pâte qui est utilisée pour réaliser des pâtisseries. En effet, comme les éclairs, les choux à la crème ou encore les chouquettes. Contrairement aux autres pâtes, on cuit la pâte à choux deux fois. Une première fois pour faire gonfler la pâte et une seconde fois pour la faire sécher et la rendre croustillante. La pâte à choux se compose de farine, de beurre, d’eau, de sel et d’œufs. La préparation de la pâte à choux nécessite une cuisson à feu doux et une utilisation rapide. Car elle peut perdre de sa texture et devenir molle si elle est mal travaillée. </p>
+<p>Ensuite, la pâte à choux est une pâte qui est utilisée pour réaliser des pâtisseries. En effet, comme les éclairs, les choux à la crème ou encore les chouquettes. Contrairement aux autres pâtes, on cuit la pâte à choux deux fois. Une première fois pour faire gonfler la pâte et une seconde fois pour la faire sécher et la rendre croustillante. La pâte à choux se compose de farine, de beurre, d’eau, de sel et d’œufs. La préparation de la pâte à choux nécessite une cuisson à feu doux et une utilisation rapide. Car elle peut perdre de sa texture et devenir molle si elle est mal travaillée. </p>
 
 
 
@@ -7201,7 +7201,7 @@ const B40 = {
 
 
 
-<p>Enfin, <strong><a href="https://cuisinedebase.com/entremets-facon-tiramisu/" target="_blank" rel="noopener noreferrer">la génoise </a></strong>est une pâte de base utilisée pour les gâteaux, les biscuits et les desserts en général. Elle est légère et aérée. Ce qui la rend parfaite pour être garnie de crème, de fruits frais ou de tout autre type de garniture. La génoise est préparée en fouettant des œufs entiers avec du sucre jusqu’à ce qu’ils deviennent mousseux et triples de volume. Ensuite, de la farine est ajoutée délicatement au mélange en utilisant une spatule pour ne pas perdre l’air incorporé. La pâte est ensuite versée dans un moule préalablement beurré et fariné et cuite au four à une température moyenne pendant environ 20 à 25 minutes. </p>
+<p>Enfin, <strong>la génoise </strong>est une pâte de base utilisée pour les gâteaux, les biscuits et les desserts en général. Elle est légère et aérée. Ce qui la rend parfaite pour être garnie de crème, de fruits frais ou de tout autre type de garniture. La génoise est préparée en fouettant des œufs entiers avec du sucre jusqu’à ce qu’ils deviennent mousseux et triples de volume. Ensuite, de la farine est ajoutée délicatement au mélange en utilisant une spatule pour ne pas perdre l’air incorporé. La pâte est ensuite versée dans un moule préalablement beurré et fariné et cuite au four à une température moyenne pendant environ 20 à 25 minutes. </p>
 
 
 
@@ -7363,7 +7363,7 @@ const B41 = {
 
 
 
-<p>Les<strong> <a href="https://cuisinedebase.com/differentes-methodes-de-cuisson-comment-maitriser/">techniques de cuisson</a></strong> sont également essentielles pour réussir en cuisine. Il existe de nombreuses façons de cuire les aliments, mais il est important de connaître <strong>les cuissons de base</strong>&nbsp;qu’on demande pour l’examen du CAP cuisine et que je vous rappelle dans la liste ci-dessous&nbsp;:</p>
+<p>Les<strong> techniques de cuisson</strong> sont également essentielles pour réussir en cuisine. Il existe de nombreuses façons de cuire les aliments, mais il est important de connaître <strong>les cuissons de base</strong>&nbsp;qu’on demande pour l’examen du CAP cuisine et que je vous rappelle dans la liste ci-dessous&nbsp;:</p>
 
 
 <div className="post-image">
@@ -7598,7 +7598,7 @@ const B41 = {
 
 
 
-<p>La liste de ces <a href="https://www.education.gouv.fr/bo/16/Hebdo16/MENE1608030A.htm" target="_blank" rel="noopener noreferrer">techniques est extraite du référentiel du CAP cuisine</a>.</p>
+<p>La liste de ces <a href="https://www.education.gouv.fr/bo/16/Hebdo16/MENE1608030A.htm">techniques est extraite du référentiel du CAP cuisine</a>.</p>
 
 
 
@@ -7664,7 +7664,7 @@ const B42 = {
 
 
 
-<p>Ce couteau est l’un des plus couramment utilisés dans une cuisine professionnelle. Il est utilisé pour <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/">hacher, trancher et couper en dés des fruits, légumes</a>, viandes et poissons. Le couteau de chef a une lame large et légèrement courbée. Ce qui permet une coupe précise et un contrôle optimal.</p>
+<p>Ce couteau est l’un des plus couramment utilisés dans une cuisine professionnelle. Il est utilisé pour hacher, trancher et couper en dés des fruits, légumes, viandes et poissons. Le couteau de chef a une lame large et légèrement courbée. Ce qui permet une coupe précise et un contrôle optimal.</p>
 
 
 
@@ -7835,7 +7835,7 @@ const B43 = {
 
 
 
-<li>Pour ajouter de l’esthétique à votre présentation, vous pouvez ajouter des <a href="https://cuisinedebase.com/tag/herbes-aromatiques/">herbes fraîches ou des épices sur les aliments</a>. Ou utiliser une huile aromatisée pour les assaisonner.</li>
+<li>Pour ajouter de l’esthétique à votre présentation, vous pouvez ajouter des herbes fraîches ou des épices sur les aliments. Ou utiliser une huile aromatisée pour les assaisonner.</li>
 </ul>
 
 
@@ -8068,7 +8068,7 @@ const B44 = {
 
 		<div className="entry-content clearfix">
 
-<p>L’art de la cuisine ne se limite pas à la simple préparation des aliments. La&nbsp;<strong>présentation des plats</strong>&nbsp;est tout aussi importante que le goût, car elle permet de stimuler les sens et de mettre en valeur les ingrédients. Que vous soyez un <a href="https://cuisinedebase.com/coaching/">candidat libre au CAP cuisine</a>, un amateur ou un professionnel de la cuisine, améliorer vos compétences en dressage et présentation de plats peut faire toute la différence dans la perception et l’appréciation de vos créations culinaires. Dans cet article, je vais vous donner quelques conseils pour améliorer vos compétences en dressage et&nbsp;<strong>présentation de plats</strong>. Et ce, en utilisant des techniques simples et efficaces qui vous permettront de créer des plats attrayants et savoureux.</p>
+<p>L’art de la cuisine ne se limite pas à la simple préparation des aliments. La&nbsp;<strong>présentation des plats</strong>&nbsp;est tout aussi importante que le goût, car elle permet de stimuler les sens et de mettre en valeur les ingrédients. Que vous soyez un candidat libre au CAP cuisine, un amateur ou un professionnel de la cuisine, améliorer vos compétences en dressage et présentation de plats peut faire toute la différence dans la perception et l’appréciation de vos créations culinaires. Dans cet article, je vais vous donner quelques conseils pour améliorer vos compétences en dressage et&nbsp;<strong>présentation de plats</strong>. Et ce, en utilisant des techniques simples et efficaces qui vous permettront de créer des plats attrayants et savoureux.</p>
 
 
 <div className="post-image">
@@ -8194,7 +8194,7 @@ const B45 = {
 
 
 
-<p>D’ailleurs, il est important de mettre un maximum d’informations sur les méthodes de cuisson dans votre <a href="https://cuisinedebase.com/carnet-personnel-de-techniques-professionnelles/">carnet personnel de techniques professionnelles</a>.</p>
+<p>D’ailleurs, il est important de mettre un maximum d’informations sur les méthodes de cuisson dans votre carnet personnel de techniques professionnelles.</p>
 
 
 
@@ -8336,7 +8336,7 @@ const B46 = {
 
 
 
-<ol className="wp-block-list" type="1"><li>Utilisez un couteau bien affûté : Il est plus facile de <strong>couper les légumes avec un couteau bien aiguisé</strong>. Assurez-vous que votre couteau est aiguisé régulièrement pour une découpe rapide et précise.</li><li><strong>Choisissez le bon type de couteau</strong> : Il existe différents types de couteaux pour <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/" target="_blank" rel="noopener noreferrer">différents types de coupes</a>. Utilisez un couteau de chef pour les coupes de base, mais sachez que chaque type de couteau à son utilité dans une cuisine. Comme le couteau à désosser, couteau d’office, …</li><li><strong>Tenez votre couteau correctemen</strong>t : La façon dont vous tenez votre couteau peut faire une grande différence dans la qualité de vos coupes. Assurez-vous de le tenir avec fermeté mais sans tension excessive. Votre index doit être sur le dos du couteau pour avoir un meilleur contrôle.</li><li><strong>Faites de la sécurité votre règle numéro 1</strong>. Gardez vos doigts en sécurité : Il est important de ne pas vous blesser lorsque vous coupez les légumes. Gardez vos doigts à l’écart de la lame en formant une «&nbsp;pince&nbsp;» avec le pouce et l’index</li><li><strong>Découpez les légumes en forme uniforme</strong> : Pour une <strong>cuisson uniforme</strong> et une présentation agréable, assurez-vous de couper les légumes de la même taille.</li><li><strong>Coupez en une seule direction</strong> : Essayez de ne pas vous déplacer dans tous les sens avec votre couteau. Au lieu de cela, coupez dans une seule direction en poussant la lame à travers le légume.</li><li><strong>Prenez votre temps</strong> : Il n’y a pas de course lorsque vous coupez des légumes. La précipitation peut vous faire commettre des erreurs et vous blesser. Prenez votre temps pour vous assurer d’effectuer un travail précis et de ne pas vous couper.</li></ol>
+<ol className="wp-block-list" type="1"><li>Utilisez un couteau bien affûté : Il est plus facile de <strong>couper les légumes avec un couteau bien aiguisé</strong>. Assurez-vous que votre couteau est aiguisé régulièrement pour une découpe rapide et précise.</li><li><strong>Choisissez le bon type de couteau</strong> : Il existe différents types de couteaux pour différents types de coupes. Utilisez un couteau de chef pour les coupes de base, mais sachez que chaque type de couteau à son utilité dans une cuisine. Comme le couteau à désosser, couteau d’office, …</li><li><strong>Tenez votre couteau correctemen</strong>t : La façon dont vous tenez votre couteau peut faire une grande différence dans la qualité de vos coupes. Assurez-vous de le tenir avec fermeté mais sans tension excessive. Votre index doit être sur le dos du couteau pour avoir un meilleur contrôle.</li><li><strong>Faites de la sécurité votre règle numéro 1</strong>. Gardez vos doigts en sécurité : Il est important de ne pas vous blesser lorsque vous coupez les légumes. Gardez vos doigts à l’écart de la lame en formant une «&nbsp;pince&nbsp;» avec le pouce et l’index</li><li><strong>Découpez les légumes en forme uniforme</strong> : Pour une <strong>cuisson uniforme</strong> et une présentation agréable, assurez-vous de couper les légumes de la même taille.</li><li><strong>Coupez en une seule direction</strong> : Essayez de ne pas vous déplacer dans tous les sens avec votre couteau. Au lieu de cela, coupez dans une seule direction en poussant la lame à travers le légume.</li><li><strong>Prenez votre temps</strong> : Il n’y a pas de course lorsque vous coupez des légumes. La précipitation peut vous faire commettre des erreurs et vous blesser. Prenez votre temps pour vous assurer d’effectuer un travail précis et de ne pas vous couper.</li></ol>
 
 
 
@@ -8390,7 +8390,7 @@ const B47 = {
 
 
 
-<p>Si vous vous projetez d’intégrer le monde de la cuisine et de la restauration, découvrez le métier du traiteur chef à domicile à travers cette histoire de <a href="https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/" target="_blank" rel="noopener noreferrer">reconversion en traiteur chef à domicile</a>.</p>
+<p>Si vous vous projetez d’intégrer le monde de la cuisine et de la restauration, découvrez le métier du traiteur chef à domicile à travers cette histoire de reconversion en traiteur chef à domicile.</p>
 
 
 
@@ -8620,7 +8620,7 @@ const B48 = {
 
 
 
-<p>Voici une exemple de <strong>fiches de révision </strong>faites par des professeurs de <strong>l’académie de Versailles</strong>: <a href="http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils" target="_blank" rel="noopener noreferrer">http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils</a></p>
+<p>Voici une exemple de <strong>fiches de révision </strong>faites par des professeurs de <strong>l’académie de Versailles</strong>: <a href="http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils">http://blog.ac-versailles.fr/truffautsvt/index.php/post/13/06/2019/Fiches-de-révisions-BREVET-et-conseils</a></p>
 
 
 
@@ -8666,7 +8666,7 @@ const B48 = {
 
 
 
-<p>Si toutefois vous aimeriez <strong>télécharger des fiches de révision au format pdf</strong> pour préparer les épreuves du CAP cuisine, vous pouvez les <a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">télécharger ici</a> contre une <strong>petite participation symbolique</strong>.</p>
+<p>Si toutefois vous aimeriez <strong>télécharger des fiches de révision au format pdf</strong> pour préparer les épreuves du CAP cuisine, vous pouvez les télécharger ici contre une <strong>petite participation symbolique</strong>.</p>
 
             </div>
         </div>
@@ -8705,7 +8705,7 @@ const B49 = {
 
 
 
-<p>Dans un ancien post, je vous ai détaillé les étapes importantes pour <a href="https://cuisinedebase.com/comment-habiller-et-decouper-une-volaille-cru/" target="_blank" rel="noopener noreferrer">habiller une volaille</a>. Dans ce post je vais plus particulièrement vous montrer <strong>comment poêler un canard</strong>.</p>
+<p>Dans un ancien post, je vous ai détaillé les étapes importantes pour habiller une volaille. Dans ce post je vais plus particulièrement vous montrer <strong>comment poêler un canard</strong>.</p>
 
 
 
@@ -8792,7 +8792,7 @@ const B50 = {
 
 
 
-<p>Alors, selon ce <a href="https://www.economie.gouv.fr/dgccrf/denomination-des-viandes-boucherie-et-charcuterie" target="_blank" rel="noopener noreferrer">site gouvernemental</a>, Le regroupement de certains <strong>morceaux de découpe</strong> sous une dénomination générique permettra d’améliorer l’information du consommateur et l’adaptation du travail industriel.</p>
+<p>Alors, selon ce <a href="https://www.economie.gouv.fr/dgccrf/denomination-des-viandes-boucherie-et-charcuterie">site gouvernemental</a>, Le regroupement de certains <strong>morceaux de découpe</strong> sous une dénomination générique permettra d’améliorer l’information du consommateur et l’adaptation du travail industriel.</p>
 
 
 
@@ -8828,7 +8828,7 @@ const B50 = {
 
 
 
-<p>Voici quelques <a href="https://cuisinedebase.com/steak-sautes-avec-sauce-poivre/" target="_blank" rel="noopener noreferrer">exemples d’utilisation des <strong>côtes ou des entrecôtes</strong></a></p>
+<p>Voici quelques exemples d’utilisation des <strong>côtes ou des entrecôtes</strong></p>
 
 
 
@@ -9348,7 +9348,7 @@ const B52 = {
 
 
 
-<p>&nbsp;Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour <strong>apprendre à cuisiner</strong>.</p>
+<p>&nbsp;Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour <strong>apprendre à cuisiner</strong>.</p>
 
 
 
@@ -9356,7 +9356,7 @@ const B52 = {
 
 
 
-<p><a href="https://amzn.to/2M2Q224" target="_blank" rel="noopener noreferrer">Thermomètre à sucre</a></p>
+<p><a href="https://amzn.to/2M2Q224">Thermomètre à sucre</a></p>
 
 
 

@@ -197,7 +197,7 @@ const H1_contenu =
 
 
 
-<p>Découvrez <a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">les techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Découvrez les techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
 </div>
 </article>
@@ -438,7 +438,7 @@ const H2_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 </article>
@@ -786,7 +786,7 @@ const H3_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
 </div>
 </article>
@@ -1149,7 +1149,7 @@ const H4_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
 </div>
 </article>
@@ -1352,7 +1352,7 @@ const H5_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
 </div>
 </article>
@@ -1607,7 +1607,7 @@ const H6_contenu = <article>
 
 
 
-<p>Dans cet article vous avez pu trouver des réponses à la question <strong>que signifie foncer</strong> ainsi que d’autres <strong>termes culinaires</strong> qui commencent par F. Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Dans cet article vous avez pu trouver des réponses à la question <strong>que signifie foncer</strong> ainsi que d’autres <strong>termes culinaires</strong> qui commencent par F. Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -1895,7 +1895,7 @@ const H7_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -2176,7 +2176,7 @@ const H8_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
         
     </div>
@@ -2625,7 +2625,7 @@ const H9_contenu = <article>
 
 
 
-<p><span>Vous pouvez découvrir aussi l’article qui parle </span><a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/"><span>des techniques et préparations de base</span></a><span> à maîtriser pour apprendre à cuisiner.</span></p>
+<p><span>Vous pouvez découvrir aussi l’article qui parle </span><span>des techniques et préparations de base</span><span> à maîtriser pour apprendre à cuisiner.</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
         
     </div>
@@ -2868,7 +2868,7 @@ const H10_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -2950,7 +2950,7 @@ const H11_contenu = <article>
 
 
 
-<p>«&nbsp;Affadir&nbsp;» une préparation, lui <strong>donner une saveur plus supportable</strong>, en diminuant l’arôme ou l’assaisonnement trop prononcé (ex : la tomate avec du sucre, un potage avec de la crème….) ou ajouter du sucre dans une préparation (voir aussi la signification d’<strong><a href="https://cuisinedebase.com/dictionnaire-culinaire-e/">édulcorer</a></strong>)</p>
+<p>«&nbsp;Affadir&nbsp;» une préparation, lui <strong>donner une saveur plus supportable</strong>, en diminuant l’arôme ou l’assaisonnement trop prononcé (ex : la tomate avec du sucre, un potage avec de la crème….) ou ajouter du sucre dans une préparation (voir aussi la signification d’<strong>édulcorer</strong>)</p>
 
 
 
@@ -3150,7 +3150,7 @@ const H11_contenu = <article>
 
 
 
-<p>Vous pouvez découvrir aussi l’article qui parle <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">des techniques et préparations de base</a> à maîtriser pour apprendre à cuisiner.</p>
+<p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -3391,7 +3391,7 @@ const H13_contenu = <article>
 
 
 
-<ul className="wp-block-list"><li>Des carottes que l’on <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/">taille en mirepoix ou en paysanne</a></li><li>Des tomates concassées. Il est aussi d’usage d’utiliser du concentré de tomate. Le choix de l’un ou de l’autre se fait en fonction de la couleur que l’on souhaite donner au résultat final. En effet, la couleur du fond blanc est plus ou moins foncé selon l’utilisation de concentré de tomate ou des tomates fraiches.</li><li>On utilise aussi des oignons cloutés, de l’ail, poireaux et céleri branche</li><li>Et un bouquet garni.&nbsp;</li></ul>
+<ul className="wp-block-list"><li>Des carottes que l’on taille en mirepoix ou en paysanne</li><li>Des tomates concassées. Il est aussi d’usage d’utiliser du concentré de tomate. Le choix de l’un ou de l’autre se fait en fonction de la couleur que l’on souhaite donner au résultat final. En effet, la couleur du fond blanc est plus ou moins foncé selon l’utilisation de concentré de tomate ou des tomates fraiches.</li><li>On utilise aussi des oignons cloutés, de l’ail, poireaux et céleri branche</li><li>Et un bouquet garni.&nbsp;</li></ul>
 
 
 
@@ -3447,7 +3447,7 @@ const H13_contenu = <article>
 
 
 
-<ul className="wp-block-list"><li>Réaliser certaines <strong>sauces de base</strong> ainsi que leurs dérivées&nbsp;;</li><li>Confectionner un <strong>velouté de veau ou de volaille</strong>&nbsp;;</li><li>L’utiliser comme <strong>mouillement</strong> pour des <strong><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">potages et des crèmes</a></strong>&nbsp;;</li><li>Pocher des viandes et volailles&nbsp;;</li><li>Mouiller des <strong>ragoûts</strong> et braisés&nbsp;;</li><li>Mouiller des légumes braisés&nbsp;;</li><li>Utiliser comme mouillement pour du <strong><a href="https://cuisinedebase.com/fiche-technique-de-fabrication-riz-pilaf/">riz pilaf</a></strong>&nbsp;;</li><li>Réaliser des <strong>gelés et glaces de volaille</strong>.</li></ul>
+<ul className="wp-block-list"><li>Réaliser certaines <strong>sauces de base</strong> ainsi que leurs dérivées&nbsp;;</li><li>Confectionner un <strong>velouté de veau ou de volaille</strong>&nbsp;;</li><li>L’utiliser comme <strong>mouillement</strong> pour des <strong>potages et des crèmes</strong>&nbsp;;</li><li>Pocher des viandes et volailles&nbsp;;</li><li>Mouiller des <strong>ragoûts</strong> et braisés&nbsp;;</li><li>Mouiller des légumes braisés&nbsp;;</li><li>Utiliser comme mouillement pour du <strong>riz pilaf</strong>&nbsp;;</li><li>Réaliser des <strong>gelés et glaces de volaille</strong>.</li></ul>
 
 
 
@@ -3685,7 +3685,7 @@ const H14_contenu = <article>
 
 
 
-<p><span>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">quelques recettes</a></u>, qu’on peut facilement apprendre en suivant </span><a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/"><span>les conseilles de cet article</span></a><u></u><span>, on peut passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en tant que candidat libre</span></a><span>. Et pour vous aider dans ce projet, je vous ai fait un <u><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">programme d’entraînement</a> </u>qui peut vous aider à préparer ce diplôme en 6 mois.</span></p>
+<p><span>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u>quelques recettes</u>, qu’on peut facilement apprendre en suivant </span><span>les conseilles de cet article</span><u></u><span>, on peut passer un </span><span>CAP cuisine en tant que candidat libre</span><span>. Et pour vous aider dans ce projet, je vous ai fait un <u>programme d’entraînement </u>qui peut vous aider à préparer ce diplôme en 6 mois.</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -3714,7 +3714,7 @@ const H15_contenu = <article>
 
 
 
-<p><span>Le but de ce blog est d’aider les personnes qui se lancent dans l’apprentissage de la cuisine de référence, on peut y trouver l’essentiel de ce qu’il faut savoir pour apprendre la <strong>cuisine de bases </strong>avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre les différentes manières qui existent aujourd’hui pour <u><a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">apprendre les techniques et préparations de base</a>&nbsp;</u>pour passer le <strong>CAP cuisine en candidat libre</strong>.</span></p>
+<p><span>Le but de ce blog est d’aider les personnes qui se lancent dans l’apprentissage de la cuisine de référence, on peut y trouver l’essentiel de ce qu’il faut savoir pour apprendre la <strong>cuisine de bases </strong>avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre les différentes manières qui existent aujourd’hui pour <u>apprendre les techniques et préparations de base&nbsp;</u>pour passer le <strong>CAP cuisine en candidat libre</strong>.</span></p>
 
 
 
@@ -3858,7 +3858,7 @@ const H15_contenu = <article>
 
 
 
-<p><span>Découvrez les </span><a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/"><span>huit métiers qu’un cuisinier peut exercer</span></a><span> en tant qu’indépendant et comment </span><a href="https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/"><span>quitter la “rat race” grâce à la cuisine</span></a><span>.</span></p>
+<p><span>Découvrez les </span><span>huit métiers qu’un cuisinier peut exercer</span><span> en tant qu’indépendant et comment </span><span>quitter la “rat race” grâce à la cuisine</span><span>.</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -3897,7 +3897,7 @@ const H16_contenu = <article>
 
 
 
-<ul className="wp-block-list"><li><span>Soit vous êtes là par erreur. Et dans ce cas je vous dis bienvenue <strong>dans mon blog</strong>. Il n’est jamais tard pour bien faire <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/wlEmoticon-winkingsmile.png" alt="Clignement d'œil"></img> et il n’est jamais tard pour <a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">apprendre à cuisiner</a></span></li><li><span>ou soit vous êtes au <strong>début</strong> de votre <a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/">carrière de cuisinier</a>. </span></li></ul>
+<ul className="wp-block-list"><li><span>Soit vous êtes là par erreur. Et dans ce cas je vous dis bienvenue <strong>dans mon blog</strong>. Il n’est jamais tard pour bien faire <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/wlEmoticon-winkingsmile.png" alt="Clignement d'œil"></img> et il n’est jamais tard pour apprendre à cuisiner</span></li><li><span>ou soit vous êtes au <strong>début</strong> de votre carrière de cuisinier. </span></li></ul>
 
 
 
@@ -3949,11 +3949,11 @@ const H16_contenu = <article>
 
 
 
-<p><span>Je vous ai réuni une <a href="https://cuisinedebase.com/matriels-du-cuisinier-coutellerie-mallette-de-cuisine/">liste des principaux matériels que l’on doit posséder dans sa cuisine</a>:</span></p>
+<p><span>Je vous ai réuni une liste des principaux matériels que l’on doit posséder dans sa cuisine:</span></p>
 
 
 
-<p>Cliquez sur le lien <a href="https://www.amazon.fr/b?_encoding=UTF8&amp;tag=yhiicham-21&amp;linkCode=ur2&amp;linkId=684e6830c8f76bd784e3f883a4f8fee4&amp;camp=1642&amp;creative=6746&amp;node=57698031" target="_blank" rel="noopener noreferrer">Matériel de cuisine</a>. Vous découvrez une liste de matériel de cuisine.</p>
+<p>Cliquez sur le lien <a href="https://www.amazon.fr/b?_encoding=UTF8&amp;tag=yhiicham-21&amp;linkCode=ur2&amp;linkId=684e6830c8f76bd784e3f883a4f8fee4&amp;camp=1642&amp;creative=6746&amp;node=57698031">Matériel de cuisine</a>. Vous découvrez une liste de matériel de cuisine.</p>
 
 
 
@@ -3961,7 +3961,7 @@ const H16_contenu = <article>
 
 
 
-<p><span>Un matériel de bonne qualité est très important, d’une part, pour l’apprentissage <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">des techniques de base de la cuisine</a>, et d’autre part pour mieux réussir la <strong>réalisation des recettes</strong>. </span></p>
+<p><span>Un matériel de bonne qualité est très important, d’une part, pour l’apprentissage des techniques de base de la cuisine, et d’autre part pour mieux réussir la <strong>réalisation des recettes</strong>. </span></p>
 
 
 
@@ -4132,11 +4132,11 @@ const H17_contenu = <article>
 
 
 
-<p><span>Avant utilisation, certains légumes doivent être <a href="https://cuisinedebase.com/techniques-de-base-epluchage-et-decoupe/">épluchés, pelés, écossés, effilés, équeutés ou mondés</a>. Et pour se faire le poste de travail doit être organisé de la manière suivante: on utilise trois bacs,&nbsp; le premier pour les légumes à éplucher, le deuxième pour les épluchures et déchets et le troisième pour les légumes épluchés. le sens de progression des légumes et de la gauche vers la droite pour un droitier. (de la droite vers la gauche pour un gaucher) On utilisera à cette effet un couteau d’office ou un couteau économe.</span></p>
+<p><span>Avant utilisation, certains légumes doivent être épluchés, pelés, écossés, effilés, équeutés ou mondés. Et pour se faire le poste de travail doit être organisé de la manière suivante: on utilise trois bacs,&nbsp; le premier pour les légumes à éplucher, le deuxième pour les épluchures et déchets et le troisième pour les légumes épluchés. le sens de progression des légumes et de la gauche vers la droite pour un droitier. (de la droite vers la gauche pour un gaucher) On utilisera à cette effet un couteau d’office ou un couteau économe.</span></p>
 
 
 
-<p><span>Selon le type de préparation les légumes sont ensuite <a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/">taillées en paysanne, julienne, mirepoix, jardinière, macédoine, brunoise, émincés</a> ou autres</span></p>
+<p><span>Selon le type de préparation les légumes sont ensuite taillées en paysanne, julienne, mirepoix, jardinière, macédoine, brunoise, émincés ou autres</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -4238,7 +4238,7 @@ const H18_contenu = <article>
 
 
 
-<p><span>Découvrez les </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span>25 recette</span></a><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Découvrez les </span><span>25 recette</span><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><span>épreuves écrites</span><span> et </span><span>épreuves pratiques</span><span>.</span></p>
 
 
 
@@ -4274,7 +4274,7 @@ const H19_contenu = <article>
 
 
 
-<p><span>Il y a une célèbre <u>citation</u> qui dit : «<strong><u> dis moi ce que tu manges je te dirai qui tu es</u></strong> ». Le style d’alimentation est un élément essentiel et constructeur de la personnalité que tout un chacun a. et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de <u>subir l’uniformisation</u> des modes de vie que la société en général et les producteurs de <u>l’agroalimentaire</u> en particulier essaient de nous l’imposer. Il est grand temps de devenir un <u>consommateur responsable</u>. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’<a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">apprendre à cuisiner</a> ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes. </span></p>
+<p><span>Il y a une célèbre <u>citation</u> qui dit : «<strong><u> dis moi ce que tu manges je te dirai qui tu es</u></strong> ». Le style d’alimentation est un élément essentiel et constructeur de la personnalité que tout un chacun a. et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de <u>subir l’uniformisation</u> des modes de vie que la société en général et les producteurs de <u>l’agroalimentaire</u> en particulier essaient de nous l’imposer. Il est grand temps de devenir un <u>consommateur responsable</u>. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’apprendre à cuisiner ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes. </span></p>
 
 
 
@@ -4286,7 +4286,7 @@ const H19_contenu = <article>
 
 
 
-<p><span>Les mêmes méthodes de réalisation de </span><a href="https://cuisinedebase.com/technique-de-base-pour-raliser-une-pate-brise/"><span>la pâte brisée</span></a><span> peuvent être utilisées pour faire la <u>pâte sucrée</u>.</span></p>
+<p><span>Les mêmes méthodes de réalisation de </span><span>la pâte brisée</span><span> peuvent être utilisées pour faire la <u>pâte sucrée</u>.</span></p>
 
 
 
@@ -4330,7 +4330,7 @@ const H19_contenu = <article>
 
 
 
-<p><span>Découvrez les </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span>25 recette</span></a><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Découvrez les </span><span>25 recette</span><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><span>épreuves écrites</span><span> et </span><span>épreuves pratiques</span><span>.</span></p>
 
 
 
@@ -4376,11 +4376,11 @@ const H20_contenu = <article>
 
 
 
-<p><span>Mais avant de vous donner les <strong>ingrédients et les techniques pour réaliser une pâte brisée</strong>, je vous informe que le but de ce blog est d’aider les personnes qui se lancent pour <strong>apprendre la cuisine</strong> de référence. On peut y trouver l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de base</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre les différentes manières qui existent aujourd’hui pour <u><a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">apprendre les techniques et préparations de base</a></u> pour <strong>passer le CAP cuisine en candidat libre</strong>.</span></p>
+<p><span>Mais avant de vous donner les <strong>ingrédients et les techniques pour réaliser une pâte brisée</strong>, je vous informe que le but de ce blog est d’aider les personnes qui se lancent pour <strong>apprendre la cuisine</strong> de référence. On peut y trouver l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de base</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui montre les différentes manières qui existent aujourd’hui pour <u>apprendre les techniques et préparations de base</u> pour <strong>passer le CAP cuisine en candidat libre</strong>.</span></p>
 
 
 
-<p><span>Voici quelques <strong>techniques et préparations de base à maitriser</strong> pour préparer <strong>l’épreuve pratique du CAP cuisine</strong>. L’épreuve EP1 de <strong>production culinaire</strong>, c’est l’épreuve la plus redoutée du <strong>CAP cuisine</strong>. Il ne s’agit bien sûr pas d’une liste officielle mais d’un ensemble de techniques que nous pouvons trouver dans <u><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les recettes de base</a></u>. J’ai également créé un <u><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé sur une durée de 6 mois</a></u> et qui permet de <strong>s’entrainer chez soi pour travailler cette liste de recettes</strong>.</span></p>
+<p><span>Voici quelques <strong>techniques et préparations de base à maitriser</strong> pour préparer <strong>l’épreuve pratique du CAP cuisine</strong>. L’épreuve EP1 de <strong>production culinaire</strong>, c’est l’épreuve la plus redoutée du <strong>CAP cuisine</strong>. Il ne s’agit bien sûr pas d’une liste officielle mais d’un ensemble de techniques que nous pouvons trouver dans <u>les recettes de base</u>. J’ai également créé un <u>planning détaillé sur une durée de 6 mois</u> et qui permet de <strong>s’entrainer chez soi pour travailler cette liste de recettes</strong>.</span></p>
 
 
 
@@ -4432,7 +4432,7 @@ const H20_contenu = <article>
 
 
 
-<p><span>Découvrez les </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span>25 recette</span></a><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Découvrez les </span><span>25 recette</span><span> à maitriser pour passer le CAP cuisine, le décryptage des </span><span>épreuves écrites</span><span> et </span><span>épreuves pratiques</span><span>.</span></p>
 
 
 
@@ -4466,7 +4466,7 @@ const H21_contenu = <article>
 
 
 
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span>les 25 recettes à maitriser</span></a><span> pour passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a><span> et le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span>planning détaillé</span></a><span> pour les travailler.</span></p>
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><span>les 25 recettes à maitriser</span><span> pour passer le </span><span>CAP cuisine en candidat libre</span><span> et le </span><span>planning détaillé</span><span> pour les travailler.</span></p>
 
 
 
@@ -4494,7 +4494,7 @@ const H21_contenu = <article>
 
 
 
-<p><span>Consultez le </span><a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/"><span>dico culinaire</span></a><span> pour comprendre certains mots techniques</span></p>
+<p><span>Consultez le </span><span>dico culinaire</span><span> pour comprendre certains mots techniques</span></p>
 
 
 
@@ -4532,7 +4532,7 @@ const H22_contenu = <article>
 
 
 
-<p><span>Les proportions suivantes permettent de faire <a href="https://cuisinedebase.com/tartes-feuilletes-aux-fruits-rouges/">une tarte pour 8 couverts ou 8 petites tartelettes</a></span></p>
+<p><span>Les proportions suivantes permettent de faire une tarte pour 8 couverts ou 8 petites tartelettes</span></p>
 
 
 
@@ -4552,7 +4552,7 @@ const H22_contenu = <article>
 
 
 
-<p><span>Découvrez les <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">25 recettes à maîtriser pour passer le CAP cuisine</a> ainsi <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">que les techniques de base à apprendre</a>.</span></p>
+<p><span>Découvrez les 25 recettes à maîtriser pour passer le CAP cuisine ainsi que les techniques de base à apprendre.</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -4576,7 +4576,7 @@ const H23_contenu = <article>
         <h1 className="titre_article">
             Recette de crêpe facile. La fiche technique
         </h1>
-<p><span>Savoir faire la <strong>pâte à crêpe</strong> fait partie <strong>des techniques de base</strong> de la cuisine française. Il est donc important de connaître la <strong>recette de crêpe</strong>. Les crêpes sont utilisées dans plusieurs préparations culinaires, sucrées ou salées. Comme par exemple les <strong>crêpes flambée (crêpes Suzette)</strong>, <strong>crêpes soufflées salées</strong> (crêpes garnies d’une farce à base de sauce béchamel, œufs et fromage), <strong>crêpes soufflées sucrées </strong>(crêpes garnies d’une crème pâtissière et de blanc d’œufs battus en neige), <strong><a href="https://cuisinedebase.com/fiche-technique-de-fabrication-crpes-farcies-gratines/">Crêpe ficelle façon picarde</a></strong> (crêpes farcies d’une <strong>duxelles de champignons</strong> et gratinées au four).</span></p>
+<p><span>Savoir faire la <strong>pâte à crêpe</strong> fait partie <strong>des techniques de base</strong> de la cuisine française. Il est donc important de connaître la <strong>recette de crêpe</strong>. Les crêpes sont utilisées dans plusieurs préparations culinaires, sucrées ou salées. Comme par exemple les <strong>crêpes flambée (crêpes Suzette)</strong>, <strong>crêpes soufflées salées</strong> (crêpes garnies d’une farce à base de sauce béchamel, œufs et fromage), <strong>crêpes soufflées sucrées </strong>(crêpes garnies d’une crème pâtissière et de blanc d’œufs battus en neige), <strong>Crêpe ficelle façon picarde</strong> (crêpes farcies d’une <strong>duxelles de champignons</strong> et gratinées au four).</span></p>
 
 
 
@@ -4612,11 +4612,11 @@ const H23_contenu = <article>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -4659,7 +4659,7 @@ const H24_contenu = <article>
 
 
 
-<p><span>Voici l’ensemble des <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">techniques de base à apprendre pour passer le CAP cuisine</a>.</span></p>
+<p><span>Voici l’ensemble des techniques de base à apprendre pour passer le CAP cuisine.</span></p>
 
 
 
@@ -4675,7 +4675,7 @@ const H24_contenu = <article>
 
 
 
-<p><span>Découvrez aussi <a href="https://cuisinedebase.com/unite-de-mesure-pesage-et-adaptation-des-recettes/">comment calculer les proportions des ingrédients</a> qui compose une recette ainsi que les <a href="https://cuisinedebase.com/feuilles-de-grammage/">proportions des produits alimentaires</a>.</span></p>
+<p><span>Découvrez aussi comment calculer les proportions des ingrédients qui compose une recette ainsi que les proportions des produits alimentaires.</span></p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -4707,7 +4707,7 @@ Le dictionnaire de cuisine en ligne et gratuit
 <figure className="aligncenter size-thumbnail"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=150%2C150&amp;ssl=1" alt="Un dictionnaire de cuisine" className="wp-image-2206" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure></div>
 
 
-<p><span>Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui parle </span><a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/"><span>des techniques et préparations de base</span></a><span> à maîtriser pour passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a><span>.</span></p>
+<p><span>Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui parle </span><span>des techniques et préparations de base</span><span> à maîtriser pour passer le </span><span>CAP cuisine en candidat libre</span><span>.</span></p>
 
 
 
@@ -4719,7 +4719,7 @@ Le dictionnaire de cuisine en ligne et gratuit
 
 
 
-<p><span><a href="https://cuisinedebase.com/dictionnaire-culinaire-a/">A</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-b/">B</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-c/">C</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-d/">D</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-e/">E</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-f/">F</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-g-h/">G, H</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-i-j-k-l-m/">I, J, K, L, M</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-n-p/">N, O, P</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-q-r-s/">Q, R, S</a>, <a href="https://cuisinedebase.com/dictionnaire-culinaire-t-v-z/">T, U, V, W, X, Y, Z</a></span></p>
+<p><span>A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z</span></p>
 
 
 
@@ -7141,7 +7141,7 @@ Unité de mesure, pesage et adaptation des recettes
 
 
 
-<p><span><span>Voici quelques informations à connaître pour démystifier le <strong>dosage et les proportions des aliments</strong>. Cette démystification va porter d’abord sur les <strong>unités de mesures</strong> utilisées en cuisine, ensuite sur les <strong><a href="https://cuisinedebase.com/feuilles-de-grammage/">feuilles de grammage</a></strong> ou <strong>proportions des aliments</strong>, et enfin quelques conseils et <strong>méthodes pratiques pour adapter les proportions des recettes</strong>.</span></span></p>
+<p><span><span>Voici quelques informations à connaître pour démystifier le <strong>dosage et les proportions des aliments</strong>. Cette démystification va porter d’abord sur les <strong>unités de mesures</strong> utilisées en cuisine, ensuite sur les <strong>feuilles de grammage</strong> ou <strong>proportions des aliments</strong>, et enfin quelques conseils et <strong>méthodes pratiques pour adapter les proportions des recettes</strong>.</span></span></p>
 
 
 
@@ -7157,7 +7157,7 @@ Unité de mesure, pesage et adaptation des recettes
 
 
 
-<p><span><span>L’unité de mesure est le <strong>degré Celsius</strong> (symbolisé par °C). l’eau par exemple gèle à une température de 0°C et devient ainsi de la <strong>glace</strong>. Et commence à <strong>bouillir</strong> à la température de 100°C et devient ainsi de<strong> la vapeur</strong>. Entre les températures 0 et 100 °C l’eau est à <strong>l’état liquide</strong>. Cette mesure est beaucoup utilisée dans des préparations à base d’œufs et dans les <strong><a href="https://cuisinedebase.com/les-principales-phases-de-la-cuisson-du-sucre/">cuissons de sucre</a></strong></span></span></p>
+<p><span><span>L’unité de mesure est le <strong>degré Celsius</strong> (symbolisé par °C). l’eau par exemple gèle à une température de 0°C et devient ainsi de la <strong>glace</strong>. Et commence à <strong>bouillir</strong> à la température de 100°C et devient ainsi de<strong> la vapeur</strong>. Entre les températures 0 et 100 °C l’eau est à <strong>l’état liquide</strong>. Cette mesure est beaucoup utilisée dans des préparations à base d’œufs et dans les <strong>cuissons de sucre</strong></span></span></p>
 
 
 
@@ -7223,7 +7223,7 @@ Unité de mesure, pesage et adaptation des recettes
 
 
 
-<h2 className="sous_titre"><span><span><a href="https://cuisinedebase.com/feuilles-de-grammage/">Proportions des produits alimentaires</a></span></span></h2>
+<h2 className="sous_titre"><span><span>Proportions des produits alimentaires</span></span></h2>
 
 
 
@@ -8231,7 +8231,7 @@ Mention Complémentaire Cuisine. Le point sur la formation
 
 
 
-<p>La <strong>mention complémentaire cuisine</strong> est une formation professionnelle qui permet d’acquérir des compétences avancées en cuisine. Elle s’adresse aux personnes ayant déjà une formation en cuisine ou ayant une expérience professionnelle dans le domaine de la restauration. La mention complémentaire cuisine peut être suivie en complément d’un <a href="https://cuisinedebase.com/cinq-astuces-pour-reussir-une-formation-acceleree-de-cap-cuisine/">CAP cuisine</a>, d’un BP ou d’un Bac professionnel cuisine. Elle se compose d’enseignements théoriques et pratiques, ainsi que de stages en entreprise. Cette formation permet d’accéder à des métiers variés dans le secteur de la restauration, tels que chef de cuisine, second de cuisine ou encore traiteur.</p>
+<p>La <strong>mention complémentaire cuisine</strong> est une formation professionnelle qui permet d’acquérir des compétences avancées en cuisine. Elle s’adresse aux personnes ayant déjà une formation en cuisine ou ayant une expérience professionnelle dans le domaine de la restauration. La mention complémentaire cuisine peut être suivie en complément d’un CAP cuisine, d’un BP ou d’un Bac professionnel cuisine. Elle se compose d’enseignements théoriques et pratiques, ainsi que de stages en entreprise. Cette formation permet d’accéder à des métiers variés dans le secteur de la restauration, tels que chef de cuisine, second de cuisine ou encore traiteur.</p>
 
 
 
@@ -8444,7 +8444,7 @@ Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre
 
 
 
-<p>Le <a href="https://cuisinedebase.com/reconversion-professionnelle-livres-changer-metier/">CAP Cuisine est un diplôme de niveau V </a>qui permet d’acquérir les bases de la cuisine professionnelle. Il est accessible aux titulaires d’un niveau troisième ou d’une équivalence. La formation dure deux ans en apprentissage ou un an en formation continue. Le titulaire du CAP Cuisine peut travailler comme commis de cuisine dans différents types d’établissements. Tels que les restaurants, les brasseries, les traiteurs, les collectivités, etc.</p>
+<p>Le CAP Cuisine est un diplôme de niveau V qui permet d’acquérir les bases de la cuisine professionnelle. Il est accessible aux titulaires d’un niveau troisième ou d’une équivalence. La formation dure deux ans en apprentissage ou un an en formation continue. Le titulaire du CAP Cuisine peut travailler comme commis de cuisine dans différents types d’établissements. Tels que les restaurants, les brasseries, les traiteurs, les collectivités, etc.</p>
 
 
 <div className="post-image">
@@ -8589,7 +8589,7 @@ Comment créer un menu équilibré et sain pour restaurant
 
 
 
-<p>Assurez-vous également d’<a href="https://cuisinedebase.com/comment-creer-des-plats-equilibres-et-complets/">équilibrer les macronutriments dans vos plats</a>. Les protéines devraient représenter environ 25% de l’apport calorique total, les lipides environ 20-35% et les glucides environ 45-65%. En équilibrant les macronutriments dans vos plats, vous pouvez aider à réguler le taux de sucre dans le sang, favoriser la satiété et maintenir la masse musculaire.</p>
+<p>Assurez-vous également d’équilibrer les macronutriments dans vos plats. Les protéines devraient représenter environ 25% de l’apport calorique total, les lipides environ 20-35% et les glucides environ 45-65%. En équilibrant les macronutriments dans vos plats, vous pouvez aider à réguler le taux de sucre dans le sang, favoriser la satiété et maintenir la masse musculaire.</p>
 
 
 
@@ -8729,7 +8729,7 @@ Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP 
 
 
 
-<p>En outre, <a href="https://cuisinedebase.com/coaching/">passer le CAP Cuisine en candidat libre</a> offre une grande liberté en termes de choix des ressources pédagogiques. Vous pouvez ainsi choisir les ouvrages, les vidéos, les cours en ligne, les tutoriels ou les recettes qui vous conviennent le mieux pour préparer l’examen. Cette approche peut être très efficace pour les personnes qui ont des difficultés à se concentrer dans un environnement scolaire traditionnel.</p>
+<p>En outre, passer le CAP Cuisine en candidat libre offre une grande liberté en termes de choix des ressources pédagogiques. Vous pouvez ainsi choisir les ouvrages, les vidéos, les cours en ligne, les tutoriels ou les recettes qui vous conviennent le mieux pour préparer l’examen. Cette approche peut être très efficace pour les personnes qui ont des difficultés à se concentrer dans un environnement scolaire traditionnel.</p>
 
 
 
@@ -8786,7 +8786,7 @@ const H35_contenu = <article>
 
 
 
-<p>Pour devenir un chef accompli, il est important de <a href="https://cuisinedebase.com/podcast-cuisine-de-base-techniques-apprendre-preparer-cap-cuisine/">développer vos compétences culinaires</a>. Cela peut inclure la lecture de livres de cuisine, regarder des vidéos de cuisine en ligne, prendre des cours de cuisine, etc. En pratiquant régulièrement, vous pouvez améliorer votre compréhension des ingrédients, des techniques de cuisson, et des saveurs. En outre, n’ayez pas peur de demander des conseils et des astuces à des chefs plus expérimentés.</p>
+<p>Pour devenir un chef accompli, il est important de développer vos compétences culinaires. Cela peut inclure la lecture de livres de cuisine, regarder des vidéos de cuisine en ligne, prendre des cours de cuisine, etc. En pratiquant régulièrement, vous pouvez améliorer votre compréhension des ingrédients, des techniques de cuisson, et des saveurs. En outre, n’ayez pas peur de demander des conseils et des astuces à des chefs plus expérimentés.</p>
 
 
 
@@ -8879,7 +8879,7 @@ Quelle évolution de carrière après un CAP cuisine
 
 
 
-<p>Cet article vient compléter celui qui parle des <a href="https://cuisinedebase.com/huit-activites-qu-on-peut-faire-apres-une-formation-de-cuisinier/">différents métiers que l’on peut exercer avec un CAP cuisine</a>.</p>
+<p>Cet article vient compléter celui qui parle des différents métiers que l’on peut exercer avec un CAP cuisine.</p>
 
 
 
@@ -9085,7 +9085,7 @@ const H37_contenu = <article>
 
 
 
-<p>N’oubliez pas de mettre certaines informations concernant les épices en cuisine dans votre <strong><a href="https://cuisinedebase.com/carnet-personnel-de-techniques-professionnelles/">carnet personnel de techniques professionnelles</a></strong>.</p>
+<p>N’oubliez pas de mettre certaines informations concernant les épices en cuisine dans votre <strong>carnet personnel de techniques professionnelles</strong>.</p>
 
 
 <h2 className="sous_titre">Les différentes épices en cuisine</h2>
@@ -9202,7 +9202,7 @@ const H38_contenu = <article>
 Les secrets des herbes aromatiques en cuisine
         </h1>
 
-        <p>Les<strong> herbes aromatiques</strong> ont toujours joué un rôle important en cuisine pour apporter de la saveur et de la profondeur aux plats. Ces plantes ont une variété de saveurs et de parfums qui peuvent <strong>transformer n’importe quelle recette en un <a href="https://cuisinedebase.com/comment-creer-des-plats-savoureux-et-equilibres/">plat savoureux et complexe</a></strong>. C’est pourquoi les chefs du monde entier utilisent des herbes aromatiques pour leurs plats. Dans cet article, nous allons explorer l’importance des <strong>herbes aromatiques</strong> en cuisine et découvrir les variétés les plus couramment utilisées dans les recettes des chefs. Préparez-vous à découvrir <strong>les secrets des herbes aromatiques</strong> et à ajouter de la saveur à vos plats.</p>
+        <p>Les<strong> herbes aromatiques</strong> ont toujours joué un rôle important en cuisine pour apporter de la saveur et de la profondeur aux plats. Ces plantes ont une variété de saveurs et de parfums qui peuvent <strong>transformer n’importe quelle recette en un plat savoureux et complexe</strong>. C’est pourquoi les chefs du monde entier utilisent des herbes aromatiques pour leurs plats. Dans cet article, nous allons explorer l’importance des <strong>herbes aromatiques</strong> en cuisine et découvrir les variétés les plus couramment utilisées dans les recettes des chefs. Préparez-vous à découvrir <strong>les secrets des herbes aromatiques</strong> et à ajouter de la saveur à vos plats.</p>
 
 
 <h2 className="sous_titre">Les herbes aromatiques en cuisine</h2>
@@ -9306,7 +9306,7 @@ Comment créer des plats savoureux et équilibrés
 
 
 
-<p>Pour <a href="https://cuisinedebase.com/creativite-culinaire-comment-developper-etapes/">créer des plats savoureux et créatifs</a>, il est important d’expérimenter avec de&nbsp;<strong>nouveaux ingrédients et de nouvelles techniques de cuisson</strong>. Par exemple, vous pouvez essayer de faire des raviolis maison farcis aux légumes, ou de faire cuire des légumes à la vapeur pour préserver leur texture croquante.</p>
+<p>Pour créer des plats savoureux et créatifs, il est important d’expérimenter avec de&nbsp;<strong>nouveaux ingrédients et de nouvelles techniques de cuisson</strong>. Par exemple, vous pouvez essayer de faire des raviolis maison farcis aux légumes, ou de faire cuire des légumes à la vapeur pour préserver leur texture croquante.</p>
 
 
 
@@ -9424,7 +9424,7 @@ Comment créer des plats équilibrés et complets
 
 
 
-<p>Il est également important de varier les sources de protéines et de glucides pour obtenir une variété de nutriments. Par exemple, les protéines peuvent provenir de sources animales comme la viande, le poisson ou <a href="https://cuisinedebase.com/fiche-de-revision-cap-cuisine-les-oeufs-et-ovo-produits/">les œufs</a>. Mais aussi de sources végétales comme les légumineuses, les noix ou les graines. Les glucides peuvent être issus de sources complètes comme le riz brun, les pâtes complètes, les patates douces ou les légumes féculents.</p>
+<p>Il est également important de varier les sources de protéines et de glucides pour obtenir une variété de nutriments. Par exemple, les protéines peuvent provenir de sources animales comme la viande, le poisson ou les œufs. Mais aussi de sources végétales comme les légumineuses, les noix ou les graines. Les glucides peuvent être issus de sources complètes comme le riz brun, les pâtes complètes, les patates douces ou les légumes féculents.</p>
 
 
 
@@ -9572,7 +9572,7 @@ Créativité culinaire. Comment la développer en 4 étapes
 
 
 
-<p>Utilisez <a href="https://cuisinedebase.com/differentes-methodes-de-cuisson-comment-maitriser/">différentes techniques de cuisson</a> telles que la friture, la cuisson au four, la cuisson à la vapeur ou la cuisson à l’étouffée. Pour donner à vos plats des saveurs et des textures uniques. Par exemple, vous pouvez essayer de faire griller des légumes plutôt que de les faire bouillir. En effet, cela leur donnera une saveur plus prononcée.</p>
+<p>Utilisez différentes techniques de cuisson telles que la friture, la cuisson au four, la cuisson à la vapeur ou la cuisson à l’étouffée. Pour donner à vos plats des saveurs et des textures uniques. Par exemple, vous pouvez essayer de faire griller des légumes plutôt que de les faire bouillir. En effet, cela leur donnera une saveur plus prononcée.</p>
 
 
 
@@ -9740,7 +9740,7 @@ Le point sur les différents types de restaurants et modes de restauration
 
 
 
-<p><strong>Découvrez</strong> l’article qui revient sur <a href="https://cuisinedebase.com/comment-je-suis-devenu-traiteur-chef-domicile/">l’histoire de ma reconversion en chef à domicile</a> ainsi que le document qui permet de <strong>comprendre</strong> beaucoup de choses sur le métier du <strong>chef à domicile : <a href="https://amzn.to/31oQ9st">Business plan. Traiteur – Chef à domicile</a></strong></p>
+<p><strong>Découvrez</strong> l’article qui revient sur l’histoire de ma reconversion en chef à domicile ainsi que le document qui permet de <strong>comprendre</strong> beaucoup de choses sur le métier du <strong>chef à domicile : <a href="https://amzn.to/31oQ9st">Business plan. Traiteur – Chef à domicile</a></strong></p>
 
 
 
@@ -9769,7 +9769,7 @@ const H43_contenu = <article>
 Huit activités qu’on peut faire après une formation de cuisinier
         </h1>
 
-        <p><span>Etre <strong>commis de cuisine</strong> n’est pas la seule voie à empreinter lorsqu’on vient de finir <a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">une formation de cuisinier professionnel</a>. Je vous livre le résultat de mes prospections concernant les <strong>différentes activités</strong> que l’on peut faire une fois la <strong>formation de cuisinier </strong>est terminée. (<strong>CAP cuisine</strong> ou autres formations).</span></p>
+        <p><span>Etre <strong>commis de cuisine</strong> n’est pas la seule voie à empreinter lorsqu’on vient de finir une formation de cuisinier professionnel. Je vous livre le résultat de mes prospections concernant les <strong>différentes activités</strong> que l’on peut faire une fois la <strong>formation de cuisinier </strong>est terminée. (<strong>CAP cuisine</strong> ou autres formations).</span></p>
 
 
 
@@ -9788,15 +9788,15 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 
-<p><span>Le <strong>CAP cuisine</strong> est un diplôme qui permet d’acquérir <strong><a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">les bases de la cuisine</a></strong>. Les jeunes souhaitant entrer tôp dans la vie active le préparent souvent dans un centre de formation. Ainsi, après obtention de leurs <strong>diplômes</strong>, ils peuvent être embauchés comme des <strong>commis de cuisine</strong> dans un établissement privé ou de <strong>restauration collective</strong>, puis grimper les échelons petit à petit pour finir <strong>chef cuisinier ou gérant de restaurant</strong>.</span></p>
+<p><span>Le <strong>CAP cuisine</strong> est un diplôme qui permet d’acquérir <strong>les bases de la cuisine</strong>. Les jeunes souhaitant entrer tôp dans la vie active le préparent souvent dans un centre de formation. Ainsi, après obtention de leurs <strong>diplômes</strong>, ils peuvent être embauchés comme des <strong>commis de cuisine</strong> dans un établissement privé ou de <strong>restauration collective</strong>, puis grimper les échelons petit à petit pour finir <strong>chef cuisinier ou gérant de restaurant</strong>.</span></p>
 
 
 
-<p><span>Mais pendant cette dernière décennie, les centres de formation voient arriver massivement des candidats d’une autre sorte. Des <strong>femmes et des hommes</strong> qui souhaitent passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en tant que candidat libre</span></a><span>!</span></p>
+<p><span>Mais pendant cette dernière décennie, les centres de formation voient arriver massivement des candidats d’une autre sorte. Des <strong>femmes et des hommes</strong> qui souhaitent passer le </span><span>CAP cuisine en tant que candidat libre</span><span>!</span></p>
 
 
 
-<p><span>Ces candidats sont souvent des <strong>adultes motivés et et déterminés</strong>, ils souhaitent tous apprendre correctement les bases de la <strong>cuisine gastronomique Française</strong>, une cuisine très variée et riche en saveurs et gouts. L’objectif de leurs démarches varie selon le profil et la situation de chacun, même si une majorité a une seule idée derrière la tête, c’est de <a href="https://cuisinedebase.com/la-cuisine-pour-quitter-la-rat-race/">se reconvertir dans un domaine épanouissant</a> qui permet de façonner des produits avec ses propres <strong>mains</strong>, et de voir le <strong>résultats de son travail</strong> d’une manière concrète et spontanée.</span></p>
+<p><span>Ces candidats sont souvent des <strong>adultes motivés et et déterminés</strong>, ils souhaitent tous apprendre correctement les bases de la <strong>cuisine gastronomique Française</strong>, une cuisine très variée et riche en saveurs et gouts. L’objectif de leurs démarches varie selon le profil et la situation de chacun, même si une majorité a une seule idée derrière la tête, c’est de se reconvertir dans un domaine épanouissant qui permet de façonner des produits avec ses propres <strong>mains</strong>, et de voir le <strong>résultats de son travail</strong> d’une manière concrète et spontanée.</span></p>
 
 
 
@@ -9808,7 +9808,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 
-<p><span>Si cela est ton cas, je suis ravi de t’annoncer que tu as une <strong>multitude d’options</strong>, voici <strong>quelques activités</strong> que l’on peut faire une fois <a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">les techniques de base pour passer le CAP cuisine</a> sont acquises :</span></p>
+<p><span>Si cela est ton cas, je suis ravi de t’annoncer que tu as une <strong>multitude d’options</strong>, voici <strong>quelques activités</strong> que l’on peut faire une fois les techniques de base pour passer le CAP cuisine sont acquises :</span></p>
 
 
 
@@ -9860,7 +9860,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 
-<p><span>L’activité de <strong>traiteur</strong> est différente de celle du cuisinier, le traiteur propose un service un peu plus complet, il est appelé pour des évènements qui mobilisent <strong>beaucoup de gens</strong>. Parmi les services qu’il peut proposer il y a la <strong>location de salle</strong>, la prise en charge des <strong>boissons</strong>, le <strong>buffet</strong>, la <strong>cuisine</strong>, la <strong>décoration</strong> de la salle et bien d’autres … Pour le cout, je ne pense pas que cette activité n’est pas appropriée pour une personne fraichement formée dans la cuisine, car je pense qu’il n’est pas obligatoire que le traiteur sache les </span><a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/"><span>bases de la cuisine</span></a><span>. Cliquer sur le lien suivant pour avoir un peu plus de détaille sur <strong><a href="https://cuisinedebase.com/comment-reussir-une-organisation-de-mariage-meme-si-on-est-debutant/">l’activité de traiteur</a>.</strong></span></p>
+<p><span>L’activité de <strong>traiteur</strong> est différente de celle du cuisinier, le traiteur propose un service un peu plus complet, il est appelé pour des évènements qui mobilisent <strong>beaucoup de gens</strong>. Parmi les services qu’il peut proposer il y a la <strong>location de salle</strong>, la prise en charge des <strong>boissons</strong>, le <strong>buffet</strong>, la <strong>cuisine</strong>, la <strong>décoration</strong> de la salle et bien d’autres … Pour le cout, je ne pense pas que cette activité n’est pas appropriée pour une personne fraichement formée dans la cuisine, car je pense qu’il n’est pas obligatoire que le traiteur sache les </span><span>bases de la cuisine</span><span>. Cliquer sur le lien suivant pour avoir un peu plus de détaille sur <strong>l’activité de traiteur.</strong></span></p>
 
 
 
@@ -9942,7 +9942,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 
-<p><span>Découvrez les <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">25 recette</a> à maitriser pour passer le CAP cuisine, le <span>décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/" target="_blank" rel="noopener noreferrer"><span>épreuves écrites</span></a> et <a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a>.</span></p>
+<p><span>Découvrez les 25 recette à maitriser pour passer le CAP cuisine, le <span>décryptage des </span><span>épreuves écrites</span> et épreuves pratiques.</span></p>
 
 
 
@@ -9989,7 +9989,7 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 <figure className="aligncenter"><a href="https://amzn.to/4f1V20a"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/cuisine_pro_thumb.jpg" alt="cuisine_pro" title="cuisine_pro"/></a><figcaption className="wp-element-caption"><span><strong>matériel de cuisinier</strong></span></figcaption></figure></div>
 
 
-<p><a href="https://cuisinedebase.com/wp-content/uploads/2018/10/cuisine_pro.jpg"><span></span></a></p>
+<p><span></span></p>
 
 
 
@@ -10027,7 +10027,7 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 
 
 
-<p>Voici une sélection <span>de <a href="https://amzn.to/4f1V20a" target="_blank" rel="noopener noreferrer">belles </a><a href="https://amzn.to/3NIQ0L7" target="_blank" rel="noopener noreferrer">tenues de cuisinier </a> avec un bon rapport qualité prix.</span></p>
+<p>Voici une sélection <span>de <a href="https://amzn.to/4f1V20a">belles </a><a href="https://amzn.to/3NIQ0L7">tenues de cuisinier </a> avec un bon rapport qualité prix.</span></p>
 
 
 
@@ -10101,7 +10101,7 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 
 
 
-<p>Cliquez sur le lien <a href="https://amzn.to/4dYcsJv" target="_blank" rel="noopener noreferrer">matériel de cuisine</a>. Vous découvrez une liste de matériel de cuisine.</p>
+<p>Cliquez sur le lien <a href="https://amzn.to/4dYcsJv">matériel de cuisine</a>. Vous découvrez une liste de matériel de cuisine.</p>
 
 
 
@@ -10175,11 +10175,11 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 
 
 
-<p><span>Découvrez comment passer un <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a></span></p>
+<p><span>Découvrez comment passer un CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/" target="_blank" rel="noopener noreferrer"><span>épreuves écrites</span></a><span> et des <a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a></span></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des épreuves pratiques</span></p>
 
 
 
@@ -10400,12 +10400,12 @@ et la consommation responsable.
 <p>La cuisine est l’un des moyens les plus sophistiqués pour véhiculer l’identité et la culture d’un peuple. Ainsi certains pays, comme la France, le Maroc et l’Italie, la considère comme un facteur d’identité nationale et un élément de patrimoine culturel immatériel. dans une toute autre dimension, on peut remarquer que quand les gens s’expatrient ou quittent leurs terres natales vers une autre terre, ils gardent toujours leurs vielles habitudes et notamment les habitudes culinaires qui est un moyen pour préserver leurs cultures, en effet, les plats traditionnels sont transmis de génération en génération. Et c’est d’ailleurs de cette manière que le multiculturalisme émerge, qui d’entre nous n’a jamais essayer de reproduire un plat qui l’a savouré pendant une soirée inoubliable dans un restaurant ethnique (Japonais, Italien, Chinois, Marocain…) nous avons tous une part de curiosité en nous qui nous pousse à connaître les coutumes et traditions des personnes différentes de nous à travers leurs cuisine et gastronomie. Cela prouve que la cuisine est un unificateur, rassembleur et même un moyen de réconcilier les gens. Je ne vois d’ailleurs pas qui pourrait se battre autour d’un bon tajine de boulettes, sauf s’il n’en restait plus qu’une :).</p>
 <h2>La gastronomie française</h2>
 <p>La France est mondialement connue par sa gastronomie. La diversité de ses plats témoignent de la richesse des produits culinaires utilisés en cuisine. Chaque région est connue par une ou plusieurs spécialités et produits, on peut citer à titre d’exemple les pâtisseries parisiennes, tarte normande, quiche Lorraine, salade niçoise, et plein d’autres spécialités que je ne pourrais toutes les citer dans cet article. Et en général les français sont fiers de leurs produits locaux et souvent conscients de l’importance que joue chaque repas dans le déroulement de la journée, car celui-ci dépasse la simple alimentation et doit faire appel à quasiment tous les sens: d’abord l’ouille car pour certains plats le gazouillement des mets témoignent du bon accordement de l’ensemble des saveurs, ensuite la vue, puis l’odorat, après le toucher et enfin le goût.</p>
-<p>Découvrez dans cet article les 8 <a href="https://cuisinedebase.com/les-8-grands-chefs-qui-ont-influence-et-marque-la-cuisine-francaise/">grands chefs</a> qui ont marqué la gastronomie française.</p>
+<p>Découvrez dans cet article les 8 grands chefs qui ont marqué la gastronomie française.</p>
 <h2>Nouvelles formes de consommation</h2>
 <p>De nos jours, on commence à voire une certaine forme d’alimentation différente de ce que nos parents et nos grand parent ont connu. Les gens prennent de moins en moins du temps à la pause déjeuner du midi, grignotent davantage et consomment beaucoup de sandwichs et de plats cuisinés. Les industriels de l’agroalimentaire cherchent à standardiser nos habitudes alimentaires afin de créer un vaste marché mondial de la consommation. Le style américain est souvent pris comme modèle, ainsi, les produits peuvent alors être diffusés sur la plupart des marchés, entraînant pour les multinationales une réduction de leurs coûts fixes et donc des économies d’échelle. Tous ces éléments ont permis aux restaurants type restauration rapide ou «&nbsp;fast food&nbsp;» de se développer d’une manière phénoménale, ainsi que les plats cuisinés que l’on trouve partout dans les magasins spécialisés ou de grandes distribution. Et c’est pour ces raisons qu’on commence à trouver des plats quasiment similaires chez une grande partie des professionnelles de la restauration.</p>
 <p>Cette manière de consommer que beaucoup qualifient de «&nbsp;irresponsable&nbsp;» a grandement contribué à la propagation de l’obésité, de concert et de maladie cardio-vasculaires à cause des additifs alimentaires utilisés dans les plats cuisinés pour allonger leur durée de conservation.</p>
 <h2>Il est temps de prendre les choses en main</h2>
-<p>Il y a une célèbre citation qui dit : « dis moi ce que tu manges je te dirai qui tu es ». Le style d’alimentation est un élément essentiel et constructeur de la personnalité que tout un chacun a. et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous l’imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’<a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">apprendre à cuisiner</a> ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes. </p>
+<p>Il y a une célèbre citation qui dit : « dis moi ce que tu manges je te dirai qui tu es ». Le style d’alimentation est un élément essentiel et constructeur de la personnalité que tout un chacun a. et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous l’imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’apprendre à cuisiner ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes. </p>
 
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-smile" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile.png?w=910&amp;ssl=1"/></p>
 <p>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1"/></p>
@@ -10448,11 +10448,11 @@ Comment préparer le mille-feuille
 
 
 
-<p><strong>La pâte feuilletée</strong> utilisée pour le mille-feuille est une pâte à base de farine, de beurre, d’eau et de sel. Elle est faite en «&nbsp;tournant&nbsp;» la pâte, c’est-à-dire en la pliant et en la rouland plusieurs fois pour créer de nombreuses couches fines et croustillantes. Et voici la <a href="https://cuisinedebase.com/technique-de-base-de-realisation-de-la-pate-feuilletee/" target="_blank" rel="noopener noreferrer">fiche technique de fabrication de la pâte feuilletée</a>.</p>
+<p><strong>La pâte feuilletée</strong> utilisée pour le mille-feuille est une pâte à base de farine, de beurre, d’eau et de sel. Elle est faite en «&nbsp;tournant&nbsp;» la pâte, c’est-à-dire en la pliant et en la rouland plusieurs fois pour créer de nombreuses couches fines et croustillantes. Et voici la fiche technique de fabrication de la pâte feuilletée.</p>
 
 
 
-<p><strong>La crème pâtissière</strong>, quant à elle, est une crème à base de lait, de sucre, de jaunes d’œufs et de  farine qui est cuite jusqu’à épaississement. Et voici <a href="https://cuisinedebase.com/cremes-de-base-patissiere-anglaise-chantilly-fouettee-au-chocolat-mousseline/" target="_blank" rel="noopener noreferrer">comment préparer la crème pâtissière</a>.</p>
+<p><strong>La crème pâtissière</strong>, quant à elle, est une crème à base de lait, de sucre, de jaunes d’œufs et de  farine qui est cuite jusqu’à épaississement. Et voici comment préparer la crème pâtissière.</p>
 
 
 
@@ -10520,7 +10520,7 @@ EP2 session 2019. Colombo de volaille, riz pilaf et courgettes glacées
 <figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png" alt="" className="wp-image-2546" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=1024%2C677&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=768%2C508&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=600%2C397&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=91%2C60&amp;ssl=1 91w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=136%2C90&amp;ssl=1 136w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?w=1304&amp;ssl=1 1304w"/><figcaption>Epreuve pratique session 2019</figcaption></figure></div>
 
 
-<p className="has-accent-color has-white-background-color has-text-color has-background">Les proportions de la fiche technique est pour 4 personnes. Et comme à l’examen, on peut remarquer que la fiche technique n’est pas complète. Notamment la technique de base pou cuire un <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-riz-pilaf/">riz pilaf</a> n’est pas renseignée, il est donc important de la connaitre pour pouvoir réussir l’examen EP2 de l’année 2019.</p>
+<p className="has-accent-color has-white-background-color has-text-color has-background">Les proportions de la fiche technique est pour 4 personnes. Et comme à l’examen, on peut remarquer que la fiche technique n’est pas complète. Notamment la technique de base pou cuire un riz pilaf n’est pas renseignée, il est donc important de la connaitre pour pouvoir réussir l’examen EP2 de l’année 2019.</p>
 <p>Si cet article vous a plu, vous êtes libre de le partager.</p>
     </div>
 
@@ -10554,7 +10554,7 @@ Jambonnette de poulet farcie. Comment réussir sa préparation
 
 
 
-<p>Les jambonnettes farcies peuvent être accompagnées de <strong>pomme Dauphine</strong>, <strong><a href="https://cuisinedebase.com/fiche-technique-de-fabrication-riz-pilaf/">riz pilaf</a></strong>, <strong><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/">purée de pomme de terre</a></strong>…</p>
+<p>Les jambonnettes farcies peuvent être accompagnées de <strong>pomme Dauphine</strong>, <strong>riz pilaf</strong>, <strong>purée de pomme de terre</strong>…</p>
 
 
 
@@ -10760,7 +10760,7 @@ Osso buco. Comment réussir La recette des restaurants
 
 
 
-<p><strong><a href="https://cuisinedebase.com/les-techniques-et-preparations-de-base-maitriser-pour-preparer-le-cap-cuisine/">Confectionner la fondue de tomate</a></strong></p>
+<p><strong>Confectionner la fondue de tomate</strong></p>
 
 
 
@@ -10946,7 +10946,7 @@ Salade salade Piémontaise. La Fiche technique
 
 
 
-<h2 className="sous_titre"><strong><a href="https://cuisinedebase.com/fiches-de-rvision-les-fonds-de-base-en-cuisine-sauces-blanc-brun-fumet-de-poisson-jus-de-veaux/" target="_blank" rel="noopener noreferrer">Préparer la sauce mayonnaise</a></strong></h2>
+<h2 className="sous_titre"><strong>Préparer la sauce mayonnaise</strong></h2>
 
 
 
@@ -11041,19 +11041,19 @@ Riz madras aux fruits. Toute la fiche technique de fabrication.
 
 
 
-<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p><span>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 
 
@@ -11094,7 +11094,7 @@ Salade niçoise. Tous les détails de la Fiche technique
 
 
 
-<p>Explorez davantage votre passion pour la cuisine en plongeant dans notre guide exclusif «&nbsp;<strong><a href="https://amzn.to/47I2GZU" target="_blank" rel="noopener noreferrer">LES 25 RECETTES INCONTOURNABLES POUR DECROCHER VOTRE CAP CUISINE</a></strong>«&nbsp;. Conçu comme un compagnon indispensable, ce livret vous accompagnera à travers une variété de recettes, de la Salade Niçoise aux créations culinaires sophistiquées. Cuisinez avec assurance et inventivité, découvrez des saveurs mémorables qui éveilleront vos papilles. N’attendez plus pour débuter cette aventure culinaire exceptionnelle ! <a href="https://amzn.to/47I2GZU" target="_blank" rel="noopener noreferrer">Commandez votre exemplaire</a> dès aujourd’hui et ouvrez la porte à un monde de délices culinaires.</p>
+<p>Explorez davantage votre passion pour la cuisine en plongeant dans notre guide exclusif «&nbsp;<strong><a href="https://amzn.to/47I2GZU">LES 25 RECETTES INCONTOURNABLES POUR DECROCHER VOTRE CAP CUISINE</a></strong>«&nbsp;. Conçu comme un compagnon indispensable, ce livret vous accompagnera à travers une variété de recettes, de la Salade Niçoise aux créations culinaires sophistiquées. Cuisinez avec assurance et inventivité, découvrez des saveurs mémorables qui éveilleront vos papilles. N’attendez plus pour débuter cette aventure culinaire exceptionnelle ! <a href="https://amzn.to/47I2GZU">Commandez votre exemplaire</a> dès aujourd’hui et ouvrez la porte à un monde de délices culinaires.</p>
 
 
 
@@ -11107,7 +11107,7 @@ Salade niçoise. Tous les détails de la Fiche technique
 
 
 
-<li><a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">cuire des légumes à <strong>l’anglaise</strong></a>;</li>
+<li>cuire des légumes à <strong>l’anglaise</strong>;</li>
 
 
 
@@ -11270,7 +11270,7 @@ Omelette plate Savoyarde. Fiche et techniques de base
 
 
 
-<p><a href="https://amzn.to/2Jwd4f5" rel="noopener noreferrer" target="_blank">Cuisine de référence de Michel Maincent</a>. Si vous préparez le CAP cuisine en candidat libre, je vous recommande vivement le <strong>livre cuisine de référence</strong> pour un maximum d’informations sur le<strong> métier du cuisinier</strong></p>
+<p><a href="https://amzn.to/2Jwd4f5">Cuisine de référence de Michel Maincent</a>. Si vous préparez le CAP cuisine en candidat libre, je vous recommande vivement le <strong>livre cuisine de référence</strong> pour un maximum d’informations sur le<strong> métier du cuisinier</strong></p>
 
 
 
@@ -11339,11 +11339,11 @@ Quiche nordique (Saumon fumé épinard). Fiche technique
 
 
 
-<p>Découvrez comment passer un <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a></p>
+<p>Découvrez comment passer un CAP cuisine en candidat libre</p>
 
 
 
-<p>Consultez aussi notre décryptage des <a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/">épreuves écrites</a> et des <a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a></p>
+<p>Consultez aussi notre décryptage des épreuves écrites et des épreuves pratiques</p>
 
 
 
@@ -11442,11 +11442,11 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <ul className="wp-block-list">
-<li>«&nbsp;<a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">25 Recettes pour Préparer le CAP Cuisine</a>&nbsp;» </li>
+<li>«&nbsp;25 Recettes pour Préparer le CAP Cuisine&nbsp;» </li>
 
 
 
-<li>ou «&nbsp;<a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/">Les fiches de révision des techniques de base</a>«&nbsp;.</li>
+<li>ou «&nbsp;Les fiches de révision des techniques de base«&nbsp;.</li>
 </ul>
 
 
@@ -11497,7 +11497,7 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX" target="_blank" rel="noopener noreferrer"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"/></a><figcaption className="wp-element-caption">Livre en format broché ou e-book sur Amazon</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"/></a><figcaption className="wp-element-caption">Livre en format broché ou e-book sur Amazon</figcaption></figure></div>
 
 
 <p><span>Vous pouvez<strong> télécharger les fiches techniques</strong> des <strong>25 recettes de base</strong> à maîtriser, <strong>assemblées dans un seul document</strong> au format pdf. </span></p>
@@ -11508,10 +11508,10 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png" alt="" className="wp-image-1728" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=986%2C1024&amp;ssl=1 986w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=289%2C300&amp;ssl=1 289w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=768%2C798&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1479%2C1536&amp;ssl=1 1479w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1972%2C2048&amp;ssl=1 1972w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=600%2C623&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?w=1820&amp;ssl=1 1820w" /></a><figcaption className="wp-element-caption">Fiches techniques format excel et pdf</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png" alt="" className="wp-image-1728" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=986%2C1024&amp;ssl=1 986w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=289%2C300&amp;ssl=1 289w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=768%2C798&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1479%2C1536&amp;ssl=1 1479w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1972%2C2048&amp;ssl=1 1972w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=600%2C623&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?w=1820&amp;ssl=1 1820w" /><figcaption className="wp-element-caption">Fiches techniques format excel et pdf</figcaption></figure></div>
 
 
-<p><span>Cliquez ici pour découvrir la <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">liste des 25 recettes à maîtriser</a> pour <strong>préparer le CAP cuisine</strong>.</span></p>
+<p><span>Cliquez ici pour découvrir la liste des 25 recettes à maîtriser pour <strong>préparer le CAP cuisine</strong>.</span></p>
 
 
 
@@ -11551,7 +11551,7 @@ Recette de la crème brûlée avec la fiche technique de fabrication
 
 
 
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span>les 25 recettes à maitriser</span></a><span> pour passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a><span> et le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span>planning détaillé</span></a><span> pour les travailler.</span></p>
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><span>les 25 recettes à maitriser</span><span> pour passer le </span><span>CAP cuisine en candidat libre</span><span> et le </span><span>planning détaillé</span><span> pour les travailler.</span></p>
 
 
 
@@ -11575,19 +11575,19 @@ Recette de la crème brûlée avec la fiche technique de fabrication
 <img data-recalc-dims="1" decoding="async" title="creme-brulee" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/creme-brulee_thumb.png" alt="creme-brulee"></img>
 </div>
 
-<p><span>Si vous ne comprenez pas certains mots dans la <strong>fiche technique</strong>, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la <strong>fiche technique</strong>, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p><span>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a>.</span></p>
+<p><span>Cliquez ici pour découvrir comment apprendre les techniques de base.</span></p>
 
 
 
-<h1 className="sous_titre"><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></h1>
+<h1 className="sous_titre"><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></h1>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a>.</p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span>.</p>
 
 
 
@@ -11653,7 +11653,7 @@ Recette de la Tarte au chocolat avec sa fiche technique de fabrication
 
 
 
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 
 <h2 className="sous_titre">Fiche technique de la tarte au chocolat</h2>
 
@@ -11665,15 +11665,15 @@ Recette de la Tarte au chocolat avec sa fiche technique de fabrication
 
 <figure className="post-image"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/tarte-au-chocolat_thumb.png" alt="tarte au chocolat" title="tarte au chocolat"></img></figure>
 
-<p><span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span></p>
+<p><span>Consultez le dico culinaire pour comprendre certains mots techniques</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></p>
 
 
 
-<p><span>Consultez le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Consultez le décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span><span>.</span></p>
 
 
 

@@ -4,7 +4,7 @@ const J1 = {
 
 
 
-	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 	
 	
 	
@@ -136,7 +136,7 @@ const J1 = {
 	
 	
 	
-	<span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span></div></article>,
+	<span>Consultez le dico culinaire pour comprendre certains mots techniques</span></div></article>,
 
 	titre: "Fiche technique et recette de Tiramisu",
 
@@ -164,7 +164,7 @@ const J2 = {
 	
 	
 	
-	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 	
 	
 	
@@ -275,7 +275,7 @@ const J2 = {
 	<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Choux-creme-patissiere.png"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Choux-creme-patissiere_thumb.png" alt="Choux-creme-patissiere" title="Choux-creme-patissiere"></img></a><figcaption>Fiche technique de choux à la crème pâtissière</figcaption></figure></div>
 	
 	
-	<span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span></div></article>,
+	<span>Consultez le dico culinaire pour comprendre certains mots techniques</span></div></article>,
 
 	titre: "Fiche technique et recette de Choux à la crème pâtissière",
 
@@ -311,7 +311,7 @@ const J3 = {
 	
 	
 	
-	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine</strong> de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+	<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine</strong> de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 	
 	
 	
@@ -328,15 +328,15 @@ const J3 = {
 	
 	
 	
-	<span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span>
+	<span>Consultez le dico culinaire pour comprendre certains mots techniques</span>
 	
 	
 	
-	<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></p>
+	<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></p>
 	
 	
 	
-	<p><span>Consultez le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+	<p><span>Consultez le décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span><span>.</span></p>
 	
 	</div></article>,
 
@@ -375,7 +375,7 @@ const J4 = {
 
 
 
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 
 
 
@@ -470,15 +470,15 @@ const J4 = {
 <figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/tarte-aux-fruits-sur-pte-feuillete-2.png"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/tarte-aux-fruits-sur-pte-feuillete_thumb-2.png" alt="tarte aux fruits sur pâte feuilletée" title="tarte aux fruits sur pâte feuilletée"></img></a><figcaption>Fiche technique Tartes aux fruits pâte feuilletée</figcaption></figure></div>
 
 
-<span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span>
+<span>Consultez le dico culinaire pour comprendre certains mots techniques</span>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></p>
 
 
 
-<p><span>Consultez le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Consultez le décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span><span>.</span></p>
 	
 	</div></article>,
 
@@ -519,7 +519,7 @@ const J5 = {
 
 
 
-<p><span>Découvrez le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">programme d’entrainement</a> qui permet de travailler les techniques de base.</span></p>
+<p><span>Découvrez le programme d’entrainement qui permet de travailler les techniques de base.</span></p>
 
 
 
@@ -546,15 +546,15 @@ const J5 = {
 
 
 
-<p><span>Consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dico culinaire</a> pour comprendre certains mots techniques</span></p>
+<p><span>Consultez le dico culinaire pour comprendre certains mots techniques</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></p>
 
 
 
-<p><span>Consultez le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Consultez le décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span><span>.</span></p>
 	
 	</div></article>,
 
@@ -639,11 +639,11 @@ const J6 = {
 </div>
 
 
-<span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a>
+<span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span>
 
 
 
-<p><span>Consultez le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a><span>.</span></p>
+<p><span>Consultez le décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span><span>.</span></p>
 	
 	</div></article>,
 
@@ -759,19 +759,19 @@ Voici une <strong>astuce</strong> pour réussir la <span><span><strong>crème re
 
 
 
-<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p><span>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a>.</span></p>
+<p><span>Cliquez ici pour découvrir comment apprendre les techniques de base.</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre.</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre.</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a>.</p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span>.</p>
 
 	</div></article>,
 
@@ -831,19 +831,19 @@ const J8 = {
 </div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"></a><span>épreuves pratiques</span></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 	
 	</div></article>,
 
@@ -972,11 +972,11 @@ const J9 = {
 
 
 
-<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p>N’hésitez pas à rester un peu plus longtemps sur le blog. Vous trouverez une mine d’informations pour apprendre facilement les bases de la cuisine et obtenir des conseils pratiques pour préparer le <strong><a href="https://cuisinedebase.com/cles-succes-pour-reussir-cap-cuisine-candidat-libre/">CAP Cuisine en candidat libre</a></strong>. </p>
+<p>N’hésitez pas à rester un peu plus longtemps sur le blog. Vous trouverez une mine d’informations pour apprendre facilement les bases de la cuisine et obtenir des conseils pratiques pour préparer le <strong>CAP Cuisine en candidat libre</strong>. </p>
 
 
 
@@ -1070,19 +1070,19 @@ const J10 = {
 <figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/steak-sauce-poivre.png"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/steak-sauce-poivre_thumb.png" alt="steak-sauce-poivre" title="steak-sauce-poivre"></img></a><figcaption><span><strong>steak sauté sauce poivre </strong></span></figcaption></figure></div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"></a><span>épreuves pratiques</span></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1166,7 +1166,7 @@ const J11 = {
 </div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la <strong>fiche technique</strong>, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la <strong>fiche technique</strong>, consultez le dictionnaire des termes culinaires.</span>
 
 	</div></article>,
 
@@ -1234,19 +1234,19 @@ const J12 = {
 </div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1336,19 +1336,19 @@ const J13 = {
 </div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1467,19 +1467,19 @@ const J14 = {
 
 
 
-<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1510,7 +1510,7 @@ const J15 = {
 <figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" width="233" height="192" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg?resize=233%2C192&amp;ssl=1" alt="Recette riz pilaf" className="wp-image-772"></img><figcaption>Recette riz pilaf</figcaption></figure></div>
 
 
-<span>Vous pouvez consulter l’analyse des <strong><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">sujets pratiques de la session 2021</a></strong> pour voir combien de fois la recette du riz pilaf est tombée. Vous pouvez aussi voir les <strong><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/">épreuves de la session 2020</a></strong> ainsi que la <strong><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/">session 2019</a></strong>.</span></p>
+<span>Vous pouvez consulter l’analyse des <strong>sujets pratiques de la session 2021</strong> pour voir combien de fois la recette du riz pilaf est tombée. Vous pouvez aussi voir les <strong>épreuves de la session 2020</strong> ainsi que la <strong>session 2019</strong>.</span></p>
 
 
 
@@ -1565,19 +1565,19 @@ const J15 = {
 <figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/riz_pilaf.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/riz_pilaf_thumb.png?w=910&amp;ssl=1" alt="riz_pilaf" title="riz_pilaf"></img></a><figcaption>Recette riz pilaf</figcaption></figure></div>
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1636,19 +1636,19 @@ Pour préparer la recette <span><strong>œufs chimay</strong></span>, on cuit de
 
 
 
-<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span>
+<span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span>CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span>CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span>épreuves écrites</span></a><span> et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span>épreuves pratiques</span></a></p>
+<p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
 
 	</div></article>,
 
@@ -1786,19 +1786,19 @@ const J17 = {
 
 
 
-<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le <a href="https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/">dictionnaire des termes culinaires</a>.</span></p>
+<p><span>Si vous ne comprenez pas certains mots dans la fiche technique, consultez le dictionnaire des termes culinaires.</span></p>
 
 
 
-<p><span>Cliquez ici pour découvrir les <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">comment apprendre les techniques de base</a></span></p>
+<p><span>Cliquez ici pour découvrir les comment apprendre les techniques de base</span></p>
 
 
 
-<p><span>Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a></p>
+<p><span>Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span>Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<p><span>Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -1823,7 +1823,7 @@ const J18 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Recette de Crêpes farcies gratinées façon Picarde</h1>
 
-	<p>La <strong>recette de crêpes farcies</strong> gratinées, ou crêpes farcies façon picarde est une préparation qui fait partie des <a href="https://cuisinedebase.com/25-fiches-techniques-pour-apprendre-a-cuisiner/">fiches techniques qu’il faut maîtriser pour préparer le CAP cuisine</a> en candidat libre. </p>
+	<p>La <strong>recette de crêpes farcies</strong> gratinées, ou crêpes farcies façon picarde est une préparation qui fait partie des fiches techniques qu’il faut maîtriser pour préparer le CAP cuisine en candidat libre. </p>
 
 
 <div className="post-image">
@@ -1854,7 +1854,7 @@ const J18 = {
 
 
 
-<p>Voilà c’est tout pour cette fiche technique. J’espère qu’elle vous aidera à aller de l’avant si vous préparez seul le CAP cuisine candidat libre. Si c’est le cas je vous invite aussi à consulter une analyse que j’ai effectuée sur les <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">sujets de l’épreuve pratique EP2 de la session 2021</a>. </p>
+<p>Voilà c’est tout pour cette fiche technique. J’espère qu’elle vous aidera à aller de l’avant si vous préparez seul le CAP cuisine candidat libre. Si c’est le cas je vous invite aussi à consulter une analyse que j’ai effectuée sur les sujets de l’épreuve pratique EP2 de la session 2021. </p>
 
 
 
@@ -1866,7 +1866,7 @@ const J18 = {
 
 
 
-<ul className="wp-block-list"><li>Tout d’abord, <span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a></li><li><span >Ensuite, Consultez aussi le décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > </span></li><li>Puis le décryptage <span >des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<ul className="wp-block-list"><li>Tout d’abord, <span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span></li><li><span >Ensuite, Consultez aussi le décryptage des </span><span >épreuves écrites</span><span > </span></li><li>Puis le décryptage <span >des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></li></ul>
 
@@ -1941,15 +1941,15 @@ const J19 = {
 
 
 
-<p><span >Vous pouvez retrouver l’ensemble de ces fiches techniques, assemblées dans un seul document, au format pdf en suivant le lien suivant : <a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">Fiches techniques au format pdf</a>.</span></p>
+<p><span >Vous pouvez retrouver l’ensemble de ces fiches techniques, assemblées dans un seul document, au format pdf en suivant le lien suivant : Fiches techniques au format pdf.</span></p>
 
 
 
-<p><span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a></p>
+<p><span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span></p>
 
 
 
-<p><span >Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -2086,11 +2086,11 @@ const J20 = {
 </div>
 
 
-<span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a>
+<span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span>
 
 
 
-<p><span >Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -2171,11 +2171,11 @@ const J21 = {
 </div>
 
 
-<span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a>
+<span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span>
 
 
 
-<p><span >Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -2220,7 +2220,7 @@ const J22 = {
 
 
 
-<p>Faire une quiche fait partie des <strong><a href="https://cuisinedebase.com/produit/fiche-de-revision-des-techniques-de-base/" target="_blank" rel="noopener noreferrer">techniques de base</a></strong> à maîtriser pour <strong>apprendre la cuisine</strong>. Voici quelques <strong>techniques</strong> qui sont nécessaires pour <strong>réussir la quiche</strong></p>
+<p>Faire une quiche fait partie des <strong>techniques de base</strong> à maîtriser pour <strong>apprendre la cuisine</strong>. Voici quelques <strong>techniques</strong> qui sont nécessaires pour <strong>réussir la quiche</strong></p>
 
 
 
@@ -2240,11 +2240,11 @@ const J22 = {
 
 
 
-<span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a>
+<span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span>
 
 
 
-<p><span >Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -2274,8 +2274,8 @@ const J23 = {
 <p><span >Soles farinées et sautées à la poêle avec une coloration dorée, arrosées de jus de citron, nappées de beurre «noisette», et agrémentées de rondelles de citrons pelés à vif et de persil haché.</span></p>
 <h2 className="sous_titre">La fiche technique de fabrication des soles meunières</h2>
 <h2 className="sous_titre"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere.png?ssl=1"><div><img data-recalc-dims="1" decoding="async" title="soles-meuniere" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/soles-meuniere_thumb.png" alt="soles-meuniere"></img></div></a></h2>
-<span >Découvrez comment passer un </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a>
-<p><span >Consultez aussi notre décryptage des </span><a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/"><span >épreuves écrites</span></a><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
+<span >Découvrez comment passer un </span><span >CAP cuisine en candidat libre</span>
+<p><span >Consultez aussi notre décryptage des </span><span >épreuves écrites</span><span > et des </span><a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/"><span >épreuves pratiques</span>
 
 	</a></p>
 	</div></article>,
@@ -2313,7 +2313,7 @@ Voici la fiche technique de la macédoine :
 <p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/macedoine-de-legumes-mayonnaise.png?ssl=1"><div className="post-image"><img data-recalc-dims="1" decoding="async" title="macedoine-de-legumes-mayonnaise" alt="macedoine-de-legumes-mayonnaise" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/macedoine-de-legumes-mayonnaise_thumb.png"></img></div></a></p>
 <p><a href="https://www.amazon.fr/gp/product/B002ZCKIBM/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=yhiicham-21&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B002ZCKIBM&amp;linkId=d7f386b31a006287133fd136c11c2711">Couteaux de cuisine professionnels</a> </p>
 <p><a href="https://www.amazon.fr/gp/product/B002ZCKIBM/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=yhiicham-21&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B002ZCKIBM&amp;linkId=d7f386b31a006287133fd136c11c2711"><div className="post-image"><img data-recalc-dims="1" decoding="async" alt="Ross Henery Professional  9 couteaux de chef Ross Henery, lot de 9 pièces, couteaux de cuisine professionnels avec aiguiseur dans un étui de transport à fermeture éclair." src="https://i0.wp.com/images-na.ssl-images-amazon.com/images/I/71VjU4HxscL._SX450_.jpg?w=910&amp;ssl=1"></img></div></a></p>
-<p>Cliquez ici pour découvrir <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maîtriser pour le CAP cuisine</a></p>
+<p>Cliquez ici pour découvrir les 25 recettes à maîtriser pour le CAP cuisine</p>
 
 	</div></article>,
 
@@ -2432,7 +2432,7 @@ const J25 = {
 
 
 
-<p>Pour les <strong><a href="https://cuisinedebase.com/aide-pour-preparer-le-cap-cuisine-candidat-libre/">candidats passant le CAP cuisine en candidat libre</a></strong>, il est crucial de comprendre que l’ordonnancement n’est pas seulement un document, mais un outil personnel de planification de la production culinaire. Il doit être en mesure de structurer votre épreuve, de vous fournir des repères temporels et de démontrer votre expertise au jury. En analysant attentivement chaque préparation, en anticipant les temps de cuisson, de repos et autres étapes, vous pourrez aborder l’épreuve avec confiance et augmenter vos chances de réussite. En somme, un bon ordonnancement est la clé pour entrer efficacement dans l’épreuve et conditionner votre succès.</p>
+<p>Pour les <strong>candidats passant le CAP cuisine en candidat libre</strong>, il est crucial de comprendre que l’ordonnancement n’est pas seulement un document, mais un outil personnel de planification de la production culinaire. Il doit être en mesure de structurer votre épreuve, de vous fournir des repères temporels et de démontrer votre expertise au jury. En analysant attentivement chaque préparation, en anticipant les temps de cuisson, de repos et autres étapes, vous pourrez aborder l’épreuve avec confiance et augmenter vos chances de réussite. En somme, un bon ordonnancement est la clé pour entrer efficacement dans l’épreuve et conditionner votre succès.</p>
 
 	</div></article>,
 
@@ -2471,7 +2471,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">S�
 
 
 
-<p>Les données recueillies par le&nbsp;<strong>Food Marketing Institute</strong>&nbsp;montrent que la <a href="https://cuisinedebase.com/cap-cuisine-les-defis-du-candidat-libre/" target="_blank" rel="noopener noreferrer">planification des repas</a> peut non seulement vous faire gagner du temps, mais aussi réduire le gaspillage alimentaire. En ayant une liste d’achats préétablie et un plan de repas, vous êtes plus susceptible de faire des choix alimentaires sains et d’éviter le stress de la dernière minute.</p>
+<p>Les données recueillies par le&nbsp;<strong>Food Marketing Institute</strong>&nbsp;montrent que la planification des repas peut non seulement vous faire gagner du temps, mais aussi réduire le gaspillage alimentaire. En ayant une liste d’achats préétablie et un plan de repas, vous êtes plus susceptible de faire des choix alimentaires sains et d’éviter le stress de la dernière minute.</p>
 
 
 
@@ -2487,7 +2487,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">S�
 
 
 
-<p>Cet article participe à l’événement “<strong>3 habitudes pour être zen tous les jours</strong>” du&nbsp;<a href="https://habitudes-zen.net/" target="_blank" rel="noopener noreferrer">blog&nbsp;Habitudes Zen</a>. J’apprécie beaucoup ce blog, et en fait mon article préféré est&nbsp;<a href="https://habitudes-zen.net/100-phrases-positives-a-dire-a-ses-enfants/" target="_blank" rel="noopener noreferrer">celui-ci.</a></p>
+<p>Cet article participe à l’événement “<strong>3 habitudes pour être zen tous les jours</strong>” du&nbsp;<a href="https://habitudes-zen.net/">blog&nbsp;Habitudes Zen</a>. J’apprécie beaucoup ce blog, et en fait mon article préféré est&nbsp;<a href="https://habitudes-zen.net/100-phrases-positives-a-dire-a-ses-enfants/">celui-ci.</a></p>
 
 
 
@@ -2563,11 +2563,11 @@ const J27 = {
 
 
 
-<p>Pour <strong>réussir votre reconversion professionnelle en cuisine ou restauration</strong>, il est indispensable <strong>d’acquérir les compétences nécessaires pour travailler dans ce secteur</strong>. Cela inclut des connaissances techniques. Telles que la maîtrise <strong><a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">des différentes techniques culinaires de vase</a></strong> et de la <strong>gestion d’un restaurant</strong>, ainsi que des compétences interpersonnelles, telles que la <strong>capacité à travailler en équipe</strong> et à communiquer efficacement avec les clients.</p>
+<p>Pour <strong>réussir votre reconversion professionnelle en cuisine ou restauration</strong>, il est indispensable <strong>d’acquérir les compétences nécessaires pour travailler dans ce secteur</strong>. Cela inclut des connaissances techniques. Telles que la maîtrise <strong>des différentes techniques culinaires de vase</strong> et de la <strong>gestion d’un restaurant</strong>, ainsi que des compétences interpersonnelles, telles que la <strong>capacité à travailler en équipe</strong> et à communiquer efficacement avec les clients.</p>
 
 
 
-<p>Pour acquérir ces compétences, vous pouvez suivre une <strong><a href="https://cuisinedebase.com/formation-cuisine-pas-chere/">formation professionnelle</a></strong>. Participer à des stages, travailler comme apprenti auprès d’un chef expérimenté ou encore <strong>prendre des cours en ligne</strong>. Il est important de choisir les moyens d’acquisition des compétences qui correspondent le mieux à vos besoins et à votre style d’apprentissage, afin d’être le plus efficace possible dans votre parcours de reconversion. D’ailleurs si vous avez un projet de <strong>passer le cap cuisine en candidat libre</strong>, <a href="https://cuisinedebase.com/coaching/">je peux vous coacher pour le préparer efficacement</a>.</p>
+<p>Pour acquérir ces compétences, vous pouvez suivre une <strong>formation professionnelle</strong>. Participer à des stages, travailler comme apprenti auprès d’un chef expérimenté ou encore <strong>prendre des cours en ligne</strong>. Il est important de choisir les moyens d’acquisition des compétences qui correspondent le mieux à vos besoins et à votre style d’apprentissage, afin d’être le plus efficace possible dans votre parcours de reconversion. D’ailleurs si vous avez un projet de <strong>passer le cap cuisine en candidat libre</strong>, je peux vous coacher pour le préparer efficacement.</p>
 
 
 
@@ -2666,7 +2666,7 @@ const J28 = {
 
 
 
-<p>D’autre part, la<strong> préparation de l’examen du CAP cuisine</strong> peut être difficile pour les candidats en raison de la quantité de connaissances et de compétences à acquérir. Les aspects les plus difficiles de l’examen peuvent être <strong><a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">les techniques culinaires de base</a></strong>, les recettes de base et les connaissances sur les produits de cuisine et les équipements. Pour surmonter ces défis, il est important de s’entraîner régulièrement, de pratiquer les techniques base jusqu’à ce qu’elles soient maîtrisées et de se familiariser avec les <strong><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">recettes de base</a></strong>. Les candidats doivent également être conscients des ingrédients et des équipements utilisés en cuisine, et comprendre leur rôle et leur utilisation. Pour se préparer efficacement à l’examen, les candidats doivent se concentrer sur les sujets les plus importants et utiliser des ressources supplémentaires pour renforcer leurs connaissances.</p>
+<p>D’autre part, la<strong> préparation de l’examen du CAP cuisine</strong> peut être difficile pour les candidats en raison de la quantité de connaissances et de compétences à acquérir. Les aspects les plus difficiles de l’examen peuvent être <strong>les techniques culinaires de base</strong>, les recettes de base et les connaissances sur les produits de cuisine et les équipements. Pour surmonter ces défis, il est important de s’entraîner régulièrement, de pratiquer les techniques base jusqu’à ce qu’elles soient maîtrisées et de se familiariser avec les <strong>recettes de base</strong>. Les candidats doivent également être conscients des ingrédients et des équipements utilisés en cuisine, et comprendre leur rôle et leur utilisation. Pour se préparer efficacement à l’examen, les candidats doivent se concentrer sur les sujets les plus importants et utiliser des ressources supplémentaires pour renforcer leurs connaissances.</p>
 
 
 
@@ -2867,7 +2867,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Re
 
 
 
-<p>Le travail d’un cuisinier est très exigeant et demande une grande attention aux détails. Le cuisinier est responsable de la préparation des aliments, de la création de recettes et de la gestion des menus. Il doit aussi gérer l’approvisionnement des ingrédients et de la supervision de la cuisine. Pour cela, le cuisinier doit posséder des compétences culinaires avancées. Telles que la connaissance des <a href="https://cuisinedebase.com/la-listes-des-techniques-de-base-a-maitriser-pour-le-cap-cuisine/">différentes techniques de cuisine</a>. La capacité à équilibrer les saveurs et les textures. Ainsi que la maîtrise des <a href="https://cuisinedebase.com/differentes-methodes-de-cuisson-comment-maitriser/">différentes cuissons</a>. Il doit également être capable de travailler rapidement et efficacement, tout en assurant la qualité des plats qu’il prépare. En plus de cela, le cuisinier doit être capable de travailler en équipe, de communiquer efficacement avec les autres membres de la cuisine et de gérer son temps de manière efficace. Le travail d’un cuisinier peut être très stressant et peut exiger de longues heures, mais pour ceux qui sont passionnés par la cuisine, c’est une carrière très enrichissante et gratifiante.</p>
+<p>Le travail d’un cuisinier est très exigeant et demande une grande attention aux détails. Le cuisinier est responsable de la préparation des aliments, de la création de recettes et de la gestion des menus. Il doit aussi gérer l’approvisionnement des ingrédients et de la supervision de la cuisine. Pour cela, le cuisinier doit posséder des compétences culinaires avancées. Telles que la connaissance des différentes techniques de cuisine. La capacité à équilibrer les saveurs et les textures. Ainsi que la maîtrise des différentes cuissons. Il doit également être capable de travailler rapidement et efficacement, tout en assurant la qualité des plats qu’il prépare. En plus de cela, le cuisinier doit être capable de travailler en équipe, de communiquer efficacement avec les autres membres de la cuisine et de gérer son temps de manière efficace. Le travail d’un cuisinier peut être très stressant et peut exiger de longues heures, mais pour ceux qui sont passionnés par la cuisine, c’est une carrière très enrichissante et gratifiante.</p>
 
 
 
@@ -2959,7 +2959,7 @@ const J30 = {
 
 contenu: <article><div className="post-content"><h1 className="titre_article">Comment améliorer la saveur de vos plats avec les herbes et les épices</h1>
 
-<p>L’utilisation des herbes et des épices peut transformer un plat ordinaire en une expérience culinaire extraordinaire. Les herbes aromatiques fraîches ou séchées. Les épices moulues, grillées ou encore infusées sont des ingrédients incontournables pour ajouter de la saveur, de l’arôme et de la couleur à vos plats. Cependant, il est facile de se perdre dans la variété d’herbes et d’épices disponibles sur le marché. Et de ne pas savoir comment les utiliser efficacement. Dans cet article, je vais vous donner des conseils pratiques pour utiliser <a href="https://cuisinedebase.com/les-secrets-des-herbes-aromatiques-en-cuisine/">les herbes aromatiques</a> et les épices dans votre cuisine afin&nbsp;<strong>d’améliorer la saveur</strong> de vos plats. Que vous soyez débutant ou cuisinier expérimenté, ces astuces vous aideront à devenir un pro des herbes et des épices.</p>
+<p>L’utilisation des herbes et des épices peut transformer un plat ordinaire en une expérience culinaire extraordinaire. Les herbes aromatiques fraîches ou séchées. Les épices moulues, grillées ou encore infusées sont des ingrédients incontournables pour ajouter de la saveur, de l’arôme et de la couleur à vos plats. Cependant, il est facile de se perdre dans la variété d’herbes et d’épices disponibles sur le marché. Et de ne pas savoir comment les utiliser efficacement. Dans cet article, je vais vous donner des conseils pratiques pour utiliser les herbes aromatiques et les épices dans votre cuisine afin&nbsp;<strong>d’améliorer la saveur</strong> de vos plats. Que vous soyez débutant ou cuisinier expérimenté, ces astuces vous aideront à devenir un pro des herbes et des épices.</p>
 
 
 <div className="post-image">
@@ -2986,7 +2986,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Co
 
 
 
-<p>L’utilisation des herbes et des épices varie selon les différentes cuisines du monde. Par exemple, la cuisine asiatique utilise souvent des herbes telles que la coriandre, la menthe, le basilic thaï et le gingembre frais. Et ce dans le but de créer des saveurs complexes et équilibrées. La cuisine méditerranéenne utilise souvent des herbes comme le romarin, le thym, le basilic et l’origan. Afin de rehausser la saveur de plats tels que les pâtes, les pizzas et les viandes grillées. La cuisine indienne utilise une variété d’épices. Telles que la cardamome, le cumin, la cannelle et le curcuma pour <a href="https://cuisinedebase.com/epices-en-cuisine-comment-booster-la-saveur-de-vos-recettes/">créer des plats épicés et aromatiques</a>. Il est important de comprendre les herbes et les épices les plus couramment utilisées dans chaque cuisine. Cela permet de créer des saveurs authentiques. Cependant, il est également important de ne pas craindre d’expérimenter et de combiner différents types d’herbes et d’épices. C’est la clé pour&nbsp;<strong>créer des saveurs uniques et personnelles</strong>.</p>
+<p>L’utilisation des herbes et des épices varie selon les différentes cuisines du monde. Par exemple, la cuisine asiatique utilise souvent des herbes telles que la coriandre, la menthe, le basilic thaï et le gingembre frais. Et ce dans le but de créer des saveurs complexes et équilibrées. La cuisine méditerranéenne utilise souvent des herbes comme le romarin, le thym, le basilic et l’origan. Afin de rehausser la saveur de plats tels que les pâtes, les pizzas et les viandes grillées. La cuisine indienne utilise une variété d’épices. Telles que la cardamome, le cumin, la cannelle et le curcuma pour créer des plats épicés et aromatiques. Il est important de comprendre les herbes et les épices les plus couramment utilisées dans chaque cuisine. Cela permet de créer des saveurs authentiques. Cependant, il est également important de ne pas craindre d’expérimenter et de combiner différents types d’herbes et d’épices. C’est la clé pour&nbsp;<strong>créer des saveurs uniques et personnelles</strong>.</p>
 
 
 
@@ -3025,7 +3025,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Id
 <figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?resize=407%2C229&amp;ssl=1" alt="repas de fêtes" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?resize=600%2C338&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/20181110_225330.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 407px) 100vw, 407px"></img><figcaption>Repas de fêtes de fin d’année</figcaption></figure></div>
 
 
-<p>Mais avant de commencer, sachez que je participe avec cet article a un événement interblogueur organisé par Julie&nbsp;l’auteure de&nbsp;<a href="https://petits-plats-faciles.com/"><u>Petits Plats Faciles</u></a>, un blog culinaire dédié à la cuisine facile, rapide et économique. J’ai particulièrement aimé cet article qui donne des <a href="https://petits-plats-faciles.com/que-faire-avec-du-pain-dur/" target="_blank" rel="noopener noreferrer">idées de recette avec du pain dur</a>.</p>
+<p>Mais avant de commencer, sachez que je participe avec cet article a un événement interblogueur organisé par Julie&nbsp;l’auteure de&nbsp;<a href="https://petits-plats-faciles.com/"><u>Petits Plats Faciles</u></a>, un blog culinaire dédié à la cuisine facile, rapide et économique. J’ai particulièrement aimé cet article qui donne des <a href="https://petits-plats-faciles.com/que-faire-avec-du-pain-dur/">idées de recette avec du pain dur</a>.</p>
 
 
 
@@ -3092,7 +3092,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Id
 
 
 
-<p>Et pour le dessert je vous propose de faire des verrines de <a href="https://cuisinedebase.com/mousse-au-chocolat/" target="_blank" rel="noopener noreferrer">mousse au chocolat</a>. Ainsi vous pouvez utiliser les blancs d’oeufs mis de côté suite à la confection de la mayonnaise. De cette manière vous luterez contre le gaspillage et vous réduirez à la même occasion le prix par portion de votre <strong>repas de fête de fin d’année</strong>.</p>
+<p>Et pour le dessert je vous propose de faire des verrines de mousse au chocolat. Ainsi vous pouvez utiliser les blancs d’oeufs mis de côté suite à la confection de la mayonnaise. De cette manière vous luterez contre le gaspillage et vous réduirez à la même occasion le prix par portion de votre <strong>repas de fête de fin d’année</strong>.</p>
 
 </div></article>,
 
@@ -3160,7 +3160,7 @@ const J32 = {
 
 
 <figure className="wp-block-embed is-type-wp-embed is-provider-cuisine-de-base wp-block-embed-cuisine-de-base"><div className="wp-block-embed__wrapper">
-<blockquote className="wp-embedded-content" data-secret="pqJA0EogXA"><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">Comment Faire L’inscription CAP Cuisine Candidat Libre</a></blockquote><iframe loading="lazy" className="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="«&nbsp;Comment Faire L’inscription CAP Cuisine Candidat Libre&nbsp;» — Cuisine De Base" src="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/embed/#?secret=8UCWR83LkV#?secret=pqJA0EogXA" data-secret="pqJA0EogXA" width="600" height="224"></iframe>
+<blockquote className="wp-embedded-content" data-secret="pqJA0EogXA">Comment Faire L’inscription CAP Cuisine Candidat Libre</blockquote><iframe loading="lazy" className="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="«&nbsp;Comment Faire L’inscription CAP Cuisine Candidat Libre&nbsp;» — Cuisine De Base" src="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/embed/#?secret=8UCWR83LkV#?secret=pqJA0EogXA" data-secret="pqJA0EogXA" width="600" height="224"></iframe>
 </div></figure>
 
 
@@ -3170,7 +3170,7 @@ const J32 = {
 
 
 <figure className="wp-block-embed is-type-wp-embed is-provider-cuisine-de-base wp-block-embed-cuisine-de-base"><div className="wp-block-embed__wrapper">
-<blockquote className="wp-embedded-content" data-secret="sftg5FHFzd"><a href="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/">Matériels du cuisinier, coutellerie, mallette de cuisine</a></blockquote><iframe loading="lazy" className="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="«&nbsp;Matériels du cuisinier, coutellerie, mallette de cuisine&nbsp;» — Cuisine De Base" src="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/embed/#?secret=Q7xwPJJph2#?secret=sftg5FHFzd" data-secret="sftg5FHFzd" width="600" height="224"></iframe>
+<blockquote className="wp-embedded-content" data-secret="sftg5FHFzd">Matériels du cuisinier, coutellerie, mallette de cuisine</blockquote><iframe loading="lazy" className="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="«&nbsp;Matériels du cuisinier, coutellerie, mallette de cuisine&nbsp;» — Cuisine De Base" src="https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/embed/#?secret=Q7xwPJJph2#?secret=sftg5FHFzd" data-secret="sftg5FHFzd" width="600" height="224"></iframe>
 </div></figure>
 
 
@@ -3183,7 +3183,7 @@ const J32 = {
 
 
 
-<p>&nbsp;<a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">6 Livres pour préparer le CAP cuisine en candidat libre.</a></p>
+<p>&nbsp;6 Livres pour préparer le CAP cuisine en candidat libre.</p>
 
 
 
@@ -3219,7 +3219,7 @@ const J32 = {
 
 
 
-<ul className="wp-block-list"><li><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">Épreuve CAP cuisine 2021. Les sujets de l’examen pratique</a></li><li><a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/">Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)</a></li><li><a href="https://cuisinedebase.com/cap-cuisine-session-2019-le-point-sur-les-examens-pratiques-en-3-questions/">CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</a></li></ul>
+<ul className="wp-block-list"><li>Épreuve CAP cuisine 2021. Les sujets de l’examen pratique</li><li>Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)</li><li>CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique</li></ul>
 
 
 
@@ -3227,7 +3227,7 @@ const J32 = {
 
 
 
-<ul className="wp-block-list"><li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction de l’épreuve EP1 2021. Examen CAP cuisine</a></li><li><a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">Épreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020.</a></li><li><a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">Correction EP1 Organisation de la production de cuisine session 2019</a></li></ul>
+<ul className="wp-block-list"><li>Correction de l’épreuve EP1 2021. Examen CAP cuisine</li><li>Épreuve CAP cuisine. Sujet et Correction de l’épreuve EP1 2020.</li><li>Correction EP1 Organisation de la production de cuisine session 2019</li></ul>
 
 
 
@@ -3247,15 +3247,15 @@ const J32 = {
 
 
 
-<p>Macédoine de légumes&nbsp;:&nbsp;<a href="https://cuisinedebase.com/fiche-technique-de-fabrication-macedoine-de-legumes-mayonnaise/">https://cuisinedebase.com/fiche-technique-de-fabrication-macedoine-de-legumes-mayonnaise/</a></p>
+<p>Macédoine de légumes&nbsp;:&nbsp;https://cuisinedebase.com/fiche-technique-de-fabrication-macedoine-de-legumes-mayonnaise/</p>
 
 
 
-<p>Et tarte aux pommes&nbsp;:&nbsp;<a href="https://cuisinedebase.com/tarte-aux-pommes/">https://cuisinedebase.com/tarte-aux-pommes/</a></p>
+<p>Et tarte aux pommes&nbsp;:&nbsp;https://cuisinedebase.com/tarte-aux-pommes/</p>
 
 
 
-<p>En complément, voici un article qui détaille les différence entre les coupes des légumes&nbsp;:&nbsp;<a href="https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/">https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/</a></p>
+<p>En complément, voici un article qui détaille les différence entre les coupes des légumes&nbsp;:&nbsp;https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/</p>
 
 
 
@@ -3293,7 +3293,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Le
 
 
 
-<p>Donc nous avons vu dans une vidéo précédente sur <a href="https://cuisinedebase.com/epreuves-pratiques-de-cap-cuisine-session-2020-candidat-libre/">toutes les épreuves de CAP cuisine</a>, que les matières générales sont au nombre de 4&nbsp;:</p>
+<p>Donc nous avons vu dans une vidéo précédente sur toutes les épreuves de CAP cuisine, que les matières générales sont au nombre de 4&nbsp;:</p>
 
 
 
@@ -3408,7 +3408,7 @@ Donc je vais détailler l’ensemble de ces 5 épreuves de matière générale, 
 
 
 
-<p>Voilà donc ça, c’est pour la langue vivante. L’épreuve obligatoire après, vous avez une 2e épreuve qui est facultative, de langue vivante. Elle est organisée quasiment de la même manière que l’épreuve obligatoire. Mais si vous voulez plus de renseignements Quant au passage de cette épreuve facultative, vous pouvez consulter <a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000604088/" target="_blank" rel="noopener noreferrer">les références</a> que vous avez devant vos yeux. En voilà donc, c’est des références qui sont faciles à retrouver sur Internet. Vous pouvez avoir plus de détails pour cette épreuve facultative de langue vivante.&nbsp;</p>
+<p>Voilà donc ça, c’est pour la langue vivante. L’épreuve obligatoire après, vous avez une 2e épreuve qui est facultative, de langue vivante. Elle est organisée quasiment de la même manière que l’épreuve obligatoire. Mais si vous voulez plus de renseignements Quant au passage de cette épreuve facultative, vous pouvez consulter <a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000604088/">les références</a> que vous avez devant vos yeux. En voilà donc, c’est des références qui sont faciles à retrouver sur Internet. Vous pouvez avoir plus de détails pour cette épreuve facultative de langue vivante.&nbsp;</p>
 
 
 
@@ -3454,7 +3454,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Ep
 
 <div className="mejs-inner"><div className="mejs-mediaelement"><figure><audio className="wp-audio-shortcode" id="audio-2529-1_html5" preload="none" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3?_=1"><source type="audio/mp3" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3?_=1"></source></audio></figure></div><div className="mejs-layers"><div className="mejs-poster mejs-layer"></div></div><div className="mejs-controls"><div className="mejs-button mejs-playpause-button mejs-play"></div></div></div>
 
-<p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3" >Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="04-EP1-EP2-PSE.mp3">Download</a> (Duration: 24:33 — 14.9MB)</p><p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+<p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/04-EP1-EP2-PSE.mp3">Download</a> (Duration: 24:33 — 14.9MB)</p><p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p>Dans ce nouvel épisode du podcast cuisine de base, je réponds à toutes les questions liées aux&nbsp;<strong>épreuves EP1 EP2 PSE</strong> de la partie professionnelle du <strong>CAP cuisine . </strong></p>
 
 
@@ -3486,7 +3486,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Ep
 
 
 
-<p>Continuez à me poser vos questions soit directement dans les commentaires en dessous des articles soit directement via la <a href="https://cuisinedebase.com/questions-cap-cuisine-candidat-libre/">page dédiées aux question réponse</a>.</p>
+<p>Continuez à me poser vos questions soit directement dans les commentaires en dessous des articles soit directement via la page dédiées aux question réponse.</p>
 
 </div></article>,
 
@@ -3579,7 +3579,7 @@ Dans une vidéo précédente, nous avons vu nous avons vu que le&nbsp;<strong>no
 
 
 
-<p>Sachez que vous pouvez trouver la&nbsp;<strong><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction EP1 session 2021 de cette épreuve</a></strong>&nbsp;sur le site <strong>cuisine de base</strong>. Vous pouvez la télécharger, je vous mettrai le lien dans. Dans la description de la vidéo.&nbsp;</p>
+<p>Sachez que vous pouvez trouver la&nbsp;<strong>Correction EP1 session 2021 de cette épreuve</strong>&nbsp;sur le site <strong>cuisine de base</strong>. Vous pouvez la télécharger, je vous mettrai le lien dans. Dans la description de la vidéo.&nbsp;</p>
 
 
 
@@ -3635,7 +3635,7 @@ Dans une vidéo précédente, nous avons vu nous avons vu que le&nbsp;<strong>no
 
 
 
-<p>OK. Voilà donc un exemple&nbsp;<strong><a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">d’épreuve des sujets de la session 2021</a></strong>&nbsp;? Les compétences visées sont les suivantes, compétences 3, 4, 5 et 6.&nbsp;<strong>carnet personnelle de technique professionnelle</strong>&nbsp;autorisé, donc ça c’est très important. C’est pour ça que je vous demande de tenir un carnet personnel dans lequel vous rentrez vos propres notes en fait ça soit quand même manuscrit, hein ? Cette ce garder vos propres notes techniques professionnelles donc. Vous pouvez mettre dedans. Grammage, je, je ne sais pas tout ce qui vous semble utile et vous pouvez le garder avec vous. Ça serait quand même dommage de ne pas se servir d’un carnet alors que vous vous y avez droit ?&nbsp;</p>
+<p>OK. Voilà donc un exemple&nbsp;<strong>d’épreuve des sujets de la session 2021</strong>&nbsp;? Les compétences visées sont les suivantes, compétences 3, 4, 5 et 6.&nbsp;<strong>carnet personnelle de technique professionnelle</strong>&nbsp;autorisé, donc ça c’est très important. C’est pour ça que je vous demande de tenir un carnet personnel dans lequel vous rentrez vos propres notes en fait ça soit quand même manuscrit, hein ? Cette ce garder vos propres notes techniques professionnelles donc. Vous pouvez mettre dedans. Grammage, je, je ne sais pas tout ce qui vous semble utile et vous pouvez le garder avec vous. Ça serait quand même dommage de ne pas se servir d’un carnet alors que vous vous y avez droit ?&nbsp;</p>
 
 
 
@@ -3743,11 +3743,11 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Cu
 
 
 
-<p>Les produits payants que vous pouvez trouver dans ce blog, généralement des <a href="https://cuisinedebase.com/categorie-produit/livres-ebook-pdf/">livres numériques à télécharger en format pdf</a>. Ces produits sont élaborés par mes propres moyens dont l’objectif est de vous aider à atteindre, mieux et rapidement vos objectifs. </p>
+<p>Les produits payants que vous pouvez trouver dans ce blog, généralement des livres numériques à télécharger en format pdf. Ces produits sont élaborés par mes propres moyens dont l’objectif est de vous aider à atteindre, mieux et rapidement vos objectifs. </p>
 
 
 
-<p>Il y’a aussi quelques produits d’affiliation que vous pouvez trouver par exemple dans la <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">sélection de livres pour CAP cuisine</a>. </p>
+<p>Il y’a aussi quelques produits d’affiliation que vous pouvez trouver par exemple dans la sélection de livres pour CAP cuisine. </p>
 
 
 
@@ -3863,7 +3863,7 @@ const J37 = {
 	
 	<span className="mejs-offscreen"></span><div id="mep_0" className="mejs-container mejs-container-keyboard-inactive wp-audio-shortcode mejs-audio" role="application" aria-label=""><div className="mejs-inner"><div className="mejs-mediaelement"><audio className="wp-audio-shortcode" id="audio-3163-1_html5" preload="none" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3?_=1"><source type="audio/mpeg" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3?_=1"></source><a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3">https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3</a></audio></div><div className="mejs-layers"><div className="mejs-poster mejs-layer"></div></div><div className="mejs-controls"><div className="mejs-button mejs-playpause-button mejs-play"></div></div></div></div>
 	
-	<p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3" >Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="07-Retour-experience-EP2-Interview-IA.mp3">Download</a> (Duration: 11:01 — 7.5MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p></p>
+	<p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2024/06/07-Retour-experience-EP2-Interview-IA.mp3">Download</a> (Duration: 11:01 — 7.5MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p></p>
 
 
 <div className="post-image">
@@ -3900,7 +3900,7 @@ Ou le télécharger sur votre téléphone ou tablette pour l’écouter plus tar
 
 
 
-<p>Pour avoir une idée sur l’épreuve d’EP2, vous pouvez voir des <a href="https://cuisinedebase.com/produit/sujets-ep2-epreuve-cap-cuisine-2021/">exemples de sujets d’EP2 des années passées dans cet article</a>.</p>
+<p>Pour avoir une idée sur l’épreuve d’EP2, vous pouvez voir des exemples de sujets d’EP2 des années passées dans cet article.</p>
 
 	</div></article>,
 	
@@ -3926,7 +3926,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Po
 
 <div id="mep_0" className="mejs-container wp-audio-shortcode mejs-audio" role="application" aria-label=""></div><div className="mejs-inner"></div><div className="mejs-mediaelement"></div><audio className="wp-audio-shortcode" id="audio-2684-1_html5" preload="none" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3?_=1"><source type="audio/mpeg" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3?_=1"></source><a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3">https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3</a></audio>
 
-<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="06-Correction-EP1-Session-2006.mp3">Download</a> (Duration: 26:43 — 22.9MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2023/03/06-Correction-EP1-Session-2006.mp3">Download</a> (Duration: 26:43 — 22.9MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p>Vous pouvez écouter le&nbsp;<strong>podcast correction de l’épreuve EP1</strong>&nbsp;directement sur cette page en appuyant sur le bouton en forme de triangle.</p>
 
 
@@ -3945,7 +3945,7 @@ Ou le télécharger sur votre téléphone ou tablette pour l’écouter plus tar
 
 
 
-<p>Vous pouvez aussi <a href="https://cuisinedebase.com/produit/corrige-de-epreuve-ep1-session-2006-cap-cuisine/" target="_blank" rel="noopener noreferrer">télécharger le corrigé en pdf qui correspond à cette épreuve EP1</a> en suivant le lien.</p>
+<p>Vous pouvez aussi télécharger le corrigé en pdf qui correspond à cette épreuve EP1 en suivant le lien.</p>
 
 </div></article>,
 
@@ -3969,9 +3969,9 @@ const J39 = {
 
 contenu: <article><div className="post-content"><h1 className="titre_article">Podcast épisode 5. Accompagnement CAP cuisine</h1>
 
-<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/12/05-Je-vous-coach-pour-preparer-le-CAP-cuisine_transcode.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/12/05-Je-vous-coach-pour-preparer-le-CAP-cuisine_transcode.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="05-Je-vous-coach-pour-preparer-le-CAP-cuisine_transcode.mp3">Download</a> (Duration: 6:25 — 7.4MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a>
+<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/12/05-Je-vous-coach-pour-preparer-le-CAP-cuisine_transcode.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/12/05-Je-vous-coach-pour-preparer-le-CAP-cuisine_transcode.mp3">Download</a> (Duration: 6:25 — 7.4MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS
 
-S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 
 
 <div className="post-image">
@@ -3989,7 +3989,7 @@ Ou le télécharger sur votre téléphone ou tablette pour l’écouter plus tar
 
 
 
-<p>Voici la page qui détaille le <a href="https://cuisinedebase.com/coaching/">coaching CAP cuisine en candidat libre</a>.</p>
+<p>Voici la page qui détaille le coaching CAP cuisine en candidat libre.</p>
 
 </div></article>,
 
@@ -4015,9 +4015,9 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Po
 
 <div className="mejs-inner"><div className="mejs-mediaelement"><audio className="wp-audio-shortcode" id="audio-2516-1_html5" preload="none" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3?_=1"><source type="audio/mpeg" src="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3?_=1"></source><a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3">https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3</a></audio></div><div className="mejs-layers"><div className="mejs-poster mejs-layer"></div></div><div className="mejs-controls"><div className="mejs-button mejs-playpause-button mejs-play"></div>
 
-<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3">Download</a> (Duration: 11:37 — 10.0MB)
+<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/08/03-Pdcast-Toutes-les-epreuves-CAP-cuisine.mp3">Download</a> (Duration: 11:37 — 10.0MB)
 
-<p></p>S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a>
+<p></p>S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS
 <p>Un nouvel épisode de podcast de cuisine de base. Cette fois ci le sujet est : <strong>podcast épreuves CAP cuisine</strong> candidat libre.</p>
 
 
@@ -4038,7 +4038,7 @@ contenu: <article><div className="post-content"><h1 className="titre_article">Po
 
 
 
-<p>Ecoutez aussi le<a href="https://cuisinedebase.com/podcast-stage-cap-cuisine-candidat-libre/"> podcast sur le stage de CAP cuisine</a>, obligatoire ou facultatif?</p>
+<p>Ecoutez aussi le podcast sur le stage de CAP cuisine, obligatoire ou facultatif?</p>
 
 
 
@@ -4078,7 +4078,7 @@ const J41 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Podcast stage CAP cuisine candidat libre</h1>
 	
-	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/07/Podcast-Foire-aux-questions-Stage.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/07/Podcast-Foire-aux-questions-Stage.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="Podcast-Foire-aux-questions-Stage.mp3">Download</a> (Duration: 10:26 — 6.7MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/07/Podcast-Foire-aux-questions-Stage.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/07/Podcast-Foire-aux-questions-Stage.mp3">Download</a> (Duration: 10:26 — 6.7MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p>Un nouvel épisode de podcast de cuisine de base. Cette fois ci le sujet est : podcast stage CAP cuisine candidat libre.</p>
 
 
@@ -4119,7 +4119,7 @@ const J42 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Les techniques à apprendre pour préparer le CAP cuisine. Podcast.</h1>
 	
-	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/05/podcast-les-25-recettes-et-techniques-de-base.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/05/podcast-les-25-recettes-et-techniques-de-base.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="podcast-les-25-recettes-et-techniques-de-base.mp3">Download</a> (Duration: 32:55 — 18.3MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/05/podcast-les-25-recettes-et-techniques-de-base.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2022/05/podcast-les-25-recettes-et-techniques-de-base.mp3">Download</a> (Duration: 32:55 — 18.3MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p> Bonjour et bienvenu Dans ce nouvel épisode de cuisine de base. Dans cet épisode vous découvrirez les <strong>techniques à apprendre</strong> pour le CAP cuisine en candidat libre.</p>
 
 
@@ -4136,11 +4136,11 @@ Vous pouvez aussi le télécharger sur votre téléphone ou tablette et l’éco
 
 
 
-<p><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">Les 25 fiches techniques pour préparer le CAP cuisine.</a></p>
+<p>Les 25 fiches techniques pour préparer le CAP cuisine.</p>
 
 
 
-<a href="https://cuisinedebase.com/produit/25-fiches-techniques-pour-preparer-le-cap-cuisine/">Les fiches techniques au format pdf à télécharger.</a>
+Les fiches techniques au format pdf à télécharger.
 
 	</div></article>,
 	
@@ -4164,7 +4164,7 @@ const J43 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?</h1>
 	
-	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="podcast-3-quoi-faire-apres-cap-cuisine.mp3">Download</a> (Duration: 13:40 — 8.4MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3">Download</a> (Duration: 13:40 — 8.4MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 
 <p>Chères lectrices, Chers lecteurs,</p>
 
@@ -4194,7 +4194,7 @@ Dans cet épisode je vous parle de certaines <strong>activités que l’on peut 
 
 
 
-<p>Pour écouter <a href="https://cuisinedebase.com/podcast-2-les-qualites-comportements-et-traits-de-caractere-d-un-bon-cuisinier/">l’ancien épisode du <strong>podcast CAP cuisine</strong></a></p>
+<p>Pour écouter l’ancien épisode du <strong>podcast CAP cuisine</strong></p>
 
 
 
@@ -4222,7 +4222,7 @@ Dans cet épisode je vous parle de certaines <strong>activités que l’on peut 
 
 
 
-<p>Pour Écouter le podcast en live, <a href="https://media.blubrry.com/cuisinedebase/p/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3" target="_blank" rel="noopener noreferrer">lancez tout simplement le lecteur au dessus de ce post</a>.</p>
+<p>Pour Écouter le podcast en live, <a href="https://media.blubrry.com/cuisinedebase/p/cuisinedebase.com/wp-content/uploads/2019/11/podcast-3-quoi-faire-apres-cap-cuisine.mp3">lancez tout simplement le lecteur au dessus de ce post</a>.</p>
 
 	</div></article>,
 	
@@ -4246,7 +4246,7 @@ const J44 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Podcast 2. Les qualités, comportements et traits de caractère d’un bon cuisinier</h1>
 	
-	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-2.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-2.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="podcast-2.mp3">Download</a> (Duration: 15:05 — 9.5MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-2.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/11/podcast-2.mp3">Download</a> (Duration: 15:05 — 9.5MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p>Chers lecteurs, voici le deuxième épisode de ma série de podcast sur <strong>l’apprentissage de la cuisine de base</strong>. Ce deuxième épisode révèle les qualités d’un <strong>bon cuisinier</strong>.</p>
 
 
@@ -4263,7 +4263,7 @@ const J44 = {
 
 
 
-<p>Pour écouter l’épisode précédent, <a href="https://cuisinedebase.com/podcast-introduction-lapprentissage-de-la-cuisine/">voici le lien</a></p>
+<p>Pour écouter l’épisode précédent, voici le lien</p>
 
 
 
@@ -4275,7 +4275,7 @@ const J44 = {
 
 
 
-<p>Pour Écouter le podcast en live, <a href="https://cuisinedebase.com/wp-content/uploads/2019/11/podcast-2.mp3" target="_blank" rel="noopener noreferrer">lancez tout simplement le lecteur au dessus de ce post</a>.</p>
+<p>Pour Écouter le podcast en live, lancez tout simplement le lecteur au dessus de ce post.</p>
 
 
 	</div></article>,
@@ -4300,7 +4300,7 @@ const J45 = {
 
 	contenu: <article><div className="post-content"><h1 className="titre_article">Podcast. Comment apprendre à cuisiner</h1>
 	
-	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/10/podcast-1.mp3" className="powerpress_link_pinw" target="_blank" title="Play in new window" rel="noopener noreferrer">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/10/podcast-1.mp3" className="powerpress_link_d" title="Download" rel="nofollow" download="podcast-1.mp3">Download</a> (Duration: 29:53 — 19.8MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1" className="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="noopener noreferrer">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW" className="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="noopener noreferrer">Spotify</a> | <a href="https://www.deezer.com/show/3644957" className="powerpress_link_subscribe powerpress_link_subscribe_deezer" target="_blank" title="Subscribe on Deezer" rel="noopener noreferrer">Deezer</a> | <a href="https://cuisinedebase.com/feed/podcast/" className="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="noopener noreferrer">RSS</a></p>
+	<p></p>Podcast: <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/10/podcast-1.mp3">Play in new window</a> | <a href="https://media.blubrry.com/cuisinedebase/cuisinedebase.com/wp-content/uploads/2019/10/podcast-1.mp3">Download</a> (Duration: 29:53 — 19.8MB)<p className="powerpress_links powerpress_subscribe_links">S'inscrire au podcast via une plateforme <a href="https://podcasts.apple.com/us/podcast/cuisine-de-base/id1621607272?mt=2&amp;ls=1">Apple Podcasts</a> | <a href="https://open.spotify.com/show/1O0MAaNoqUfcUvPfMxFVkW">Spotify</a> | <a href="https://www.deezer.com/show/3644957">Deezer</a> | RSS</p>
 <p>Chers lecteurs, j’inaugure avec ce post mon premier podcast, qui est un résumé de ce que un cuisinier devrait savoir avant de commencer sa formation de cuisine. Le podcast s’intitule <strong>comment apprendre à cuisiner</strong>.</p>
 
 
@@ -4329,7 +4329,7 @@ On peut se poser la question pourquoi un podcast ?
 
 
 
-<p>Pour écouter les autres <a href="https://cuisinedebase.com/category/podcasts/">podcasts de cuisine de base</a> cliquez ici.</p>
+<p>Pour écouter les autres podcasts de cuisine de base cliquez ici.</p>
 
 	</div></article>,
 	
@@ -4418,7 +4418,7 @@ const R1 = {
 
 
 
-<p>Les <strong><a href="https://cuisinedebase.com/mention-complementaire-cuisine-formation/">diplômés de la mention complémentaire cuisine</a></strong> peuvent trouver un emploi dans <strong>différents types d’établissements de restauration</strong>, tels que :</p>
+<p>Les <strong>diplômés de la mention complémentaire cuisine</strong> peuvent trouver un emploi dans <strong>différents types d’établissements de restauration</strong>, tels que :</p>
 
 
 
@@ -4588,7 +4588,7 @@ const R2 = {
 
 
 
-<p>Tout d’abord, il est important de comprendre que le succès d’un restaurant ne repose pas seulement sur la qualité de la cuisine. Il faut également être capable de gérer les aspects financiers, juridiques et administratifs de l’entreprise. Alors, la première étape est de dresser une<a href="https://cuisinedebase.com/les-competences-indispensables-pour-ouvrir-un-restaurant/"> liste des compétences nécessaires pour ouvrir et gérer un restaurant</a>. Cela inclut des compétences culinaires de base telles que la préparation de plats et la connaissance des ingrédients. Mais aussi des compétences en gestion, telles que la comptabilité, la gestion des stocks et la gestion des employés. Ainsi, si vous n’avez jamais géré une entreprise auparavant, il est important de vous former ou de vous entourer de professionnels compétents pour vous accompagner dans cette étape.</p>
+<p>Tout d’abord, il est important de comprendre que le succès d’un restaurant ne repose pas seulement sur la qualité de la cuisine. Il faut également être capable de gérer les aspects financiers, juridiques et administratifs de l’entreprise. Alors, la première étape est de dresser une liste des compétences nécessaires pour ouvrir et gérer un restaurant. Cela inclut des compétences culinaires de base telles que la préparation de plats et la connaissance des ingrédients. Mais aussi des compétences en gestion, telles que la comptabilité, la gestion des stocks et la gestion des employés. Ainsi, si vous n’avez jamais géré une entreprise auparavant, il est important de vous former ou de vous entourer de professionnels compétents pour vous accompagner dans cette étape.</p>
 
 
 
@@ -4666,7 +4666,7 @@ const R3 = {
 
 
 
-<p>Pour acquérir ces compétences, il est essentiel de <a href="https://cuisinedebase.com/cinq-astuces-pour-reussir-une-formation-acceleree-de-cap-cuisine/">suivre une&nbsp;<strong>formation de CAP cuisine</strong></a>.&nbsp;Il s’agit d’un diplôme de niveau V qui permet d’apprendre les bases de la cuisine française. La durée de la formation en initial est de deux ans. Mais il est possible de l’effectuer en candidat libre. En effet, le CAP Cuisine est le choix idéal si vous cherchez à apprendre les bases de la cuisine française. Aussi à acquérir des compétences pratiques rapidement.</p>
+<p>Pour acquérir ces compétences, il est essentiel de suivre une&nbsp;<strong>formation de CAP cuisine</strong>.&nbsp;Il s’agit d’un diplôme de niveau V qui permet d’apprendre les bases de la cuisine française. La durée de la formation en initial est de deux ans. Mais il est possible de l’effectuer en candidat libre. En effet, le CAP Cuisine est le choix idéal si vous cherchez à apprendre les bases de la cuisine française. Aussi à acquérir des compétences pratiques rapidement.</p>
 
 
 <div className="post-image">
@@ -4797,7 +4797,7 @@ const R4 = {
 
 
 
-<p>Alors une fois que vous avez <strong>bien pensé</strong> et bien pesé le <strong>pour et le contre</strong>, et vous vous êtes décidé de vous <strong>lancer dans l’aventure</strong>, vous devez commencer par penser au <strong>concept</strong> de votre future <strong>restaurant</strong>, quel <strong>type de cuisine</strong> vous comptez faire, quelles expériences vous aimeriez <strong>offrir à vos clients</strong>… et pour cela il faudra commencer par faire une <strong>étude de marché</strong>. Cette étude ne doit pas être prise à la légère, mais ne vous vous compliquez pas la vie non plus, servez vous de la <strong>technologie</strong> pour aller plus vite et pour avoir des <strong>résultats plus pertinents</strong>, servez vous par exemple de l’outil <a href="https://www.insee.fr/fr/accueil" target="_blank" rel="noopener noreferrer">Odil</a>, mis en place gratuitement par <strong>l’INSEE</strong>, et qui pourra vous donner des <strong>statistiques sur l’activité</strong> que vous envisagez <strong>d’exercer</strong> ainsi que sur l’endroit et les <strong>habitudes</strong> des habitants…</p>
+<p>Alors une fois que vous avez <strong>bien pensé</strong> et bien pesé le <strong>pour et le contre</strong>, et vous vous êtes décidé de vous <strong>lancer dans l’aventure</strong>, vous devez commencer par penser au <strong>concept</strong> de votre future <strong>restaurant</strong>, quel <strong>type de cuisine</strong> vous comptez faire, quelles expériences vous aimeriez <strong>offrir à vos clients</strong>… et pour cela il faudra commencer par faire une <strong>étude de marché</strong>. Cette étude ne doit pas être prise à la légère, mais ne vous vous compliquez pas la vie non plus, servez vous de la <strong>technologie</strong> pour aller plus vite et pour avoir des <strong>résultats plus pertinents</strong>, servez vous par exemple de l’outil <a href="https://www.insee.fr/fr/accueil">Odil</a>, mis en place gratuitement par <strong>l’INSEE</strong>, et qui pourra vous donner des <strong>statistiques sur l’activité</strong> que vous envisagez <strong>d’exercer</strong> ainsi que sur l’endroit et les <strong>habitudes</strong> des habitants…</p>
 
 
 
@@ -4919,7 +4919,7 @@ const R5 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://amzn.to/2ZC5CDK"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/couverture-business-plan-2.jpg" alt="couverture-business-plan" title="couverture-business-plan"></img></a><figcaption><a href="https://amzn.to/2ZC5CDK" target="_blank" rel="noopener noreferrer">Business plan traiteur chef à domicile</a></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://amzn.to/2ZC5CDK"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/couverture-business-plan-2.jpg" alt="couverture-business-plan" title="couverture-business-plan"></img></a><figcaption><a href="https://amzn.to/2ZC5CDK">Business plan traiteur chef à domicile</a></figcaption></figure></div>
 
 
 
@@ -4939,7 +4939,7 @@ const R5 = {
 
 
 
-<ul className="wp-block-list"><li>partie 1: tout d’abord la première partie une <strong>description détaillée</strong> de mon <strong>parcours</strong>, mes <strong>compétences</strong> et les raisons qui m’ont poussé à faire ce projet.</li><li>Partie 2: <strong>étude de marché</strong>. Cette partie consiste à décrire le marché ainsi que les acteurs qui participent à sa création, j’ai détaillé tous les <strong>concurrents</strong> présents dans mon secteur, les <strong>clients</strong>, les <strong>fournisseurs</strong> ainsi que tout ceux qui sont en relation de près ou de loin avec cette activité. Pour effectuer mon étude de marché, je me suis basé sur les études <strong>statistiques</strong> de <a href="https://www.insee.fr/fr/accueil" target="_blank" rel="noopener noreferrer">l’insee</a>, ainsi que des informations données par les mairies des secteurs où je comptais m’implanter</li><li>Partie 3: <strong>analyse de la concurrence</strong>. Cette étape est très importante dans la création du <strong>modèle économique</strong>, elle consiste à identifier les concurrents directs et indirects, d’analyser leurs offres et de trouver une méthode pour créer une <strong>offre irrésistible</strong> et <strong>différente de la concurrence</strong>.</li></ul>
+<ul className="wp-block-list"><li>partie 1: tout d’abord la première partie une <strong>description détaillée</strong> de mon <strong>parcours</strong>, mes <strong>compétences</strong> et les raisons qui m’ont poussé à faire ce projet.</li><li>Partie 2: <strong>étude de marché</strong>. Cette partie consiste à décrire le marché ainsi que les acteurs qui participent à sa création, j’ai détaillé tous les <strong>concurrents</strong> présents dans mon secteur, les <strong>clients</strong>, les <strong>fournisseurs</strong> ainsi que tout ceux qui sont en relation de près ou de loin avec cette activité. Pour effectuer mon étude de marché, je me suis basé sur les études <strong>statistiques</strong> de <a href="https://www.insee.fr/fr/accueil">l’insee</a>, ainsi que des informations données par les mairies des secteurs où je comptais m’implanter</li><li>Partie 3: <strong>analyse de la concurrence</strong>. Cette étape est très importante dans la création du <strong>modèle économique</strong>, elle consiste à identifier les concurrents directs et indirects, d’analyser leurs offres et de trouver une méthode pour créer une <strong>offre irrésistible</strong> et <strong>différente de la concurrence</strong>.</li></ul>
 
 
 
@@ -5017,7 +5017,7 @@ const R6 = {
 
 
 
-<p><span >Avant de continuer, si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/"><span >les 25 recettes à maitriser</span></a><span > pour passer le </span><a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/"><span >CAP cuisine en candidat libre</span></a><span > et le </span><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/"><span >planning détaillé</span></a><span > pour les travailler.</span></p>
+<p><span >Avant de continuer, si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple </span><span >les 25 recettes à maitriser</span><span > pour passer le </span><span >CAP cuisine en candidat libre</span><span > et le </span><span >planning détaillé</span><span > pour les travailler.</span></p>
 
 
 
@@ -5136,7 +5136,7 @@ const R7 = {
 
 
 
-<p><span>Si vous souhaitez savoir un peu plus sur le quotidien d’un cuisinier, cliquez ici pour découvrir </span><a href="https://cuisinedebase.com/la-lettre-que-tout-amateur-ou-professionnel-de-cuisine-aurait-aime-recevoir-avant-de-se-lancer/"><span>quelques raisons qui peuvent vous aider à vous lancer dans la cuisine</span></a>.</p>
+<p><span>Si vous souhaitez savoir un peu plus sur le quotidien d’un cuisinier, cliquez ici pour découvrir </span><span>quelques raisons qui peuvent vous aider à vous lancer dans la cuisine</span>.</p>
 
 
 
@@ -5217,7 +5217,7 @@ const R8 = {
 
 
 
-<h2 className="sous_titre"><strong><a href="https://cuisinedebase.com/cap-cuisine-les-defis-du-candidat-libre/" target="_blank" rel="noopener noreferrer">Les défis du candidat libre au CAP cuisine</a></strong></h2>
+<h2 className="sous_titre"><strong>Les défis du candidat libre au CAP cuisine</strong></h2>
 
 
 
@@ -5225,7 +5225,7 @@ const R8 = {
 
 
 
-<p>Les candidats libres doivent se <strong>fixer leurs propres horaires d’étude</strong> et de pratique, ce qui peut être difficile à concilier avec d’autres engagements. Ils doivent également trouver <strong>leurs propres ressources</strong>, telles que des <a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/">livres de cuisine</a>, des vidéos pédagogiques et des forums en ligne. Enfin, ils doivent trouver la motivation et le soutien nécessaires pour réussir, ce qui peut être difficile sans l’encadrement d’un établissement éducatif.</p>
+<p>Les candidats libres doivent se <strong>fixer leurs propres horaires d’étude</strong> et de pratique, ce qui peut être difficile à concilier avec d’autres engagements. Ils doivent également trouver <strong>leurs propres ressources</strong>, telles que des livres de cuisine, des vidéos pédagogiques et des forums en ligne. Enfin, ils doivent trouver la motivation et le soutien nécessaires pour réussir, ce qui peut être difficile sans l’encadrement d’un établissement éducatif.</p>
 
 
 
@@ -5237,7 +5237,7 @@ const R8 = {
 
 
 
-<p>Les <strong>candidats libres au CAP cuisine</strong> doivent passer deux sortes d’épreuves, des&nbsp;<a href="https://cuisinedebase.com/dcryptage-des-preuves-crites-du-cap-cuisine/">épreuves écrites</a>&nbsp;et des&nbsp;<a href="https://cuisinedebase.com/dcryptage-de-lpreuve-pratique-du-cap-cuisine/">épreuves pratiques</a>.</p>
+<p>Les <strong>candidats libres au CAP cuisine</strong> doivent passer deux sortes d’épreuves, des&nbsp;épreuves écrites&nbsp;et des&nbsp;épreuves pratiques.</p>
 
 
 
@@ -5307,7 +5307,7 @@ const R8 = {
 
 
 
-<p>Les épreuves sont sous forme d’exercices de cas pratiques, les candidats libres au CAP cuisine peuvent répondre à une bonne partie des questions en comptant sur leur bon sens. Mais il est&nbsp;<strong>fortement conseillé de les préparer convenablement</strong>&nbsp;avec des&nbsp;<a href="https://cuisinedebase.com/livre-avoir-pour-apprendre-les-bases-de-la-cuisine-cap-cuisine/"><strong>livres pour préparer le CAP cuisine</strong>&nbsp;</a>ou des cours. Et de faire au moins&nbsp;<strong>deux ou trois annales</strong>&nbsp;des années précédentes. Vous pouvez travailler les épreuves écrites avec la&nbsp;<a href="https://cuisinedebase.com/correction-ep1-organisation-de-la-production-de-cuisine-session-2019/">correction EP1 sessions 2019</a> et de la <a href="https://cuisinedebase.com/correction-epreuve-ep1-2020-organisation-production-cap-cuisine/">correction EP1 session 2020</a>.</p>
+<p>Les épreuves sont sous forme d’exercices de cas pratiques, les candidats libres au CAP cuisine peuvent répondre à une bonne partie des questions en comptant sur leur bon sens. Mais il est&nbsp;<strong>fortement conseillé de les préparer convenablement</strong>&nbsp;avec des&nbsp;<strong>livres pour préparer le CAP cuisine</strong>&nbsp;ou des cours. Et de faire au moins&nbsp;<strong>deux ou trois annales</strong>&nbsp;des années précédentes. Vous pouvez travailler les épreuves écrites avec la&nbsp;correction EP1 sessions 2019 et de la correction EP1 session 2020.</p>
 
             </div>
         </div>
@@ -5364,7 +5364,7 @@ const R9 = {
 
 
 
-<p><span>Ensuite la soif d’apprendre, un cuisinier est un <strong>perpétuel apprenti</strong>, en effet, si les techniques de base restent les mêmes durant plusieurs décennies, les habitudes des gens et <strong>les produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer <a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">d’apprendre le métier de cuisinier</a> et de <strong>se former</strong> est le seul moyen de continuer de vivre avec son époque et pourquoi pas être acteur de <strong>la gastronomie de demain</strong>.</span></p>
+<p><span>Ensuite la soif d’apprendre, un cuisinier est un <strong>perpétuel apprenti</strong>, en effet, si les techniques de base restent les mêmes durant plusieurs décennies, les habitudes des gens et <strong>les produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer d’apprendre le métier de cuisinier et de <strong>se former</strong> est le seul moyen de continuer de vivre avec son époque et pourquoi pas être acteur de <strong>la gastronomie de demain</strong>.</span></p>
 
 
 
@@ -5372,7 +5372,7 @@ const R9 = {
 
 
 
-<p><span>Puis <strong>l’innovation</strong>, cet élément est probablement le plus personnel de tous, d’une part parce que si on demande à deux cuisinier de fabriquer un même <strong>plat de référence</strong>, une quiche lorraine par exemple, ils vont probablement suivre les mêmes étapes et choisir <strong>les mêmes ingrédients</strong> mais le résultat final sera rarement le même, cela est dû au fait de la <strong>touche personnel</strong> de chacun. Et d’autre part, une cuisine est un immense laboratoire où on peut <strong>expérimenter</strong> des idées, <strong>innover</strong> des recettes ou bien sûr d’en <strong>inventer</strong> des nouvelles, il suffit <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">d’apprendre les bases</a> et de se laisser entraîner par son imagination.</span></p>
+<p><span>Puis <strong>l’innovation</strong>, cet élément est probablement le plus personnel de tous, d’une part parce que si on demande à deux cuisinier de fabriquer un même <strong>plat de référence</strong>, une quiche lorraine par exemple, ils vont probablement suivre les mêmes étapes et choisir <strong>les mêmes ingrédients</strong> mais le résultat final sera rarement le même, cela est dû au fait de la <strong>touche personnel</strong> de chacun. Et d’autre part, une cuisine est un immense laboratoire où on peut <strong>expérimenter</strong> des idées, <strong>innover</strong> des recettes ou bien sûr d’en <strong>inventer</strong> des nouvelles, il suffit d’apprendre les bases et de se laisser entraîner par son imagination.</span></p>
 
 
 
@@ -5388,11 +5388,11 @@ const R9 = {
 
 
 
-<p><span><a href="https://cuisinedebase.com/apprenez-cuisiner-pour-mieux-vous-alimenter/">Apprendre la cuisine pour une meilleure alimentation</a></span></p>
+<p><span>Apprendre la cuisine pour une meilleure alimentation</span></p>
 
 
 
-<p><span><a href="https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sante/">Apprendre la cuisine pour rester en bonne santé</a></span></p>
+<p><span>Apprendre la cuisine pour rester en bonne santé</span></p>
 
 
 
@@ -5400,7 +5400,7 @@ const R9 = {
 
 
 
-<p><span>En effet, il est évident que manger est un <strong>besoin fondamental</strong>, mais si on s’accorde à dire que par rapport à notre environnement propre et notre civilisation nous pouvons le considérer <strong>comme un plaisir</strong>. De ce fait, le cuisinier étant la personne qui fabrique le manger, <strong>il fourni par conséquent du plaisir aux gens</strong> qui consomment sa cuisine. C’est l’une des raisons qui poussent les gens à se <a href="https://cuisinedebase.com/se-reconvertir-dans-la-restauration-pour-changer-de-vie/">reconvertir dans la restauration</a>.</span></p>
+<p><span>En effet, il est évident que manger est un <strong>besoin fondamental</strong>, mais si on s’accorde à dire que par rapport à notre environnement propre et notre civilisation nous pouvons le considérer <strong>comme un plaisir</strong>. De ce fait, le cuisinier étant la personne qui fabrique le manger, <strong>il fourni par conséquent du plaisir aux gens</strong> qui consomment sa cuisine. C’est l’une des raisons qui poussent les gens à se reconvertir dans la restauration.</span></p>
 
 
 
@@ -5627,11 +5627,11 @@ const V2 = {
 
 
 
-<p>Vous pouvez consultez l’analyse des épreuves pratiques de la session 2021 en suivant le lien suivant: les <a href="https://cuisinedebase.com/epreuve-cap-cuisine-2021-les-sujets-de-lexamen-pratique/">sujets EP2 2021</a>.</p>
+<p>Vous pouvez consultez l’analyse des épreuves pratiques de la session 2021 en suivant le lien suivant: les sujets EP2 2021.</p>
 
 
 
-<p>Aussi, vous pouvez consulte ou télécharger la <strong>correction de l’épreuve EP1</strong> de la session 2021 en suivant le lien: <strong><a href="https://cuisinedebase.com/correction-epreuve-ep1-2021-examen-cap-cuisine/">Correction épreuve EP1 session 2021</a></strong></p>
+<p>Aussi, vous pouvez consulte ou télécharger la <strong>correction de l’épreuve EP1</strong> de la session 2021 en suivant le lien: <strong>Correction épreuve EP1 session 2021</strong></p>
 
 
 
@@ -5857,7 +5857,7 @@ const V3 = {
 
 
 
-<p>Déjà, avant de répondre à ces questions, sachez que si vous êtes en candidat libre, si vous passez le cap cuisine en candidat libre. Avant 2023 Le stage n’était pas obligatoire, mais <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-stage-obligatoire-ou-facultatif/">le stage CAP cuisine candidat libre</a> est devenu obligatoire à partir de la réforme de 2023. En revanche, il est très conseillé de le faire, donc je le conseille fortement. Ça vous permet de côtoyer des vrais cuisiniers et d’avoir leur conseil. Et bien sûr, ils peuvent. Corriger si jamais vous faites des erreurs.&nbsp;</p>
+<p>Déjà, avant de répondre à ces questions, sachez que si vous êtes en candidat libre, si vous passez le cap cuisine en candidat libre. Avant 2023 Le stage n’était pas obligatoire, mais le stage CAP cuisine candidat libre est devenu obligatoire à partir de la réforme de 2023. En revanche, il est très conseillé de le faire, donc je le conseille fortement. Ça vous permet de côtoyer des vrais cuisiniers et d’avoir leur conseil. Et bien sûr, ils peuvent. Corriger si jamais vous faites des erreurs.&nbsp;</p>
 
             </div>
         </div>
@@ -5903,14 +5903,14 @@ const VA1 = {
 <li>
 <h2>Elle prendra fin bien sûr à l’âge de la retraite, mais à condition, qu’on ait suffisamment cotisé pour toucher une indemnité descente et qu’on ait fini de rembourser les différents crédits, de la maison, de la voiture, de consommation, … </h2>
 </li><li>
-<h2>Le deuxième scénario est celui que je préfère et que je préconise, il consiste à prendre son destin en main et de quitter la course des rats vers une course de bien être et de bonheur. Et ce n’est pas les nombreux salariés qui tentent chaque année une <u><a href="https://cuisinedebase.com/se-reconvertir-dans-la-restauration-pour-changer-de-vie/">reconversion professionnelle</a></u> vers un travail manuel, et en rapport avec une de leurs passions, qui diront le contraire.</h2>
+<h2>Le deuxième scénario est celui que je préfère et que je préconise, il consiste à prendre son destin en main et de quitter la course des rats vers une course de bien être et de bonheur. Et ce n’est pas les nombreux salariés qui tentent chaque année une <u>reconversion professionnelle</u> vers un travail manuel, et en rapport avec une de leurs passions, qui diront le contraire.</h2>
 </li>
 </ol>
-<p>Quitter son train train quotidien n’est pas une chose facile, il faut avoir des objectifs précis, et tenir à <u><a href="https://cuisinedebase.com/une-mthode-simple-pour-tenir-ses-engagements-et-appliquer-ses-bonnes-rsolutions/">respecter ses bonne résolutions</a></u>. Une reconversion professionnelle ne doit pas se faire à la légère, il faut qu’elle soit bien préparée en pesant le pour et le contre.  </p>
+<p>Quitter son train train quotidien n’est pas une chose facile, il faut avoir des objectifs précis, et tenir à <u>respecter ses bonne résolutions</u>. Une reconversion professionnelle ne doit pas se faire à la légère, il faut qu’elle soit bien préparée en pesant le pour et le contre.  </p>
 <p><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash.jpg?ssl=1"><img data-recalc-dims="1" loading="lazy" decoding="async" title="dylan-nolte-576808-unsplash" alt="dylan-nolte-576808-unsplash" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/dylan-nolte-576808-unsplash_thumb.jpg"></img></a>&nbsp;L’image décrit des personnes en train de travailler dans un bâtiment de bureaux. La question qu’on peut se poser est quelle est la différence entre eux et les frères Dalton lorsque ces derniers sont derrière les barreaux…?  </p>
 <h2 className="post-image">Un cuisinier professionnel peut exercer plusieurs métiers</h2>
-<p>Un des métiers que j’aurais aimé exercer est celui d’un chef dans un restaurant, pour moi <u><a href="https://cuisinedebase.com/la-lettre-que-tout-amateur-ou-professionnel-de-cuisine-aurait-aime-recevoir-avant-de-se-lancer/">les chefs cuisiniers ont tellement de qualités</a></u> que je les considère comme des personnes qui vendent du plaisir tout en se faisant plaisir. En apprenant la cuisine, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux …. C’est une des raisons pour laquelle les centres de formations voient arriver des personnes passionnées souhaitant se former en cuisine, et pour pouvoir vivre de leur passion, il y a <a href="https://cuisinedebase.com/huit-activits-quon-peut-faire-aprs-une-formation-de-cuisinier/">plusieurs activités ou métiers</a> qu’ils peuvent faire, j’en ai détaillé huit dans un précédent article comme par exemple: chef à domicile, traiteur, formateur, …  </p>
-<p>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u><a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">quelques recettes</a></u>, qu’on peut facilement apprendre en suivant <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">les conseilles que j’ai réunis dans cet article</a><u></u>, on peut passer un CAP cuisine en tant que candidat libre. Et pour vous aider dans ce projet, je vous ai fait un <u><a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">programme d’entraînement</a> </u>qui peut vous aider à préparer ce diplôme en 6 mois.  </p>
+<p>Un des métiers que j’aurais aimé exercer est celui d’un chef dans un restaurant, pour moi <u>les chefs cuisiniers ont tellement de qualités</u> que je les considère comme des personnes qui vendent du plaisir tout en se faisant plaisir. En apprenant la cuisine, on apprend aussi à être rigoureux, stricte, perfectionniste, généreux …. C’est une des raisons pour laquelle les centres de formations voient arriver des personnes passionnées souhaitant se former en cuisine, et pour pouvoir vivre de leur passion, il y a plusieurs activités ou métiers qu’ils peuvent faire, j’en ai détaillé huit dans un précédent article comme par exemple: chef à domicile, traiteur, formateur, …  </p>
+<p>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u>quelques recettes</u>, qu’on peut facilement apprendre en suivant les conseilles que j’ai réunis dans cet article<u></u>, on peut passer un CAP cuisine en tant que candidat libre. Et pour vous aider dans ce projet, je vous ai fait un <u>programme d’entraînement </u>qui peut vous aider à préparer ce diplôme en 6 mois.  </p>
 <p>Il est temps d’arrêter de travailler pour le travail et de toujours courir pour acheter toutes les choses qu’on a envie de posséder, mais sans forcément en avoir besoin. Faire de sa passion son propre travail pour quitter la rat race pour une véritable course vers le bonheur.</p>
 
             </div>
@@ -5979,11 +5979,11 @@ const E1 = {
 
 
 
-<p>Cet article participe à l’évènement “Votre meilleure astuce pour&nbsp;appliquer&nbsp;vos bonnes résolutions” du blog&nbsp;<a href="https://devenez-meilleur.co/" target="_blank" rel="noopener noreferrer">Devenez meilleur</a>. Mon article préféré est&nbsp;<a href="https://devenez-meilleur.co/quest-ce-que-le-respect/" target="_blank" rel="noopener noreferrer">celui-ci</a>.</p>
+<p>Cet article participe à l’évènement “Votre meilleure astuce pour&nbsp;appliquer&nbsp;vos bonnes résolutions” du blog&nbsp;<a href="https://devenez-meilleur.co/">Devenez meilleur</a>. Mon article préféré est&nbsp;<a href="https://devenez-meilleur.co/quest-ce-que-le-respect/">celui-ci</a>.</p>
 
 
 
-<p><strong>Cuisinedebase</strong> est un blog qui aide les personnes qui souhaitent <strong>passer le CAP cuisine en candidat libre</strong> à <strong>bien s’organiser et préparer les épreuves pratiques</strong>. Personnellement, je pense que c’est suffisant de bien préparer le <strong>CAP cuisine à distance</strong> en seulement <strong>6 mois</strong>. Si vous envisagez <strong><a href="https://cuisinedebase.com/programme-de-coaching-pour-vous-aider-obtenir-le-cap-cuisine/" title="Cuisiner comme un PRO! Le programme qui vous aide à réussir le CAP cuisine">de préparer le CAP cuisine à distance et en solo</a></strong>. voici une application concrète de l’astuce précédente, au lieu de faire des résolutions à l’année (comme : <strong>Préparer les épreuves écrites et pratiques pour réussir le CAP cuisine</strong>), faites des résolutions pour les 60 prochains jours (comme: <strong>Faire 6 recettes qui permettent de préparer les épreuves pratiques et 2 examen blanc</strong>). Ne pensez même pas au reste de l’année. Et quand la résolution n’est plus excitante en Février, devinez quoi… vous avez déjà fait un tiers ! Vous n’allez pas abandonner maintenant !</p>
+<p><strong>Cuisinedebase</strong> est un blog qui aide les personnes qui souhaitent <strong>passer le CAP cuisine en candidat libre</strong> à <strong>bien s’organiser et préparer les épreuves pratiques</strong>. Personnellement, je pense que c’est suffisant de bien préparer le <strong>CAP cuisine à distance</strong> en seulement <strong>6 mois</strong>. Si vous envisagez <strong>de préparer le CAP cuisine à distance et en solo</strong>. voici une application concrète de l’astuce précédente, au lieu de faire des résolutions à l’année (comme : <strong>Préparer les épreuves écrites et pratiques pour réussir le CAP cuisine</strong>), faites des résolutions pour les 60 prochains jours (comme: <strong>Faire 6 recettes qui permettent de préparer les épreuves pratiques et 2 examen blanc</strong>). Ne pensez même pas au reste de l’année. Et quand la résolution n’est plus excitante en Février, devinez quoi… vous avez déjà fait un tiers ! Vous n’allez pas abandonner maintenant !</p>
 
 
 
@@ -6060,7 +6060,7 @@ const E2 = {
 
 
 
-<p>J’ai vécu ce scénario pendant très longtemps, tellement longtemps que j’ai commencé à croire que pour qu’une <strong>décision soit valide</strong>, elle doit obligatoirement être le sujet d’une dizaine de réunions. Jusqu’au jour où j’ai fait une découverte qui m’a vraiment <strong>ouvert les yeux</strong>, cette découverte s’appelle “<strong><a href="https://amzn.to/3kIPaON" target="_blank" rel="noopener noreferrer">la semaine de 4 heures</a></strong>” le <strong>livre</strong> best seller de <strong>Tim Ferriss</strong>. Dans ce livre, l’auteur explique comment il a réussi de sortir d’une boucle interminable, une course derrière un bonheur fictif et imposée par la société “moderne”. En faisant une analyse objective de son quotidien, Tim Ferriss se rend compte que son <strong>véritable bonheur</strong> dépend de la bonne <strong>utilisation de son temps</strong>, et il déduit que son <strong>temps est son principal patrimoine</strong> et qu’il se doit de mieux le préserver.</p>
+<p>J’ai vécu ce scénario pendant très longtemps, tellement longtemps que j’ai commencé à croire que pour qu’une <strong>décision soit valide</strong>, elle doit obligatoirement être le sujet d’une dizaine de réunions. Jusqu’au jour où j’ai fait une découverte qui m’a vraiment <strong>ouvert les yeux</strong>, cette découverte s’appelle “<strong><a href="https://amzn.to/3kIPaON">la semaine de 4 heures</a></strong>” le <strong>livre</strong> best seller de <strong>Tim Ferriss</strong>. Dans ce livre, l’auteur explique comment il a réussi de sortir d’une boucle interminable, une course derrière un bonheur fictif et imposée par la société “moderne”. En faisant une analyse objective de son quotidien, Tim Ferriss se rend compte que son <strong>véritable bonheur</strong> dépend de la bonne <strong>utilisation de son temps</strong>, et il déduit que son <strong>temps est son principal patrimoine</strong> et qu’il se doit de mieux le préserver.</p>
 
 
 
@@ -6108,7 +6108,7 @@ const E2 = {
 
 
 
-<p>Le <strong>deuxième livre</strong> qui m’a beaucoup marqué, et qu’il n’a rien avoir avec le premier est “<strong><a href="https://www.amazon.fr/gp/product/2857089260/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=2857089260&amp;linkId=6a6e2ae8bc55b8dc2de04def579f442e" target="_blank" rel="noopener noreferrer">La cuisine de référence</a></strong>” de <strong>Michel Maincent-Morel</strong>. Ce livre m’a permis tout simplement de découvrir <strong>le cuisinier amateur</strong> qui se cache en moi, c’est grâce à ce livre que j’ai pu apprendre les <strong>bases de la cuisine</strong>, <u>gastronomique et traditionnelle</u>. Il m’a aussi été d’une grande utilité. Quand j’ai décidé de passer le <strong>CAP cuisine en tant que candidat libre</strong> en 2015.</p>
+<p>Le <strong>deuxième livre</strong> qui m’a beaucoup marqué, et qu’il n’a rien avoir avec le premier est “<strong><a href="https://www.amazon.fr/gp/product/2857089260/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=2857089260&amp;linkId=6a6e2ae8bc55b8dc2de04def579f442e">La cuisine de référence</a></strong>” de <strong>Michel Maincent-Morel</strong>. Ce livre m’a permis tout simplement de découvrir <strong>le cuisinier amateur</strong> qui se cache en moi, c’est grâce à ce livre que j’ai pu apprendre les <strong>bases de la cuisine</strong>, <u>gastronomique et traditionnelle</u>. Il m’a aussi été d’une grande utilité. Quand j’ai décidé de passer le <strong>CAP cuisine en tant que candidat libre</strong> en 2015.</p>
 
 
 
@@ -6124,7 +6124,7 @@ const E2 = {
 
 
 
-<p>Et le <strong>troisième livre inspirant</strong> qui m’a marqué est “<strong><a href="https://www.amazon.fr/gp/product/210076196X/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=210076196X&amp;linkId=7d37d72e78f60a72a261d9566fc987ff" target="_blank" rel="noopener noreferrer">Partie de rien</a></strong>” de <strong>Hapsatou Sy</strong>. C’est un livre très facile à lire, il raconte l’histoire de son auteur. Un ouvrage qui démontre que <strong>tout est possible</strong>, même quand on a l’impression de <strong>partir</strong> <strong>de</strong> <strong>zéro</strong>, à condition de <strong>travailler sans relâche</strong> et de croire en sa bonne étoile.</p>
+<p>Et le <strong>troisième livre inspirant</strong> qui m’a marqué est “<strong><a href="https://www.amazon.fr/gp/product/210076196X/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=210076196X&amp;linkId=7d37d72e78f60a72a261d9566fc987ff">Partie de rien</a></strong>” de <strong>Hapsatou Sy</strong>. C’est un livre très facile à lire, il raconte l’histoire de son auteur. Un ouvrage qui démontre que <strong>tout est possible</strong>, même quand on a l’impression de <strong>partir</strong> <strong>de</strong> <strong>zéro</strong>, à condition de <strong>travailler sans relâche</strong> et de croire en sa bonne étoile.</p>
 
             </div>
         </div>
@@ -6167,7 +6167,7 @@ const E3 = {
 
 
 
-<p>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple&nbsp;<a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a>&nbsp;pour passer le&nbsp;<a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a>&nbsp;et le&nbsp;<a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a>&nbsp;pour les travailler.</p>
+<p>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple&nbsp;les 25 recettes à maitriser&nbsp;pour passer le&nbsp;CAP cuisine en candidat libre&nbsp;et le&nbsp;planning détaillé&nbsp;pour les travailler.</p>
 
 
 
@@ -6321,11 +6321,11 @@ const E4 = {
 
 
 
-<p>Une cuisine est un immense laboratoire où on peut expérimenter des idées, <strong>innover des recettes</strong> ou bien sûr d’en inventer des nouvelles, il suffit <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">d’apprendre les bases</a> et de se laisser entraîner par son imagination. Si les <strong>techniques de base</strong> restent les mêmes durant plusieurs décennies, les habitudes des gens et les <strong>produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer <a href="https://cuisinedebase.com/cap-cuisine-en-candidat-libre-se-prparer-avec-une-cole-de-formation-des-groupes-de-discussion-ou-seul/">d’apprendre</a> et de se <strong>former en cuisine</strong> est le seul moyen de continuer de vivre avec son époque. Et pourquoi pas être acteur de la <strong>gastronomie de demain</strong></p>
+<p>Une cuisine est un immense laboratoire où on peut expérimenter des idées, <strong>innover des recettes</strong> ou bien sûr d’en inventer des nouvelles, il suffit d’apprendre les bases et de se laisser entraîner par son imagination. Si les <strong>techniques de base</strong> restent les mêmes durant plusieurs décennies, les habitudes des gens et les <strong>produits culinaires</strong> quant à eux ne cessent de changer et d’évoluer. Continuer d’apprendre et de se <strong>former en cuisine</strong> est le seul moyen de continuer de vivre avec son époque. Et pourquoi pas être acteur de la <strong>gastronomie de demain</strong></p>
 
 
 
-<p>Il y a une célèbre citation qui dit : « <em>dis moi ce que tu manges je te dirai qui tu es</em> ». Le <strong>style d’alimentation </strong>est un élément essentiel et constructeur de la personnalité de chacun. Et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’<a href="https://cuisinedebase.com/comment-devenir-un-cuisinier-professionnel/">apprendre à cuisiner</a> ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes.</p>
+<p>Il y a une célèbre citation qui dit : « <em>dis moi ce que tu manges je te dirai qui tu es</em> ». Le <strong>style d’alimentation </strong>est un élément essentiel et constructeur de la personnalité de chacun. Et il est donc possible que chacun puisse se construire une meilleure personnalité en choisissant de manière réfléchie son alimentation. Il est grand temps de nous prendre en main et surtout d’arrêter de subir l’uniformisation des modes de vie que la société en général et les producteurs de l’agroalimentaire en particulier essaient de nous imposer. Il est grand temps de devenir un consommateur responsable. De nos jour il est vital d’identifier l’alimentation saine et de s’éloigner de la mauvaise alimentation. C’est de la responsabilité de chacun d’apprendre à cuisiner ainsi que de comprendre et de savoir la composition des produits que nous mettons dans nos assiettes.</p>
 
 
 
@@ -6337,7 +6337,7 @@ const E4 = {
 
 
 
-<p>Maintenant que nous sommes un peu éclairés sur nos <a href="https://cuisinedebase.com/apprendre-cuisiner-pour-rester-en-bonne-sant/">habitudes alimentaire</a>, il faut passer à l’action. Voici mes <strong>conseils pour vous aider à apprendre à cuisiner</strong> même si vous êtes <strong>complètement débutant</strong>.</p>
+<p>Maintenant que nous sommes un peu éclairés sur nos habitudes alimentaire, il faut passer à l’action. Voici mes <strong>conseils pour vous aider à apprendre à cuisiner</strong> même si vous êtes <strong>complètement débutant</strong>.</p>
 
 
 
@@ -6345,7 +6345,7 @@ const E4 = {
 
 
 
-<p>Tout d’abord il faut comprendre <strong>pourquoi vous voulez apprendre à cuisiner</strong>. Et si vous êtes un parfait <strong>débutant</strong>, pourquoi ne pas songer à passer un <strong>CAP cuisine en candidat libre</strong>. (sachez que vous pouvez trouver sur ce site <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">un programme d’apprentissage</a> ainsi que <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">quelques recettes</a> et <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">techniques de base</a> destinés aux <strong>apprentis cuisinier</strong>)</p>
+<p>Tout d’abord il faut comprendre <strong>pourquoi vous voulez apprendre à cuisiner</strong>. Et si vous êtes un parfait <strong>débutant</strong>, pourquoi ne pas songer à passer un <strong>CAP cuisine en candidat libre</strong>. (sachez que vous pouvez trouver sur ce site un programme d’apprentissage ainsi que quelques recettes et techniques de base destinés aux <strong>apprentis cuisinier</strong>)</p>
 
 
 
@@ -6357,7 +6357,7 @@ const E4 = {
 
 
 
-<ul className="wp-block-list"><li><a href="https://cuisinedebase.com/fiche-technique-omelette-roule-aux-champignons/">une omelette aux champignons</a></li><li>La <a href="https://cuisinedebase.com/fiche-technique-de-fabrication-macdoine-de-lgumes-mayonnaise/">macédoine de légumes</a> (Des légumes taillés en dés et cuits&nbsp; l’eau salée puis liés à la <strong>sauce mayonnaise</strong>. Et pour la rendre moins calorique, on peut remplacer la mayonnaise par de <strong>l’huile d’olive </strong>et quelques fines herbes)</li><li>Cuire une <strong>tranche de saumon à l’unilatéral</strong>. Dans un premier temps vous pouvez acheter des tranches pré-découpées. Ou demander à votre poissonnier de le faire pour vous, étant donné que <a href="https://cuisinedebase.com/habillage-poisson/">l’habillage de poisson</a> est un travail un peu technique. </li></ul>
+<ul className="wp-block-list"><li>une omelette aux champignons</li><li>La macédoine de légumes (Des légumes taillés en dés et cuits&nbsp; l’eau salée puis liés à la <strong>sauce mayonnaise</strong>. Et pour la rendre moins calorique, on peut remplacer la mayonnaise par de <strong>l’huile d’olive </strong>et quelques fines herbes)</li><li>Cuire une <strong>tranche de saumon à l’unilatéral</strong>. Dans un premier temps vous pouvez acheter des tranches pré-découpées. Ou demander à votre poissonnier de le faire pour vous, étant donné que l’habillage de poisson est un travail un peu technique. </li></ul>
 
 
 
@@ -6517,7 +6517,7 @@ const E5 = {
 
 
 
-<ul className="wp-block-list"><li><strong>Marcher le plus souvent </strong>que possible (pour aller chercher le pain, le journal, emmener les enfants à l’école, faire une balade, …)</li><li>Privilégier <strong>vélo, trottinette, rollers</strong>, … aux transport en commun et à la voiture (si possible bien sûr)</li><li>Mettre un programme régulier pour <strong>pratiquer une activité physique</strong>,</li><li>Il y a un proverbe Marocain qui dit “<strong>peu et régulier est mieux que beaucoup et interrompu</strong>” si vous êtes fâché avec le sport depuis un moment, il vaut mieux commencer doucement mais de façon régulière.</li><li>Si vous n’avez pas le temps, <strong>7 minutes par jour suffisent</strong>, utilisez pour cela la méthode de “<a href="https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9_de_haute_intensit%C3%A9" target="_blank" rel="noopener noreferrer">l’entrainement fractionné de haute intensité</a>”. qui consiste à faire 12 exercices pendant 30 secondes chacun à une intensité maximale et de prendre 10 secondes de poses en fin de chaque exercice.</li></ul>
+<ul className="wp-block-list"><li><strong>Marcher le plus souvent </strong>que possible (pour aller chercher le pain, le journal, emmener les enfants à l’école, faire une balade, …)</li><li>Privilégier <strong>vélo, trottinette, rollers</strong>, … aux transport en commun et à la voiture (si possible bien sûr)</li><li>Mettre un programme régulier pour <strong>pratiquer une activité physique</strong>,</li><li>Il y a un proverbe Marocain qui dit “<strong>peu et régulier est mieux que beaucoup et interrompu</strong>” si vous êtes fâché avec le sport depuis un moment, il vaut mieux commencer doucement mais de façon régulière.</li><li>Si vous n’avez pas le temps, <strong>7 minutes par jour suffisent</strong>, utilisez pour cela la méthode de “<a href="https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9_de_haute_intensit%C3%A9">l’entrainement fractionné de haute intensité</a>”. qui consiste à faire 12 exercices pendant 30 secondes chacun à une intensité maximale et de prendre 10 secondes de poses en fin de chaque exercice.</li></ul>
 
 
 
@@ -6525,7 +6525,7 @@ const E5 = {
 
 
 
-<ul className="wp-block-list"><li><strong>Manger des fruits et légumes</strong> le plus souvent possible</li><li><strong>Manger varié et équilibré</strong></li><li>Réduire la consommation de produits contenant des <strong>additifs alimentaire ou améliorant</strong> ou autre composant du même genre</li><li>Je ne peux m’empêcher de vous conseiller d’<strong>apprendre à cuisiner</strong> vos propres plats. Car ce n’est que de cette manière que vous pouvez savoir exactement ce que vous mettez dans votre assiette. Vous pouvez commencer par exemple à <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">apprendre ces recettes</a> et ces <a href="https://cuisinedebase.com/les-techniques-et-prparations-de-base-maitriser-pour-prparer-le-cap-cuisine/">techniques de base</a>.</li></ul>
+<ul className="wp-block-list"><li><strong>Manger des fruits et légumes</strong> le plus souvent possible</li><li><strong>Manger varié et équilibré</strong></li><li>Réduire la consommation de produits contenant des <strong>additifs alimentaire ou améliorant</strong> ou autre composant du même genre</li><li>Je ne peux m’empêcher de vous conseiller d’<strong>apprendre à cuisiner</strong> vos propres plats. Car ce n’est que de cette manière que vous pouvez savoir exactement ce que vous mettez dans votre assiette. Vous pouvez commencer par exemple à apprendre ces recettes et ces techniques de base.</li></ul>
 
             </div>
         </div>
@@ -6568,7 +6568,7 @@ const E6 = {
 
 
 
-<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un <strong>contenu gratuit</strong> et de qualité. Vous pouvez découvrir par exemple <a href="https://cuisinedebase.com/les-25-recettes-a-maitriser-pour-obtenir-son-cap-cuisine/">les 25 recettes à maitriser</a> pour passer le <a href="https://cuisinedebase.com/comment-passer-son-cap-cuisine-en-candidat-libre/">CAP cuisine en candidat libre</a> et le <a href="https://cuisinedebase.com/programme-dentrainement-et-dorganisation-pour-prparer-le-cap/">planning détaillé</a> pour les travailler.</span></p>
+<p><span>Si c’est votre première visite de ce blog, sachez qu’il regroupe l’essentiel de ce qu’il faut savoir pour <strong>apprendre la cuisine de bases</strong> avec un <strong>contenu gratuit</strong> et de qualité. Vous pouvez découvrir par exemple les 25 recettes à maitriser pour passer le CAP cuisine en candidat libre et le planning détaillé pour les travailler.</span></p>
 
 
 
