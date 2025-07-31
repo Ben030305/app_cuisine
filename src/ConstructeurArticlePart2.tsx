@@ -8894,7 +8894,7 @@ Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP 
 
 const H34 = {
     contenu: H34_contenu,
-    titre: "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre",
+    titre: "Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre »",
     route: "/article/devenez-un-chef-professionnel-sans-vous-ruiner-les-avantages-de-passer-le-cap-cuisine-en-candidat-libre",
     categorie: "1",
     sous_categorie: "3",
