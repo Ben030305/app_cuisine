@@ -208,7 +208,11 @@ const H1 = {
     route: "/article/dictionnaire-culinaire-cuisine-signification-tremper",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Dictionnaire culinaire. Signification de lever ainsi que d’autres termes qui commencent par I, J, K, L, M",
+        "Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-cuisine-signification-tremper/",
 }
@@ -449,7 +453,11 @@ const H2 = {
         route: "/article/dictionnaire-culinaire-q-r-s/",
         categorie: "1",
         sous_categorie: "2",
-        articlesConnexes: [],
+        articlesConnexes: [
+            "Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H",
+            "Signification de bleu. Le dictionnaire culinaire",
+            "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore"
+        ],
         image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png",
         lien: "https://cuisinedebase.com/dictionnaire-culinaire-q-r-s/"
 }
@@ -797,7 +805,11 @@ const H3 = {
     route: "/article/dictionnaire-culinaire-n-p/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Dictionnaire culinaire. Signification d’effiler",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S",
+        "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-n-p/",
 }
@@ -805,6 +817,9 @@ const H3 = {
 
 const H4_contenu = <article>
     <div className="entry-content clearfix">
+        <div className="post-image">
+            <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg"></img>
+        </div>
         <h1 className="titre_article">Dictionnaire culinaire. Signification de lever ainsi que d’autres termes qui commencent par I, J, K, L, M</h1>
     <p><span>Si vous aimez bien cuisiner il vous est certainement arrivé de tomber sur certaines recettes dont le langage culinaire est incompréhensible. Par exemple vous lisez dans une recette lever des filets, mais vous ne connaissez pas <strong>la bonne signification de lever</strong>. Un lexique culinaire bien explicatif est nécessaire pour palier à ce problème</span>.</p>
 
@@ -1160,13 +1175,20 @@ const H4 = {
     route: "/article/dictionnaire-culinaire-signification-lever-monder-mouiller-macerer",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png",
+    articlesConnexes: [
+        "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S",
+        "Signification de bleu. Le dictionnaire culinaire"
+    ],
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-signification-lever-monder-mouiller-macerer/",
 }
 
 const H5_contenu = <article>
 <div className="entry-content clearfix">
+    <div className="post-image">
+        <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg"></img>
+    </div>
     <h1 className="titre_article">Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H</h1>
 <p><span>Si vous aimez bien cuisiner il vous est certainement arrivé de tomber sur certaines recettes dont le langage culinaire est incompréhensible. Quelle est la <strong>signification de glacer</strong>? Un <strong>lexique culinaire</strong> bien explicatif est nécessaire pour palier à ce problème</span>.</p>
 
@@ -1364,7 +1386,7 @@ const H5 = {
     categorie: "1",
     sous_categorie: "2",
     articlesConnexes: [],
-    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png",
+    image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-g-h/",
 }
 
@@ -1619,7 +1641,11 @@ const H6 = {
     route: "/article/dictionnaire-culinaire-que-signifie-foncer/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Créativité culinaire. Comment la développer en 4 étapes",
+        "Définition de l’anglaise. Dictionnaire culinaire. Lettre A",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-que-signifie-foncer/",
 }
@@ -1907,7 +1933,11 @@ const H7 = {
     route: "/article/dictionnaire-culinaire-e/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore",
+        "Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-e/",
 
@@ -2189,7 +2219,11 @@ const H8 = {
     route: "/article/dictionnaire-culinaire-d/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Technique de base pour faire la pâte à choux",
+        "Définition de l’anglaise. Dictionnaire culinaire. Lettre A",
+        "Dictionnaire culinaire. Définition de Clarifier"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-d/",
 }
@@ -2638,7 +2672,11 @@ const H9 = {
     route: "/article/dictionnaire-culinaire-definition-clarifier/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Définition de l’anglaise. Dictionnaire culinaire. Lettre A",
+        "Dictionnaire culinaire. Définition de détrempe",
+        "Dictionnaire culinaire. Que signifie foncer?"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-definition-clarifier/",
 }
@@ -2880,7 +2918,11 @@ const H10 = {
     route: "/article/dictionnaire-culinaire-b/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore",
+        "Dictionnaire culinaire. Signification de glacer et d’autres termes culinaires G, H",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-b/",
 }
@@ -3162,7 +3204,11 @@ const H11 = {
     route: "/article/dictionnaire-culinaire-a/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Dictionnaire culinaire. Définition de Clarifier",
+        "Dictionnaire culinaire. Signification d’effiler",
+        "Dictionnaire culinaire. Définition de détrempe"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg",
     lien: "https://cuisinedebase.com/dictionnaire-culinaire-a/",
 }
@@ -3340,7 +3386,11 @@ const H12 = {
     route: "/article/fiche-de-revision-cap-cuisine-les-oeufs-et-ovo-produits/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique et recette de Choux à la crème pâtissière",
+        "Fiche technique et recette de Choux à la crème pâtissière",
+        "Recette de crêpe facile. La fiche technique"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/Coupe-oeuf-composants-parties_thumb-1.jpg",
     lien: "https://cuisinedebase.com/fiche-de-revision-cap-cuisine-les-oeufs-et-ovo-produits/",
 }
@@ -3511,7 +3561,12 @@ const H13 = {
     route: "/article/fond-blanc-veau-volaille-comment-preparer-composition-regles-hygiene-utilisation/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Quelles sont les fonds et les sauces de base en cuisine",
+        "Riz madras aux fruits. Toute la fiche technique de fabrication.",
+        "Fricassée de volaille à l’ancienne. La recette de CAP cuisine"
+
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/blanquette-veau-1_thumb.jpg",
     lien: "https://cuisinedebase.com/fond-blanc-veau-volaille-comment-preparer-composition-regles-hygiene-utilisation/",
 }
@@ -3697,7 +3752,11 @@ const H14 = {
     route: "/article/fiche-revision-farces-beurres-composes-marinades-court-bouillons/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Dictionnaire culinaire. Définition de détrempe",
+        "La listes des techniques de base à maîtriser pour le CAP cuisine"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/moules-farcies-beurre-compose_thumb.jpg",
     lien: "https://cuisinedebase.com/fiche-revision-farces-beurres-composes-marinades-court-bouillons/",
 }
@@ -3778,83 +3837,83 @@ const H15_contenu = <article>
 
 
 
-<p> </p><div><span>Le beurre est le corps gras que l’on utilise pour réaliser un roux.</span></div> <p></p>
+<p> <div><span>Le beurre est le corps gras que l’on utilise pour réaliser un roux.</span></div> </p>
 
 
 
-<p> </p><div><span>Les corps gras qui peuvent être utilisés pour cuire des frites sont:</span></div> <p></p>
+<p> <div><span>Les corps gras qui peuvent être utilisés pour cuire des frites sont:</span></div> </p>
 
 
 
-<p> </p><div><span>L’huile de tournesol, </span></div> <p></p>
+<p><div><span>L’huile de tournesol, </span></div></p>
 
 
 
-<p> </p><div><span>le coprah, </span></div> <p></p>
+<p><div><span>le coprah, </span></div> </p>
 
 
 
-<p> </p><div><span>le blanc de bœuf.</span></div>  <p></p>
+<p><div><span>le blanc de bœuf.</span></div> </p>
 
 
 
-<p> </p><div><span>L’endroit de stockage idéal pour l’huile est l’économat.</span></div> <p></p>
+<p><div><span>L’endroit de stockage idéal pour l’huile est l’économat.</span></div></p>
 
 
 
-<p> </p><div><span>Pour assaisonner une salade le corps gras doit être d’origine végétale et fluide.</span></div> <p></p>
+<p> <div><span>Pour assaisonner une salade le corps gras doit être d’origine végétale et fluide.</span></div> </p>
 
 
 
-<p> </p><div><span>Il est important de connaître la composition d’une huile pour savoir son utilisation et pour les problèmes d’allergies.</span></div> <p></p>
+<p><div><span>Il est important de connaître la composition d’une huile pour savoir son utilisation et pour les problèmes d’allergies.</span></div></p>
 
 
 
-<p> </p><div><span>Les intérêts des huiles composées de différents ingrédients sont:</span></div> <p></p>
+<p><div><span>Les intérêts des huiles composées de différents ingrédients sont:</span></div></p>
 
 
 
-<p> </p><div><span>Augmenter leur point de fumée </span></div> <p></p>
+<p><div><span>Augmenter leur point de fumée </span></div> </p>
 
 
 
-<p> </p><div><span>et apporter différentes vitamines.</span></div>  <p></p>
+<p> <div><span>et apporter différentes vitamines.</span></div> </p>
 
 
 
-<p> </p><div><span>Les différents corps gras n’ont pas tous la même utilisation, certains ne supporte pas la cuisson.</span></div> <p></p>
+<p><div><span>Les différents corps gras n’ont pas tous la même utilisation, certains ne supporte pas la cuisson.</span></div></p>
 
 
 
-<p> </p><div><span>Quelques mentions que l’on doit retrouver sur une étiquette d’huile :</span></div> <p></p>
+<p><div><span>Quelques mentions que l’on doit retrouver sur une étiquette d’huile :</span></div></p>
 
 
 
-<p> </p><div><span>Marque commerciale, </span></div> <p></p>
+<p> <div><span>Marque commerciale, </span></div></p>
 
 
 
-<p> </p><div><span>composition, </span></div> <p></p>
+<p> <div><span>composition, </span></div> </p>
 
 
 
-<p> </p><div><span>mode de conservation, </span></div> <p></p>
+<p><div><span>mode de conservation, </span></div> </p>
 
 
 
-<p> </p><div><span>température maximale.</span></div>  <p></p>
+<p> <div><span>température maximale.</span></div>  </p>
 
 
 
-<p> </p><div><span>La matière grasse recommandée pour la cuisson des pommes sautées est&nbsp; La graisse de canard ou d’oie pour son parfum.</span></div> <p></p>
+<p> <div><span>La matière grasse recommandée pour la cuisson des pommes sautées est&nbsp; La graisse de canard ou d’oie pour son parfum.</span></div> </p>
 
 
 
-<p> </p><div><span>La matière grasse recommandée pour la cuisson des poissons est l’huile d’olive.</span></div> <p></p>
+<p> <div><span>La matière grasse recommandée pour la cuisson des poissons est l’huile d’olive.</span></div> </p>
 
 
 
-<p> </p><div><span>Le coprah provient de palmier.</span></div> <p></p>
+<p><div><span>Le coprah provient de palmier.</span></div></p>
 
 
 
@@ -3870,7 +3929,11 @@ const H15 = {
     route: "/article/utilisation-corps-gras-matere-grasse-cuisine-patisserie/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Dictionnaire culinaire. Signification de serrer et d’autres mots commençant par Q, R, S",
+        "Tout ce qu’il faut savoir sur le lait"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg",
     lien: "https://cuisinedebase.com/utilisation-corps-gras-matere-grasse-cuisine-patisserie/",
 }
@@ -3989,7 +4052,11 @@ const H16 = {
     route: "/article/comment-eviter-rater-recette-cuisine/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Questions et Réponses sur l’épreuve CAP cuisine",
+        "Les 5,5 erreurs à éviter si vous préparez le CAP cuisine en candidat libre",
+        "Recette de Crêpes farcies gratinées façon Picarde"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/moules-farcies-beurre-compose_thumb.jpg",
     lien: "https://cuisinedebase.com/comment-eviter-rater-recette-cuisine/",
 }
@@ -4148,7 +4215,11 @@ const H17 = {
     route: "/article/sortes-types-famille-legumes/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Challenge CAP cuisine candidat libre session 2023",
+        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg",
     lien: "https://cuisinedebase.com/sortes-types-famille-legumes/",
 }
@@ -4230,7 +4301,7 @@ const H18_contenu = <article>
 
 
 
-<p>Voilà, c’est tout ce qu’il faut savoir pour bien <span><strong>faire une pâte avec un sablage bien réussi</strong></span>. Si vous avez des questions ou remarques n’hésitez pas, la rubrique commentaire est faite pour cela. <img draggable="false" role="img" className="emoji" alt="🙂" src="https://s.w.org/images/core/emoji/15.0.3/svg/1f642.svg"></img> </p>
+<p>Voilà, c’est tout ce qu’il faut savoir pour bien <span><strong>faire une pâte avec un sablage bien réussi</strong></span>. Si vous avez des questions ou remarques n’hésitez pas, la rubrique commentaire est faite pour cela. </p>
 
 
 
@@ -4258,7 +4329,11 @@ const H18 = {
     route: "/article/technique-recette-faire-pate-sablee-salee-sucree/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Comment faire une pâte sucrée. Technique de base",
+        "Technique de base pour faire une pâte brisée"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099_thumb.jpg",
     lien: "https://cuisinedebase.com/technique-recette-faire-pate-sablee-salee-sucree/",
 }
@@ -4350,7 +4425,11 @@ const H19 = {
     route: "/article/technique-de-base-pate-sucree/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Technique de base pour faire une pâte brisée",
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Recette de la Tarte au chocolat avec sa fiche technique de fabrication"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb_thumb.jpg",
     lien: "https://cuisinedebase.com/technique-de-base-pate-sucree/",
 }
@@ -4452,7 +4531,11 @@ const H20 = {
     route: "/article/technique-de-base-pour-raliser-une-pate-brise/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment faire une pâte sucrée. Technique de base",
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Recette de la Tarte au chocolat avec sa fiche technique de fabrication"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/moules-farcies-beurre-compose_thumb.jpg",
     lien: "https://cuisinedebase.com/technique-de-base-pour-raliser-une-pate-brise/",
 }
@@ -4514,7 +4597,11 @@ const H21 = {
     route: "/article/technique-de-base-pour-realiser-la-pate-choux/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique et recette de Choux à la crème pâtissière",
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/Ingredients-pate-a-choux_thumb.jpg",
     lien: "https://cuisinedebase.com/technique-de-base-pour-realiser-la-pate-choux/",
 }
@@ -4565,7 +4652,11 @@ const H22 = {
     route: "/article/technique-de-base-de-realisation-de-la-pate-feuilletee/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Comment préparer le mille-feuille",
+        "Tartes feuilletées aux fruits rouges. Fiche technique et recette"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/pate-feuilletee_thumb.jpg",
     lien: "https://cuisinedebase.com/technique-de-base-de-realisation-de-la-pate-feuilletee/",
 }
@@ -4580,7 +4671,8 @@ const H23_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/crepe.jpeg" alt="" className="wp-image-2385"></img><figcaption>recette de crêpe</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/crepe.jpeg" alt=""></img><figcaption>recette de crêpe</figcaption></figure></div>
+
 
 
 
@@ -4629,7 +4721,11 @@ const H23 = {
     route: "/article/fiche-technique-recette-crepe-facile/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Recette de Crêpes farcies gratinées façon Picarde",
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Les 25 recettes à faire absolument pour préparer le CAP cuisine"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/crepe.jpeg",
     lien: "https://cuisinedebase.com/fiche-technique-recette-crepe-facile/",
 }
@@ -4688,7 +4784,11 @@ const H24 = {
     route: "/article/comment-habiller-et-decouper-une-volaille-cru/",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fricassée de volaille à l’ancienne. La recette de CAP cuisine",
+        "La fiche technique et recette pour faire un bon poulet rôti",
+        "Les bases de la cuisine pour cuisiner comme un chef"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png",
     lien: "https://cuisinedebase.com/comment-habiller-et-decouper-une-volaille-cru/",
 }
@@ -5763,15 +5863,15 @@ Le dictionnaire de cuisine en ligne et gratuit
 
 
 
-<p>– Retirer les «&nbsp;fils&nbsp;» des haricots verts</p>
+<p>Retirer les «&nbsp;fils&nbsp;» des haricots verts</p>
 
 
 
-<p>– Détailler les amandes en fines lamelles</p>
+<p>Détailler les amandes en fines lamelles</p>
 
 
 
-<p>– Retirer l’intestin d’une volaille sans enlever les autres viscères.</p>
+<p>Retirer l’intestin d’une volaille sans enlever les autres viscères.</p>
 
 
 
@@ -7091,7 +7191,11 @@ const H25 = {
     route: "/article/vocabulaire-culinaire-dictionnaire-de-la-cuisine",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "6+2 Livres pour apprendre les bases de la cuisine et préparer le CAP cuisine",
+        "Dictionnaire culinaire. Signification de Tremper, Vanner, Voiler, Travailler et plus encore",
+        "Dictionnaire culinaire. Que signifie foncer?"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=300%2C300&ssl=1",
     lien: "https://cuisinedebase.com/vocabulaire-culinaire-dictionnaire-de-la-cuisine/",
 }
@@ -7269,7 +7373,11 @@ const H26 = {
     route: "/article/unite-de-mesure-pesage-et-adaptation-des-recettes",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment diminuer les risques de rater une recette de cuisine.",
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Recette de la Tarte au chocolat avec sa fiche technique de fabrication"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/07/unite_de_mesure_kg_gramme.png",
     lien: "https://cuisinedebase.com/unite-de-mesure-pesage-et-adaptation-des-recettes/",
 }
@@ -8036,7 +8144,11 @@ const H27 = {
     route: "/article/feuilles-de-grammage",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Unité de mesure, pesage et adaptation des recettes",
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Question comment faire et Réponses sur le CAP cuisine en candidat libre. Questions 21 à 30"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/07/verre_mesureur-scaled.jpg",
     lien: "https://cuisinedebase.com/feuilles-de-grammage/",
 }
@@ -8097,7 +8209,11 @@ const H28 = {
     route: "/article/habillage-poisson",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique et recette de darnes de poisson pochées",
+        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
+        "Quelles sont les fonds et les sauces de base en cuisine"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/07/poisson_vente_marche_etale_preparation_habillage.jpg",
     lien: "https://cuisinedebase.com/habillage-poisson/",
 }
@@ -8164,7 +8280,11 @@ const H29 = {
     route: "/article/techniques-de-base-tailles-des-legumes",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Épluchage et découpe",
+        "Les bases de la cuisine pour cuisiner comme un chef",
+        "Tout ce qu’il faut savoir sur les familles de légumes"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png",
     lien: "https://cuisinedebase.com/techniques-de-base-tailles-des-legumes/",
 }
@@ -8210,7 +8330,11 @@ const H30 = {
     route: "/article/techniques-de-base-epluchage-et-decoupe",
     categorie: "1",
     sous_categorie: "2",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Tout ce qu’il faut savoir sur les familles de légumes",
+        "7 conseils et 3 astuces pour couper les légumes et manier le couteau comme un chef",
+        "FICHE TECHNIQUE DE FABRICATION. Macédoine de légumes mayonnaise"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/poste_%C3%A9pluchage_l%C3%A9gumes2.png",
     lien: "https://cuisinedebase.com/techniques-de-base-epluchage-et-decoupe/",
 }
@@ -8424,7 +8548,11 @@ const H31 = {
     route: "/article/mention-complementaire-cuisine-formation",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment améliorer ses opportunités professionnelles grâce à la MC cuisine",
+        "Poursuite d’études après un CAP cuisine. Les différentes possibilités.",
+        "Huit activités qu’on peut faire après une formation de cuisinier"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Johnny-Depp-deguise-as-chef-holding-a-French-cooki.jpg",
     lien: "https://cuisinedebase.com/mention-complementaire-cuisine-formation/",
 }
@@ -8516,7 +8644,11 @@ const H32 = {
     route: "/article/comment-choisir-parmi-les-diplomes-de-cuisine-professionnelle-en-france",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment améliorer ses opportunités professionnelles grâce à la MC cuisine",
+        "Poursuite d’études après un CAP cuisine. Les différentes possibilités.",
+        "Mention Complémentaire Cuisine. Le point sur la formation"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg",
     lien: "https://cuisinedebase.com/comment-choisir-parmi-les-diplomes-de-cuisine-professionnelle-en-france/",
 }
@@ -8630,7 +8762,11 @@ const H33 = {
     route: "/article/comment-creer-un-menu-equilibre-et-sain-pour-restaurant",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
+        "Comment créer des plats savoureux et équilibrés",
+        "Comment créer des plats équilibrés et complets"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/07-wonder-women-chef-presenting-a-balanced-dish.-meat-2.jpg",
     lien: "https://cuisinedebase.com/comment-creer-un-menu-equilibre-et-sain-pour-restaurant/",
 }
@@ -8762,7 +8898,11 @@ const H34 = {
     route: "/article/devenez-un-chef-professionnel-sans-vous-ruiner-les-avantages-de-passer-le-cap-cuisine-en-candidat-libre",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Challenge CAP cuisine candidat libre session 2023",
+        "Débutants commencez ici",
+        "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg",
     lien: "https://cuisinedebase.com/devenez-un-chef-professionnel-sans-vous-ruiner-les-avantages-de-passer-le-cap-cuisine-en-candidat-libre/",
 }
@@ -8859,7 +8999,11 @@ const H35 = {
     route: "/article/8-conseils-pour-reussir-dans-le-monde-de-la-cuisine-et-devenir-un-chef-epanoui",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Quelle évolution de carrière après un CAP cuisine",
+        "Le métier de cuisinier. Comment devenir grand chef",
+        "Reconversion professionnelle en cuisine ou restauration : Comment la réussir"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-a-great-chef-in-a-large-restaurant-with-a-smile-finishing-the-presentation-of-his-dish.webp",
     lien: "https://cuisinedebase.com/8-conseils-pour-reussir-dans-le-monde-de-la-cuisine-et-devenir-un-chef-epanoui/",
 }
@@ -9063,7 +9207,11 @@ const H36 = {
     route: "/article/quelle-evolution-de-carriere-apres-un-cap-cuisine",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Poursuite d’études après un CAP cuisine. Les différentes possibilités.",
+        "Comment trouver le meilleur coach pour préparer le CAP Cuisine ",
+        "CAP cuisine en candidat libre. Faut-il obligatoirement faire un stage en milieu professionnel?"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/well-dressed-female-chef-finishes-the-presentation-of-his-dish.png?resize=600%2C600&ssl=1",
     lien: "https://cuisinedebase.com/quelle-evolution-de-carriere-apres-un-cap-cuisine/",
 }
@@ -9186,7 +9334,11 @@ const H37 = {
     route: "/article/epices-en-cuisine-comment-booster-la-saveur-de-vos-recettes",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment améliorer la saveur de vos plats avec les herbes et les épices",
+        "Comment créer des plats savoureux et équilibrés",
+        "Créativité culinaire. Comment la développer en 4 étapes"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp",
     lien: "https://cuisinedebase.com/epices-en-cuisine-comment-booster-la-saveur-de-vos-recettes/",
 }
@@ -9271,7 +9423,11 @@ const H38 = {
     route: "/article/les-secrets-des-herbes-aromatiques-en-cuisine",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment améliorer la saveur de vos plats avec les herbes et les épices",
+        "Épices en cuisine : comment booster la saveur de vos recettes",
+        "Les bases de la cuisine pour cuisiner comme un chef"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/11-Herbes-aromatiques-.webp",
     lien: "https://cuisinedebase.com/les-secrets-des-herbes-aromatiques-en-cuisine/",
 }
@@ -9390,7 +9546,11 @@ const H39 = {
     route: "/article/comment-creer-des-plats-savoureux-et-equilibres",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment créer des plats équilibrés et complets",
+        "Créativité culinaire. Comment la développer en 4 étapes",
+        "Comment améliorer la saveur de vos plats avec les herbes et les épices"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=768%2C765&ssl=1",
     lien: "https://cuisinedebase.com/comment-creer-des-plats-savoureux-et-equilibres/",
 }
@@ -9519,7 +9679,11 @@ const H40 = {
     route: "/article/comment-creer-des-plats-equilibres-et-complets",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Comment créer des plats savoureux et équilibrés",
+        "Comment créer un menu équilibré et sain pour restaurant",
+        "Créativité culinaire. Comment la développer en 4 étapes"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/07-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg",
     lien: "https://cuisinedebase.com/comment-creer-des-plats-equilibres-et-complets/",
 }
@@ -9605,7 +9769,11 @@ const H41 = {
     route: "/article/creativite-culinaire-comment-developper-etapes",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Réussir le CAP cuisine en Candidat Libre. Les Clés du Succès",
+        "Mention Complémentaire Cuisine. Le point sur la formation",
+        "Comment créer des plats savoureux et équilibrés"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2-1.jpg",
     lien: "https://cuisinedebase.com/creativite-culinaire-comment-developper-etapes/",
 }
@@ -9757,7 +9925,11 @@ const H42 = {
     route: "/article/le-point-sur-les-diffrents-types-de-restaurants-et-modes-de-restauration",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Histoire de cuisine",
+        "Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre",
+        "Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/20181110_225601_thumb.jpg",
     lien: "https://cuisinedebase.com/le-point-sur-les-diffrents-types-de-restaurants-et-modes-de-restauration/",
 }
@@ -9963,7 +10135,11 @@ const H43 = {
     route: "/article/huit-activites-qu-on-peut-faire-apres-une-formation-de-cuisinier",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Podcast CAP cuisine. Quoi faire après la formation de CAP cuisine?",
+        "Le métier de cuisinier. Comment devenir grand chef",
+        "La formation CAP cuisine adulte seul"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/chef-fourchette_thumb.png?w=910&ssl=1",
     lien: "https://cuisinedebase.com/huit-activites-qu-on-peut-faire-apres-une-formation-de-cuisinier/",
 }
@@ -10201,7 +10377,11 @@ const H44 = {
     route: "/article/materiels-du-cuisinier-coutellerie-mallette-de-cuisine",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Le métier de cuisinier. Comment devenir grand chef",
+        "Comment diminuer les risques de rater une recette de cuisine.",
+        "Pourquoi le métier de cuisinier est passionnant et attractif"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/cuisine_pro_thumb.jpg",
     lien: "https://cuisinedebase.com/materiels-du-cuisinier-coutellerie-mallette-de-cuisine/",
 }
@@ -10358,7 +10538,11 @@ const H45 = {
     route: "/article/les-8-grands-chefs-qui-ont-influence-et-marque-la-cuisine-francaise",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Le métier de cuisinier. Comment devenir grand chef",
+        "Histoire de cuisine",
+        "Les secrets des herbes aromatiques en cuisine"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/05/illustration-chef-cuisinier.png",
     lien: "https://cuisinedebase.com/les-8-grands-chefs-qui-ont-influence-et-marque-la-cuisine-francaise/",
 }
@@ -10419,7 +10603,11 @@ const H46 = {
     route: "/article/la-cuisine-dans-lhistoire",
     categorie: "1",
     sous_categorie: "3",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "La cuisine pour quitter la “Rat Race”",
+        "Apprendre à cuisiner pour manger équilibré et mieux s’alimenter",
+        "Comment Le Fait D’apprendre à Cuisiner Permet De Rester En Bonne Santé"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/05/cuisson_histoire_vielle.jpg",
     lien: "https://cuisinedebase.com/la-cuisine-dans-lhistoire/",
 }
@@ -10495,7 +10683,12 @@ const H47 = {
     route: "/article/comment-preparer-le-mille-feuille",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Tout ce qu’il faut savoir sur les familles de légumes",
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Questions Réponses sur le CAP cuisine en candidat libre. Questions 1 à 10"
+
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Bon_mille-feuille.jpeg",
     lien: "https://cuisinedebase.com/comment-preparer-le-mille-feuille/",
 }
@@ -10533,7 +10726,11 @@ const H48 = {
     route: "/article/ep2-session-2019-colombo-volaille-riz-pilaf-courgettes-glacees",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique",
+        "Epreuve CAP cuisine 2021. Les sujets de l’examen pratique",
+        "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png",
     lien: "https://cuisinedebase.com/ep2-session-2019-colombo-volaille-riz-pilaf-courgettes-glacees/",
 }
@@ -10667,7 +10864,11 @@ const H49 = {
     route: "/article/jambonnettes-de-poulet-farcies",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique – Quiche au poulet",
+        "La fiche technique et recette pour faire un bon poulet rôti",
+        "Recette de Crêpes farcies gratinées façon Picarde"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png",
     lien: "https://cuisinedebase.com/jambonnettes-de-poulet-farcies/",
 }
@@ -10793,7 +10994,11 @@ const H50 = {
     route: "/article/osso-buco",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)",
+        "Fiche technique de fabrication du Navarin aux pommes",
+        "Fiche technique – Quiche au poulet"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/Osso-bucco.png",
     lien: "https://cuisinedebase.com/osso-buco/",
 }
@@ -10874,7 +11079,11 @@ const H51 = {
     route: "/article/mousse-au-chocolat",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Recette de la Tarte au chocolat avec sa fiche technique de fabrication",
+        "Crèmes de base en pâtisserie. Anglaise Chantilly, fouettée Mousseline",
+        "Recette de la crème brûlée avec la fiche technique de fabrication"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/mousse-au-chocolat_thumb.png",
     lien: "https://cuisinedebase.com/mousse-au-chocolat/",
 }
@@ -10983,7 +11192,11 @@ const H52 = {
     route: "/article/fiche-technique-de-fabrication-salade-pimontaise/",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Salade niçoise. Tous les détails de la Fiche technique",
+        "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique",
+        "Comment créer des plats savoureux et équilibrés"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/Salade-piemontaise.png",
     lien: "https://cuisinedebase.com/fiche-technique-de-fabrication-salade-pimontaise/",
 }
@@ -11074,7 +11287,11 @@ const H53 = {
     route: "/article/fiche-technique-de-fabrication-riz-madras",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Recette Riz Pilaf : La Fiche technique de fabrication",
+        "CAP cuisine Session 2019. Sujets et analyse de l’épreuve pratique",
+        "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/04/Riz-madras_thumb.png?w=910&ssl=1",
     lien: "https://cuisinedebase.com/fiche-technique-de-fabrication-riz-madras/",
 }
@@ -11218,7 +11435,11 @@ const H54 = {
     route: "/article/fiche-technique-salade-nicoise",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Salade salade Piémontaise. La Fiche technique",
+        "Histoire de cuisine",
+        "Recette de la crème brûlée avec la fiche technique de fabrication"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/salade-nicoise.png",
     lien: "https://cuisinedebase.com/fiche-technique-salade-nicoise/",
 }
@@ -11291,7 +11512,11 @@ const H55 = {
     route: "/article/omelette-plate-savoyarde",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "La recette des Omelettes roulées aux champignons",
+        "Fiche de révision CAP cuisine. Les oeufs et ovo produits",
+        "Les 25 recettes à faire absolument pour préparer le CAP cuisine"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde_thumb.png",
     lien: "https://cuisinedebase.com/omelette-plate-savoyarde/",
 }
@@ -11365,7 +11590,11 @@ const H56 = {
     route: "/article/fiche-technique-quiche-au-saumon-fume-epinard-nordique",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique – Quiche au poulet",
+        "Les épreuves pratiques de CAP cuisine session 2020 (Candidat libre)",
+        "Idée recettes pour repas de fêtes de fin d’année. Noël et nouvel an"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/quiche-saumon-epinard_thumb.jpg",
     lien: "https://cuisinedebase.com/fiche-technique-quiche-au-saumon-fume-epinard-nordique/",
 }
@@ -11532,7 +11761,11 @@ const H57 = {
     route: "/article/fiches-techniques-de-fabrication-en-restauration-format-excel-en-telechargement-gratuit",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "La recette des Omelettes roulées aux champignons",
+        "Les 25 recettes à faire absolument pour préparer le CAP cuisine",
+        "Recette de Potage Parmentier avec la Fiche technique"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde.png",
     lien: "https://cuisinedebase.com/fiches-techniques-de-fabrication-en-restauration-format-excel-en-telechargement-gratuit/",
 }
@@ -11608,7 +11841,11 @@ const H58 = {
     route: "/article/recette-creme-brulee-fiche-technique",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Fiche technique et recette de la Crème renversée au caramel",
+        "Comment faire la fiche technique des Œufs à la neige",
+        "Fiche technique et recette de Choux à la crème pâtissière"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/creme-brulee_thumb.png",
     lien: "https://cuisinedebase.com/recette-creme-brulee-fiche-technique/",
 }
@@ -11694,7 +11931,11 @@ const H59 = {
     route: "/article/recette-tarte-chocolat-fiche-technique",
     categorie: "1",
     sous_categorie: "4",
-    articlesConnexes: [],
+    articlesConnexes: [
+        "Les 7 pâtes de base à maîtriser pour réussir le CAP cuisine",
+        "Tartes feuilletées aux fruits rouges. Fiche technique et recette",
+        "Comment faire une pâte sucrée. Technique de base"
+    ],
     image: "https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/tarte-au-chocolat_thumb.png",
     lien: "https://cuisinedebase.com/recette-tarte-chocolat-fiche-technique/",
 }
