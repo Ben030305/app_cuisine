@@ -19,7 +19,7 @@ Afin d'installer cette application, 2 possibilités s'offrent à vous :
 Nous avons utilisé ces différents frameworks et langages afin de produire notre application :
 
 * [Ionic](https://ionicframework.com/) 
-* [Capactitor](https://capacitorjs.com/) 
+* [Capacitor](https://capacitorjs.com/) 
 * [React](https://fr.react.dev/)
 * [Typescript](https://www.typescriptlang.org/)
 
