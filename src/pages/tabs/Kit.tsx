@@ -1,6 +1,5 @@
 import { IonContent, IonPage, IonText, IonButton } from '@ionic/react';
 import './../Page.css';
-import './Kit.css';
 
 const Kit: React.FC = () => {
   return (

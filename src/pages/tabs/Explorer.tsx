@@ -1,9 +1,9 @@
-import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonSearchbar, IonSelect, IonSelectOption, IonText, IonToolbar } from '@ionic/react';
+import { IonContent, IonImg, IonItem, IonList, IonPage, IonSearchbar, IonSelect, IonSelectOption, IonText, IonToolbar } from '@ionic/react';
 import { useState } from 'react';
 import { listeArticles } from '../../ConstructeurArticle';
+import { closeCircle, closeCircleOutline } from 'ionicons/icons';
 import './../Page.css';
 import './Explorer.css';
-import { closeCircle, closeCircleOutline } from 'ionicons/icons';
 
 {
   // Pour categorie -> 0 est l'état sans filtrage),

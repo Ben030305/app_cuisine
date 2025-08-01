@@ -1,10 +1,10 @@
 import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText, IonToast } from '@ionic/react';
 import { mapArticles } from '../ConstructeurArticle';
 import { Directory } from '@capacitor/filesystem';
+import { Clipboard } from '@capacitor/clipboard';
 import write_blob from 'capacitor-blob-writer';
 import './Page.css';
 import './Article.css';
-import { Clipboard } from '@capacitor/clipboard';
 
 
 interface ArticleProps {

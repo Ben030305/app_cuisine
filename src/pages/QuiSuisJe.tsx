@@ -1,6 +1,5 @@
 import { IonContent, IonPage, IonText } from '@ionic/react';
 import './Page.css';
-import './Tutoriel.css';
 
 const QuiSuisJe: React.FC = () => {
   return (

@@ -16,6 +16,11 @@ import {
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
 import { bookSharp, homeSharp, restaurantSharp, schoolSharp, searchSharp } from 'ionicons/icons';
+import { StatusBar } from '@capacitor/status-bar';
+import { buildRoute, listeArticles } from './ConstructeurArticle';
+import { buildRouteLivre } from './ConstructeurLivre';
+import { Preferences } from '@capacitor/preferences';
+import { useState } from 'react';
 
 import Tab1 from './pages/tabs/Debutant';
 import Tab2 from './pages/tabs/Ebook';
@@ -30,10 +35,12 @@ import QuiSuisJe from './pages/QuiSuisJe';
 import Pourquoi from './pages/Pourquoi';
 import MentionsLegales from './pages/MentionsLegales';
 import ConditionsVente from './pages/ConditionsVente';
-import './style.css';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
+
+/* Core CSS for the application */
+import './style.css';
 
 /* Basic CSS for apps built with Ionic */
 import '@ionic/react/css/normalize.css';
@@ -61,11 +68,6 @@ import '@ionic/react/css/palettes/dark.system.css';
 
 /* Theme variables */
 import './theme/variables.css';
-import { StatusBar } from '@capacitor/status-bar';
-import { buildRoute, listeArticles } from './ConstructeurArticle';
-import { buildRouteLivre } from './ConstructeurLivre';
-import { Preferences } from '@capacitor/preferences';
-import { useState } from 'react';
 
 setupIonicReact();
 StatusBar.setOverlaysWebView({ overlay: false });

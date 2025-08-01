@@ -1,8 +1,7 @@
-import { IonButton, IonContent, IonHeader, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
-import './Page.css';
-
-import './Accueil.css';
+import { IonButton, IonContent, IonImg, IonItem, IonList, IonPage, IonText } from '@ionic/react';
 import { listeArticles } from '../ConstructeurArticle';
+import './Page.css';
+import './Accueil.css';
 
 const tailleListe = 6;
 const articles = [...listeArticles];

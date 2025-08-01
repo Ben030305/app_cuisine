@@ -1,6 +1,5 @@
 import { IonButton, IonContent, IonImg, IonPage, IonRouterLink, IonText } from '@ionic/react';
 import './../Page.css'
-import './Debutant.css';
 
 const Debutant: React.FC = () => {
   return (
@@ -31,10 +30,6 @@ const Debutant: React.FC = () => {
                 </li>
               </ul>
             </p>
-
-            {
-              // TODO : changer la route des router link pour rediriger vers les articles correspondants 
-            }
             <h1 className='sous_titre'>Le kit du débutant en cuisine</h1>
             <p>
               Afin de bien débuter, consultez ces différents articles dédiés à la préparation du CAP Cuisine :
