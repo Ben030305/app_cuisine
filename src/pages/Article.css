@@ -14,3 +14,10 @@
     line-height: 24px;
     text-align: justify;
 }
+
+.youtube {
+    max-height: 25dvh;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}

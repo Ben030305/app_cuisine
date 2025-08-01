@@ -19,7 +19,7 @@ const B1 = {
 
 
                 <div className="post-image">
-                    <figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-4chef-under-stress.jpg?resize=200%2C300&amp;ssl=1" alt="Coach pour préparer le CAP cuisine" className="wp-image-2801" ></img><figcaption className="wp-element-caption">Coach pour préparer le CAP cuisine</figcaption></figure></div>
+                    <figure><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-4chef-under-stress.jpg" alt="Coach pour préparer le CAP cuisine" className="wp-image-2801" ></img></figure></div>
 
 
                 <h2 className="sous_titre">Différence entre un mentor et un <strong>coach pour préparer le CAP cuisine</strong></h2>
@@ -266,7 +266,7 @@ const B3 = {
 		<div className="entry-content clearfix">
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png" alt="" className="wp-image-2784" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Organisation clé de réussite</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png" alt="" className="wp-image-2784" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/1240176449_Female-chef-strong-with-a-lot-of-hands_xl-beta-v2-2-2.png?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Le début de mon organisation pour préparer le CAP cuisine candidat libre</h2>
@@ -277,7 +277,7 @@ const B3 = {
 
 
 <div className="post-image">
-<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/image_thumb.png" alt="organisation pour préparer le CAP cuisine candidat libre" title="image"></img><figcaption className="wp-element-caption">organisation pour préparer le CAP</figcaption></figure></div>
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/image_thumb.png" alt="organisation pour préparer le CAP cuisine candidat libre" title="image"></img></figure></div>
 
 <p><span><span >Je me souviens du moment où j’ai créé ce fichier, je l’avais même baptisé “<em>MyProgramme.xlsx</em>”, c’était vers la fin Octobre début Novembre, juste après avoir reçu les <strong>références de mon dossier d’inscription</strong> pour passer le <strong>CAP cuisine en candidat libre</strong> à <strong>l’académie de Toulouse</strong>. Ma <strong>motivation</strong> pendant cette période a atteint ses sommets et <span>à chaque fois que je voulais réaliser une <strong>recette</strong>, je suivais à la lettre sa <strong>fiche technique</strong>, et à chaque fois j’étais bluffé par le résultat, et fier de le <strong>faire déguster</strong> à ma femme et mes deux filles. </span></span></span></p>
 
@@ -437,7 +437,7 @@ const B4 = {
 			
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/fruits-marche-melun-5.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/fruits-marche-melun-5_thumb.jpg" alt="fruits-légumes-marche-melun" title="fruits-marche-melun (5)"></img></a><figcaption className="wp-element-caption">Les fruits et légumes. Les bases de la cuisine</figcaption></figure></div>
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/fruits-marche-melun-5.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/fruits-marche-melun-5_thumb.jpg" alt="fruits-légumes-marche-melun" title="fruits-marche-melun (5)"></img></a></figure></div>
 
 
 <p></p>
@@ -564,7 +564,7 @@ const B4 = {
 
 
 <div className="post-image">
-<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png" alt="taille des légumes en julienne, mirepoix, paysanne, macédoine" className="wp-image-187" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=600%2C438&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?w=973&amp;ssl=1 973w"></img><figcaption className="wp-element-caption">poste de découpe des légumes</figcaption></figure></div>
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png" alt="taille des légumes en julienne, mirepoix, paysanne, macédoine" className="wp-image-187" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=600%2C438&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/diffrentes-tailles.png?w=973&amp;ssl=1 973w"></img></figure></div>
 
 
 <h2 className="sous_titre">Découpe légumes</h2>
@@ -991,11 +991,11 @@ const B5 = {
 
 
 <div className="post-image">
-<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1_thumb.png" alt="Programme-6-mois-1" title="Programme-6-mois-1"></img></a><figcaption className="wp-element-caption">Planning d’entrainement 3 premiers mois</figcaption></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-1_thumb.png" alt="Programme-6-mois-1" title="Programme-6-mois-1"></img></a></figure>
 </div>
 
 <div className="post-image">
-<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2_thumb.png" alt="Programme-6-mois-2" title="Programme-6-mois-2"></img></a><figcaption className="wp-element-caption">Programme entrainement 3 mois suivants</figcaption></figure>
+<figure className="post-image"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/12/Programme-6-mois-2_thumb.png" alt="Programme-6-mois-2" title="Programme-6-mois-2"></img></a></figure>
 </div>
 
 <h2 className="sous_titre">Matières générales pour préparer le CAP cuisine en candidat libre</h2>
@@ -1112,7 +1112,7 @@ const B6 = {
 
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Comment-se-preparer-formation-seul-groupe-facebook.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Comment-se-preparer-formation-seul-groupe-facebook_thumb.png" alt="Comment-se-preparer-formation-seul-groupe-facebook" title="Comment-se-preparer-formation-seul-groupe-facebook"></img></a><figcaption className="wp-element-caption">Formation CAP cuisine adulte</figcaption></figure></div>
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Comment-se-preparer-formation-seul-groupe-facebook.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/Comment-se-preparer-formation-seul-groupe-facebook_thumb.png" alt="Comment-se-preparer-formation-seul-groupe-facebook" title="Comment-se-preparer-formation-seul-groupe-facebook"></img></a></figure></div>
 
 
 <h2 className="sous_titre">CAP cuisine à distance</h2>
@@ -1370,7 +1370,7 @@ const B8 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img><figcaption className="wp-element-caption">Corrige EP1 2022 CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img></figure></div>
 
 
 <h2 className="sous_titre">Usage de la calculatrice pendant l’épreuve EP1 CAP cuisine.</h2>
@@ -1511,7 +1511,7 @@ const B8 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img><figcaption className="wp-element-caption">Corrigé EP1 2022 CAP cuisineCorrige EP1 2022 CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png" alt="Corrige EP1 2022 CAP cuisine" className="wp-image-3079" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=252%2C300&amp;ssl=1 252w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=859%2C1024&amp;ssl=1 859w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=768%2C915&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=600%2C715&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=50%2C60&amp;ssl=1 50w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?resize=76%2C90&amp;ssl=1 76w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2024/03/Corrige-EP1-2022-CAP-cuisine.png?w=1148&amp;ssl=1 1148w"></img></figure></div>
 
 
 <h2 className="sous_titre"><a>Réception de marchandise</a></h2>
@@ -1865,7 +1865,7 @@ const B10 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=256%2C256&amp;ssl=1" alt="réussir un diplôme en candidat libre" className="wp-image-2811" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?w=256&amp;ssl=1 256w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Réussir un diplôme en candidat libre</figcaption></figure></div>
+<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png" alt="réussir un diplôme en candidat libre" className="wp-image-2811" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?w=256&amp;ssl=1 256w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">L’Autodiscipline 1er des défis du candidat libre</h2>
@@ -1959,7 +1959,7 @@ const B11 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png" alt="Ressources pédagogiques pour CAP cuisine" className="wp-image-2819" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption"><em><strong>Ressources pédagogiques</strong></em> pour CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png" alt="Ressources pédagogiques pour CAP cuisine" className="wp-image-2819" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/189488368_a-library-and-cookery-textbooks-with-students-look_xl-beta-v2-2-2.png?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Les ressources pédagogiques dans les manuels scolaires :&nbsp;</h2>
@@ -2042,7 +2042,7 @@ const B12 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png" alt="réussir un diplôme en candidat libre" className="wp-image-2811" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?w=256&amp;ssl=1 256w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption"><strong>réussir un diplôme en candidat libre</strong></figcaption></figure></div>
+<figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png" alt="réussir un diplôme en candidat libre" className="wp-image-2811" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?w=256&amp;ssl=1 256w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/3craiyon_074545_a_chef_looks_like_Lara_craft_counting_her_money_in_a_small_kitchen__street_art_style.png?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Les défis pour <strong>réussir un diplôme en candidat libre</strong></h2>
@@ -2207,7 +2207,7 @@ const B13 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg" alt="" className="wp-image-2754" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Gérer le stress pendant l’examen CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg" alt="" className="wp-image-2754" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/09-3chef-under-stress.jpg?w=768&amp;ssl=1 768w"></img></figure></div>
 
 
 <h2 className="sous_titre">Se préparer avant pour&nbsp;<strong>gérer le stress pendant l’examen</strong></h2>
@@ -2316,7 +2316,7 @@ const B13 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg" alt="" className="wp-image-2755" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Gérer le stress</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg" alt="" className="wp-image-2755" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-3.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Avoir une attitude professionnelle et confiante devant les examinateurs</h2>
@@ -2368,7 +2368,7 @@ const B14 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png" alt="L'utilisation de l'intelligence artificielle" className="wp-image-2649" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=1024%2C726&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=768%2C545&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=1536%2C1090&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=600%2C426&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=85%2C60&amp;ssl=1 85w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=127%2C90&amp;ssl=1 127w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?w=1748&amp;ssl=1 1748w"></img><figcaption className="wp-element-caption">L’<strong>utilisation de l’intelligence artificielle</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png" alt="L'utilisation de l'intelligence artificielle" className="wp-image-2649" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=1024%2C726&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=768%2C545&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=1536%2C1090&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=600%2C426&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=85%2C60&amp;ssl=1 85w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?resize=127%2C90&amp;ssl=1 127w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/01/ChatGpt-intelligence-artificielle-en-cuisine.png?w=1748&amp;ssl=1 1748w"></img></figure></div>
 
 
 <h2 className="sous_titre">Utilisation de l’intelligence artificielle en cuisine</h2>
@@ -2476,7 +2476,7 @@ const B15 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png" alt="" className="wp-image-2615" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=135%2C90&amp;ssl=1 135w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?w=1200&amp;ssl=1 1200w"></img><figcaption className="wp-element-caption">Exemple de carnet personnel à remplir</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png" alt="" className="wp-image-2615" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?resize=135%2C90&amp;ssl=1 135w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Fiche-technique-vierge-a-remplir.png?w=1200&amp;ssl=1 1200w"></img></figure></div>
 
 
 <p>J’ai ajouté une page sommaire au début pour que je me retrouve facilement dans le carnet une fois rempli. Et des pages vierges pour noter encore plus de choses. Il suffit de l’imprimer et de le remplir au fur et à mesure </p>
@@ -2503,7 +2503,7 @@ const B15 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png" alt="" className="wp-image-2613" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?w=800&amp;ssl=1 800w"></img><figcaption className="wp-element-caption">Carnet personnel des techniques professionnelles</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png" alt="" className="wp-image-2613" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?w=800&amp;ssl=1 800w"></img></figure></div>
 
 
 <p>Ce carnet convient particulièrement aux&nbsp;<strong>candidats libres de CAP cuisine</strong>. Le titulaire du CAP cuisine est amené à exercer un emploi dans les métiers de la cuisine de tous les secteurs de la restauration commerciale ou sociale. </p>
@@ -2546,9 +2546,9 @@ const B16 = {
 
 
 
-<figure className="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div className="wp-block-embed__wrapper">
-<iframe title="Je vous aide à préparer le CAP cuisine en candidat libre. Programme de coaching." width="910" height="512" src="https://www.youtube.com/embed/uxCakSUAgig?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-</div><figcaption>Coaching CAP cuisine</figcaption></figure>
+<figure className="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div className="youtube">
+<iframe className="youtube" title="Je vous aide à préparer le CAP cuisine en candidat libre. Programme de coaching." width="910" height="512" src="https://www.youtube.com/embed/uxCakSUAgig?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+</div></figure>
 
 
 
@@ -2591,7 +2591,7 @@ const B17 = {
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png" alt="" className="wp-image-2284" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?w=620&amp;ssl=1 620w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=300%2C195&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=600%2C389&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=93%2C60&amp;ssl=1 93w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=139%2C90&amp;ssl=1 139w"></img><figcaption>Correction de l’épreuve EP1 2021</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png" alt="" className="wp-image-2284" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?w=620&amp;ssl=1 620w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=300%2C195&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=600%2C389&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=93%2C60&amp;ssl=1 93w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/auberge-du-parc.png?resize=139%2C90&amp;ssl=1 139w"></img></figure></div>
 
 
 
@@ -2659,7 +2659,7 @@ const B17 = {
 
 
 
-<ul className="wp-block-list"><li><mark className="has-inline-color has-primary-color">La poignée d’une friteuse est cassée.</mark></li><li><mark className="has-inline-color has-primary-color">On a commandé 6 Grille Inox GN 2/1, et 4 ont été livrées.</mark></li><li><mark className="has-inline-color has-primary-color">On a commandé une machine à glaçon 28kg, et une machine 2kg reçue.</mark></li></ul>
+<ul className="wp-block-list"><li>La poignée d’une friteuse est cassée.</li><li>On a commandé 6 Grille Inox GN 2/1, et 4 ont été livrées.</li><li>On a commandé une machine à glaçon 28kg, et une machine 2kg reçue.</li></ul>
 
 
 
@@ -2667,7 +2667,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Ce matériel permet de <strong>monter la crème</strong> et <strong>réaliser une pâte brisée</strong>. Cependant, il est possible de lui ajouter des accessoires pour l’utiliser pour <strong>hacher le persil</strong> et <strong>mixer un potage</strong>.</mark></p>
+<p>Ce matériel permet de <strong>monter la crème</strong> et <strong>réaliser une pâte brisée</strong>. Cependant, il est possible de lui ajouter des accessoires pour l’utiliser pour <strong>hacher le persil</strong> et <strong>mixer un potage</strong>.</p>
 
 
 
@@ -2697,7 +2697,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-secondary-color">La zone idéale pour installer cet équipement est la zone de préparation froide.</mark></p>
+<p>La zone idéale pour installer cet équipement est la zone de préparation froide.</p>
 
 
 
@@ -2709,7 +2709,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Il faut choisir entre Détergent désinfectant, lave-vitre et nettoyant détartrant. Et c’est Détergent désinfectant qu’il faut cocher.</mark></p>
+<p>Il faut choisir entre Détergent désinfectant, lave-vitre et nettoyant détartrant. Et c’est Détergent désinfectant qu’il faut cocher.</p>
 
 
 
@@ -2721,7 +2721,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Entre 5 et 15 minutes</mark></p>
+<p>Entre 5 et 15 minutes</p>
 
 
 
@@ -2729,7 +2729,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">L’action du produit est chimique.&nbsp;</mark></p>
+<p>L’action du produit est chimique.&nbsp;</p>
 
 
 
@@ -2741,7 +2741,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Rincer abondamment à l’eau&nbsp;claire</mark></p>
+<p>Rincer abondamment à l’eau&nbsp;claire</p>
 
 
 
@@ -2771,7 +2771,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Le stagiaire aurait dû porter des lunettes&nbsp;</mark></p>
+<p>Le stagiaire aurait dû porter des lunettes&nbsp;</p>
 
 
 
@@ -2783,7 +2783,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">-18°C</mark></p>
+<p>-18°C</p>
 
 
 
@@ -2807,7 +2807,7 @@ const B17 = {
 
 
 
-<p><mark className="has-inline-color has-primary-color">Non car La fromagerie d’Eugénie est un producteur de fromage, ce n’est pas une ferme où on peut trouver également une production de lait (pour fabriquer le fromage).</mark></p>
+<p>Non car La fromagerie d’Eugénie est un producteur de fromage, ce n’est pas une ferme où on peut trouver également une production de lait (pour fabriquer le fromage).</p>
 
 
 
@@ -2819,7 +2819,7 @@ const B17 = {
 
 
 
-<figure className="wp-block-table"><table><tbody><tr><td>&nbsp;</td><td>Un avantage</td><td>Un inconvénient</td></tr><tr><td>Production directe</td><td>Pas de stockage&nbsp;</td><td>Destruction des préparaions non consommées dans la journée</td></tr><tr><td>Production différée</td><td>Optimisation du personnel en cuisine</td><td>Contrainte temps/température</td></tr></tbody></table><figcaption>Correction de l’épreuve EP1 2021</figcaption></figure>
+<figure className="wp-block-table"><table border={1}><tbody><tr><td align="center"></td><td align="center">Un avantage</td><td align="center">Un inconvénient</td></tr><tr><td align="center">Production directe</td><td align="center">Pas de stockage</td><td align="center">Destruction des préparaions non consommées dans la journée</td></tr><tr><td align="center">Production différée</td><td align="center">Optimisation du personnel en cuisine</td><td align="center">Contrainte temps/température</td></tr></tbody></table></figure>
 
 
 
@@ -2874,7 +2874,7 @@ const B17 = {
 
 
 <div className="wp-block-group"><div className="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td>Produits BOF nécessaires</td><td>Quantité pour 8 portions</td><td>Quantité pour 48 portions</td><td></td></tr><tr><td>Œufs</td><td><strong>0,6 kg</strong></td><td><strong>3,6 kg</strong></td><td></td></tr><tr><td>Crème liquide</td><td><strong>0,5 L</strong></td><td><strong>3 L</strong></td><td></td></tr><tr><td>Beurre</td><td><strong>0,110</strong></td><td><strong>0,660</strong></td><td></td></tr></tbody></table><figcaption>Correction de l’épreuve EP1 2021</figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td align="center">Produits BOF nécessaires</td><td align="center">Quantité pour 8 portions</td><td align="center">Quantité pour 48 portions</td><td align="center"></td></tr><tr><td align="center">Œufs</td><td align="center"><strong>0,6 kg</strong></td><td align="center"><strong>3,6 kg</strong></td><td align="center"></td></tr><tr><td align="center">Crème liquide</td><td align="center"><strong>0,5 L</strong></td><td align="center"><strong>3 L</strong></td><td align="center"></td></tr><tr><td align="center">Beurre</td><td align="center"><strong>0,110</strong></td><td align="center"><strong>0,660</strong></td><td align="center"></td></tr></tbody></table></figure>
 
 
 
@@ -2924,7 +2924,7 @@ const B18 = {
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg" alt="sujet cap cuisine 2021" className="wp-image-2265" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?w=1536&amp;ssl=1 1536w"></img><figcaption>épreuve CAP cuisine 2021</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg" alt="sujet cap cuisine 2021" className="wp-image-2265" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/04/verrine-fraise-vanille-citron-vert.jpg?w=1536&amp;ssl=1 1536w"></img></figure></div>
 
 
 
@@ -3139,7 +3139,7 @@ const B19 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w"></img><figcaption className="wp-element-caption">Si tu as un ami en miel, ne le lèche pas en entier&nbsp;</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w"></img></figure></div>
 
 
 <p>Il y’a quelques jours j’ai reçu un mail d’une personne qui a suivi l’évolution du site <strong>cuisine de base</strong> depuis un certain temps. Et le moins que l’on puisse dire, est que cette personne est très déçue. Voici son message&nbsp;:</p>
@@ -3274,7 +3274,7 @@ const B19 = {
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td>&nbsp;</td><td>Tarif minimum</td><td>Temps minimum</td><td>Stage&nbsp;</td></tr><tr><td>École des pros</td><td>2040 €</td><td>35 mois</td><td>Non</td></tr><tr><td>Centre européen</td><td>&nbsp;2853 €</td><td>35 mois</td><td>Non</td></tr><tr><td>Institut culinaire de France</td><td>11300€</td><td>8 mois</td><td>14 semaines</td></tr><tr><td><strong>Formation cuisine de base</strong></td><td><strong>497 €</strong></td><td><strong>6 mois</strong></td><td><strong>Non</strong></td></tr><tr><td>CNED avec CPF</td><td>2515€</td><td>18 mois</td><td>Non</td></tr><tr><td>CNED</td><td>850€</td><td>18 mois</td><td>Non</td></tr><tr><td>Atelier des chefs</td><td>1890€</td><td>6 mois&nbsp;</td><td>Non</td></tr><tr><td>Ferrandi</td><td>9870 €</td><td>8 mois</td><td>4 mois</td></tr><tr><td>Youschool</td><td>980€</td><td>1 an</td><td>&nbsp;</td></tr><tr><td>Espace concours</td><td>999€</td><td>10 mois</td><td>&nbsp;</td></tr></tbody></table><figcaption className="wp-element-caption">formation cuisine pas chère</figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td align="center">&nbsp;</td><td align="center">Tarif minimum</td><td align="center">Temps minimum</td><td align="center">Stage&nbsp;</td></tr><tr><td align="center">École des pros</td><td align="center">2040 €</td><td align="center">35 mois</td><td align="center">Non</td></tr><tr><td align="center">Centre européen</td><td align="center">&nbsp;2853 €</td><td align="center">35 mois</td><td align="center">Non</td></tr><tr><td align="center">Institut culinaire de France</td><td align="center">11300€</td><td align="center">8 mois</td><td align="center">14 semaines</td></tr><tr><td align="center"><strong>Formation cuisine de base</strong></td><td align="center"><strong>497 €</strong></td><td align="center"><strong>6 mois</strong></td><td align="center"><strong>Non</strong></td></tr><tr><td align="center">CNED avec CPF</td><td align="center">2515€</td><td align="center">18 mois</td><td align="center">Non</td></tr><tr><td align="center">CNED</td><td align="center">850€</td><td align="center">18 mois</td><td align="center">Non</td></tr><tr><td align="center">Atelier des chefs</td><td align="center">1890€</td><td align="center">6 mois&nbsp;</td><td align="center">Non</td></tr><tr><td align="center">Ferrandi</td><td align="center">9870 €</td><td align="center">8 mois</td><td align="center">4 mois</td></tr><tr><td align="center">Youschool</td><td align="center">980€</td><td align="center">1 an</td><td align="center">&nbsp;</td></tr><tr><td align="center">Espace concours</td><td align="center">999€</td><td align="center">10 mois</td><td align="center">&nbsp;</td></tr></tbody></table></figure>
 
 
 
@@ -3647,7 +3647,7 @@ const B21 = {
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png" alt="" className="wp-image-1862" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?w=1288&amp;ssl=1 1288w"></img><figcaption>Correction de l’épreuve EP1 session 2019</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png" alt="" className="wp-image-1862" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/05/Correction-annale-Epreuve-EP1-Organisation-production-cuisine-CAP-session-2019.png?w=1288&amp;ssl=1 1288w"></img></figure></div>
 
 
 
@@ -3815,7 +3815,7 @@ const B22 = {
 		<div className="entry-content clearfix">
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/image_thumb.png" alt="image" title="image"></img></a><figcaption className="wp-element-caption">. Les dates d’inscription au CAP cuisine candidat libre</figcaption></figure></div>
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/image.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/image_thumb.png" alt="image" title="image"></img></a></figure></div>
 </div>
 
 <p>L’année 2020 restera à jamais gravée dans les mémoires de beaucoup de personnes, et en particuliers les <strong>candidats libres au CAP cuisine</strong>. Cette année est marquée par le virus mortel <strong>Corona virus</strong> <strong>CoVid19</strong> qui a été à l’origine d’une <strong>pandémie touchant les habitants de la terre entière</strong>. Les dates des inscriptions sont un peu chamboulées, il ne faut donc pas vous laisser dépassés par les évènements. Le sujet de cet article est <strong>date inscription CAP cuisine</strong></p>
@@ -4501,7 +4501,7 @@ const B25 = {
 
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/09/STAGIAIRE-DIPLOME.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/09/STAGIAIRE-DIPLOME_thumb.png" alt="STAGIAIRE-DIPLOME" title="STAGIAIRE-DIPLOME"></img></a><figcaption className="wp-element-caption">Stage CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/09/STAGIAIRE-DIPLOME.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/09/STAGIAIRE-DIPLOME_thumb.png" alt="STAGIAIRE-DIPLOME" title="STAGIAIRE-DIPLOME"></img></a></figure></div>
 
 
 <h2 className="sous_titre">Stage CAP cuisine</h2>
@@ -4959,7 +4959,7 @@ const B28 = {
 <p>Toujours avec la série des questions réponses pour répondre aux personnes qui m’ont posé leurs questions via le formulaire de sondage. Les réponses à certaines de vos questions sont dans la liste ci-dessous. Les questions sont sur l’<strong>épreuve CAP cuisine</strong> et sont traitées dans l’ordre d’arrivée, si vous ne trouvez donc pas la votre, soyez attentif aux prochaines publications car une autre série de <strong>question réponse sera publiée</strong> mardi de la semaine prochaine.</p>
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/20180209_201232.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/20180209_201232_thumb.jpg" alt="20180209_201232" title="20180209_201232"></img></a><figcaption><strong>épreuve CAP cuisine</strong></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/20180209_201232.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/20180209_201232_thumb.jpg" alt="20180209_201232" title="20180209_201232"></img></a></figure></div>
 
 
 
@@ -5117,7 +5117,7 @@ const B29 = {
 
 		<div className="entry-content clearfix">
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/chose-promise-chose-due.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/chose-promise-chose-due_thumb.jpg?w=910&amp;ssl=1" alt="chose promise chose due" title="chose promise chose due"></img></a><figcaption>Chose promise chose due!</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/chose-promise-chose-due.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/07/chose-promise-chose-due_thumb.jpg?w=910&amp;ssl=1" alt="chose promise chose due" title="chose promise chose due"></img></a></figure></div>
 
 
 
@@ -5312,7 +5312,7 @@ const B30 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg" alt="Cuisine" title="Cuisine"></img></a><figcaption>CAP cuisine Session 2019</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine_thumb.jpg" alt="Cuisine" title="Cuisine"></img></a></figure></div>
 
 
 
@@ -5460,7 +5460,7 @@ const B30 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2_thumb.jpg" alt="Cuisine2" title="Cuisine2"></img></a><figcaption>CAP cuisine Session 2019</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/Cuisine2_thumb.jpg" alt="Cuisine2" title="Cuisine2"></img></a></figure></div>
 
 
 
@@ -5697,7 +5697,7 @@ const B31 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3ZjIKI8"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1" alt="carnet techniques" className="wp-image-2613" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?w=800&amp;ssl=1 800w"></img></a></figure></div>
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3ZjIKI8"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png" alt="carnet techniques" className="wp-image-2613" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/12/Carnet-personnel-des-techniques-professionnelles2.png?w=800&amp;ssl=1 800w"></img></a></figure></div>
 
 
 <p>D’ailleurs vous pouvez utiliser n’importe quel cahier pour écrire que vous pouvez trouver dans les commerces pour le faire. Mais si vous voulez un carnet pré-rempli ou vous pouvez trouver des fiches techniques vierges et des pages vides. Ces pages sont conçues de manière à ce que vous pourrez mettre vos notes personnelles. Celui-ci peut vous intéresser.</p>
@@ -5708,7 +5708,7 @@ const B31 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature.jpg" alt="fiche technique" className="wp-image-1734" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1536%2C1491&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=2048%2C1988&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=600%2C582&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></a><figcaption className="wp-element-caption"><a href="https://amzn.to/3RwhgOX">25 Fiches techniques pour préparer le CAP cuisine</a></figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature.jpg" alt="fiche technique" className="wp-image-1734" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=1536%2C1491&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=2048%2C1988&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?resize=600%2C582&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/fiche-technique-miniature-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></a></figure></div>
 
 
 <h2 className="sous_titre">Le livre indispensable pour les candidats libres</h2>
@@ -5881,7 +5881,7 @@ const B33 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error_thumb.png" alt="error" title="error"></img></a><figcaption>Erreur à éviter</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/error_thumb.png" alt="error" title="error"></img></a></figure></div>
 
 
 
@@ -6433,7 +6433,7 @@ const B36 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="fiches techniques amazon" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="fiches techniques amazon" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"></img></a></figure></div>
 
 
 <h2 className="sous_titre"><span>Recettes dans l’histoire de la cuisine</span></h2>
@@ -6582,7 +6582,7 @@ const B36 = {
 
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte-1.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg" alt="riz-pilaf-boeuf-carotte" title="riz-pilaf-boeuf-carotte"></img></a><figcaption className="wp-element-caption">25 recettes CAP cuisine. Riz pilaf</figcaption></figure></div>
+<figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte-1.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte_thumb-1.jpg" alt="riz-pilaf-boeuf-carotte" title="riz-pilaf-boeuf-carotte"></img></a></figure></div>
 
 
 <h2 className="sous_titre">11. Darne de poisson pochée</h2>
@@ -6897,7 +6897,7 @@ const B38 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg" alt="Les mesures de sécurité en cuisine" className="wp-image-2866" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption"><strong>Les mesures de sécurité en cuisine</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg" alt="Les mesures de sécurité en cuisine" className="wp-image-2866" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-leonardo-dicaprio.jpg?w=768&amp;ssl=1 768w"></img></figure></div>
 
 
 <p>Enfin, il est important de mettre en place des procédures d’urgence en cas d’accident. En prévoyant des trousses de premiers soins et en formant les employés aux gestes de secours de base. En prévenant les accidents de travail en cuisine, on peut garantir la sécurité et la santé des employés et des clients. Ainsi que la pérennité de l’entreprise.</p>
@@ -6990,7 +6990,7 @@ const B39 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg" alt="" className="wp-image-2863" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Un chef de cuisine prépare des fonds et sauces de base</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg" alt="" className="wp-image-2863" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-a-chef-who-looks-like-louis-de-funes-holds-a-pot-o.jpg?w=768&amp;ssl=1 768w"></img></figure></div>
 
 
 <h2 className="sous_titre">Le fond brun de veau : </h2>
@@ -7124,7 +7124,7 @@ const B40 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg" alt="" className="wp-image-2860" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">Des chefs de cuisine préparent des pâtes de base</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg" alt="" className="wp-image-2860" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-des-femmes-Chefs-de-cuisine-cree-un-plat-savoureux.jpg?w=768&amp;ssl=1 768w"></img></figure></div>
 
 
 <h2 className="sous_titre">La pâte feuilletée</h2>
@@ -7143,7 +7143,7 @@ const B40 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg" alt="améliorer ses opportunités professionnelles" className="wp-image-2843" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?w=768&amp;ssl=1 768w"></img><figcaption className="wp-element-caption">améliorer ses opportunités professionnelles</figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg" alt="améliorer ses opportunités professionnelles" className="wp-image-2843" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-wonder-women-chef-presenting-a-balanced-dish.-meat.jpg?w=768&amp;ssl=1 768w"></img></figure></div>
 
 
 <h2 className="sous_titre">Pâtes de base.&nbsp;La pâte sucrée (pâte sablée) :&nbsp;</h2>
@@ -7245,7 +7245,7 @@ const B41 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg" alt="" className="wp-image-2738" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Apprendre les techniques de base en cuisine</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg" alt="" className="wp-image-2738" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-Van-Gogh-style-apprenti-cuisinier-3.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <p>On peut classer les&nbsp;<strong>techniques de base</strong>&nbsp;à maîtriser en cinq grandes catégories&nbsp;:</p>
@@ -7364,7 +7364,7 @@ const B41 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg" alt="" className="wp-image-2739" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Apprenti techniques de base</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg" alt="" className="wp-image-2739" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/05-apprenti-cuisinier.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <ul className="wp-block-list">
@@ -7650,7 +7650,7 @@ const B42 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg" alt="" className="wp-image-2731" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Les couteaux de cuisine</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg" alt="" className="wp-image-2731" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/04-les-couteaux-de-cuisine-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <p>Voici une liste des types de couteaux de cuisine couramment utilisés&nbsp;:</p>
@@ -7800,7 +7800,7 @@ const B43 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg" alt="" className="wp-image-2725" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Techniques de dressage gastronomique</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg" alt="" className="wp-image-2725" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Techniques de dressage linéaire</h2>
@@ -7879,7 +7879,7 @@ const B43 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg" alt="" className="wp-image-2726" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Techniques de dressage</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg" alt="" className="wp-image-2726" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/03-techniques-dressage-2.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Techniques de dressage en quinconce</h2>
@@ -8069,7 +8069,7 @@ const B44 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg" alt="" className="wp-image-2713" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Dressage de plat gastronomique</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg" alt="" className="wp-image-2713" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/02-dressage-de-plat-gastronomique.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">L’importance de la présentation de plats</h2>
@@ -8162,7 +8162,7 @@ const B45 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg" alt="" className="wp-image-2709" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">méthode de cuisson à la poêle</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg" alt="" className="wp-image-2709" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methodes-de-cuisson.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Cuisson à la poêle</h2>
@@ -8241,7 +8241,7 @@ const B45 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg" alt="" className="wp-image-2710" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=90%2C90&amp;ssl=1 90w"></img><figcaption className="wp-element-caption">Cuisson au grill</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg" alt="" className="wp-image-2710" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/01-methode-cuisson-Grill.jpg?resize=90%2C90&amp;ssl=1 90w"></img></figure></div>
 
 
 <h2 className="sous_titre">Méthodes de cuisson en papillote</h2>
@@ -8326,7 +8326,7 @@ const B46 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w"></img><figcaption><strong>manier le couteau comme un chef</strong></figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w"></img></figure></div>
 
 
 <h2 className="sous_titre">Conseils pour couper les légumes comme un chef :</h2>
@@ -8379,7 +8379,7 @@ const B47 = {
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait.jpg" alt="" className="wp-image-2238" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?w=1707&amp;ssl=1 1707w"></img><figcaption>Le lait</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait.jpg" alt="" className="wp-image-2238" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/03/Le-lait-scaled.jpg?w=1707&amp;ssl=1 1707w"></img></figure></div>
 
 
 
@@ -8598,7 +8598,7 @@ const B48 = {
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision.jpg" alt="" className="wp-image-2019" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1536%2C951&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=2048%2C1268&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=600%2C371&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=97%2C60&amp;ssl=1 97w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=145%2C90&amp;ssl=1 145w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?w=1820&amp;ssl=1 1820w"></img><figcaption className="wp-element-caption">belle fiche de revision</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision.jpg" alt="" className="wp-image-2019" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=1536%2C951&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=2048%2C1268&amp;ssl=1 2048w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=600%2C371&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=97%2C60&amp;ssl=1 97w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?resize=145%2C90&amp;ssl=1 145w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/11/belle-fiche-de-revision-scaled.jpg?w=1820&amp;ssl=1 1820w"></img></figure></div>
 
 
 <h2 className="sous_titre">Apprendre tout simplement</h2>
@@ -8694,7 +8694,7 @@ const B49 = {
 
 		<div className="entry-content clearfix">
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5_thumb.jpg" alt="canard-olives-5" title="canard-olives-5"></img></a><figcaption>Canard poêlé aux olives</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/06/canard-olives-5_thumb.jpg" alt="canard-olives-5" title="canard-olives-5"></img></a></figure></div>
 
 
 
@@ -8797,7 +8797,7 @@ const B50 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/dErL9uVTwLxkLx-gKgL1080rZ2AnWC43GLh41pUdcZIqDwQX6kJ6GKl1lkxnyQVZ_zrlH7Q2QQDOHlixok_z9iQ-w7ztG_5_3wA84OOH8noxvuuxaghA8LhaPHWGxUVMnTrPbeHG" alt=""></img><figcaption><strong>morceaux de boeuf</strong></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><img decoding="async" src="https://lh6.googleusercontent.com/dErL9uVTwLxkLx-gKgL1080rZ2AnWC43GLh41pUdcZIqDwQX6kJ6GKl1lkxnyQVZ_zrlH7Q2QQDOHlixok_z9iQ-w7ztG_5_3wA84OOH8noxvuuxaghA8LhaPHWGxUVMnTrPbeHG" alt=""></img></figure></div>
 
 
 
@@ -9255,7 +9255,7 @@ const B52 = {
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule_thumb.jpg" alt="sucre-semoule" title="sucre-semoule"></img></a><figcaption><strong>cuisson du sucre</strong></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/05/sucre-semoule_thumb.jpg" alt="sucre-semoule" title="sucre-semoule"></img></a></figure></div>
 
 
 
@@ -9349,15 +9349,7 @@ const B52 = {
 
 
 
-<p>Et pour finir, Voici une <strong>sélection de matériel</strong> qui peut vous être utile et vendu à<strong> prix raisonnable</strong> sur <a href="https://www.amazon.fr/gp/product/B01K1W910G/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B01K1W910G&amp;linkId=1e8d83fdc0edcd189e44bd23e5e4e46c">Amazon</a>&nbsp;</p>
-
-
-
-<p><a href="https://amzn.to/2M2Q224">Thermomètre à sucre</a></p>
-
-
-
-<p><a href="https://www.amazon.fr/gp/product/B000T5PVD2/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B000T5PVD2&amp;linkId=52b44a2c6d11edfa55eef2fd91ae10ad">casserole à sucre</a></p>
+<p>Et pour finir, Voici une <strong>sélection de matériel</strong> qui peut vous être utile et vendu à<strong> prix raisonnable</strong> sur <a href="https://www.amazon.fr/gp/product/B01K1W910G/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B01K1W910G&amp;linkId=1e8d83fdc0edcd189e44bd23e5e4e46c">Amazon </a><a href="https://www.amazon.fr/gp/product/B000T5PVD2/ref=as_li_tl?ie=UTF8&amp;tag=yhiicham-21&amp;camp=1642&amp;creative=6746&amp;linkCode=as2&amp;creativeASIN=B000T5PVD2&amp;linkId=52b44a2c6d11edfa55eef2fd91ae10ad">(casserole à sucre)</a></p>
 
             </div>
         </div>

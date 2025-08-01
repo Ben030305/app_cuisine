@@ -24,10 +24,10 @@ const Login: React.FC = () => {
         <div className='contenu'>
           <IonList class='liste_login'>
             <IonItem>
-              <IonInput label="Prénom" labelPlacement="stacked" placeholder="Saisissez votre prénom" value={data.firstname} onIonChange={(e) => setData({...data, firstname: (e.target as HTMLIonInputElement).value as string})}></IonInput>
+              <IonInput label="Prénom" labelPlacement="stacked" placeholder="Saisissez votre prénom" value={data.firstname} onInput={(e) => setData({...data, firstname: (e.target as HTMLIonInputElement).value as string})}></IonInput>
             </IonItem>
             <IonItem>
-              <IonInput label="Email" labelPlacement="stacked" placeholder="Saisissez votre email" value={data.email} onIonChange={(e) => setData({...data, email: (e.target as HTMLIonInputElement).value as string})}></IonInput>
+              <IonInput label="Email" labelPlacement="stacked" placeholder="Saisissez votre email" value={data.email} onInput={(e) => setData({...data, email: (e.target as HTMLIonInputElement).value as string})}></IonInput>
             </IonItem>
           </IonList>
           <div className='bouton_centre'>

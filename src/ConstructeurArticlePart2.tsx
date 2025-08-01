@@ -9,7 +9,7 @@ const H1_contenu =
 
 
 
-<div className="post-image"><figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png" alt="" className="wp-image-2184" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 226w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 55w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 82w"></img><figcaption>Dictionnaire de cuisine</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png" alt="" className="wp-image-2184" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 226w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 55w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-de-cuisine-T-V-Z.png 82w"></img></figure></div>
 
 
 
@@ -198,7 +198,7 @@ const H1_contenu =
 
 
 <p>Découvrez les techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </div>
 </article>
 
@@ -226,7 +226,7 @@ const H2_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png" alt="" className="wp-image-2201" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png"></img><figcaption>signification de serrer et d’autres termes</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png" alt="" className="wp-image-2201" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-Q-R-S.png"></img></figure></div>
 
 
 
@@ -443,7 +443,7 @@ const H2_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 </article>
 
@@ -470,7 +470,7 @@ const H3_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png" alt="" className="wp-image-2206" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png"></img><figcaption>Signification de passer entre autres</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png" alt="" className="wp-image-2206" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png"></img></figure></div>
 
 
 
@@ -795,7 +795,7 @@ const H3_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </div>
 </article>
      
@@ -1165,7 +1165,7 @@ const H4_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </div>
 </article>
 
@@ -1194,7 +1194,7 @@ const H5_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png" alt="" className="wp-image-2209" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png 57w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png"></img><figcaption><span>signification de glacer</span></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png" alt="" className="wp-image-2209" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png?w=414&amp;ssl=1 414w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png 57w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/02/Dictionnaire-culinaire-N-P.png"></img></figure></div>
 
 
 
@@ -1375,7 +1375,7 @@ const H5_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </div>
 </article>
 
@@ -1397,7 +1397,7 @@ const H6_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg" alt="three round pies" className="wp-image-1915" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=135%2C90&amp;ssl=1 135w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?w=1880&amp;ssl=1 1880w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?w=1820&amp;ssl=1 1820w" sizes="(max-width: 270px) 100vw, 270px"></img><figcaption>Photo by Amanda Reed on <a href="https://www.pexels.com/photo/three-round-pies-288264/">Pexels.com</a></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg" alt="three round pies" className="wp-image-1915" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?resize=135%2C90&amp;ssl=1 135w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?w=1880&amp;ssl=1 1880w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/pexels-photo-288264.jpeg?w=1820&amp;ssl=1 1820w" sizes="(max-width: 270px) 100vw, 270px"></img></figure></div>
 
 
 
@@ -1630,7 +1630,7 @@ const H6_contenu = <article>
 
 
 <p>Dans cet article vous avez pu trouver des réponses à la question <strong>que signifie foncer</strong> ainsi que d’autres <strong>termes culinaires</strong> qui commencent par F. Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -1657,7 +1657,7 @@ const H7_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg" alt="" className="wp-image-43" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=270%2C270&amp;ssl=1 270w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=192%2C192&amp;ssl=1 192w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=180%2C180&amp;ssl=1 180w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=32%2C32&amp;ssl=1 32w"></img><figcaption>Signification d’Effiler</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg" alt="" className="wp-image-43" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=270%2C270&amp;ssl=1 270w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=192%2C192&amp;ssl=1 192w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=180%2C180&amp;ssl=1 180w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/06/cropped-logo.jpg?resize=32%2C32&amp;ssl=1 32w"></img></figure></div>
 
 
 
@@ -1922,7 +1922,7 @@ const H7_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -1950,7 +1950,7 @@ const H8_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg" alt="" className="wp-image-661" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=768%2C576&amp;ssl=1 768w"></img><figcaption>Définition de détrempe</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg" alt="" className="wp-image-661" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg?resize=768%2C576&amp;ssl=1 768w"></img></figure></div>
 
 
 
@@ -2207,7 +2207,7 @@ const H8_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
         
     </div>
 
@@ -2243,7 +2243,7 @@ const H9_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w" sizes="(max-width: 239px) 100vw, 239px"></img><figcaption>Définition de clarifier</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg" alt="APPRENDRE à cuisiner" className="wp-image-716" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/03/couper-legumes-mechanical-engineer.jpg?resize=300%2C259&amp;ssl=1 300w" sizes="(max-width: 239px) 100vw, 239px"></img></figure></div>
 
 
 
@@ -2660,7 +2660,7 @@ const H9_contenu = <article>
 
 
 <p><span>Vous pouvez découvrir aussi l’article qui parle </span><span>des techniques et préparations de base</span><span> à maîtriser pour apprendre à cuisiner.</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
         
     </div>
 
@@ -2690,7 +2690,7 @@ const H10_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg" alt="" className="wp-image-768" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg?w=529&amp;ssl=1 529w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg?resize=300%2C246&amp;ssl=1 300w"></img><figcaption>Signification de bleu</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg" alt="" className="wp-image-768" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg?w=529&amp;ssl=1 529w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/riz-pilaf-boeuf-carotte.jpg?resize=300%2C246&amp;ssl=1 300w"></img></figure></div>
 
 
 
@@ -2907,7 +2907,7 @@ const H10_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -2936,7 +2936,7 @@ const H11_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg" alt="Abaisser abaisse" className="wp-image-658" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg?w=394&amp;ssl=1 394w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg?resize=300%2C225&amp;ssl=1 300w"></img><figcaption>Abaisse</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg" alt="Abaisser abaisse" className="wp-image-658" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg?w=394&amp;ssl=1 394w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03121_thumb.jpg?resize=300%2C225&amp;ssl=1 300w"></img></figure></div>
 
 
 
@@ -3193,7 +3193,7 @@ const H11_contenu = <article>
 
 
 <p>Vous pouvez découvrir aussi l’article qui parle des techniques et préparations de base à maîtriser pour apprendre à cuisiner.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -3277,7 +3277,7 @@ const H12_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/Coupe-oeuf-composants-parties-1.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/Coupe-oeuf-composants-parties_thumb-1.jpg" alt="Coupe-oeuf-composants-parties" title="Coupe-oeuf-composants-parties"></img></a><figcaption>Composition d’un oeuf</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/Coupe-oeuf-composants-parties-1.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/Coupe-oeuf-composants-parties_thumb-1.jpg" alt="Coupe-oeuf-composants-parties" title="Coupe-oeuf-composants-parties"></img></a></figure></div>
 
 
 
@@ -3374,7 +3374,7 @@ const H12_contenu = <article>
 
 
 <ul className="wp-block-list"><li><span>le fait qu’il faut se conformer au respect des températures et surtout faire attention à ne pas rompre la chaine du froid </span></li><li><span>Il faut respecter les règles et modalités de stockage </span></li><li><span>Et ils ont une qualité moyenne par rapport aux oeufs.</span></li></ul>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -3409,7 +3409,7 @@ const H13_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/blanquette-veau-1_thumb.jpg" alt="" className="wp-image-384"></img><figcaption>Blanquette de veau</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/blanquette-veau-1_thumb.jpg" alt="" className="wp-image-384"></img></figure></div>
 
 
 
@@ -3550,7 +3550,7 @@ const H13_contenu = <article>
 
 
 <p>En revanche, les deux&nbsp;<strong>principaux inconvénients</strong>&nbsp;que peut avoir l’utilisation des&nbsp;<strong>fonds en PAI</strong>&nbsp;sont&nbsp;: le&nbsp;<strong>goût standardisé</strong>&nbsp;et la&nbsp;<strong>mauvaise image</strong>&nbsp;liée à l’utilisation de ces derniers. D’ailleurs, le fait d’utiliser des&nbsp;<strong>produits PAI est incompatible avec la mention «&nbsp;Fait maison&nbsp;»</strong>. Mention que l’on peut retrouver dans certains&nbsp;<strong>établissements de restauration</strong>. Effectivement, un produit ne peut être qualifié de «&nbsp;fait maison&nbsp;» que s’il est fabriqué sur le lieu de vente, et à partir&nbsp;<strong>d’ingrédients bruts</strong>. Autrement dit&nbsp;sans utilisation de PAI.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -3741,7 +3741,7 @@ const H14_contenu = <article>
 
 
 <p><span>Quand on est passionné de cuisine et on souhaite tenter une reconversion dans ce domaine, il faut commencer par valoriser son savoir faire, et pour ce faire il n y a pas mieux que de suivre une formation professionnelle. D’ailleurs, si on arrive à maîtriser ces <u>quelques recettes</u>, qu’on peut facilement apprendre en suivant </span><span>les conseilles de cet article</span><u></u><span>, on peut passer un </span><span>CAP cuisine en tant que candidat libre</span><span>. Et pour vous aider dans ce projet, je vous ai fait un <u>programme d’entraînement </u>qui peut vous aider à préparer ce diplôme en 6 mois.</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -3918,7 +3918,7 @@ const H15_contenu = <article>
 
 
 <p><span>Découvrez les </span><span>huit métiers qu’un cuisinier peut exercer</span><span> en tant qu’indépendant et comment </span><span>quitter la “rat race” grâce à la cuisine</span><span>.</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -3948,7 +3948,7 @@ const H16_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png" alt="" className="wp-image-1564" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?w=1022&amp;ssl=1 1022w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=600%2C450&amp;ssl=1 600w"></img><figcaption>Citation de Conficius</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-full is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png" alt="" className="wp-image-1564" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?w=1022&amp;ssl=1 1022w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/10/citation7.png?resize=600%2C450&amp;ssl=1 600w"></img></figure></div>
 
 
 
@@ -3968,7 +3968,7 @@ const H16_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/verre_mesureur.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/verre_mesureur_thumb.jpg" alt="verre_mesureur" title="verre_mesureur"></img></a><figcaption>Gobet doseur</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/verre_mesureur.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/verre_mesureur_thumb.jpg" alt="verre_mesureur" title="verre_mesureur"></img></a></figure></div>
 
 
 
@@ -4036,12 +4036,12 @@ const H16_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/order_img0.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/order_img0_thumb.jpg" alt="order_img0" title="order_img0"></img></a><figcaption><span><strong>rater une recette de cuisine</strong></span></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/order_img0.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/order_img0_thumb.jpg" alt="order_img0" title="order_img0"></img></a></figure></div>
 
 
 
 <ul className="wp-block-list"><li><span>L’ensemble des <strong>ustensiles</strong> de cuisine est appelé <strong>batterie de cuisine</strong>.</span></li><li><span>L’ensemble de <strong>cuisson</strong> dans une cuisine est appelé <strong>piano</strong></span></li><li><span>Pour <strong>désosser</strong> un carré on doit utiliser le <strong>couteau désosseur</strong></span></li><li><span>Les <strong>casseroles</strong> en cuisine se nomment des <strong>russes</strong></span></li><li><span>La <strong>cellule de refroidissement</strong> est une enceinte qui permet de refroidir ou surgeler rapidement des aliments</span></li><li><span>Un <strong>couteau éminceur</strong> est un couteau grand à lame large et dure.</span></li><li><span>Un <strong>couteau filet de sole</strong> est un couteau long et fin à lame souple.</span></li><li><span>Le nom donné à une petite louche en cuisine est<strong> pochon</strong>.</span></li><li><span>La <strong>sauteuse</strong> est une casserole large à bord bas et évasé.</span></li><li><span>La <strong>marmite</strong> est une casserole large est très haute.</span></li><li><span>Le <strong>chinois</strong> est l’ustensile qui permet de passer les fonds et sauces, et il peut même être utilisé comme étamine.</span></li><li><span>La <strong>cuillère à pomme Parisienne</strong> est l’outil qui permet de lever des billes de fruit ou de légume.</span></li><li><span>La <strong>voûte</strong> est la partie haute d’un four, et la sole est sa partie basse</span></li><li><span><strong>La fourchette à 2 dents</strong> utilisée en cuisine est appelée le diapason</span></li><li><span>Les <strong>plaques gastronomes</strong> permettent de stocker ou cuire les aliments en cuisine, elles sont parfois perforées.</span></li><li><span>La <strong>mandoline</strong> est un appareil à lame lisse qui permet de trancher régulièrement.</span></li><li><span>La <strong>girafe</strong> ou le mixeur plongeant est un appareil muni d’une colonne qui se termine par une lame rotative.</span></li></ul>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4071,7 +4071,7 @@ const H17_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg" alt="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois" title="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois"></img></a><figcaption>Sortes de légumes</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois_thumb.jpg" alt="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois" title="legumes-carottes-pomme-de-terre-tomatte-oignon-petits-pois"></img></a></figure></div>
 
 
 
@@ -4195,7 +4195,7 @@ const H17_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/poste_epluchage.png"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/poste_epluchage_thumb.png" alt="poste_epluchage" title="poste_epluchage"></img></a><figcaption>sortes de légumes / préparation</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/poste_epluchage.png"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/poste_epluchage_thumb.png" alt="poste_epluchage" title="poste_epluchage"></img></a></figure></div>
 
 
 
@@ -4204,7 +4204,7 @@ const H17_contenu = <article>
 
 
 <p><span>Selon le type de préparation les légumes sont ensuite taillées en paysanne, julienne, mirepoix, jardinière, macédoine, brunoise, émincés ou autres</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4233,7 +4233,7 @@ const H18_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099_thumb.jpg" alt="DSC03099" title="DSC03099"></img></a><figcaption>faire une pâte sablée</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03099_thumb.jpg" alt="DSC03099" title="DSC03099"></img></a></figure></div>
 
 
 
@@ -4318,7 +4318,7 @@ const H18_contenu = <article>
 
 
 <p><span>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4345,7 +4345,7 @@ const H19_contenu = <article>
         <h1 className="titre_article">
             Comment faire une pâte sucrée. Technique de base
         </h1>
-        <div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb-1.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb_thumb.jpg" alt="DSC03115_thumb" title="DSC03115_thumb"></img></a><figcaption>Faire une pâte brisée</figcaption></figure></div>
+        <div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb-1.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb_thumb.jpg" alt="DSC03115_thumb" title="DSC03115_thumb"></img></a></figure></div>
 
 
 
@@ -4414,7 +4414,7 @@ const H19_contenu = <article>
 
 
 <p><span>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4443,7 +4443,7 @@ const H20_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb.jpg" alt="DSC03115" title="DSC03115"></img></a><figcaption>faire une pâte brisée</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/02/DSC03115_thumb.jpg" alt="DSC03115" title="DSC03115"></img></a></figure></div>
 
 
 
@@ -4520,7 +4520,7 @@ const H20_contenu = <article>
 
 
 <p><span>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"></img></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4561,7 +4561,7 @@ const H21_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/Ingredients-pate-a-choux.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/Ingredients-pate-a-choux_thumb.jpg" alt="Ingredients-pate-a-choux" title="Ingredients-pate-a-choux"></img></a><figcaption><strong>faire la pâte à choux</strong></figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/Ingredients-pate-a-choux.jpg?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/01/Ingredients-pate-a-choux_thumb.jpg" alt="Ingredients-pate-a-choux" title="Ingredients-pate-a-choux"></img></a></figure></div>
 
 
 
@@ -4586,7 +4586,7 @@ const H21_contenu = <article>
 
 
 <p><span>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil" /></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4640,7 +4640,7 @@ const H22_contenu = <article>
 
 
 <p><span>Découvrez les 25 recettes à maîtriser pour passer le CAP cuisine ainsi que les techniques de base à apprendre.</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4671,7 +4671,7 @@ const H23_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-full is-resized"><img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/crepe.jpeg" alt=""></img><figcaption>recette de crêpe</figcaption></figure></div>
+<div className="post-image"><figure><img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/05/crepe.jpeg" alt="crêpe"></img></figure></div>
 
 
 
@@ -4709,7 +4709,7 @@ const H23_contenu = <article>
 
 
 <p><span>Consultez aussi notre décryptage des </span><span>épreuves écrites</span><span> et des </span><span>épreuves pratiques</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4739,7 +4739,7 @@ const H24_contenu = <article>
 
 
 
-<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png" alt="Découper poulet cru" className="wp-image-2034" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=1024%2C542&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=600%2C317&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=113%2C60&amp;ssl=1 113w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=170%2C90&amp;ssl=1 170w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?w=1304&amp;ssl=1 1304w" sizes="(max-width: 543px) 100vw, 543px" /><figcaption>habiller découper poulet</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png" alt="Découper poulet cru" className="wp-image-2034" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=1024%2C542&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=600%2C317&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=113%2C60&amp;ssl=1 113w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?resize=170%2C90&amp;ssl=1 170w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/12/jamonnette-poulet-farcie.png?w=1304&amp;ssl=1 1304w" sizes="(max-width: 543px) 100vw, 543px" /></figure></div>
 
 
 
@@ -4772,7 +4772,7 @@ const H24_contenu = <article>
 
 
 <p><span>Découvrez aussi comment calculer les proportions des ingrédients qui compose une recette ainsi que les proportions des produits alimentaires.</span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -4804,7 +4804,7 @@ Le dictionnaire de cuisine en ligne et gratuit
 
 
 <div className="post-image">
-<figure className="aligncenter size-thumbnail"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=150%2C150&amp;ssl=1" alt="Un dictionnaire de cuisine" className="wp-image-2206" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure></div>
+<figure className="aligncenter size-thumbnail"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png" alt="Un dictionnaire de cuisine" className="wp-image-2206" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/04/Dictionnaire-culinaire-N-P.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure></div>
 
 
 <p><span>Ce blog regroupe l’essentiel de ce qu’il faut savoir pour apprendre la cuisine de bases avec un contenu gratuit et de qualité. Vous pouvez découvrir par exemple l’article qui parle </span><span>des techniques et préparations de base</span><span> à maîtriser pour passer le </span><span>CAP cuisine en candidat libre</span><span>.</span></p>
@@ -7180,7 +7180,7 @@ Le dictionnaire de cuisine en ligne et gratuit
 
 
 <p>Si vous cherchez un mot et vous ne le trouvez pas ici, mettez le dans le commentaire, je m’occuperai de le chercher et de le rajouter à la liste.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
 </article>
 
@@ -7360,7 +7360,7 @@ Unité de mesure, pesage et adaptation des recettes
 
 
 <p><span>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-3.png?w=910&amp;ssl=1" alt="Clignement d'œil" /></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -7396,174 +7396,174 @@ Feuilles de grammage
 <p>Ci-dessous des feuilles de <strong>grammage</strong> utilisées dans certains restaurants </p>
 <h1>Poissons</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>&nbsp;</td>
 <td>
-<p>Portion individuelle</p>
+Portion individuelle
 </td>
 <td>
-<p>En garniture</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Entiers, grosses pièces à détailler (<strong>colin, turbot, barbue, saumon…)</strong></p>
-</td>
-<td>
-<p>300 g</p>
-</td>
-<td>
-<p>75 g</p>
+En garniture
 </td>
 </tr>
 <tr>
 <td>
-<p>Entiers, petites pièces non vidées (<strong>truites, soles, merlans</strong>…)</p>
+Entiers, grosses pièces à détailler (<strong>colin, turbot, barbue, saumon…)</strong>
 </td>
 <td>
-<p>250 g</p>
+300 g
 </td>
 <td>
-<p>65 g</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Étêtés, vidés, <strong>grosses pièces</strong> (<strong>saumon, colin, bar</strong>…)</p>
-</td>
-<td>
-<p>200 g</p>
-</td>
-<td>
-<p>50 g</p>
+75 g
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Filets (soles, rougets, daurade…)</strong></p>
+Entiers, petites pièces non vidées (<strong>truites, soles, merlans</strong>…)
 </td>
 <td>
-<p>150 g</p>
+250 g
 </td>
 <td>
-<p>40 g</p>
+65 g
+</td>
+</tr>
+<tr>
+<td>
+Étêtés, vidés, <strong>grosses pièces</strong> (<strong>saumon, colin, bar</strong>…)
+</td>
+<td>
+200 g
+</td>
+<td>
+50 g
+</td>
+</tr>
+<tr>
+<td>
+<strong>Filets (soles, rougets, daurade…)</strong>
+</td>
+<td>
+150 g
+</td>
+<td>
+40 g
 </td>
 </tr>
 </tbody>
 </table>
 <h1>Coquillages et crustacés</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>&nbsp;</td>
 <td>
-<p>Portion individuelle</p>
+Portion individuelle
 </td>
 <td>
-<p>En garniture</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Moules</strong></p>
-</td>
-<td>
-<p>400 g ou 500 ml</p>
-</td>
-<td>
-<p>100 g</p>
+En garniture
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Coquilles Saint-Jacques (4 pièces)</strong></p>
+<strong>Moules</strong>
 </td>
 <td>
-<p>800 g</p>
+400 g ou 500 ml
 </td>
 <td>
-<p>200 g</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Langoustines</strong></p>
-</td>
-<td>
-<p>350 g</p>
-</td>
-<td>
-<p>90 g</p>
+100 g
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Homard</strong></p>
+<strong>Coquilles Saint-Jacques (4 pièces)</strong>
 </td>
 <td>
-<p>400 g</p>
+800 g
 </td>
 <td>
-<p>100 g</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Langouste</strong></p>
-</td>
-<td>
-<p>400 g</p>
-</td>
-<td>
-<p>100 g</p>
+200 g
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Crevettes grises</strong></p>
+<strong>Langoustines</strong>
 </td>
 <td>
-<p>150 g</p>
+350 g
 </td>
 <td>
-<p>40 g</p>
+90 g
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Crevettes décortiquées</strong></p>
+<strong>Homard</strong>
 </td>
 <td>
-<p>80 g</p>
+400 g
 </td>
 <td>
-<p>20 g</p>
+100 g
+</td>
+</tr>
+<tr>
+<td>
+<strong>Langouste</strong>
+</td>
+<td>
+400 g
+</td>
+<td>
+100 g
+</td>
+</tr>
+<tr>
+<td>
+<strong>Crevettes grises</strong>
+</td>
+<td>
+150 g
+</td>
+<td>
+40 g
+</td>
+</tr>
+<tr>
+<td>
+<strong>Crevettes décortiquées</strong>
+</td>
+<td>
+80 g
+</td>
+<td>
+20 g
 </td>
 </tr>
 </tbody>
 </table>
 <h1>Viandes de boucherie</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>&nbsp;</td>
 <td>
-<p>Sans os</p>
+Sans os
 </td>
 <td>
-<p>Avec os</p>
+Avec os
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Grillées, rôties, sautées</strong></p>
+<strong>Grillées, rôties, sautées</strong>
 </td>
 <td>
-<p>200 g</p>
+200 g
 </td>
 <td>
 <p>250 g</p>
@@ -7611,7 +7611,7 @@ Feuilles de grammage
 </table>
 <h1>Volailles et gibiers</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7681,7 +7681,7 @@ Feuilles de grammage
 </table>
 <h1>Pomme de terre</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7711,7 +7711,7 @@ Feuilles de grammage
 </table>
 <h1>Abats</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7749,7 +7749,7 @@ Feuilles de grammage
 </table>
 <h1>Œufs</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7779,7 +7779,7 @@ Feuilles de grammage
 </table>
 <h1>Féculents</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7825,7 +7825,7 @@ Feuilles de grammage
 </table>
 <h1>Garnitures</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -7887,7 +7887,7 @@ Feuilles de grammage
 </table>
 <h1>Légumes</h1>
 <p><b></b> </p>
-<table>
+<table border={1}>
 <tbody>
 <tr>
 <td>
@@ -8131,7 +8131,7 @@ Feuilles de grammage
 </tr>
 </tbody>
 </table>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -8197,7 +8197,7 @@ const H28_contenu = <article>
 <p></p>
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile-1.png?w=910&amp;ssl=1" /> </p>
 <p>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" /></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -8268,7 +8268,7 @@ Tailles des légumes
 <p>&nbsp;</p>
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile-1.png" /> </p>
 <p>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png" /></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -8317,7 +8317,7 @@ const H30_contenu = <article>
 <p>Les légumes sont positionnés à droite sur la planche à découper, la taille se fait au centre de la planche et les légumes taillés sont posés au fur et mesure dans un coin à droite de la planche</p>
 <p><strong>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile-1.png?w=910&amp;ssl=1" /></strong> </p>
 <p><strong>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" /></strong></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -8393,7 +8393,7 @@ Mention Complémentaire Cuisine. Le point sur la formation
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg" alt="Le diplôme de la formation mention complémentaire cuisine" className="wp-image-2837" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?w=1152&amp;ssl=1 1152w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=135%2C90&amp;ssl=1 135w" /><figcaption className="wp-element-caption">Le diplôme de la formation <strong>mention complémentaire cuisine</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg" alt="Le diplôme de la formation mention complémentaire cuisine" className="wp-image-2837" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?w=1152&amp;ssl=1 1152w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=90%2C60&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/01-Naomi-watts-deguised-as-chef-holding-a-French-cook.jpg?resize=135%2C90&amp;ssl=1 135w" /></figure></div>
 
 
 <h2 className="sous_titre">Objectifs de la mention complémentaire cuisine</h2>
@@ -8535,7 +8535,7 @@ Mention Complémentaire Cuisine. Le point sur la formation
 
 
 <p>Il est important de noter que le contenu de la formation peut varier selon les établissements de formation et les spécialisations proposées, et que la formation peut inclure des périodes de stage pratique en entreprise.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -8576,7 +8576,7 @@ Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg" alt="diplômes de cuisine professionnelle en France" className="wp-image-2822" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=90%2C90&amp;ssl=1 90w" /><figcaption className="wp-element-caption"><strong>diplômes de cuisine professionnelle en France</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg" alt="diplômes de cuisine professionnelle en France" className="wp-image-2822" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/05/24-2-Students-in-cooking-training-receiving-their-gradu.jpg?resize=90%2C90&amp;ssl=1 90w" /></figure></div>
 
 
 <h2 className="sous_titre">Le BP Arts de la cuisine</h2>
@@ -8632,7 +8632,7 @@ Les diplômes de cuisine professionnelle en France. Comment choisir le vôtre
 
 
 <p></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -8750,7 +8750,7 @@ Comment créer un menu équilibré et sain pour restaurant
 
 
 <p>La création d’un menu équilibré et sain pour votre restaurant peut sembler difficile, mais en suivant ces conseils, vous pouvez offrir des plats délicieux et sains à tous vos clients. Choisissez des ingrédients frais et locaux, équilibrez les portions et les macros, évitez les additifs et les sucres ajoutés, et proposez des boissons saines. Avec ces conseils en tête, vous pouvez créer un menu équilibré et sain qui répond aux besoins et aux préférences de tous vos clients.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -8776,7 +8776,7 @@ const H34_contenu = <article>
     <div className="entry-content clearfix">
     
         <div className="post-image">
-            <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=512%2C512&amp;ssl=1" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Avantage de passer le CAP Cuisine en candidat libre" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=90%2C90&amp;ssl=1 90w" sizes="(max-width: 512px) 100vw, 512px" />
+            <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Avantage de passer le CAP Cuisine en candidat libre" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2a-chef-looks-like-gender-garner-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=90%2C90&amp;ssl=1 90w" sizes="(max-width: 512px) 100vw, 512px" />
         </div>	
         <h1 className="titre_article">
 Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP Cuisine en candidat libre
@@ -8822,7 +8822,7 @@ Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP 
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=300%2C300&amp;ssl=1" alt="Avantage de passer le CAP Cuisine en candidat libre" className="wp-image-2807" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?w=512&amp;ssl=1 512w" /><figcaption className="wp-element-caption">Avantage de <strong>passer le CAP Cuisine en candidat libre</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg" alt="Avantage de passer le CAP Cuisine en candidat libre" className="wp-image-2807" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/a-chef-looks-like-brad-Pitt-counting-her-money-in-a-small-kitchen.-street-art-style.jpg?w=512&amp;ssl=1 512w" /></figure></div>
 
 
 <h2 className="sous_titre">Choix des ressources pédagogiques : </h2>
@@ -8886,7 +8886,7 @@ Devenez un chef professionnel sans vous ruiner : les avantages de passer le CAP 
 
 
 <p>En conclusion, <strong>passer le CAP Cuisine en candidat libre</strong> offre de nombreux avantages, notamment en termes de flexibilité, de coût, de liberté dans le choix des ressources pédagogiques, de pratique et d’opportunités professionnelles. Si vous êtes passionné de cuisine et cherchez à acquérir une formation professionnelle dans ce domaine, cette option peut être une solution intéressante à considérer.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -8986,7 +8986,7 @@ const H35_contenu = <article>
 
 
 <p>Si vous voulez <strong>réussir dans le monde de la cuisine</strong>, il est important de développer vos compétences culinaires, de rester organisé, d’expérimenter de nouvelles saveurs et techniques, de rester à jour avec les tendances culinaires, d’être passionné, d’être ouvert aux critiques, de développer votre réseau, et de pratiquer régulièrement. En combinant ces conseils, vous pouvez améliorer votre cuisine et devenir un chef accompli. N’oubliez pas que la passion et la persévérance sont essentielles pour atteindre vos objectifs culinaires. Bonne chance et amusez-vous en cuisine !</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9072,7 +9072,7 @@ Quelle évolution de carrière après un CAP cuisine
 
 
 <div className="post-image">
-<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg" alt="évolution de carrière après un CAP cuisine" className="wp-image-2795" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?w=832&amp;ssl=1 832w" /><figcaption className="wp-element-caption"><strong>évolution de carrière après un CAP cuisine</strong></figcaption></figure></div>
+<figure className="aligncenter size-medium"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg" alt="évolution de carrière après un CAP cuisine" className="wp-image-2795" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?resize=90%2C90&amp;ssl=1 90w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/2-well-dressed-waiters-in-a-5-star-hotel-restaurant.-the-chef-finishes-the-presentation-of-his-dish.jpg?w=832&amp;ssl=1 832w" /></figure></div>
 
 
 <h2 className="sous_titre"><strong>Évolution de carrière de commis de cuisine</strong></h2>
@@ -9194,7 +9194,7 @@ Quelle évolution de carrière après un CAP cuisine
 
 
 <p>Le domaine de la cuisine offre une variété d’<strong>évolution de carrière après un CAP cuisine</strong>. Allant du travail en cuisine à la gestion de la restauration ou même de l’hôtel. Pour réussir dans ce domaine, il est essentiel de développer des compétences et des qualités. Telles que la créativité, la rigueur, la passion et la capacité à travailler en équipe. Les opportunités de formation et d’évolution de carrière ne manquent pas pour ceux qui sont&nbsp;prêts à se perfectionner et à se dépasser. Bien que le travail dans l’industrie culinaire puisse être exigeant, les avantages, tels que la passion, la reconnaissance et l’épanouissement personnel, en font un choix de carrière gratifiant pour ceux qui aiment la cuisine et le monde culinaire en général. Nous encourageons tous les diplômés du CAP cuisine à explorer toutes les options de carrière qui s’offrent à eux et à poursuivre leurs rêves avec détermination et passion.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9220,7 +9220,7 @@ const H36 = {
 const H37_contenu = <article>
     <div className="entry-content clearfix">
         <div className="post-image">
-                <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=512%2C512&amp;ssl=1" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Une chef de cuisine qui utilise les épices en cuisine" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=90%2C90&amp;ssl=1 90w" />			
+                <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Une chef de cuisine qui utilise les épices en cuisine" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?w=512&amp;ssl=1 512w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/epices-en-cuisine-2.webp?resize=90%2C90&amp;ssl=1 90w" />			
         </div>
 
             
@@ -9320,7 +9320,7 @@ const H37_contenu = <article>
 
 
 <p>Ces différentes méthodes d’utilisation des épices peuvent aider à donner une variété de saveurs et de textures aux plats. Il est important de savoir comment utiliser chaque épice pour obtenir le meilleur résultat possible.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -9409,7 +9409,7 @@ Les secrets des herbes aromatiques en cuisine
 
 
 <p>En conclusion, les herbes aromatiques sont un élément essentiel de la cuisine pour ajouter de la saveur et de la complexité aux plats. Il existe une grande variété d’herbes aromatiques disponibles, chacune avec sa propre saveur distinctive et ses utilisations culinaires. N’hésitez pas à expérimenter avec différentes herbes pour trouver les saveurs qui conviennent le mieux à vos plats préférés.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 
@@ -9435,7 +9435,7 @@ const H38 = {
 const H39_contenu = <article>
     <div className="entry-content clearfix">
         <div className="post-image">
-            <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=768%2C765&amp;ssl=1" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Chef de cuisine crée un plat savoureux et équilibrés" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=768%2C765&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=100%2C100&amp;ssl=1 100w" />			</div>
+            <img src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Chef de cuisine crée un plat savoureux et équilibrés" decoding="async" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=768%2C765&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-3.jpg?resize=100%2C100&amp;ssl=1 100w" />			</div>
 
         <h1 className="titre_article">
 Comment créer des plats savoureux et équilibrés
@@ -9505,7 +9505,7 @@ Comment créer des plats savoureux et équilibrés
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg" alt="Chef de cuisine crée un plat savoureux et équilibrés" className="wp-image-2750" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?w=768&amp;ssl=1 768w" /><figcaption className="wp-element-caption">Chef de cuisine crée un plat savoureux et équilibrés</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg" alt="Chef de cuisine crée un plat savoureux et équilibrés" className="wp-image-2750" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=600%2C900&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=40%2C60&amp;ssl=1 40w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?resize=60%2C90&amp;ssl=1 60w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/04/Walter-White-from-Breaking-Bad-dressed-like-a-chef-2.jpg?w=768&amp;ssl=1 768w" /></figure></div>
 
 
 <h2 className="sous_titre">Création de plats savoureux et équilibrés en expérimentant et en combinant des saveurs</h2>
@@ -9533,7 +9533,7 @@ Comment créer des plats savoureux et équilibrés
 
 
 <p>De plus, ne sous-estimez pas l’importance des herbes et des épices. Ils peuvent ajouter de la saveur et de la profondeur à un plat sans ajouter de calories vides. En expérimentant avec différentes combinaisons d’herbes et d’épices, vous pouvez créer des plats savoureux et équilibrés</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9666,7 +9666,7 @@ Comment créer des plats équilibrés et complets
 
 
 <p>En suivant ces techniques et conseils, vous pouvez créer des plats complets et équilibrés. Qui fournissent au corps tous les nutriments dont il a besoin pour fonctionner de manière optimale. La création de plats équilibrés ne doit pas être difficile ou compliquée. Et cela peut être fait en utilisant des ingrédients simples et frais. Avec un peu de planification et de créativité, vous pouvez créer des plats sains et savoureux.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9756,7 +9756,7 @@ Créativité culinaire. Comment la développer en 4 étapes
 
 
 <p>En conclusion, la créativité culinaire peut être développée par tout le monde avec un peu de pratique et d’expérimentation. Essayez de sortir de votre zone de confort en essayant de nouveaux ingrédients et techniques de cuisine pour donner vie à des plats savoureux et uniques. Qui sait, vous pourriez créer votre prochaine spécialité culinaire préférée&nbsp;!</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9873,7 +9873,7 @@ Le point sur les différents types de restaurants et modes de restauration
 <div className="post-image">
     <figure className="aligncenter">
             <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/plateau-mini-batbout-pizza_thumb.jpg" alt="plateau-mini-batbout-pizza" title="plateau-mini-batbout-pizza"/>
-            <figcaption>mini amuse bouche</figcaption>
+            
     </figure>
 </div>
 
@@ -9903,7 +9903,7 @@ Le point sur les différents types de restaurants et modes de restauration
 
 
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/13259992_1239766602714991_2335117136712728068_n.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/13259992_1239766602714991_2335117136712728068_n_thumb.jpg" alt="13259992_1239766602714991_2335117136712728068_n" title="13259992_1239766602714991_2335117136712728068_n"/></a><figcaption>types de restaurants. Traiteurs</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/13259992_1239766602714991_2335117136712728068_n.jpg"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2019/06/13259992_1239766602714991_2335117136712728068_n_thumb.jpg" alt="13259992_1239766602714991_2335117136712728068_n" title="13259992_1239766602714991_2335117136712728068_n"/></a></figure></div>
 
 
 
@@ -9912,7 +9912,7 @@ Le point sur les différents types de restaurants et modes de restauration
 
 
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile.png?w=910&amp;ssl=1" alt="Sourire"/> et n’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil"/></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -9951,7 +9951,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 <div className="post-image">
-<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/chef-fourchette_thumb.png" alt="chef-fourchette" title="chef-fourchette" /><figcaption>Chef cuisinier</figcaption></figure></div>
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/chef-fourchette_thumb.png" alt="chef-fourchette" title="chef-fourchette" /></figure></div>
 
 
 <h2 className="sous_titre"><span><span>De commis de cuisine à chef cuisinier</span></span></h2>
@@ -10058,7 +10058,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 <div className="post-image">
-<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/gateaux-confiserie-enfants_thumb.jpg" alt="gateaux-confiserie-enfants" title="gateaux-confiserie-enfants" /><figcaption><span><strong>formation de cuisinier</strong></span></figcaption></figure></div>
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/gateaux-confiserie-enfants_thumb.jpg" alt="gateaux-confiserie-enfants" title="gateaux-confiserie-enfants" /></figure></div>
 
 
 <p><span>On peut par exemple faire des ateliers sur les thèmes suivants:</span></p>
@@ -10081,7 +10081,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 <div className="post-image">
-<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/couvertureFB_thumb.png" alt="couvertureFB" title="couvertureFB"/><figcaption>le blog cuisine de base</figcaption></figure></div>
+<figure className="aligncenter"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/couvertureFB_thumb.png" alt="couvertureFB" title="couvertureFB"/></figure></div>
 
 
 <p><span></span><span>Il y a plusieurs modèles économiques de blogs qui apportent de l’argent, celui le plus répondu consiste à utiliser le blog comme <strong>vitrine</strong> pour montrer son savoir faire, puis <strong>convertir</strong> certains lecteurs en clients à qui on peut soit proposer une <strong>prestation à domicile</strong>, une <strong>formation</strong>, un <strong>atelier de cuisine</strong> ou un accompagnement, etc…Il est aussi possible de générer des <strong>revenus passifs</strong> en proposant des <strong>publicités</strong> et des liens <strong>d’affiliation</strong>.</span></p>
@@ -10121,7 +10121,7 @@ Huit activités qu’on peut faire après une formation de cuisinier
 
 
 <p><span>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/11/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1" alt="Clignement d'œil" /></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -10160,7 +10160,7 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 
 
 <div className="post-image">
-<figure className="aligncenter"><a href="https://amzn.to/4f1V20a"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/cuisine_pro_thumb.jpg" alt="cuisine_pro" title="cuisine_pro"/></a><figcaption className="wp-element-caption"><span><strong>matériel de cuisinier</strong></span></figcaption></figure></div>
+<figure className="aligncenter"><a href="https://amzn.to/4f1V20a"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/10/cuisine_pro_thumb.jpg" alt="cuisine_pro" title="cuisine_pro"/></a></figure></div>
 
 
 <p><span></span></p>
@@ -10362,7 +10362,7 @@ Matériels du cuisinier, coutellerie, mallette de cuisine
 
 
 <p><span>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil"/></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
         
     </div>
 
@@ -10522,7 +10522,7 @@ Les 8 grands chefs qui ont influencé et marqué la cuisine française
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-smile" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile-2.png?w=910&amp;ssl=1"/></p>
 <p>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-2.png?w=910&amp;ssl=1"/></p>
 <p></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
             
         
     </div>
@@ -10591,7 +10591,7 @@ et la consommation responsable.
 
 <p>Laissez un commentaire pour nous faire part de vos remarques <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-smile" alt="Sourire" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-smile.png?w=910&amp;ssl=1"/></p>
 <p>N’oubliez pas de cliquer j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" className="wlEmoticon wlEmoticon-winkingsmile" alt="Clignement d'œil" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile.png?w=910&amp;ssl=1"/></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </div>
 </article>
 
@@ -10670,7 +10670,7 @@ Comment préparer le mille-feuille
 
 
 <p>Le mille-feuille est souvent présenté sous forme de rectangle, mais il peut aussi être présenté sous forme de triangle ou de carré.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 </article>
 
 
@@ -10707,11 +10707,11 @@ EP2 session 2019. Colombo de volaille, riz pilaf et courgettes glacées
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png" alt="" className="wp-image-2546" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=1024%2C677&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=768%2C508&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=600%2C397&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=91%2C60&amp;ssl=1 91w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=136%2C90&amp;ssl=1 136w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?w=1304&amp;ssl=1 1304w"/><figcaption>Epreuve pratique session 2019</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png" alt="" className="wp-image-2546" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=1024%2C677&amp;ssl=1 1024w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=768%2C508&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=600%2C397&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=91%2C60&amp;ssl=1 91w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?resize=136%2C90&amp;ssl=1 136w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2022/09/EP2-sessio-2019-colombode-volaille-riz-pilaf-courgettes-glacees.png?w=1304&amp;ssl=1 1304w"/></figure></div>
 
 
 <p className="has-accent-color has-white-background-color has-text-color has-background">Les proportions de la fiche technique est pour 4 personnes. Et comme à l’examen, on peut remarquer que la fiche technique n’est pas complète. Notamment la technique de base pou cuire un riz pilaf n’est pas renseignée, il est donc important de la connaitre pour pouvoir réussir l’examen EP2 de l’année 2019.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -10772,7 +10772,7 @@ Jambonnette de poulet farcie. Comment réussir sa préparation
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Eléments</strong><strong>&nbsp;de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Cuisse de poulets (8&nbsp;pces)</td><td>kg</td><td>2</td></tr><tr><td>Beurre</td><td>kg</td><td>0.04</td></tr><tr><td>Huile</td><td>l</td><td>0.02</td></tr><tr><td><strong>farce mousseline</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Chair de poulet</td><td>kg</td><td>0.24</td></tr><tr><td>Blanc d’œuf&nbsp;</td><td>pce</td><td>1</td></tr><tr><td>Crème liquide</td><td>l</td><td>0.2</td></tr><tr><td>Orange</td><td>kg</td><td>0.25</td></tr><tr><td><strong>Fond de braisage</strong></td><td></td><td></td></tr><tr><td>carottes</td><td>kg</td><td>0.15</td></tr><tr><td>Oignons</td><td>kg</td><td>0.15</td></tr><tr><td>Fond brun lié&nbsp;</td><td>l</td><td>0.5</td></tr><tr><td>Bouquet garni</td><td>pce</td><td>1</td></tr><tr><td><strong>Gastrique</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sucre</td><td>kg</td><td>0.04</td></tr><tr><td>Vinaigre</td><td>l</td><td>0.04</td></tr><tr><td><strong>Garniture</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Orange</td><td>kg</td><td>1.5</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Assaisonnement</strong></td><td><strong>&nbsp;</strong></td><td><strong>&nbsp;</strong></td></tr><tr><td>Sel, poivre</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table><figcaption>Jambonnette de poulet</figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Eléments</strong><strong>&nbsp;de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Cuisse de poulets (8&nbsp;pces)</td><td>kg</td><td>2</td></tr><tr><td>Beurre</td><td>kg</td><td>0.04</td></tr><tr><td>Huile</td><td>l</td><td>0.02</td></tr><tr><td><strong>farce mousseline</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Chair de poulet</td><td>kg</td><td>0.24</td></tr><tr><td>Blanc d’œuf&nbsp;</td><td>pce</td><td>1</td></tr><tr><td>Crème liquide</td><td>l</td><td>0.2</td></tr><tr><td>Orange</td><td>kg</td><td>0.25</td></tr><tr><td><strong>Fond de braisage</strong></td><td></td><td></td></tr><tr><td>carottes</td><td>kg</td><td>0.15</td></tr><tr><td>Oignons</td><td>kg</td><td>0.15</td></tr><tr><td>Fond brun lié&nbsp;</td><td>l</td><td>0.5</td></tr><tr><td>Bouquet garni</td><td>pce</td><td>1</td></tr><tr><td><strong>Gastrique</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sucre</td><td>kg</td><td>0.04</td></tr><tr><td>Vinaigre</td><td>l</td><td>0.04</td></tr><tr><td><strong>Garniture</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Orange</td><td>kg</td><td>1.5</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Assaisonnement</strong></td><td><strong>&nbsp;</strong></td><td><strong>&nbsp;</strong></td></tr><tr><td>Sel, poivre</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table></figure>
 
 
 
@@ -10849,7 +10849,7 @@ Jambonnette de poulet farcie. Comment réussir sa préparation
 
 
 <ul className="wp-block-list"><li>Tremper les segments dans la sauce et les placer autour du plat. </li><li>Disposer les jambonnettes et napper</li></ul>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -10938,7 +10938,7 @@ Osso buco. Comment réussir La recette des restaurants
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong><u>Éléments de base</u></strong></td></tr><tr><td>8 Tranches épaisses de jarret de veau</td><td>kg</td><td>2</td></tr><tr><td>Farine</td><td>kg</td><td>0.08</td></tr><tr><td>Huile</td><td>l</td><td>0.08</td></tr><tr><td>Carottes</td><td>kg</td><td>0.2</td></tr><tr><td>Oignons</td><td>kg</td><td>0.2</td></tr><tr><td>Céleri en branche</td><td>kg</td><td>0.08</td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td></tr><tr><td>Ail</td><td>kg</td><td>0.03</td></tr><tr><td>Vin blanc</td><td>l</td><td>0.2</td></tr><tr><td>Fond brun de veau lié</td><td>l</td><td>1.4</td></tr><tr><td>Sauce tomate</td><td>l</td><td>0.2</td></tr><tr><td>Zestes de citron et d’orange</td><td>kg</td><td>PM</td></tr><tr><td>Persil</td><td>kg</td><td>0.02</td></tr><tr><td><strong><u>Fondue de tomates</u></strong></td><td></td><td></td></tr><tr><td>Beurre</td><td>kg</td><td>0.04</td></tr><tr><td>Échalotes</td><td>kg</td><td>0.04</td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td></tr><tr><td>Ail</td><td>kg</td><td>0.015</td></tr><tr><td>Tomates</td><td>kg</td><td>0.8</td></tr><tr><td><strong><u>Assaisonnement</u></strong></td><td></td><td></td></tr><tr><td>Sel, poivre, sucre</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table><figcaption>Eléments de base pour 8 portions</figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong><u>Éléments de base</u></strong></td></tr><tr><td>8 Tranches épaisses de jarret de veau</td><td>kg</td><td>2</td></tr><tr><td>Farine</td><td>kg</td><td>0.08</td></tr><tr><td>Huile</td><td>l</td><td>0.08</td></tr><tr><td>Carottes</td><td>kg</td><td>0.2</td></tr><tr><td>Oignons</td><td>kg</td><td>0.2</td></tr><tr><td>Céleri en branche</td><td>kg</td><td>0.08</td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td></tr><tr><td>Ail</td><td>kg</td><td>0.03</td></tr><tr><td>Vin blanc</td><td>l</td><td>0.2</td></tr><tr><td>Fond brun de veau lié</td><td>l</td><td>1.4</td></tr><tr><td>Sauce tomate</td><td>l</td><td>0.2</td></tr><tr><td>Zestes de citron et d’orange</td><td>kg</td><td>PM</td></tr><tr><td>Persil</td><td>kg</td><td>0.02</td></tr><tr><td><strong><u>Fondue de tomates</u></strong></td><td></td><td></td></tr><tr><td>Beurre</td><td>kg</td><td>0.04</td></tr><tr><td>Échalotes</td><td>kg</td><td>0.04</td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td></tr><tr><td>Ail</td><td>kg</td><td>0.015</td></tr><tr><td>Tomates</td><td>kg</td><td>0.8</td></tr><tr><td><strong><u>Assaisonnement</u></strong></td><td></td><td></td></tr><tr><td>Sel, poivre, sucre</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table></figure>
 
 
 
@@ -10979,7 +10979,7 @@ Osso buco. Comment réussir La recette des restaurants
 
 
 <p>Si cette <strong>fiche technique</strong> vous plait, n’hésitez pas de la <strong>partager</strong> et de me laisser vos <strong>commentaires</strong>!</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11034,7 +11034,7 @@ Mousse au chocolat
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Éléments&nbsp;</strong><strong>de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Chocolat à 60%</td><td>kg</td><td>0.25</td></tr><tr><td>Beurre</td><td>kg</td><td>0.1</td></tr><tr><td>Jaunes d’œufs&nbsp;</td><td>pièce</td><td>4</td></tr><tr><td>Blanc d’œufs</td><td>pièce</td><td>6</td></tr><tr><td>Sucre semoule</td><td>kg</td><td>0.04</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Décor</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sucre glace</td><td>kg</td><td>0.01</td></tr></tbody></table><figcaption>Eléments de base. Mousse au chocolat</figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Éléments&nbsp;</strong><strong>de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Chocolat à 60%</td><td>kg</td><td>0.25</td></tr><tr><td>Beurre</td><td>kg</td><td>0.1</td></tr><tr><td>Jaunes d’œufs&nbsp;</td><td>pièce</td><td>4</td></tr><tr><td>Blanc d’œufs</td><td>pièce</td><td>6</td></tr><tr><td>Sucre semoule</td><td>kg</td><td>0.04</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Décor</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sucre glace</td><td>kg</td><td>0.01</td></tr></tbody></table></figure>
 
 
 
@@ -11060,11 +11060,11 @@ Mousse au chocolat
 
 <ul className="wp-block-list"><li>Verser l’appareil progressivement sur les blancs montés en remuant délicatement à l’aide d’une petite écumoire</li><li>Garnir des coupelles individuelles et laisser prendre au froid pendant 2 heures.</li><li>Saupoudrer de sucre glace avant de servir</li></ul>
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/mousse-au-chocolat.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/mousse-au-chocolat_thumb.png" alt="mousse-au-chocolat" title="mousse-au-chocolat"/></a><figcaption>Fiche technique mousse aux chocolats</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/mousse-au-chocolat.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/mousse-au-chocolat_thumb.png" alt="mousse-au-chocolat" title="mousse-au-chocolat"/></a></figure></div>
 
 
 <p>Si cette <strong>fiche technique</strong> vous plait, n’hésitez pas de la <strong>partager</strong> et de me laisser vos <strong>commentaires</strong>!</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11124,7 +11124,7 @@ Salade salade Piémontaise. La Fiche technique
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>Éléments de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pomme de terre</td><td>kg</td><td>0.8</td></tr><tr><td>Jambon&nbsp;</td><td>kg</td><td>0.4</td></tr><tr><td>Cornichon</td><td>kg</td><td>0.1</td></tr><tr><td>Tomates&nbsp;</td><td>kg</td><td>0.2</td></tr><tr><td>Œufs&nbsp;</td><td>pièce</td><td>4</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Sauce mayonnaise</strong></td><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td>œufs (jaunes)</td><td>pièce</td><td>2</td></tr><tr><td>huile</td><td>l</td><td>0.3</td></tr><tr><td>moutarde&nbsp;</td><td>kg</td><td>0.02</td></tr><tr><td>vinaigre</td><td>l</td><td>&nbsp;</td></tr><tr><td>sel fin&nbsp;</td><td>kg</td><td>&nbsp;</td></tr><tr><td>Piment de Cayenne</td><td>kg</td><td>&nbsp;</td></tr><tr><td><strong>Décor</strong></td><td><strong>&nbsp;</strong></td><td><strong>&nbsp;</strong></td></tr><tr><td>Laitue</td><td>pièce</td><td>0.5</td></tr></tbody></table><figcaption>Eléments de base Piémontaise  </figcaption></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong>Éléments de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pomme de terre</td><td>kg</td><td>0.8</td></tr><tr><td>Jambon&nbsp;</td><td>kg</td><td>0.4</td></tr><tr><td>Cornichon</td><td>kg</td><td>0.1</td></tr><tr><td>Tomates&nbsp;</td><td>kg</td><td>0.2</td></tr><tr><td>Œufs&nbsp;</td><td>pièce</td><td>4</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong>Sauce mayonnaise</strong></td><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr><tr><td>œufs (jaunes)</td><td>pièce</td><td>2</td></tr><tr><td>huile</td><td>l</td><td>0.3</td></tr><tr><td>moutarde&nbsp;</td><td>kg</td><td>0.02</td></tr><tr><td>vinaigre</td><td>l</td><td>&nbsp;</td></tr><tr><td>sel fin&nbsp;</td><td>kg</td><td>&nbsp;</td></tr><tr><td>Piment de Cayenne</td><td>kg</td><td>&nbsp;</td></tr><tr><td><strong>Décor</strong></td><td><strong>&nbsp;</strong></td><td><strong>&nbsp;</strong></td></tr><tr><td>Laitue</td><td>pièce</td><td>0.5</td></tr></tbody></table></figure>
 
 
 
@@ -11177,7 +11177,7 @@ Salade salade Piémontaise. La Fiche technique
 
 
 <p>Si cette <strong>fiche technique</strong> vous plait, n’hésitez pas de la <strong>partager</strong> et de me laisser vos <strong>commentaires</strong>!</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11236,7 +11236,7 @@ Riz madras aux fruits. Toute la fiche technique de fabrication.
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td><td></td><td></td></tr><tr><td><strong>Eléments de base</strong></td></tr><tr><td>Beurre</td><td>kg</td><td>0.08</td><td></td><td></td></tr><tr><td>Oignons</td><td>kg</td><td>0.16</td><td></td><td></td></tr><tr><td>Riz long</td><td>kg</td><td>0.4</td><td></td><td></td></tr><tr><td>Fond blanc de volaille</td><td>l</td><td>0.6</td><td></td><td></td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td><td></td><td></td></tr><tr><td>Cannelle</td><td>kg</td><td>PM</td><td></td><td></td></tr><tr><td><strong>Garniture</strong></td></tr><tr><td>Raisins secs</td><td>kg</td><td>0.04</td><td></td><td></td></tr><tr><td>Ananas ou papaye</td><td>kg</td><td>0.2</td><td></td><td></td></tr><tr><td>Amandes effilées</td><td>kg</td><td>0.04</td><td></td><td></td></tr><tr><td><strong>Assaisonnement</strong></td></tr><tr><td>Sel fin</td><td>&nbsp;</td><td>PM</td><td></td><td></td></tr><tr><td>Poivre</td><td>&nbsp;</td><td>PM</td><td></td><td></td></tr></tbody></table></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td><td></td><td></td></tr><tr><td><strong>Eléments de base</strong></td></tr><tr><td>Beurre</td><td>kg</td><td>0.08</td><td></td><td></td></tr><tr><td>Oignons</td><td>kg</td><td>0.16</td><td></td><td></td></tr><tr><td>Riz long</td><td>kg</td><td>0.4</td><td></td><td></td></tr><tr><td>Fond blanc de volaille</td><td>l</td><td>0.6</td><td></td><td></td></tr><tr><td>Bouquet garni</td><td>pièce</td><td>1</td><td></td><td></td></tr><tr><td>Cannelle</td><td>kg</td><td>PM</td><td></td><td></td></tr><tr><td><strong>Garniture</strong></td></tr><tr><td>Raisins secs</td><td>kg</td><td>0.04</td><td></td><td></td></tr><tr><td>Ananas ou papaye</td><td>kg</td><td>0.2</td><td></td><td></td></tr><tr><td>Amandes effilées</td><td>kg</td><td>0.04</td><td></td><td></td></tr><tr><td><strong>Assaisonnement</strong></td></tr><tr><td>Sel fin</td><td>&nbsp;</td><td>PM</td><td></td><td></td></tr><tr><td>Poivre</td><td>&nbsp;</td><td>PM</td><td></td><td></td></tr></tbody></table></figure>
 
 
 
@@ -11272,7 +11272,7 @@ Riz madras aux fruits. Toute la fiche technique de fabrication.
 
 
 <p><span>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil"/></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11354,7 +11354,7 @@ Salade niçoise. Tous les détails de la Fiche technique
 
 
 
-<figure className="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Éléments de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Haricots verts</td><td>kg</td><td>0.65</td></tr><tr><td>Pommes de terre</td><td>kg</td><td>0.8</td></tr><tr><td>Tomates</td><td>kg</td><td>0.65</td></tr><tr><td>Laitue</td><td>pièce</td><td>1</td></tr><tr><td>Poivrons</td><td>kg</td><td>0.25</td></tr><tr><td>Filets d’anchois</td><td>pièce</td><td>16</td></tr><tr><td>Thon</td><td>kg</td><td>0.25</td></tr><tr><td>Olives noires</td><td>kg</td><td>0.16</td></tr><tr><td>OEufs</td><td>pièce</td><td>4</td></tr><tr><td><strong>Élément de finition</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Persil</td><td>kg</td><td>0.02</td></tr><tr><td><strong>Assaisonnement</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sel gros</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Sel fin</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Poivre du moulin</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Vinaigre</td><td>litre</td><td>0.1</td></tr><tr><td>Huile d’olive</td><td>litre</td><td>0.3</td></tr></tbody></table></figure>
+<figure className="wp-block-table is-style-stripes"><table border={1}><tbody><tr><td><strong>Denrées Utiles</strong></td><td><strong>Unité</strong></td><td><strong>Quantités</strong></td></tr><tr><td><strong>Éléments de base</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Haricots verts</td><td>kg</td><td>0.65</td></tr><tr><td>Pommes de terre</td><td>kg</td><td>0.8</td></tr><tr><td>Tomates</td><td>kg</td><td>0.65</td></tr><tr><td>Laitue</td><td>pièce</td><td>1</td></tr><tr><td>Poivrons</td><td>kg</td><td>0.25</td></tr><tr><td>Filets d’anchois</td><td>pièce</td><td>16</td></tr><tr><td>Thon</td><td>kg</td><td>0.25</td></tr><tr><td>Olives noires</td><td>kg</td><td>0.16</td></tr><tr><td>OEufs</td><td>pièce</td><td>4</td></tr><tr><td><strong>Élément de finition</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Persil</td><td>kg</td><td>0.02</td></tr><tr><td><strong>Assaisonnement</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Sel gros</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Sel fin</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Poivre du moulin</td><td>PM</td><td>&nbsp;</td></tr><tr><td>Vinaigre</td><td>litre</td><td>0.1</td></tr><tr><td>Huile d’olive</td><td>litre</td><td>0.3</td></tr></tbody></table></figure>
 
 
 
@@ -11417,7 +11417,7 @@ Salade niçoise. Tous les détails de la Fiche technique
 
 
 <p>Si cette fiche technique vous plait, n’hésitez pas de la partager et de me laisser vos commentaires!</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
        
@@ -11474,7 +11474,7 @@ Omelette plate Savoyarde. Fiche et techniques de base
 
 <h2 className="sous_titre">Fiche techniques de fabrication de l’omelette savoyarde</h2>
 
-<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde_thumb.png" alt="omelette-savoyarde" title="omelette-savoyarde"/></a><figcaption>Fiche technique de l’omelette plate savoyarde</figcaption></figure></div>
+<div className="post-image"><figure className="aligncenter"><a href="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde.png?ssl=1"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/02/omelette-savoyarde_thumb.png" alt="omelette-savoyarde" title="omelette-savoyarde"/></a></figure></div>
 
 
 
@@ -11497,7 +11497,7 @@ Omelette plate Savoyarde. Fiche et techniques de base
 
 
 <p>Ce n’est pas un livre de recettes classique avec des belles images et des recettes contemporaines et modèrnes. Effectivement, ce livre est très complet et il est destiné aux professionnels et aux apprentis cuisiniers. Et il s’agit d’un concentré de techniques et préparations de base.</p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11574,7 +11574,7 @@ Quiche nordique (Saumon fumé épinard). Fiche technique
 
 
 <p>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil" /></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
 
     </div>
 
@@ -11723,7 +11723,7 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <div className="post-image">
-<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"/></a><figcaption className="wp-element-caption">Livre en format broché ou e-book sur Amazon</figcaption></figure></div>
+<figure className="aligncenter size-full is-resized"><a href="https://amzn.to/3RwhgOX"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png" alt="" className="wp-image-2917" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?w=486&amp;ssl=1 486w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=188%2C300&amp;ssl=1 188w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=38%2C60&amp;ssl=1 38w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2023/09/couverture-25-fiches-techniques-livre-amazon.png?resize=56%2C90&amp;ssl=1 56w"/></a></figure></div>
 
 
 <p><span>Vous pouvez<strong> télécharger les fiches techniques</strong> des <strong>25 recettes de base</strong> à maîtriser, <strong>assemblées dans un seul document</strong> au format pdf. </span></p>
@@ -11734,7 +11734,7 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <div className="post-image">
-<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png" alt="" className="wp-image-1728" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=986%2C1024&amp;ssl=1 986w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=289%2C300&amp;ssl=1 289w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=768%2C798&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1479%2C1536&amp;ssl=1 1479w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1972%2C2048&amp;ssl=1 1972w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=600%2C623&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?w=1820&amp;ssl=1 1820w" /><figcaption className="wp-element-caption">Fiches techniques format excel et pdf</figcaption></figure></div>
+<figure className="aligncenter size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png" alt="" className="wp-image-1728" srcSet="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=986%2C1024&amp;ssl=1 986w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=289%2C300&amp;ssl=1 289w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=768%2C798&amp;ssl=1 768w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1479%2C1536&amp;ssl=1 1479w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=1972%2C2048&amp;ssl=1 1972w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?resize=600%2C623&amp;ssl=1 600w, https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2020/05/miniature-25-2.png?w=1820&amp;ssl=1 1820w" /></figure></div>
 
 
 <p><span>Cliquez ici pour découvrir la liste des 25 recettes à maîtriser pour <strong>préparer le CAP cuisine</strong>.</span></p>
@@ -11746,7 +11746,7 @@ Fiches techniques de fabrication en format Excel. Téléchargement Gratuit
 
 
 <p></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11826,7 +11826,7 @@ Recette de la crème brûlée avec la fiche technique de fabrication
 
 
 <p><span>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil"/></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>
@@ -11916,7 +11916,7 @@ Recette de la Tarte au chocolat avec sa fiche technique de fabrication
 
 
 <p><span>N’oubliez pas de cliquer sur j’aime et de partager avec vos amis <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2018/09/wlEmoticon-winkingsmile-1.png?w=910&amp;ssl=1" alt="Clignement d'œil"/></span></p>
-<p>Si cet article vous a plu, vous êtes libre de le partager.</p>
+
     </div>
 
 </article>

@@ -48,7 +48,7 @@ const quiSuisJe = <div className="post-content">
 
         <div>
           <figure>
-            <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png?resize=171%2C263&amp;ssl=1" alt="" className="post-image" />
+            <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/cuisinedebase.com/wp-content/uploads/2021/04/hicham-fourneau-cuisine.png" alt="" className="post-image" />
           </figure>
         </div>
       </div>
