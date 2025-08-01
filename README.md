@@ -4,7 +4,7 @@ Ce dépôt regroupe l'intégralité de notre production et de l'application andr
 
 ## Pour commencer
 
-Afin de pouvoir utiliser l'application, vous trouverez dans le dossier /build la dernière version stable développée par notre équipe, nommée app-v0.90.apk, qu'il faut ensuite installer sur votre mobile ou sur un émulateur android. 
+Afin de pouvoir utiliser l'application, vous trouverez dans le dossier *build* la dernière version stable développée par notre équipe, nommée *Cuisine_de_base-v0.90.apk*, qu'il faut ensuite installer sur votre mobile ou sur un émulateur android. 
 Il est à noter que sur votre mobile, l'installation ne sera pas possible sans désactiver la mesure de sécurité inhérente à android concernant l'installation de fichiers .apk de sources extérieures.
 Une autre façon de tester l'application est de le faire via émulateur, tel que [Bluestacks](https://www.bluestacks.com/fr/index.html), ou encore en lançant la commande ``npm run android`` après avoir installé [Android Studio](https://developer.android.com/studio?hl=fr).
 
@@ -24,7 +24,7 @@ Nous avons utilisé ces différents frameworks et langages afin de produire notr
 * [Typescript](https://www.typescriptlang.org/)
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
+
 * **Houssaïne Ahamada** _alias_ [@HoussaineA](https://github.com/HoussaineA)
 * **Jessim Ben Rejeb** _alias_ [@Jessim-BENREJEB](https://github.com/Jessim-BENREJEB)
 * **Benjamin Benamari** _alias_ [@Ben030305](https://github.com/Ben030305)
